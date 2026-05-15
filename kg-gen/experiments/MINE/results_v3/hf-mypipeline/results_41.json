@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Conspiracy theories challenge official explanations of historical events.",
+    "retrieved_context": "Lee Harvey Oswald lone_shooter president. Texas School Book Depository located_in Dallas. Neil Armstrong landed_on lunar surface. September 11, 2001 terrorist attacks targeted World Trade Center. Illuminati controls world events. September 11, 2001 terrorist attacks targeted Pentagon. moon landing staged_by United States government. Illuminati was founded in 18th century. Lee Harvey Oswald shot_from Texas School Book Depository. assassination of President John F. Kennedy occurred in 1963. Buzz Aldrin landed_on lunar surface.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Some conspiracy theories are dismissed as outlandish or baseless.",
+    "retrieved_context": "Lee Harvey Oswald lone_shooter president. Texas School Book Depository located_in Dallas. September 11, 2001 terrorist attacks targeted World Trade Center. Illuminati controls world events. September 11, 2001 terrorist attacks targeted Pentagon. moon landing staged_by United States government. Illuminati was founded in 18th century. Lee Harvey Oswald shot_from Texas School Book Depository. assassination of President John F. Kennedy occurred in 1963.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Conspiracy theories influence popular culture and public discourse.",
+    "retrieved_context": "Lee Harvey Oswald lone_shooter president. Texas School Book Depository located_in Dallas. September 11, 2001 terrorist attacks targeted World Trade Center. Illuminati controls world events. September 11, 2001 terrorist attacks targeted Pentagon. moon landing staged_by United States government. Illuminati was founded in 18th century. Lee Harvey Oswald shot_from Texas School Book Depository. assassination of President John F. Kennedy occurred in 1963.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The moon landing hoax theory suggests the Apollo 11 mission was staged.",
+    "retrieved_context": "Neil Armstrong landed_on lunar surface. Apollo 11 mission occurred in 1969. September 11, 2001 terrorist attacks targeted World Trade Center. Illuminati controls world events. September 11, 2001 terrorist attacks targeted Pentagon. moon landing staged_by United States government. Illuminati was founded in 18th century. assassination of President John F. Kennedy occurred in 1963. Buzz Aldrin landed_on lunar surface.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proponents of the moon landing hoax theory point to alleged discrepancies in evidence.",
+    "retrieved_context": "Neil Armstrong landed_on lunar surface. Apollo 11 mission occurred in 1969. September 11, 2001 terrorist attacks targeted World Trade Center. Illuminati controls world events. September 11, 2001 terrorist attacks targeted Pentagon. moon landing staged_by United States government. Illuminati was founded in 18th century. assassination of President John F. Kennedy occurred in 1963. Buzz Aldrin landed_on lunar surface.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The JFK assassination conspiracy theory suggests a larger plot was at play.",
+    "retrieved_context": "Lee Harvey Oswald lone_shooter president. Texas School Book Depository located_in Dallas. Neil Armstrong landed_on lunar surface. Apollo 11 mission occurred in 1969. September 11, 2001 terrorist attacks targeted World Trade Center. Illuminati controls world events. September 11, 2001 terrorist attacks targeted Pentagon. moon landing staged_by United States government. Illuminati was founded in 18th century. Lee Harvey Oswald shot_from Texas School Book Depository. assassination of President John F. Kennedy occurred in 1963. Buzz Aldrin landed_on lunar surface.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Illuminati conspiracy theory alleges a secret society controls world events.",
+    "retrieved_context": "Lee Harvey Oswald lone_shooter president. Texas School Book Depository located_in Dallas. September 11, 2001 terrorist attacks targeted World Trade Center. Illuminati controls world events. September 11, 2001 terrorist attacks targeted Pentagon. moon landing staged_by United States government. Illuminati was founded in 18th century. Lee Harvey Oswald shot_from Texas School Book Depository. assassination of President John F. Kennedy occurred in 1963.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "There is no concrete evidence to support the existence of the Illuminati.",
+    "retrieved_context": "Lee Harvey Oswald lone_shooter president. Texas School Book Depository located_in Dallas. Neil Armstrong landed_on lunar surface. September 11, 2001 terrorist attacks targeted World Trade Center. Illuminati controls world events. September 11, 2001 terrorist attacks targeted Pentagon. Illuminati was founded in 18th century. Lee Harvey Oswald shot_from Texas School Book Depository. assassination of President John F. Kennedy occurred in 1963. Buzz Aldrin landed_on lunar surface.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Conspiracy theories about 9/11 suggest government involvement in the attacks.",
+    "retrieved_context": "Lee Harvey Oswald lone_shooter president. Texas School Book Depository located_in Dallas. September 11, 2001 terrorist attacks targeted World Trade Center. Illuminati controls world events. September 11, 2001 terrorist attacks targeted Pentagon. moon landing staged_by United States government. Illuminati was founded in 18th century. Lee Harvey Oswald shot_from Texas School Book Depository. assassination of President John F. Kennedy occurred in 1963.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Some conspiracy theories about 9/11 point to alleged inconsistencies in official accounts.",
+    "retrieved_context": "Lee Harvey Oswald lone_shooter president. Texas School Book Depository located_in Dallas. September 11, 2001 terrorist attacks targeted World Trade Center. Illuminati controls world events. September 11, 2001 terrorist attacks targeted Pentagon. moon landing staged_by United States government. Illuminati was founded in 18th century. Lee Harvey Oswald shot_from Texas School Book Depository. assassination of President John F. Kennedy occurred in 1963.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The internet and social media have fueled the spread of conspiracy theories.",
+    "retrieved_context": "Lee Harvey Oswald lone_shooter president. Texas School Book Depository located_in Dallas. Neil Armstrong landed_on lunar surface. September 11, 2001 terrorist attacks targeted World Trade Center. Illuminati controls world events. September 11, 2001 terrorist attacks targeted Pentagon. moon landing staged_by United States government. Illuminati was founded in 18th century. Lee Harvey Oswald shot_from Texas School Book Depository. assassination of President John F. Kennedy occurred in 1963. Buzz Aldrin landed_on lunar surface.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Conspiracy theories tap into societal anxieties and distrust of authority.",
+    "retrieved_context": "Lee Harvey Oswald lone_shooter president. Texas School Book Depository located_in Dallas. September 11, 2001 terrorist attacks targeted World Trade Center. Illuminati controls world events. September 11, 2001 terrorist attacks targeted Pentagon. moon landing staged_by United States government. Illuminati was founded in 18th century. Lee Harvey Oswald shot_from Texas School Book Depository. assassination of President John F. Kennedy occurred in 1963.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Some conspiracy theories provide a sense of empowerment and community to believers.",
+    "retrieved_context": "Neil Armstrong landed_on lunar surface. September 11, 2001 terrorist attacks targeted World Trade Center. Illuminati controls world events. September 11, 2001 terrorist attacks targeted Pentagon. moon landing staged_by United States government. Illuminati was founded in 18th century. assassination of President John F. Kennedy occurred in 1963. Buzz Aldrin landed_on lunar surface.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Conspiracy theories challenge official narratives and raise questions about power and truth.",
+    "retrieved_context": "Lee Harvey Oswald lone_shooter president. Texas School Book Depository located_in Dallas. September 11, 2001 terrorist attacks targeted World Trade Center. Illuminati controls world events. September 11, 2001 terrorist attacks targeted Pentagon. moon landing staged_by United States government. Illuminati was founded in 18th century. Lee Harvey Oswald shot_from Texas School Book Depository. assassination of President John F. Kennedy occurred in 1963.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Examining famous conspiracy theories can provide insight into human desire for alternative explanations.",
+    "retrieved_context": "Lee Harvey Oswald lone_shooter president. Texas School Book Depository located_in Dallas. Neil Armstrong landed_on lunar surface. September 11, 2001 terrorist attacks targeted World Trade Center. Illuminati controls world events. September 11, 2001 terrorist attacks targeted Pentagon. moon landing staged_by United States government. Illuminati was founded in 18th century. Lee Harvey Oswald shot_from Texas School Book Depository. assassination of President John F. Kennedy occurred in 1963. Buzz Aldrin landed_on lunar surface.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

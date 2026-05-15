@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Roller coasters are thrilling amusement park rides.",
+    "retrieved_context": "forces come into play roller coaster. friction is force. roller coasters rely on conservation of mechanical energy. centripetal force towards center of circular path. centripetal force is force. gravitational force is force. roller coasters is amusement park rides. roller coasters provide thrilling experience. roller coasters is physics in action. centripetal force constrains track. friction opposes motion of object.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters provide riders with an exhilarating experience of twists, turns, drops, and loops.",
+    "retrieved_context": "forces come into play roller coaster. friction is force. roller coasters rely on conservation of mechanical energy. centripetal force towards center of circular path. gravitational force is force. roller coasters is amusement park rides. acceleration is rate of change of velocity. roller coasters provide thrilling experience. roller coasters is physics in action. centripetal force constrains track. friction opposes motion of object. centripetal force is force.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters are a fascinating example of physics in action.",
+    "retrieved_context": "forces come into play roller coaster. friction is force. roller coasters rely on conservation of mechanical energy. gravitational force is force. mechanical energy is sum of mechanical energy. centripetal force is force. roller coasters is amusement park rides. roller coasters provide thrilling experience. roller coasters is physics in action. mechanical energy is sum of kinetic energy. friction opposes motion of object.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forces play a key role in the physics of roller coasters.",
+    "retrieved_context": "forces come into play roller coaster. friction is force. roller coasters rely on conservation of mechanical energy. gravitational force is force. roller coasters is amusement park rides. roller coasters provide thrilling experience. roller coasters is physics in action. acceleration is rate of change of velocity. friction opposes motion of object. centripetal force is force.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gravitational force pulls objects toward the center of the Earth.",
+    "retrieved_context": "forces come into play roller coaster. friction is force. gravitational force is force. centripetal force towards center of circular path. gravitational force attracts center of the Earth. centripetal force constrains track. friction opposes motion of object. centripetal force is force.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gravity causes the roller coaster car to accelerate as it descends.",
+    "retrieved_context": "forces come into play roller coaster. friction is force. roller coasters rely on conservation of mechanical energy. gravitational force is force. gravitational force attracts center of the Earth. roller coasters is amusement park rides. roller coasters provide thrilling experience. roller coasters is physics in action. acceleration is rate of change of velocity. velocity is speed and direction of motion. friction opposes motion of object. centripetal force is force.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Centripetal force keeps the roller coaster car on the track during curves and loops.",
+    "retrieved_context": "forces come into play roller coaster. friction is force. gravitational force is force. centripetal force towards center of circular path. roller coasters rely on conservation of mechanical energy. roller coasters is amusement park rides. roller coasters provide thrilling experience. roller coasters is physics in action. centripetal force constrains track. friction opposes motion of object. centripetal force is force.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Friction can have both positive and negative effects on a roller coaster ride.",
+    "retrieved_context": "forces come into play roller coaster. friction is force. roller coasters rely on conservation of mechanical energy. gravitational force is force. roller coasters is amusement park rides. roller coasters provide thrilling experience. roller coasters is physics in action. acceleration is rate of change of velocity. velocity is speed and direction of motion. friction opposes motion of object. centripetal force is force.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters rely on the conservation of mechanical energy.",
+    "retrieved_context": "forces come into play roller coaster. friction is force. roller coasters rely on conservation of mechanical energy. gravitational force is force. mechanical energy is sum of mechanical energy. energy conservation is principle. roller coasters is amusement park rides. roller coasters provide thrilling experience. roller coasters is physics in action. mechanical energy is sum of kinetic energy. friction opposes motion of object. centripetal force is force.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Potential energy is converted into kinetic energy as the roller coaster car descends a hill.",
+    "retrieved_context": "forces come into play roller coaster. roller coasters rely on conservation of mechanical energy. mechanical energy is sum of mechanical energy. energy conservation is principle. roller coasters is amusement park rides. roller coasters provide thrilling experience. roller coasters is physics in action. velocity is speed and direction of motion. mechanical energy is sum of kinetic energy.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Acceleration is the rate of change of velocity.",
+    "retrieved_context": "friction is force. roller coasters rely on conservation of mechanical energy. gravitational force is force. mechanical energy is sum of mechanical energy. centripetal force is force. roller coasters is amusement park rides. roller coasters provide thrilling experience. roller coasters is physics in action. acceleration is rate of change of velocity. velocity is speed and direction of motion. mechanical energy is sum of kinetic energy. friction opposes motion of object.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Riders experience acceleration when the roller coaster car speeds up, slows down, or changes direction.",
+    "retrieved_context": "forces come into play roller coaster. friction is force. roller coasters rely on conservation of mechanical energy. roller coasters is amusement park rides. roller coasters provide thrilling experience. roller coasters is physics in action. acceleration is rate of change of velocity. velocity is speed and direction of motion. friction opposes motion of object.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Velocity is the speed and direction of an object's motion.",
+    "retrieved_context": "friction is force. roller coasters rely on conservation of mechanical energy. gravitational force is force. mechanical energy is sum of mechanical energy. centripetal force is force. roller coasters is amusement park rides. roller coasters provide thrilling experience. roller coasters is physics in action. acceleration is rate of change of velocity. velocity is speed and direction of motion. mechanical energy is sum of kinetic energy. friction opposes motion of object.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters reach high velocities during drops and loops.",
+    "retrieved_context": "forces come into play roller coaster. centripetal force constrains track. friction is force. roller coasters rely on conservation of mechanical energy. gravitational force is force. centripetal force towards center of circular path. roller coasters is amusement park rides. roller coasters provide thrilling experience. roller coasters is physics in action. acceleration is rate of change of velocity. velocity is speed and direction of motion. friction opposes motion of object. centripetal force is force.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding the physics of roller coasters helps appreciate the design and engineering behind them.",
+    "retrieved_context": "forces come into play roller coaster. friction is force. roller coasters rely on conservation of mechanical energy. gravitational force is force. mechanical energy is sum of mechanical energy. roller coasters is amusement park rides. roller coasters provide thrilling experience. roller coasters is physics in action. velocity is speed and direction of motion. mechanical energy is sum of kinetic energy. friction opposes motion of object. centripetal force is force.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

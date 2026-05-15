@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "VR technology has rapidly evolved in recent years.",
+    "retrieved_context": "prolonged use of VR devices can cause motion sickness. VR benefit from students visualize concepts. VR benefit from students visualize theories. VR democratizes access to educational experiences. prolonged use of VR devices can cause eye strain. cost of VR equipment is a challenge. VR headsets are becoming more widespread. VR benefit from different learning styles. visual learners benefit from interactive nature of VR. kinesthetic learners benefit from experiential nature of VR. cost of VR software is a challenge. VR benefit from different learning preferences. VR headsets are becoming more affordable. students with disabilities benefit from virtual reality technology. VR democratizes access to educational resources. prolonged use of VR devices can cause disorientation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Virtual reality offers new possibilities for various industries, including education.",
+    "retrieved_context": "VR benefit from students visualize concepts. Virtual Reality benefit from new opportunities. prolonged use of VR devices can cause disorientation. VR democratizes access to educational experiences. VR benefit from different learning styles. VR headsets are becoming more affordable. VR benefit from different learning preferences. VR headsets are becoming more widespread. VR benefit from students visualize theories. Virtual Reality benefit from new possibilities. Virtual Reality benefit from revolutionize education. prolonged use of VR devices can cause motion sickness. Virtual Reality is technology. prolonged use of VR devices can cause eye strain. Virtual Reality benefit from immersive learning experiences. Virtual Reality benefit from engaging learning experiences. visual learners benefit from interactive nature of VR. kinesthetic learners benefit from experiential nature of VR. students with disabilities benefit from virtual reality technology. VR democratizes access to educational resources.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Virtual reality can create immersive and engaging learning experiences.",
+    "retrieved_context": "prolonged use of VR devices can cause motion sickness. VR benefit from students visualize concepts. VR benefit from students visualize theories. Virtual Reality is technology. VR democratizes access to educational experiences. Virtual Reality benefit from new possibilities. prolonged use of VR devices can cause eye strain. Virtual Reality benefit from revolutionize education. VR benefit from different learning styles. Virtual Reality benefit from immersive learning experiences. Virtual Reality benefit from engaging learning experiences. Virtual Reality benefit from new opportunities. visual learners benefit from interactive nature of VR. kinesthetic learners benefit from experiential nature of VR. VR benefit from different learning preferences. students with disabilities benefit from virtual reality technology. VR democratizes access to educational resources. prolonged use of VR devices can cause disorientation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "VR simulates real-world environments and scenarios.",
+    "retrieved_context": "VR benefit from students visualize concepts. cost of VR equipment is a challenge. Virtual Reality benefit from new opportunities. prolonged use of VR devices can cause disorientation. VR democratizes access to educational experiences. VR benefit from different learning styles. VR headsets are becoming more affordable. cost of VR software is a challenge. VR benefit from different learning preferences. VR headsets are becoming more widespread. VR benefit from students visualize theories. Virtual Reality benefit from new possibilities. Virtual Reality benefit from revolutionize education. prolonged use of VR devices can cause motion sickness. Virtual Reality is technology. prolonged use of VR devices can cause eye strain. Virtual Reality benefit from immersive learning experiences. Virtual Reality benefit from engaging learning experiences. visual learners benefit from interactive nature of VR. kinesthetic learners benefit from experiential nature of VR. students with disabilities benefit from virtual reality technology. VR democratizes access to educational resources.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Virtual reality helps students visualize complex concepts in a hands-on manner.",
+    "retrieved_context": "VR benefit from students visualize concepts. VR benefit from students visualize theories. VR democratizes access to educational experiences. Virtual Reality is technology. Virtual Reality benefit from new possibilities. Virtual Reality benefit from revolutionize education. VR benefit from different learning styles. Virtual Reality benefit from immersive learning experiences. Virtual Reality benefit from engaging learning experiences. Virtual Reality benefit from new opportunities. visual learners benefit from interactive nature of VR. kinesthetic learners benefit from experiential nature of VR. VR benefit from different learning preferences. students with disabilities benefit from virtual reality technology. VR democratizes access to educational resources.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Medical students can practice surgical procedures in a virtual operating room.",
+    "retrieved_context": "surgical procedures can practice virtual operating room. Virtual Reality is technology. medical students can practice surgical procedures. Virtual Reality benefit from new possibilities. Virtual Reality benefit from revolutionize education. Virtual Reality benefit from immersive learning experiences. Virtual Reality benefit from engaging learning experiences. Virtual Reality benefit from new opportunities. visual learners benefit from interactive nature of VR. kinesthetic learners benefit from experiential nature of VR. students with disabilities benefit from virtual reality technology.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "History students can explore historical landmarks through immersive virtual tours.",
+    "retrieved_context": "VR benefit from students visualize concepts. history students benefit from historical events. Virtual Reality is technology. VR benefit from students visualize theories. Virtual Reality benefit from new possibilities. VR democratizes access to educational experiences. Virtual Reality benefit from revolutionize education. VR benefit from different learning styles. Virtual Reality benefit from immersive learning experiences. Virtual Reality benefit from engaging learning experiences. Virtual Reality benefit from new opportunities. visual learners benefit from interactive nature of VR. kinesthetic learners benefit from experiential nature of VR. VR democratizes access to educational resources. VR benefit from different learning preferences. history students benefit from historical landmarks.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Virtual reality caters to different learning styles and preferences.",
+    "retrieved_context": "VR benefit from students visualize concepts. VR benefit from students visualize theories. Virtual Reality is technology. VR democratizes access to educational experiences. Virtual Reality benefit from new possibilities. Virtual Reality benefit from revolutionize education. VR benefit from different learning styles. Virtual Reality benefit from immersive learning experiences. Virtual Reality benefit from engaging learning experiences. Virtual Reality benefit from new opportunities. visual learners benefit from interactive nature of VR. kinesthetic learners benefit from experiential nature of VR. VR benefit from different learning preferences. students with disabilities benefit from virtual reality technology. VR democratizes access to educational resources.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "VR benefits visual and kinesthetic learners.",
+    "retrieved_context": "VR benefit from students visualize concepts. Virtual Reality benefit from new opportunities. prolonged use of VR devices can cause disorientation. VR democratizes access to educational experiences. VR benefit from different learning styles. VR headsets are becoming more affordable. VR benefit from different learning preferences. VR headsets are becoming more widespread. VR benefit from students visualize theories. Virtual Reality benefit from new possibilities. Virtual Reality benefit from revolutionize education. prolonged use of VR devices can cause motion sickness. Virtual Reality is technology. prolonged use of VR devices can cause eye strain. Virtual Reality benefit from immersive learning experiences. Virtual Reality benefit from engaging learning experiences. visual learners benefit from interactive nature of VR. kinesthetic learners benefit from experiential nature of VR. VR democratizes access to educational resources.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Students with disabilities can benefit from virtual reality technology.",
+    "retrieved_context": "prolonged use of VR devices can cause motion sickness. VR benefit from students visualize concepts. VR benefit from students visualize theories. Virtual Reality is technology. prolonged use of VR devices can cause eye strain. Virtual Reality benefit from new possibilities. VR democratizes access to educational experiences. Virtual Reality benefit from revolutionize education. VR benefit from different learning styles. Virtual Reality benefit from immersive learning experiences. Virtual Reality benefit from engaging learning experiences. Virtual Reality benefit from new opportunities. kinesthetic learners benefit from experiential nature of VR. VR benefit from different learning preferences. students with disabilities benefit from virtual reality technology. VR democratizes access to educational resources. prolonged use of VR devices can cause disorientation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "VR can democratize access to high-quality educational resources.",
+    "retrieved_context": "prolonged use of VR devices can cause motion sickness. VR benefit from students visualize concepts. VR benefit from students visualize theories. VR democratizes access to educational experiences. prolonged use of VR devices can cause eye strain. cost of VR equipment is a challenge. VR benefit from different learning styles. visual learners benefit from interactive nature of VR. kinesthetic learners benefit from experiential nature of VR. cost of VR software is a challenge. VR benefit from different learning preferences. students with disabilities benefit from virtual reality technology. VR democratizes access to educational resources. prolonged use of VR devices can cause disorientation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "VR headsets are becoming more affordable and widespread.",
+    "retrieved_context": "prolonged use of VR devices can cause motion sickness. VR benefit from students visualize concepts. VR headsets are becoming more widespread. cost of VR equipment is a challenge. prolonged use of VR devices can cause eye strain. VR benefit from students visualize theories. VR democratizes access to educational experiences. VR benefit from different learning styles. VR headsets are becoming more affordable. cost of VR software is a challenge. kinesthetic learners benefit from experiential nature of VR. VR benefit from different learning preferences. visual learners benefit from interactive nature of VR. VR democratizes access to educational resources. prolonged use of VR devices can cause disorientation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "One challenge is the cost of acquiring and maintaining VR equipment.",
+    "retrieved_context": "VR benefit from students visualize concepts. cost of VR equipment is a challenge. Virtual Reality benefit from new opportunities. prolonged use of VR devices can cause disorientation. VR democratizes access to educational experiences. VR benefit from different learning styles. VR headsets are becoming more affordable. cost of VR software is a challenge. VR benefit from different learning preferences. VR headsets are becoming more widespread. VR benefit from students visualize theories. Virtual Reality benefit from new possibilities. Virtual Reality benefit from revolutionize education. prolonged use of VR devices can cause motion sickness. Virtual Reality is technology. prolonged use of VR devices can cause eye strain. Virtual Reality benefit from immersive learning experiences. Virtual Reality benefit from engaging learning experiences. kinesthetic learners benefit from experiential nature of VR. students with disabilities benefit from virtual reality technology. VR democratizes access to educational resources.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "There are concerns about health and safety risks associated with VR devices.",
+    "retrieved_context": "prolonged use of VR devices can cause motion sickness. VR benefit from students visualize concepts. VR benefit from students visualize theories. VR democratizes access to educational experiences. prolonged use of VR devices can cause eye strain. VR headsets are becoming more widespread. cost of VR equipment is a challenge. VR benefit from different learning styles. VR headsets are becoming more affordable. kinesthetic learners benefit from experiential nature of VR. cost of VR software is a challenge. VR benefit from different learning preferences. visual learners benefit from interactive nature of VR. students with disabilities benefit from virtual reality technology. VR democratizes access to educational resources. prolonged use of VR devices can cause disorientation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Educators need training on how to integrate virtual reality into teaching practices.",
+    "retrieved_context": "VR benefit from students visualize concepts. VR benefit from students visualize theories. Virtual Reality is technology. VR democratizes access to educational experiences. Virtual Reality benefit from new possibilities. Virtual Reality benefit from revolutionize education. VR benefit from different learning styles. Virtual Reality benefit from immersive learning experiences. Virtual Reality benefit from engaging learning experiences. Virtual Reality benefit from new opportunities. visual learners benefit from interactive nature of VR. kinesthetic learners benefit from experiential nature of VR. VR benefit from different learning preferences. students with disabilities benefit from virtual reality technology. VR democratizes access to educational resources.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

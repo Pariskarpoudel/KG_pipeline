@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Space exploration is a fascinating and groundbreaking endeavor.",
+    "retrieved_context": "future of space exploration holds promise of further exploration of our solar system. space exploration achieved exploring other planets. space exploration achieved sending humans to the moon. space exploration is marked by groundbreaking scientific discoveries. space exploration is marked by international cooperation. space exploration is marked by commercial ventures. Blue Origin offers suborbital spaceflights. space exploration achieved building a permanent presence in space. Virgin Galactic offers suborbital spaceflights. future of space exploration holds promise of exploration beyond our solar system.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Humans have constantly pushed the boundaries of what is possible in space.",
+    "retrieved_context": "future of space exploration holds promise of further exploration of our solar system. space exploration achieved exploring other planets. space exploration achieved sending humans to the moon. space exploration is marked by groundbreaking scientific discoveries. space exploration is marked by international cooperation. space exploration is marked by commercial ventures. Mars rovers study other planets. Blue Origin offers suborbital spaceflights. space exploration achieved building a permanent presence in space. Virgin Galactic offers suborbital spaceflights. Voyager missions study other planets. future of space exploration holds promise of exploration beyond our solar system.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Soviet Union launched the first artificial satellite, Sputnik 1, in 1957.",
+    "retrieved_context": "Blue Origin offers suborbital spaceflights. Sputnik 1 launch year 1957. Yuri Gagarin orbit year 1961. Jupiter is outer planet. Sputnik 1 is first artificial satellite. International Space Station constructed in late 1990s. Soviet Union launched Sputnik 1. Saturn is outer planet. Yuri Gagarin became first human to orbit the Earth. International Space Station is significant milestone. Virgin Galactic offers suborbital spaceflights.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space race began between the United States and the Soviet Union.",
+    "retrieved_context": "space exploration achieved sending humans to the moon. space exploration is marked by groundbreaking scientific discoveries. Sputnik 1 is first artificial satellite. International Space Station constructed in late 1990s. space exploration is marked by commercial ventures. SpaceX lowered_cost_of launching payloads. space exploration achieved building a permanent presence in space. Sputnik 1 launch year 1957. Yuri Gagarin orbit year 1961. Yuri Gagarin became first human to orbit the Earth. International Space Station is significant milestone. Virgin Galactic offers suborbital spaceflights. space exploration achieved exploring other planets. future of space exploration holds promise of further exploration of our solar system. space exploration is marked by international cooperation. Soviet Union launched Sputnik 1. SpaceX develops reusable rockets. Blue Origin offers suborbital spaceflights. future of space exploration holds promise of exploration beyond our solar system.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yuri Gagarin became the first human to orbit the Earth in 1961.",
+    "retrieved_context": "Sputnik 1 launch year 1957. space exploration achieved exploring other planets. Yuri Gagarin orbit year 1961. Neil Armstrong landed on moon. space exploration achieved sending humans to the moon. Sputnik 1 is first artificial satellite. Apollo 11 mission occurred in 1969. International Space Station constructed in late 1990s. Soviet Union launched Sputnik 1. space exploration is marked by groundbreaking scientific discoveries. space exploration is marked by international cooperation. Neil Armstrong part of Apollo 11 mission. space exploration is marked by commercial ventures. Yuri Gagarin became first human to orbit the Earth. International Space Station is significant milestone. space exploration achieved building a permanent presence in space.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neil Armstrong and Buzz Aldrin were the first humans to walk on the moon in 1969.",
+    "retrieved_context": "Sputnik 1 launch year 1957. future of space exploration holds promise of further exploration of our solar system. space exploration achieved exploring other planets. Neil Armstrong landed on moon. space exploration achieved sending humans to the moon. space exploration is marked by groundbreaking scientific discoveries. space exploration is marked by international cooperation. Apollo 11 mission occurred in 1969. space exploration is marked by commercial ventures. Yuri Gagarin orbit year 1961. Soviet Union launched Sputnik 1. Sputnik 1 is first artificial satellite. Neil Armstrong part of Apollo 11 mission. Yuri Gagarin became first human to orbit the Earth. space exploration achieved building a permanent presence in space. future of space exploration holds promise of exploration beyond our solar system.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Space probes were launched to study other planets in our solar system.",
+    "retrieved_context": "future of space exploration holds promise of further exploration of our solar system. space exploration achieved exploring other planets. Jupiter is outer planet. space exploration achieved sending humans to the moon. space exploration is marked by groundbreaking scientific discoveries. space exploration is marked by international cooperation. space exploration is marked by commercial ventures. Mars rovers study other planets. Saturn is outer planet. space exploration achieved building a permanent presence in space. Voyager missions study other planets. future of space exploration holds promise of exploration beyond our solar system.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The International Space Station (ISS) was constructed in the late 1990s.",
+    "retrieved_context": "Sputnik 1 launch year 1957. future of space exploration holds promise of further exploration of our solar system. space exploration achieved exploring other planets. space exploration achieved sending humans to the moon. space exploration is marked by groundbreaking scientific discoveries. space exploration is marked by international cooperation. International Space Station constructed in late 1990s. SpaceX lowered_cost_of launching payloads. space exploration is marked by commercial ventures. Soviet Union launched Sputnik 1. Sputnik 1 is first artificial satellite. SpaceX develops reusable rockets. Blue Origin offers suborbital spaceflights. International Space Station is significant milestone. space exploration achieved building a permanent presence in space. Virgin Galactic offers suborbital spaceflights. future of space exploration holds promise of exploration beyond our solar system.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX developed reusable rockets, reducing the cost of launching payloads into space.",
+    "retrieved_context": "future of space exploration holds promise of further exploration of our solar system. space exploration achieved exploring other planets. space exploration achieved sending humans to the moon. space exploration is marked by groundbreaking scientific discoveries. space exploration is marked by international cooperation. SpaceX lowered_cost_of launching payloads. space exploration is marked by commercial ventures. International Space Station constructed in late 1990s. Mars rovers study other planets. SpaceX develops reusable rockets. Blue Origin offers suborbital spaceflights. International Space Station is significant milestone. space exploration achieved building a permanent presence in space. Virgin Galactic offers suborbital spaceflights. Voyager missions study other planets. future of space exploration holds promise of exploration beyond our solar system.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "NASA's Perseverance rover landed on Mars in February 2021.",
+    "retrieved_context": "space exploration achieved building a permanent presence in space. NASA's Perseverance rover study signs of past life. NASA's Perseverance rover occurred in February 2021. space exploration achieved exploring other planets. Neil Armstrong landed on moon. space exploration achieved sending humans to the moon. space exploration is marked by groundbreaking scientific discoveries. space exploration is marked by international cooperation. Apollo 11 mission occurred in 1969. space exploration is marked by commercial ventures. NASA's Perseverance rover landed on Mars. Mars rovers study other planets. Neil Armstrong part of Apollo 11 mission. future of space exploration holds promise of further exploration of our solar system. Voyager missions study other planets. future of space exploration holds promise of exploration beyond our solar system.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX plans to send humans to Mars in the coming years.",
+    "retrieved_context": "space exploration achieved building a permanent presence in space. NASA's Perseverance rover study signs of past life. space exploration achieved exploring other planets. NASA's Perseverance rover occurred in February 2021. space exploration achieved sending humans to the moon. space exploration is marked by groundbreaking scientific discoveries. space exploration is marked by international cooperation. space exploration is marked by commercial ventures. SpaceX lowered_cost_of launching payloads. NASA's Perseverance rover landed on Mars. Mars rovers study other planets. SpaceX develops reusable rockets. Blue Origin offers suborbital spaceflights. future of space exploration holds promise of further exploration of our solar system. Virgin Galactic offers suborbital spaceflights. Voyager missions study other planets. future of space exploration holds promise of exploration beyond our solar system.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Missions to explore the outer planets of our solar system are being planned.",
+    "retrieved_context": "space exploration achieved building a permanent presence in space. space exploration achieved exploring other planets. Jupiter is outer planet. space exploration achieved sending humans to the moon. space exploration is marked by groundbreaking scientific discoveries. space exploration is marked by international cooperation. space exploration is marked by commercial ventures. Mars rovers study other planets. Saturn is outer planet. future of space exploration holds promise of further exploration of our solar system. Voyager missions study other planets. future of space exploration holds promise of exploration beyond our solar system.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Advancements in space technology include the development of ion propulsion systems.",
+    "retrieved_context": "space exploration achieved building a permanent presence in space. space exploration achieved exploring other planets. space exploration achieved sending humans to the moon. space exploration is marked by groundbreaking scientific discoveries. space exploration is marked by international cooperation. space exploration is marked by commercial ventures. International Space Station constructed in late 1990s. SpaceX lowered_cost_of launching payloads. SpaceX develops reusable rockets. Blue Origin offers suborbital spaceflights. International Space Station is significant milestone. future of space exploration holds promise of further exploration of our solar system. Virgin Galactic offers suborbital spaceflights. future of space exploration holds promise of exploration beyond our solar system.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Space tourism is gaining traction with companies offering suborbital spaceflights.",
+    "retrieved_context": "future of space exploration holds promise of further exploration of our solar system. space exploration achieved exploring other planets. space exploration achieved sending humans to the moon. space exploration is marked by groundbreaking scientific discoveries. space exploration is marked by international cooperation. space exploration is marked by commercial ventures. SpaceX lowered_cost_of launching payloads. International Space Station constructed in late 1990s. SpaceX develops reusable rockets. Blue Origin offers suborbital spaceflights. International Space Station is significant milestone. space exploration achieved building a permanent presence in space. Virgin Galactic offers suborbital spaceflights. future of space exploration holds promise of exploration beyond our solar system.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The future of space exploration holds the promise of further discovery and innovation.",
+    "retrieved_context": "space exploration achieved building a permanent presence in space. space exploration achieved exploring other planets. space exploration achieved sending humans to the moon. space exploration is marked by groundbreaking scientific discoveries. space exploration is marked by international cooperation. space exploration is marked by commercial ventures. Blue Origin offers suborbital spaceflights. future of space exploration holds promise of further exploration of our solar system. Virgin Galactic offers suborbital spaceflights. future of space exploration holds promise of exploration beyond our solar system.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

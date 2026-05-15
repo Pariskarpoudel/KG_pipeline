@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Roller coasters are thrilling amusement park rides.",
+    "retrieved_context": "velocity is speed. centripetal force is directed curves. roller coasters provide experience. roller coasters are amusement park. gravitational force causes weightlessness. friction affects speed. forces include friction. gravitational force affects motion. experience showcases principles. roller coasters provide riders. friction provides stability. roller coasters reach speed. acceleration is rate. physics includes principles. forces include gravitational force. riders experience excitement. friction affects excitement. friction provides traction. physics includes acceleration. riders experience fear. acceleration affects riders. roller coasters are example. forces include centripetal force. centripetal force keeps track. principles are in setting. example of physics. principles include energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters provide riders with an exhilarating experience of twists, turns, drops, and loops.",
+    "retrieved_context": "velocity is speed. roller coasters provide experience. roller coasters are amusement park. gravitational force causes weightlessness. friction affects speed. forces include friction. gravitational force affects motion. experience showcases principles. roller coasters provide riders. friction provides stability. roller coasters reach speed. acceleration is rate. forces include gravitational force. riders experience excitement. friction affects excitement. friction provides traction. physics includes acceleration. riders experience fear. acceleration affects riders. roller coasters are example. example of physics.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Roller coasters are a fascinating example of physics in action.",
+    "retrieved_context": "velocity is speed. roller coasters provide experience. energy conservation involves mechanical energy. roller coasters are amusement park. gravitational force causes weightlessness. friction affects speed. forces include friction. mechanical energy includes potential energy. velocity is direction. physics includes forces. gravitational force affects motion. experience showcases principles. roller coasters provide riders. friction provides stability. roller coasters reach speed. acceleration is rate. physics includes principles. forces include gravitational force. riders experience excitement. friction affects excitement. friction provides traction. physics includes velocity. physics includes acceleration. riders experience fear. acceleration affects riders. roller coasters are example. mechanical energy includes kinetic energy. forces include centripetal force. potential energy is converted into kinetic energy. principles are in setting. example of physics. principles include energy conservation. system has constant mechanical energy.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forces play a key role in the physics of roller coasters.",
+    "retrieved_context": "velocity is speed. centripetal force is directed curves. roller coasters provide experience. roller coasters are amusement park. gravitational force causes weightlessness. friction affects speed. forces include friction. velocity is direction. physics includes forces. gravitational force affects motion. experience showcases principles. roller coasters provide riders. friction provides stability. roller coasters reach speed. acceleration is rate. physics includes principles. forces include gravitational force. riders experience excitement. friction affects excitement. friction provides traction. physics includes velocity. physics includes acceleration. riders experience fear. acceleration affects riders. roller coasters are example. forces include centripetal force. centripetal force keeps track. principles are in setting. example of physics. principles include energy conservation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gravitational force pulls objects toward the center of the Earth.",
+    "retrieved_context": "velocity is speed. centripetal force is directed curves. weightlessness is airtime. gravitational force causes weightlessness. friction affects speed. forces include friction. velocity is direction. gravitational force affects motion. physics includes forces. experience showcases principles. roller coasters provide riders. friction provides stability. roller coasters reach speed. acceleration is rate. physics includes principles. forces include gravitational force. riders experience excitement. friction affects excitement. friction provides traction. physics includes velocity. physics includes acceleration. acceleration affects riders. riders experience fear. roller coasters are example. forces include centripetal force. centripetal force keeps track. principles are in setting. example of physics. principles include energy conservation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Gravity causes the roller coaster car to accelerate as it descends.",
+    "retrieved_context": "velocity is speed. roller coasters provide experience. roller coasters are amusement park. weightlessness is airtime. gravitational force causes weightlessness. friction affects speed. forces include friction. velocity is direction. physics includes forces. gravitational force affects motion. experience showcases principles. roller coasters provide riders. friction provides stability. roller coasters reach speed. acceleration is rate. physics includes principles. forces include gravitational force. riders experience excitement. friction affects excitement. friction provides traction. physics includes velocity. physics includes acceleration. riders experience fear. acceleration affects riders. roller coasters are example. forces include centripetal force. example of physics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Centripetal force keeps the roller coaster car on the track during curves and loops.",
+    "retrieved_context": "velocity is speed. centripetal force is directed curves. roller coasters provide experience. roller coasters are amusement park. gravitational force causes weightlessness. friction affects speed. forces include friction. physics includes forces. gravitational force affects motion. experience showcases principles. roller coasters provide riders. friction provides stability. roller coasters reach speed. acceleration is rate. physics includes principles. forces include gravitational force. riders experience excitement. friction affects excitement. friction provides traction. physics includes velocity. physics includes acceleration. riders experience fear. acceleration affects riders. roller coasters are example. forces include centripetal force. centripetal force keeps track. example of physics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Friction can have both positive and negative effects on a roller coaster ride.",
+    "retrieved_context": "velocity is speed. roller coasters provide experience. roller coasters are amusement park. weightlessness is airtime. gravitational force causes weightlessness. friction affects speed. forces include friction. physics includes forces. gravitational force affects motion. experience showcases principles. roller coasters provide riders. friction provides stability. roller coasters reach speed. acceleration is rate. physics includes principles. forces include gravitational force. riders experience excitement. friction affects excitement. friction provides traction. physics includes velocity. physics includes acceleration. riders experience fear. acceleration affects riders. roller coasters are example. forces include centripetal force. example of physics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters rely on the conservation of mechanical energy.",
+    "retrieved_context": "velocity is speed. roller coasters provide experience. energy conservation involves mechanical energy. roller coasters are amusement park. mechanical energy includes potential energy. friction affects speed. forces include friction. gravitational force causes weightlessness. physics includes forces. gravitational force affects motion. experience showcases principles. roller coasters provide riders. friction provides stability. roller coasters reach speed. physics includes principles. forces include gravitational force. riders experience excitement. friction affects excitement. friction provides traction. riders experience fear. acceleration affects riders. roller coasters are example. mechanical energy includes kinetic energy. forces include centripetal force. potential energy is converted into kinetic energy. principles are in setting. example of physics. principles include energy conservation. system has constant mechanical energy.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Potential energy is converted into kinetic energy as the roller coaster car descends a hill.",
+    "retrieved_context": "velocity is speed. roller coasters provide experience. energy conservation involves mechanical energy. roller coasters are amusement park. mechanical energy includes potential energy. friction affects speed. gravitational force causes weightlessness. velocity is direction. physics includes forces. gravitational force affects motion. experience showcases principles. roller coasters provide riders. roller coasters reach speed. physics includes principles. forces include gravitational force. riders experience excitement. physics includes velocity. physics includes acceleration. riders experience fear. acceleration affects riders. roller coasters are example. mechanical energy includes kinetic energy. potential energy is converted into kinetic energy. principles are in setting. example of physics. principles include energy conservation. system has constant mechanical energy.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Acceleration is the rate of change of velocity.",
+    "retrieved_context": "velocity is speed. roller coasters provide experience. energy conservation involves mechanical energy. roller coasters are amusement park. gravitational force causes weightlessness. friction affects speed. forces include friction. mechanical energy includes potential energy. velocity is direction. gravitational force affects motion. physics includes forces. experience showcases principles. roller coasters provide riders. friction provides stability. roller coasters reach speed. acceleration is rate. physics includes principles. forces include gravitational force. riders experience excitement. friction affects excitement. friction provides traction. physics includes velocity. physics includes acceleration. acceleration affects riders. riders experience fear. roller coasters are example. mechanical energy includes kinetic energy. forces include centripetal force. potential energy is converted into kinetic energy. principles are in setting. example of physics. principles include energy conservation. system has constant mechanical energy.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Riders experience acceleration when the roller coaster car speeds up, slows down, or changes direction.",
+    "retrieved_context": "velocity is speed. centripetal force is directed curves. roller coasters provide experience. roller coasters are amusement park. gravitational force causes weightlessness. friction affects speed. forces include friction. velocity is direction. physics includes forces. gravitational force affects motion. experience showcases principles. roller coasters provide riders. friction provides stability. roller coasters reach speed. acceleration is rate. physics includes principles. forces include gravitational force. riders experience excitement. friction affects excitement. friction provides traction. physics includes velocity. physics includes acceleration. riders experience fear. acceleration affects riders. roller coasters are example. forces include centripetal force. centripetal force keeps track. example of physics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Velocity is the speed and direction of an object's motion.",
+    "retrieved_context": "velocity is speed. centripetal force is directed curves. roller coasters provide experience. energy conservation involves mechanical energy. roller coasters are amusement park. gravitational force causes weightlessness. friction affects speed. forces include friction. mechanical energy includes potential energy. velocity is direction. gravitational force affects motion. physics includes forces. experience showcases principles. roller coasters provide riders. friction provides stability. roller coasters reach speed. acceleration is rate. physics includes principles. forces include gravitational force. riders experience excitement. friction affects excitement. friction provides traction. physics includes velocity. physics includes acceleration. riders experience fear. acceleration affects riders. roller coasters are example. mechanical energy includes kinetic energy. forces include centripetal force. centripetal force keeps track. potential energy is converted into kinetic energy. principles are in setting. example of physics. principles include energy conservation. system has constant mechanical energy.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters reach high velocities during drops and loops.",
+    "retrieved_context": "velocity is speed. roller coasters provide experience. roller coasters are amusement park. gravitational force causes weightlessness. friction affects speed. forces include friction. velocity is direction. physics includes forces. gravitational force affects motion. experience showcases principles. roller coasters provide riders. friction provides stability. roller coasters reach speed. acceleration is rate. physics includes principles. forces include gravitational force. riders experience excitement. friction affects excitement. friction provides traction. physics includes velocity. physics includes acceleration. riders experience fear. acceleration affects riders. roller coasters are example. example of physics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding the physics of roller coasters helps appreciate the design and engineering behind them.",
+    "retrieved_context": "velocity is speed. roller coasters provide experience. energy conservation involves mechanical energy. roller coasters are amusement park. mechanical energy includes potential energy. friction affects speed. forces include friction. gravitational force causes weightlessness. velocity is direction. physics includes forces. gravitational force affects motion. experience showcases principles. roller coasters provide riders. friction provides stability. roller coasters reach speed. acceleration is rate. physics includes principles. forces include gravitational force. riders experience excitement. friction affects excitement. friction provides traction. physics includes velocity. physics includes acceleration. riders experience fear. acceleration affects riders. roller coasters are example. mechanical energy includes kinetic energy. forces include centripetal force. potential energy is converted into kinetic energy. principles are in setting. example of physics. principles include energy conservation. system has constant mechanical energy.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

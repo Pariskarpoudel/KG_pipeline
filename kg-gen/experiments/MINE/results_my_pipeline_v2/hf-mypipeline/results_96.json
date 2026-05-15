@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Surveillance cameras are used in crime prevention strategies.",
+    "retrieved_context": "law enforcement agencies analyze criminal records. surveillance cameras enable valuable evidence. mobile applications enable crime reporting. surveillance cameras deters criminal behavior. online reporting systems enable crime reporting. law enforcement agencies analyze incident reports. surveillance cameras are placed in transportation hubs. video analytics technology analyze suspicious behaviors. technology part_of crime prevention strategies. surveillance cameras are placed in buildings. law enforcement agencies analyze social media activity. video analytics technology enhances surveillance cameras. surveillance cameras are placed in public areas. surveillance cameras are placed in streets.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Surveillance cameras monitor public areas, streets, buildings, and transportation hubs.",
+    "retrieved_context": "law enforcement agencies analyze criminal records. surveillance cameras enable valuable evidence. mobile applications enable crime reporting. surveillance cameras deters criminal behavior. online reporting systems enable crime reporting. law enforcement agencies analyze incident reports. surveillance cameras are placed in transportation hubs. video analytics technology analyze suspicious behaviors. law enforcement agencies analyze social media activity. surveillance cameras are placed in buildings. video analytics technology enhances surveillance cameras. surveillance cameras are placed in public areas. surveillance cameras are placed in streets.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Surveillance cameras act as a deterrent to criminals.",
+    "retrieved_context": "law enforcement agencies analyze criminal records. surveillance cameras enable valuable evidence. mobile applications enable crime reporting. surveillance cameras deters criminal behavior. online reporting systems enable crime reporting. law enforcement agencies analyze incident reports. surveillance cameras are placed in transportation hubs. video analytics technology analyze suspicious behaviors. technology part_of crime prevention strategies. surveillance cameras are placed in buildings. law enforcement agencies analyze social media activity. video analytics technology enhances surveillance cameras. surveillance cameras are placed in public areas. surveillance cameras are placed in streets.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Surveillance cameras provide valuable evidence in criminal investigations.",
+    "retrieved_context": "law enforcement agencies analyze criminal records. surveillance cameras enable valuable evidence. mobile applications enable crime reporting. surveillance cameras deters criminal behavior. online reporting systems enable crime reporting. law enforcement agencies analyze incident reports. surveillance cameras are placed in transportation hubs. video analytics technology analyze suspicious behaviors. law enforcement agencies analyze social media activity. surveillance cameras are placed in buildings. technology part_of crime prevention strategies. video analytics technology enhances surveillance cameras. surveillance cameras are placed in public areas. surveillance cameras are placed in streets.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Video analytics technology can detect suspicious behaviors in real-time.",
+    "retrieved_context": "law enforcement agencies analyze criminal records. digital platforms enable real-time information sharing. surveillance cameras enable valuable evidence. mobile applications enable crime reporting. surveillance cameras deters criminal behavior. online reporting systems enable crime reporting. law enforcement agencies analyze incident reports. surveillance cameras are placed in transportation hubs. video analytics technology analyze suspicious behaviors. law enforcement agencies analyze social media activity. surveillance cameras are placed in buildings. video analytics technology enhances surveillance cameras. secure communication channels enable real-time information sharing. surveillance cameras are placed in public areas. surveillance cameras are placed in streets.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Video analytics technology alerts law enforcement personnel to potential threats.",
+    "retrieved_context": "law enforcement agencies analyze criminal records. surveillance cameras enable valuable evidence. mobile applications enable crime reporting. surveillance cameras deters criminal behavior. online reporting systems enable crime reporting. law enforcement agencies analyze incident reports. surveillance cameras are placed in transportation hubs. predictive analytics enable data mining. video analytics technology analyze suspicious behaviors. law enforcement agencies analyze social media activity. surveillance cameras are placed in buildings. video analytics technology enhances surveillance cameras. surveillance cameras are placed in public areas. surveillance cameras are placed in streets.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Predictive analytics and data mining are used in crime prevention.",
+    "retrieved_context": "law enforcement agencies analyze criminal records. surveillance cameras enable valuable evidence. mobile applications enable crime reporting. surveillance cameras deters criminal behavior. online reporting systems enable crime reporting. law enforcement agencies analyze incident reports. surveillance cameras are placed in transportation hubs. predictive analytics enable data mining. technology part_of crime prevention strategies. surveillance cameras are placed in buildings. law enforcement agencies analyze social media activity. video analytics technology enhances surveillance cameras. surveillance cameras are placed in public areas. surveillance cameras are placed in streets.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Law enforcement agencies analyze vast amounts of data for potential criminal activities.",
+    "retrieved_context": "law enforcement agencies analyze criminal records. surveillance cameras enable valuable evidence. mobile applications enable crime reporting. surveillance cameras deters criminal behavior. online reporting systems enable crime reporting. law enforcement agencies analyze incident reports. surveillance cameras are placed in transportation hubs. video analytics technology analyze suspicious behaviors. law enforcement agencies analyze social media activity. surveillance cameras are placed in buildings. technology part_of crime prevention strategies. video analytics technology enhances surveillance cameras. surveillance cameras are placed in public areas. surveillance cameras are placed in streets.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Predictive analytics help allocate resources efficiently and target high-risk areas.",
+    "retrieved_context": "law enforcement agencies analyze criminal records. surveillance cameras enable valuable evidence. mobile applications enable crime reporting. surveillance cameras deters criminal behavior. online reporting systems enable crime reporting. law enforcement agencies analyze incident reports. surveillance cameras are placed in transportation hubs. predictive analytics enable data mining. video analytics technology analyze suspicious behaviors. technology part_of crime prevention strategies. surveillance cameras are placed in buildings. law enforcement agencies analyze social media activity. video analytics technology enhances surveillance cameras. surveillance cameras are placed in public areas. surveillance cameras are placed in streets.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Technology enables real-time information sharing among law enforcement personnel.",
+    "retrieved_context": "law enforcement agencies analyze criminal records. digital platforms enable real-time information sharing. surveillance cameras enable valuable evidence. mobile applications enable crime reporting. surveillance cameras deters criminal behavior. online reporting systems enable crime reporting. law enforcement agencies analyze incident reports. surveillance cameras are placed in transportation hubs. video analytics technology analyze suspicious behaviors. law enforcement agencies analyze social media activity. technology part_of crime prevention strategies. surveillance cameras are placed in buildings. secure communication channels enable real-time information sharing. video analytics technology enhances surveillance cameras. surveillance cameras are placed in public areas. surveillance cameras are placed in streets.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mobile devices and digital platforms facilitate communication and collaboration among law enforcement agencies.",
+    "retrieved_context": "law enforcement agencies analyze criminal records. digital platforms enable real-time information sharing. surveillance cameras enable valuable evidence. mobile applications enable crime reporting. surveillance cameras deters criminal behavior. online reporting systems enable crime reporting. law enforcement agencies analyze incident reports. surveillance cameras are placed in transportation hubs. video analytics technology analyze suspicious behaviors. law enforcement agencies analyze social media activity. surveillance cameras are placed in buildings. technology part_of crime prevention strategies. secure communication channels enable real-time information sharing. video analytics technology enhances surveillance cameras. surveillance cameras are placed in public areas. surveillance cameras are placed in streets.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media platforms and mobile applications enhance community engagement in crime prevention.",
+    "retrieved_context": "law enforcement agencies analyze criminal records. digital platforms enable real-time information sharing. surveillance cameras enable valuable evidence. mobile applications enable crime reporting. surveillance cameras deters criminal behavior. online reporting systems enable crime reporting. law enforcement agencies analyze incident reports. surveillance cameras are placed in transportation hubs. technology part_of crime prevention strategies. law enforcement agencies analyze social media activity. surveillance cameras are placed in buildings. video analytics technology enhances surveillance cameras. secure communication channels enable real-time information sharing. surveillance cameras are placed in public areas. surveillance cameras are placed in streets.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Citizens can report crimes and share information easily through online reporting systems.",
+    "retrieved_context": "law enforcement agencies analyze criminal records. digital platforms enable real-time information sharing. surveillance cameras enable valuable evidence. mobile applications enable crime reporting. surveillance cameras deters criminal behavior. online reporting systems enable crime reporting. law enforcement agencies analyze incident reports. surveillance cameras are placed in transportation hubs. video analytics technology analyze suspicious behaviors. law enforcement agencies analyze social media activity. surveillance cameras are placed in buildings. secure communication channels enable real-time information sharing. video analytics technology enhances surveillance cameras. surveillance cameras are placed in public areas. surveillance cameras are placed in streets.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Technology raises concerns about privacy rights and potential abuses of power.",
+    "retrieved_context": "digital platforms enable real-time information sharing. surveillance cameras enable valuable evidence. mobile applications enable crime reporting. surveillance cameras deters criminal behavior. online reporting systems enable crime reporting. surveillance cameras are placed in transportation hubs. video analytics technology analyze suspicious behaviors. technology part_of crime prevention strategies. surveillance cameras are placed in buildings. secure communication channels enable real-time information sharing. video analytics technology enhances surveillance cameras. surveillance cameras are placed in public areas. surveillance cameras are placed in streets.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Establishing clear guidelines and regulations is essential to ensure responsible and ethical use of technology in crime prevention.",
+    "retrieved_context": "law enforcement agencies analyze criminal records. surveillance cameras enable valuable evidence. mobile applications enable crime reporting. surveillance cameras deters criminal behavior. online reporting systems enable crime reporting. law enforcement agencies analyze incident reports. surveillance cameras are placed in transportation hubs. video analytics technology analyze suspicious behaviors. technology part_of crime prevention strategies. surveillance cameras are placed in buildings. law enforcement agencies analyze social media activity. video analytics technology enhances surveillance cameras. surveillance cameras are placed in public areas. surveillance cameras are placed in streets.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

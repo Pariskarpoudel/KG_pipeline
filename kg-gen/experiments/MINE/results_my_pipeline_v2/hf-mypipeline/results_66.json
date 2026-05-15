@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Typography is the art of arranging type to make written language readable and appealing.",
+    "retrieved_context": "Typography plays a role in branding. digital technology revolutionized typography. Typography plays a role in communication. Neville Brody influenced traditional type design. Typography dates back to ancient civilizations. Industrial Revolution brought advancements in typography. Claude Garamond created iconic typefaces. Paul Rand influenced traditional type design. Typography is art and technique. Giambattista Bodoni created iconic typefaces. Johannes Gutenberg created printing press. printing press brought mass production of books. printing press dates back to 15th century. Egyptians used hieroglyphics. Typography plays a role in marketing. Jan Tschichold influenced traditional type design.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Typography has a rich and fascinating history that dates back centuries.",
+    "retrieved_context": "Typography plays a role in branding. digital technology revolutionized typography. printing press brought mass production of books. Typography plays a role in communication. Neville Brody influenced traditional type design. Typography dates back to ancient civilizations. Industrial Revolution brought advancements in typography. Claude Garamond created iconic typefaces. Paul Rand influenced traditional type design. Typography is art and technique. Giambattista Bodoni created iconic typefaces. Johannes Gutenberg created printing press. printing press dates back to 15th century. Egyptians used hieroglyphics. Typography plays a role in marketing. Jan Tschichold influenced traditional type design.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Typography played a crucial role in shaping the way we communicate and consume information.",
+    "retrieved_context": "Typography plays a role in branding. digital technology revolutionized typography. Typography plays a role in communication. Typography dates back to ancient civilizations. Industrial Revolution brought advancements in typography. Claude Garamond created iconic typefaces. Typography is art and technique. Giambattista Bodoni created iconic typefaces. Typography plays a role in marketing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The origins of typography can be traced back to ancient civilizations like the Egyptians.",
+    "retrieved_context": "Typography plays a role in branding. digital technology revolutionized typography. Typography plays a role in communication. Neville Brody influenced traditional type design. Typography dates back to ancient civilizations. Industrial Revolution brought advancements in typography. Claude Garamond created iconic typefaces. Paul Rand influenced traditional type design. Typography is art and technique. Giambattista Bodoni created iconic typefaces. Egyptians used hieroglyphics. Typography plays a role in marketing. Jan Tschichold influenced traditional type design.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Egyptians used hieroglyphics for written communication.",
+    "retrieved_context": "Typography plays a role in branding. digital technology revolutionized typography. Typography plays a role in communication. Typography dates back to ancient civilizations. Industrial Revolution brought advancements in typography. Claude Garamond created iconic typefaces. Typography is art and technique. Giambattista Bodoni created iconic typefaces. Egyptians used hieroglyphics. Typography plays a role in marketing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The development of writing systems led to the creation of various scripts and typefaces.",
+    "retrieved_context": "Typography plays a role in branding. digital technology revolutionized typography. Typography plays a role in communication. Neville Brody influenced traditional type design. Typography dates back to ancient civilizations. Industrial Revolution brought advancements in typography. Claude Garamond created iconic typefaces. Paul Rand influenced traditional type design. Giambattista Bodoni created iconic typefaces. Typography is art and technique. Johannes Gutenberg created printing press. printing press brought mass production of books. printing press dates back to 15th century. Egyptians used hieroglyphics. Typography plays a role in marketing. Jan Tschichold influenced traditional type design.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Johannes Gutenberg invented the printing press in the 15th century.",
+    "retrieved_context": "Typography plays a role in branding. digital technology revolutionized typography. Typography plays a role in communication. Typography dates back to ancient civilizations. Industrial Revolution brought advancements in typography. Typography is art and technique. Johannes Gutenberg created printing press. printing press brought mass production of books. printing press dates back to 15th century. Typography plays a role in marketing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The printing press allowed for the mass production of books and printed materials.",
+    "retrieved_context": "Typography plays a role in branding. digital technology revolutionized typography. Typography plays a role in communication. Typography dates back to ancient civilizations. Industrial Revolution brought advancements in typography. Typography is art and technique. Johannes Gutenberg created printing press. printing press brought mass production of books. printing press dates back to 15th century. Typography plays a role in marketing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The printing press made information more accessible to a wider audience.",
+    "retrieved_context": "Typography plays a role in branding. digital technology revolutionized typography. Typography plays a role in communication. Typography dates back to ancient civilizations. Industrial Revolution brought advancements in typography. Typography is art and technique. Johannes Gutenberg created printing press. printing press brought mass production of books. printing press dates back to 15th century. Typography plays a role in marketing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Designers began to experiment with different fonts, sizes, and layouts for printed materials.",
+    "retrieved_context": "Typography plays a role in branding. digital technology revolutionized typography. Typography plays a role in communication. Neville Brody influenced traditional type design. Typography dates back to ancient civilizations. Industrial Revolution brought advancements in typography. Claude Garamond created iconic typefaces. Paul Rand influenced traditional type design. Typography is art and technique. Giambattista Bodoni created iconic typefaces. Johannes Gutenberg created printing press. printing press brought mass production of books. printing press dates back to 15th century. Typography plays a role in marketing. Jan Tschichold influenced traditional type design.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Claude Garamond and Giambattista Bodoni created iconic typefaces during the Renaissance period.",
+    "retrieved_context": "Typography plays a role in branding. Typography plays a role in communication. Neville Brody influenced traditional type design. Typography dates back to ancient civilizations. Industrial Revolution brought advancements in typography. Claude Garamond created iconic typefaces. Paul Rand influenced traditional type design. Giambattista Bodoni created iconic typefaces. Typography is art and technique. Johannes Gutenberg created printing press. printing press brought mass production of books. printing press dates back to 15th century. Typography plays a role in marketing. Jan Tschichold influenced traditional type design.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Typography evolved with an emphasis on aesthetics, readability, and functionality.",
+    "retrieved_context": "Typography plays a role in branding. digital technology revolutionized typography. Typography plays a role in communication. Neville Brody influenced traditional type design. Typography dates back to ancient civilizations. Industrial Revolution brought advancements in typography. Claude Garamond created iconic typefaces. Paul Rand influenced traditional type design. Typography is art and technique. Giambattista Bodoni created iconic typefaces. Egyptians used hieroglyphics. Typography plays a role in marketing. Jan Tschichold influenced traditional type design.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Industrial Revolution brought advancements in typography and new printing technologies.",
+    "retrieved_context": "Typography plays a role in branding. digital technology revolutionized typography. Typography plays a role in communication. Typography dates back to ancient civilizations. Industrial Revolution brought advancements in typography. Claude Garamond created iconic typefaces. Typography is art and technique. Giambattista Bodoni created iconic typefaces. Johannes Gutenberg created printing press. printing press brought mass production of books. printing press dates back to 15th century. Typography plays a role in marketing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Designers explored new ways of using type to convey messages and evoke emotions.",
+    "retrieved_context": "Typography plays a role in branding. digital technology revolutionized typography. Typography plays a role in communication. Neville Brody influenced traditional type design. Typography dates back to ancient civilizations. Industrial Revolution brought advancements in typography. Claude Garamond created iconic typefaces. Paul Rand influenced traditional type design. Giambattista Bodoni created iconic typefaces. Typography is art and technique. Typography plays a role in marketing. Jan Tschichold influenced traditional type design.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Typography plays a crucial role in branding, marketing, and communication today.",
+    "retrieved_context": "Typography plays a role in branding. digital technology revolutionized typography. Typography plays a role in communication. Typography dates back to ancient civilizations. Industrial Revolution brought advancements in typography. Claude Garamond created iconic typefaces. Typography is art and technique. Giambattista Bodoni created iconic typefaces. Egyptians used hieroglyphics. Typography plays a role in marketing.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

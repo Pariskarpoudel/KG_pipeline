@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Language processing is a function of the human brain.",
+    "retrieved_context": "Processing of language in the brain involves multiple stages. Language processing affects neurorehabilitation. Understanding and producing language is a key aspect of communication and cognition. Language processing affects communication disorders. Processing of language in the brain can be divided into perception, comprehension, production, and acquisition stages. Language acquisition is a lifelong process. Wernicke's area located in left temporal lobe. Language processing is a function of the human brain. Language processing involves multiple regions. Processing of language in the brain involves regions working together. Brain plasticity involves language acquisition. Wernicke's area involves comprehension of language. Language processing involves intricate neural pathways. Language processing affects language development. Language processing sheds light on human cognition.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language processing involves multiple regions in the brain.",
+    "retrieved_context": "Processing of language in the brain involves multiple stages. Language processing affects neurorehabilitation. Auditory cortex involves spoken language. Processing of language in the brain can be divided into perception, comprehension, production, and acquisition stages. Language processing affects communication disorders. Language acquisition is a lifelong process. Wernicke's area located in left temporal lobe. Language processing is a function of the human brain. Language processing involves multiple regions. Language processing affects language development. Comprehension stage involves integration of phonological, syntactic, and semantic information. Processing of language in the brain involves regions working together. Brain plasticity involves language acquisition. Wernicke's area involves comprehension of language. Language processing involves intricate neural pathways. Children excel at learning new languages due to high brain plasticity. Language processing sheds light on human cognition.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language processing involves intricate neural pathways.",
+    "retrieved_context": "Processing of language in the brain involves multiple stages. Language processing affects neurorehabilitation. Language processing affects communication disorders. Processing of language in the brain can be divided into perception, comprehension, production, and acquisition stages. Language acquisition is a lifelong process. Wernicke's area located in left temporal lobe. Language processing is a function of the human brain. Language processing involves multiple regions. Comprehension stage involves integration of phonological, syntactic, and semantic information. Processing of language in the brain involves regions working together. Brain plasticity involves language acquisition. Wernicke's area involves comprehension of language. Language processing involves intricate neural pathways. Language processing affects language development. Children excel at learning new languages due to high brain plasticity. Language processing sheds light on human cognition.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding and producing language is key for communication.",
+    "retrieved_context": "Language processing affects neurorehabilitation. Auditory cortex involves spoken language. Visual cortex involves written language. Language processing affects communication disorders. Language processing sheds light on human cognition. Language acquisition is a lifelong process. Wernicke's area located in left temporal lobe. Language processing is a function of the human brain. Language processing involves multiple regions. Brain plasticity involves language acquisition. Wernicke's area involves comprehension of language. Language processing involves intricate neural pathways. Language processing affects language development. Understanding and producing language is a key aspect of communication and cognition.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Researchers have made significant strides in understanding language processing.",
+    "retrieved_context": "Processing of language in the brain involves multiple stages. Language processing affects neurorehabilitation. Understanding and producing language is a key aspect of communication and cognition. Language processing affects communication disorders. Processing of language in the brain can be divided into perception, comprehension, production, and acquisition stages. Language acquisition is a lifelong process. Wernicke's area located in left temporal lobe. Language processing is a function of the human brain. Language processing involves multiple regions. Comprehension stage involves integration of phonological, syntactic, and semantic information. Processing of language in the brain involves regions working together. Brain plasticity involves language acquisition. Wernicke's area involves comprehension of language. Language processing involves intricate neural pathways. Language processing affects language development. Language processing sheds light on human cognition.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Language processing involves stages like perception, comprehension, production, and acquisition.",
+    "retrieved_context": "Processing of language in the brain involves multiple stages. Language processing affects neurorehabilitation. Understanding and producing language is a key aspect of communication and cognition. Processing of language in the brain can be divided into perception, comprehension, production, and acquisition stages. Language processing affects communication disorders. Language acquisition is a lifelong process. Wernicke's area located in left temporal lobe. Language processing is a function of the human brain. Language processing involves multiple regions. Comprehension stage involves integration of phonological, syntactic, and semantic information. Processing of language in the brain involves regions working together. Brain plasticity involves language acquisition. Wernicke's area involves comprehension of language. Language processing involves intricate neural pathways. Language processing affects language development. Language processing sheds light on human cognition.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Perception stage involves recognition and decoding of speech sounds or written symbols.",
+    "retrieved_context": "Processing of language in the brain involves multiple stages. Auditory cortex involves spoken language. Processing of language in the brain can be divided into perception, comprehension, production, and acquisition stages. Language acquisition is a lifelong process. Processing of language in the brain involves regions working together. Brain plasticity involves language acquisition. Perception stage involves recognition and decoding of speech sounds or written symbols. Understanding and producing language is a key aspect of communication and cognition.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Perception stage begins in the auditory cortex for spoken language.",
+    "retrieved_context": "Processing of language in the brain involves multiple stages. Auditory cortex involves spoken language. Visual cortex involves written language. Processing of language in the brain can be divided into perception, comprehension, production, and acquisition stages. Language acquisition is a lifelong process. Processing of language in the brain involves regions working together. Brain plasticity involves language acquisition. Perception stage involves recognition and decoding of speech sounds or written symbols.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comprehension involves making sense of linguistic input and extracting meaning.",
+    "retrieved_context": "Processing of language in the brain involves multiple stages. Processing of language in the brain can be divided into perception, comprehension, production, and acquisition stages. Wernicke's area located in left temporal lobe. Language acquisition is a lifelong process. Comprehension stage involves integration of phonological, syntactic, and semantic information. Processing of language in the brain involves regions working together. Brain plasticity involves language acquisition. Wernicke's area involves comprehension of language. Understanding and producing language is a key aspect of communication and cognition.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comprehension integrates phonological, syntactic, and semantic information.",
+    "retrieved_context": "Processing of language in the brain involves multiple stages. Processing of language in the brain can be divided into perception, comprehension, production, and acquisition stages. Wernicke's area located in left temporal lobe. Language acquisition is a lifelong process. Comprehension stage involves integration of phonological, syntactic, and semantic information. Processing of language in the brain involves regions working together. Brain plasticity involves language acquisition. Wernicke's area involves comprehension of language. Understanding and producing language is a key aspect of communication and cognition.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Production stage involves generating a response in spoken or written language.",
+    "retrieved_context": "Processing of language in the brain involves multiple stages. Production stage involves activation of motor areas in the frontal lobe. Language processing affects neurorehabilitation. Auditory cortex involves spoken language. Processing of language in the brain can be divided into perception, comprehension, production, and acquisition stages. Language processing affects communication disorders. Language processing sheds light on human cognition. Language processing is a function of the human brain. Language processing involves multiple regions. Comprehension stage involves integration of phonological, syntactic, and semantic information. Processing of language in the brain involves regions working together. Language processing involves intricate neural pathways. Language processing affects language development. Perception stage involves recognition and decoding of speech sounds or written symbols. Understanding and producing language is a key aspect of communication and cognition.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Production stage activates motor areas in the frontal lobe.",
+    "retrieved_context": "Processing of language in the brain involves multiple stages. Broca's area located in left frontal lobe. Production stage involves activation of motor areas in the frontal lobe. Language processing affects neurorehabilitation. Processing of language in the brain can be divided into perception, comprehension, production, and acquisition stages. Language processing affects communication disorders. Wernicke's area located in left temporal lobe. Language processing is a function of the human brain. Language processing involves multiple regions. Processing of language in the brain involves regions working together. Broca's area involves processing grammatical rules. Wernicke's area involves comprehension of language. Language processing involves intricate neural pathways. Language processing affects language development. Perception stage involves recognition and decoding of speech sounds or written symbols. Language processing sheds light on human cognition.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language acquisition involves learning new words and grammatical rules.",
+    "retrieved_context": "Processing of language in the brain involves multiple stages. Language processing affects neurorehabilitation. Understanding and producing language is a key aspect of communication and cognition. Language processing affects communication disorders. Processing of language in the brain can be divided into perception, comprehension, production, and acquisition stages. Language acquisition is a lifelong process. Wernicke's area located in left temporal lobe. Language processing is a function of the human brain. Language processing involves multiple regions. Processing of language in the brain involves regions working together. Brain plasticity involves language acquisition. Wernicke's area involves comprehension of language. Language processing involves intricate neural pathways. Language processing affects language development. Children excel at learning new languages due to high brain plasticity. Language processing sheds light on human cognition.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Broca's area is crucial for language production and grammatical processing.",
+    "retrieved_context": "Processing of language in the brain involves multiple stages. Broca's area located in left frontal lobe. Language processing affects neurorehabilitation. Arcuate fasciculus connects Broca's area and Wernicke's area. Processing of language in the brain can be divided into perception, comprehension, production, and acquisition stages. Language processing affects communication disorders. Language processing sheds light on human cognition. Language acquisition is a lifelong process. Language processing is a function of the human brain. Language processing involves multiple regions. Processing of language in the brain involves regions working together. Broca's area involves processing grammatical rules. Language processing involves intricate neural pathways. Brain plasticity involves language acquisition. Language processing affects language development. Understanding and producing language is a key aspect of communication and cognition.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wernicke's area is responsible for language comprehension and semantic processing.",
+    "retrieved_context": "Processing of language in the brain involves multiple stages. Language processing affects neurorehabilitation. Processing of language in the brain can be divided into perception, comprehension, production, and acquisition stages. Language processing affects communication disorders. Wernicke's area located in left temporal lobe. Language acquisition is a lifelong process. Comprehension stage involves integration of phonological, syntactic, and semantic information. Language processing is a function of the human brain. Language processing involves multiple regions. Processing of language in the brain involves regions working together. Brain plasticity involves language acquisition. Wernicke's area involves comprehension of language. Language processing involves intricate neural pathways. Language processing affects language development. Language processing sheds light on human cognition.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

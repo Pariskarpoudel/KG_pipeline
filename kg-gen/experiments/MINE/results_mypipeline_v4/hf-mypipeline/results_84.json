@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Political systems have evolved significantly over human history.",
+    "retrieved_context": "political systems have evolved over human history. decision-making in tribal systems was decentralized among community members. totalitarian regimes emerged with power concentrated in the hands of a single party or leader. French Revolution ushered in the rise of republican forms of government based on liberty, equality, and fraternity. modern democratic systems vest power in the people through free and fair elections. leadership in tribal systems based on personal characteristics such as strength or wisdom. tribal system was one of the earliest forms of political organization. tribal system governed through informal structures based on kinship and shared customs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Political systems adapt to changing needs and values of societies.",
+    "retrieved_context": "political systems have evolved over human history. decision-making in tribal systems was decentralized among community members. totalitarian regimes emerged with power concentrated in the hands of a single party or leader. French Revolution ushered in the rise of republican forms of government based on liberty, equality, and fraternity. modern democratic systems vest power in the people through free and fair elections. leadership in tribal systems based on personal characteristics such as strength or wisdom. democracy based on rule of law, separation of powers, and respect for human rights. tribal system was one of the earliest forms of political organization. tribal system governed through informal structures based on kinship and shared customs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ancient forms of governance existed before modern democracies.",
+    "retrieved_context": "political systems have evolved over human history. monarchies emerged with power concentrated in the hands of a single ruler or a ruling family. constitutional monarchies included systems of checks and balances. totalitarian regimes emerged with power concentrated in the hands of a single party or leader. French Revolution ushered in the rise of republican forms of government based on liberty, equality, and fraternity. modern democratic systems vest power in the people through free and fair elections. democracy based on rule of law, separation of powers, and respect for human rights. tribal system was one of the earliest forms of political organization. tribal system governed through informal structures based on kinship and shared customs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tribal system was one of the earliest forms of political organization.",
+    "retrieved_context": "political systems have evolved over human history. monarchies emerged with power concentrated in the hands of a single ruler or a ruling family. decision-making in tribal systems was decentralized among community members. leadership in tribal systems based on personal characteristics such as strength or wisdom. modern democratic systems vest power in the people through free and fair elections. tribal system was one of the earliest forms of political organization. tribal system governed through informal structures based on kinship and shared customs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Leadership in tribal systems was based on personal characteristics like strength or wisdom.",
+    "retrieved_context": "political systems have evolved over human history. monarchies emerged with power concentrated in the hands of a single ruler or a ruling family. decision-making in tribal systems was decentralized among community members. totalitarian regimes emerged with power concentrated in the hands of a single party or leader. leadership in tribal systems based on personal characteristics such as strength or wisdom. modern democratic systems vest power in the people through free and fair elections. tribal system was one of the earliest forms of political organization. tribal system governed through informal structures based on kinship and shared customs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Decision-making in tribal systems was decentralized among community members.",
+    "retrieved_context": "political systems have evolved over human history. decision-making in tribal systems was decentralized among community members. leadership in tribal systems based on personal characteristics such as strength or wisdom. modern democratic systems vest power in the people through free and fair elections. democracy based on rule of law, separation of powers, and respect for human rights. tribal system was one of the earliest forms of political organization. tribal system governed through informal structures based on kinship and shared customs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Monarchies emerged as societies grew in size and complexity.",
+    "retrieved_context": "political systems have evolved over human history. monarchies emerged with power concentrated in the hands of a single ruler or a ruling family. constitutional monarchies included systems of checks and balances. totalitarian regimes emerged with power concentrated in the hands of a single party or leader. modern democratic systems vest power in the people through free and fair elections. tribal system was one of the earliest forms of political organization. tribal system governed through informal structures based on kinship and shared customs.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Monarchies concentrated power in the hands of a single ruler or ruling family.",
+    "retrieved_context": "monarchies emerged with power concentrated in the hands of a single ruler or a ruling family. constitutional monarchies included systems of checks and balances. totalitarian regimes emerged with power concentrated in the hands of a single party or leader. democracy based on rule of law, separation of powers, and respect for human rights. Montesquieu proposed new ideas about the separation of powers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Monarchies evolved to include systems of checks and balances over time.",
+    "retrieved_context": "political systems have evolved over human history. monarchies emerged with power concentrated in the hands of a single ruler or a ruling family. constitutional monarchies included systems of checks and balances. totalitarian regimes emerged with power concentrated in the hands of a single party or leader. modern democratic systems vest power in the people through free and fair elections.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Enlightenment era marked a turning point in political systems evolution.",
+    "retrieved_context": "political systems have evolved over human history. constitutional monarchies included systems of checks and balances. totalitarian regimes emerged with power concentrated in the hands of a single party or leader. French Revolution ushered in the rise of republican forms of government based on liberty, equality, and fraternity. modern democratic systems vest power in the people through free and fair elections. democracy based on rule of law, separation of powers, and respect for human rights. tribal system was one of the earliest forms of political organization. tribal system governed through informal structures based on kinship and shared customs.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Modern democratic systems are based on ideas of social contract and separation of powers.",
+    "retrieved_context": "political systems have evolved over human history. totalitarian regimes emerged with power concentrated in the hands of a single party or leader. French Revolution ushered in the rise of republican forms of government based on liberty, equality, and fraternity. modern democratic systems vest power in the people through free and fair elections. democracy based on rule of law, separation of powers, and respect for human rights. John Locke proposed new ideas about the social contract. Montesquieu proposed new ideas about the separation of powers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "French Revolution inspired movements for democracy and self-determination worldwide.",
+    "retrieved_context": "monarchies emerged with power concentrated in the hands of a single ruler or a ruling family. totalitarian regimes emerged with power concentrated in the hands of a single party or leader. French Revolution ushered in the rise of republican forms of government based on liberty, equality, and fraternity. modern democratic systems vest power in the people through free and fair elections. democracy based on rule of law, separation of powers, and respect for human rights. John Locke proposed new ideas about the social contract. Montesquieu proposed new ideas about the separation of powers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Totalitarian regimes like fascism and communism centralized power in a single party or leader.",
+    "retrieved_context": "political systems have evolved over human history. constitutional monarchies included systems of checks and balances. totalitarian regimes emerged with power concentrated in the hands of a single party or leader. French Revolution ushered in the rise of republican forms of government based on liberty, equality, and fraternity. modern democratic systems vest power in the people through free and fair elections. democracy based on rule of law, separation of powers, and respect for human rights. tribal system was one of the earliest forms of political organization. tribal system governed through informal structures based on kinship and shared customs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Democracy is the most prevalent form of political system in the world today.",
+    "retrieved_context": "political systems have evolved over human history. totalitarian regimes emerged with power concentrated in the hands of a single party or leader. French Revolution ushered in the rise of republican forms of government based on liberty, equality, and fraternity. modern democratic systems vest power in the people through free and fair elections. democracy based on rule of law, separation of powers, and respect for human rights. tribal system was one of the earliest forms of political organization. tribal system governed through informal structures based on kinship and shared customs.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Democracy is founded on principles of rule of law, separation of powers, and respect for human rights.",
+    "retrieved_context": "political systems have evolved over human history. constitutional monarchies included systems of checks and balances. totalitarian regimes emerged with power concentrated in the hands of a single party or leader. French Revolution ushered in the rise of republican forms of government based on liberty, equality, and fraternity. modern democratic systems vest power in the people through free and fair elections. democracy based on rule of law, separation of powers, and respect for human rights. tribal system was one of the earliest forms of political organization. tribal system governed through informal structures based on kinship and shared customs.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

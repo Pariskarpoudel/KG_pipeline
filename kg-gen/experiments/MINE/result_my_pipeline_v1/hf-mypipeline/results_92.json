@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Transportation is crucial for human civilization development.",
+    "retrieved_context": "evolution of transportation systems driven by need to connect ideas. Transportation transformed societies. Transportation transformed economies. evolution of transportation systems driven by need to connect people. canals led to transport of goods. Transportation will adapt. evolution of transportation systems is_a a driving force behind human progress and innovation. early humans traveled on foot. Transportation will evolve. steam engine transformed transportation history. evolution of transportation systems driven by need to connect goods. railway networks led to transport of goods. commercial aviation led to long-distance travel. Transportation transformed cultures. Transportation driven by development of human civilization. early humans led to early humans to travel. steam engine transformed land travel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Transportation systems connect people, goods, and ideas over long distances.",
+    "retrieved_context": "mobile technology led to ride-sharing services. railway networks led to transport of goods. Transportation will adapt. canals led to transport of goods. Transportation driven by development of human civilization. steam engine transformed land travel. ride-sharing services transformed trip planning. steam engine transformed transportation history. internet led to ride-sharing services. commercial aviation led to long-distance travel. hyperloop technology used to carry passengers. electric vehicles transformed trip planning. hyperloop technology proposed by Elon Musk. evolution of transportation systems driven by need to connect ideas. Transportation transformed societies. Transportation transformed economies. evolution of transportation systems driven by need to connect people. evolution of transportation systems is_a a driving force behind human progress and innovation. Transportation will evolve. evolution of transportation systems driven by need to connect goods. Transportation transformed cultures.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Walking was one of the earliest forms of transportation.",
+    "retrieved_context": "invention of the wheel led to development of wheeled carts. evolution of transportation systems driven by need to connect ideas. Transportation transformed economies. Transportation transformed societies. evolution of transportation systems driven by need to connect people. canals led to transport of goods. Transportation will adapt. steam engine transformed transportation history. early humans traveled on foot. Transportation will evolve. evolution of transportation systems is_a a driving force behind human progress and innovation. evolution of transportation systems driven by need to connect goods. railway networks led to transport of goods. commercial aviation led to long-distance travel. Transportation transformed cultures. Transportation driven by development of human civilization. early humans led to early humans to travel. steam engine transformed land travel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Animals like horses, camels, and oxen were used for transportation in ancient times.",
+    "retrieved_context": "wheeled carts used to carry heavier loads. Transportation transformed economies. railway networks led to transport of goods. Transportation transformed societies. canals led to transport of goods. Transportation will adapt. steam engine transformed transportation history. early humans traveled on foot. Transportation will evolve. horses used to carry goods. Transportation transformed cultures. Transportation driven by development of human civilization. oxen used to carry goods. early humans led to early humans to travel. steam engine transformed land travel. camels used to carry goods.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The invention of the wheel led to wheeled carts and chariots for transportation.",
+    "retrieved_context": "Ford produced automobiles. Transportation will adapt. automobiles emerged_in 20th century. wheeled carts used to carry heavier loads. General Motors produced automobiles. Transportation driven by development of human civilization. airplanes emerged_in 20th century. steam engine transformed land travel. invention of the wheel led to development of wheeled carts. ride-sharing services transformed trip planning. steam engine transformed transportation history. electric vehicles transformed trip planning. evolution of transportation systems driven by need to connect ideas. Transportation transformed economies. Transportation transformed societies. evolution of transportation systems driven by need to connect people. evolution of transportation systems is_a a driving force behind human progress and innovation. Transportation will evolve. evolution of transportation systems driven by need to connect goods. Transportation transformed cultures.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sailing ships enabled travel across oceans and exploration of new lands.",
+    "retrieved_context": "Phoenicians specialized_in maritime trade. steam engine transformed transportation history. early humans traveled on foot. Romans specialized_in maritime trade. steamships transformed sea travel. commercial aviation led to long-distance travel. early humans led to early humans to travel. steam engine transformed land travel. sailing ships led to travel across oceans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Steam engine revolutionized land and sea travel in the 18th century.",
+    "retrieved_context": "Ford produced automobiles. Phoenicians specialized_in maritime trade. General Motors produced automobiles. steam engine transformed transportation history. Romans specialized_in maritime trade. airplanes emerged_in 20th century. steamships transformed sea travel. steam engine transformed land travel. automobiles emerged_in 20th century. sailing ships led to travel across oceans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Steam-powered locomotives and steamships made transportation faster and more reliable.",
+    "retrieved_context": "evolution of transportation systems driven by need to connect ideas. Transportation transformed societies. Transportation transformed economies. railway networks led to transport of goods. canals led to transport of goods. Transportation will adapt. steam engine transformed transportation history. evolution of transportation systems is_a a driving force behind human progress and innovation. Transportation will evolve. evolution of transportation systems driven by need to connect people. evolution of transportation systems driven by need to connect goods. steamships transformed sea travel. Transportation transformed cultures. Transportation driven by development of human civilization. steam engine transformed land travel. sailing ships led to travel across oceans.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Automobiles and airplanes became dominant modes of transportation in the 20th century.",
+    "retrieved_context": "Ford produced automobiles. Transportation will adapt. automobiles emerged_in 20th century. General Motors produced automobiles. Transportation driven by development of human civilization. airplanes emerged_in 20th century. steam engine transformed land travel. steam engine transformed transportation history. commercial aviation led to long-distance travel. hyperloop technology used to carry passengers. hyperloop technology proposed by Elon Musk. evolution of transportation systems driven by need to connect ideas. evolution of transportation systems driven by need to connect people. Transportation transformed economies. Transportation transformed societies. evolution of transportation systems is_a a driving force behind human progress and innovation. Transportation will evolve. evolution of transportation systems driven by need to connect goods. Transportation transformed cultures.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mass production of automobiles made personal transportation more affordable.",
+    "retrieved_context": "Ford produced automobiles. railway networks led to transport of goods. Transportation will adapt. automobiles emerged_in 20th century. General Motors produced automobiles. canals led to transport of goods. Transportation driven by development of human civilization. airplanes emerged_in 20th century. steam engine transformed land travel. ride-sharing services transformed trip planning. steam engine transformed transportation history. electric vehicles transformed trip planning. evolution of transportation systems driven by need to connect ideas. Transportation transformed economies. Transportation transformed societies. evolution of transportation systems driven by need to connect people. evolution of transportation systems is_a a driving force behind human progress and innovation. Transportation will evolve. evolution of transportation systems driven by need to connect goods. Transportation transformed cultures.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Commercial aviation enabled long-distance travel in a matter of hours.",
+    "retrieved_context": "ride-sharing services transformed trip planning. mobile technology led to ride-sharing services. Blue Origin pioneering commercial spaceflight. Transportation transformed economies. Transportation transformed societies. Transportation will adapt. steam engine transformed transportation history. SpaceX pioneering commercial spaceflight. Transportation will evolve. steamships transformed sea travel. internet led to ride-sharing services. commercial aviation led to long-distance travel. steam engine transformed land travel. Transportation transformed cultures. Transportation driven by development of human civilization. airplanes emerged_in 20th century. automobiles emerged_in 20th century. electric vehicles transformed trip planning.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Advancements in technology led to the development of ride-sharing services and electric vehicles.",
+    "retrieved_context": "Ford produced automobiles. mobile technology led to ride-sharing services. Transportation will adapt. automobiles emerged_in 20th century. wheeled carts used to carry heavier loads. General Motors produced automobiles. Transportation driven by development of human civilization. airplanes emerged_in 20th century. steam engine transformed land travel. invention of the wheel led to development of wheeled carts. ride-sharing services transformed trip planning. steam engine transformed transportation history. internet led to ride-sharing services. electric vehicles transformed trip planning. evolution of transportation systems driven by need to connect ideas. Transportation transformed economies. Transportation transformed societies. evolution of transportation systems driven by need to connect people. evolution of transportation systems is_a a driving force behind human progress and innovation. Transportation will evolve. evolution of transportation systems driven by need to connect goods. Transportation transformed cultures.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hyperloop trains aim to transport passengers in high-speed pods through vacuum tubes.",
+    "retrieved_context": "hyperloop technology proposed by Elon Musk. evolution of transportation systems driven by need to connect ideas. Transportation transformed societies. Transportation transformed economies. railway networks led to transport of goods. canals led to transport of goods. Transportation will adapt. steam engine transformed transportation history. evolution of transportation systems is_a a driving force behind human progress and innovation. Transportation will evolve. evolution of transportation systems driven by need to connect people. evolution of transportation systems driven by need to connect goods. commercial aviation led to long-distance travel. Transportation transformed cultures. Transportation driven by development of human civilization. hyperloop technology used to carry passengers. steam engine transformed land travel.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Drones are used for delivery services and aerial surveys in transportation.",
+    "retrieved_context": "ride-sharing services transformed trip planning. mobile technology led to ride-sharing services. Blue Origin pioneering commercial spaceflight. SpaceX pioneering commercial spaceflight. drones used to carry aerial surveys. internet led to ride-sharing services. commercial aviation led to long-distance travel. airplanes emerged_in 20th century. automobiles emerged_in 20th century. electric vehicles transformed trip planning. drones used to carry delivery services.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Space travel is becoming a reality with companies like SpaceX and Blue Origin.",
+    "retrieved_context": "Transportation transformed economies. Blue Origin pioneering commercial spaceflight. Transportation transformed societies. Transportation will adapt. SpaceX pioneering commercial spaceflight. Transportation will evolve. steamships transformed sea travel. commercial aviation led to long-distance travel. Transportation transformed cultures. Transportation driven by development of human civilization. sailing ships led to travel across oceans.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

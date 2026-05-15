@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The human body has defense mechanisms to protect itself against harmful pathogens.",
+    "retrieved_context": "human body has defense mechanisms. T cells are type of white blood cells. immune system has network of cells. acidic environment can kill pathogens. immune system fights off infection. mucous membranes prevents pathogens. skin prevents pathogens from penetrating. rheumatoid arthritis occur when immune system attacks tissues. rheumatoid arthritis are type of rheumatoid arthritis. acidic environment located in stomach. white blood cells are type of white blood cells. immune system restores health. mucous membranes produce mucous membranes. memory cells quickly recognize pathogen. immunological memory has vaccination. skin has protective barrier. complement proteins enhances complement proteins. white blood cells alerts other immune cells. cytokines coordinate immune response. defense mechanisms prevents harmful pathogens. white blood cells mounts immune response. immune system has immunological memory. white blood cells produce complement proteins. complement proteins bind to pathogens. white blood cells can kill pathogens.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The immune system fights off infections to restore health.",
+    "retrieved_context": "T cells are type of white blood cells. immune system has network of cells. natural killer cells can kill infected cells. acidic environment can kill pathogens. immune system fights off infection. mucous membranes prevents pathogens. rheumatoid arthritis occur when immune system attacks tissues. rheumatoid arthritis are type of rheumatoid arthritis. acidic environment located in stomach. white blood cells are type of white blood cells. immune system restores health. white blood cells can kill pathogens. mucous membranes produce mucous membranes. memory cells quickly recognize pathogen. immunological memory has vaccination. white blood cells alerts other immune cells. complement proteins enhances complement proteins. cytokines coordinate immune response. immune system has immunological memory. white blood cells mounts immune response. white blood cells produce complement proteins. complement proteins bind to pathogens. T cells fights off infected cells.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The immune response involves coordinated responses of cells, tissues, and organs.",
+    "retrieved_context": "rheumatoid arthritis occur when immune system attacks tissues. rheumatoid arthritis are type of rheumatoid arthritis. white blood cells mounts immune response. immune system has immunological memory. T cells are type of white blood cells. white blood cells are type of white blood cells. dendritic cells capture and present antigens. immune system restores health. white blood cells produce complement proteins. immune system has network of cells. T cells fights off infected cells. white blood cells alerts other immune cells. natural killer cells can kill infected cells. white blood cells can kill pathogens. immune system fights off infection. cytokines coordinate immune response. immunological memory has vaccination.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Physical barriers prevent pathogens from entering the body.",
+    "retrieved_context": "human body has defense mechanisms. T cells are type of white blood cells. immune system has network of cells. acidic environment can kill pathogens. immune system fights off infection. mucous membranes prevents pathogens. skin prevents pathogens from penetrating. rheumatoid arthritis occur when immune system attacks tissues. rheumatoid arthritis are type of rheumatoid arthritis. acidic environment located in stomach. white blood cells are type of white blood cells. immune system restores health. mucous membranes produce mucous membranes. memory cells quickly recognize pathogen. immunological memory has vaccination. skin has protective barrier. complement proteins enhances complement proteins. white blood cells alerts other immune cells. cytokines coordinate immune response. defense mechanisms prevents harmful pathogens. white blood cells mounts immune response. immune system has immunological memory. white blood cells produce complement proteins. complement proteins bind to pathogens. white blood cells can kill pathogens.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The skin acts as a protective barrier against pathogens.",
+    "retrieved_context": "human body has defense mechanisms. T cells are type of white blood cells. immune system has network of cells. acidic environment can kill pathogens. natural killer cells can kill infected cells. immune system fights off infection. skin prevents pathogens from penetrating. mucous membranes prevents pathogens. rheumatoid arthritis occur when immune system attacks tissues. rheumatoid arthritis are type of rheumatoid arthritis. acidic environment located in stomach. white blood cells are type of white blood cells. immune system restores health. T cells fights off infected cells. mucous membranes produce mucous membranes. memory cells quickly recognize pathogen. immunological memory has vaccination. skin has protective barrier. complement proteins enhances complement proteins. white blood cells alerts other immune cells. defense mechanisms prevents harmful pathogens. white blood cells mounts immune response. immune system has immunological memory. white blood cells produce complement proteins. complement proteins bind to pathogens. white blood cells can kill pathogens.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mucous membranes produce mucus to trap pathogens.",
+    "retrieved_context": "human body has defense mechanisms. T cells are type of white blood cells. immune system has network of cells. natural killer cells can kill infected cells. acidic environment can kill pathogens. immune system fights off infection. skin prevents pathogens from penetrating. mucous membranes prevents pathogens. rheumatoid arthritis occur when immune system attacks tissues. rheumatoid arthritis are type of rheumatoid arthritis. acidic environment located in stomach. white blood cells are type of white blood cells. immune system restores health. white blood cells can kill pathogens. mucous membranes produce mucous membranes. memory cells quickly recognize pathogen. skin has protective barrier. complement proteins enhances complement proteins. white blood cells alerts other immune cells. defense mechanisms prevents harmful pathogens. white blood cells mounts immune response. immune system has immunological memory. complement proteins bind to pathogens. white blood cells produce complement proteins. T cells fights off infected cells.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The acidic environment of the stomach can kill pathogens.",
+    "retrieved_context": "human body has defense mechanisms. T cells are type of white blood cells. immune system has network of cells. acidic environment can kill pathogens. natural killer cells can kill infected cells. immune system fights off infection. skin prevents pathogens from penetrating. mucous membranes prevents pathogens. acidic environment located in stomach. white blood cells are type of white blood cells. immune system restores health. T cells fights off infected cells. mucous membranes produce mucous membranes. memory cells quickly recognize pathogen. skin has protective barrier. complement proteins enhances complement proteins. white blood cells alerts other immune cells. defense mechanisms prevents harmful pathogens. white blood cells mounts immune response. immune system has immunological memory. white blood cells produce complement proteins. complement proteins bind to pathogens. white blood cells can kill pathogens.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "White blood cells are key players in the immune response.",
+    "retrieved_context": "T cells are type of white blood cells. immune system has network of cells. acidic environment can kill pathogens. natural killer cells can kill infected cells. immune system fights off infection. mucous membranes prevents pathogens. rheumatoid arthritis occur when immune system attacks tissues. rheumatoid arthritis are type of rheumatoid arthritis. white blood cells are type of white blood cells. immune system restores health. T cells fights off infected cells. immunological memory has vaccination. white blood cells alerts other immune cells. complement proteins enhances complement proteins. cytokines coordinate immune response. white blood cells mounts immune response. immune system has immunological memory. white blood cells produce complement proteins. complement proteins bind to pathogens. white blood cells can kill pathogens.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neutrophils are the first responders to infections.",
+    "retrieved_context": "human body has defense mechanisms. T cells are type of white blood cells. immune system has network of cells. natural killer cells can kill infected cells. acidic environment can kill pathogens. immune system fights off infection. mucous membranes prevents pathogens. skin prevents pathogens from penetrating. rheumatoid arthritis occur when immune system attacks tissues. rheumatoid arthritis are type of rheumatoid arthritis. acidic environment located in stomach. white blood cells are type of white blood cells. immune system restores health. white blood cells can kill pathogens. mucous membranes produce mucous membranes. memory cells quickly recognize pathogen. skin has protective barrier. complement proteins enhances complement proteins. white blood cells alerts other immune cells. cytokines coordinate immune response. defense mechanisms prevents harmful pathogens. white blood cells mounts immune response. immune system has immunological memory. white blood cells produce complement proteins. complement proteins bind to pathogens. T cells fights off infected cells.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Macrophages patrol the body and alert other immune cells.",
+    "retrieved_context": "rheumatoid arthritis occur when immune system attacks tissues. rheumatoid arthritis are type of rheumatoid arthritis. white blood cells mounts immune response. immune system has immunological memory. T cells are type of white blood cells. white blood cells are type of white blood cells. dendritic cells capture and present antigens. immune system restores health. white blood cells produce complement proteins. immune system has network of cells. T cells fights off infected cells. white blood cells alerts other immune cells. natural killer cells can kill infected cells. white blood cells can kill pathogens. immune system fights off infection. cytokines coordinate immune response. immunological memory has vaccination.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Lymphocytes mount a targeted immune response.",
+    "retrieved_context": "rheumatoid arthritis occur when immune system attacks tissues. rheumatoid arthritis are type of rheumatoid arthritis. white blood cells mounts immune response. immune system has immunological memory. T cells are type of white blood cells. white blood cells are type of white blood cells. dendritic cells capture and present antigens. immune system restores health. white blood cells produce complement proteins. immune system has network of cells. T cells fights off infected cells. white blood cells alerts other immune cells. natural killer cells can kill infected cells. white blood cells can kill pathogens. immune system fights off infection. cytokines coordinate immune response. immunological memory has vaccination.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dendritic cells present antigens to T cells for a specific immune response.",
+    "retrieved_context": "rheumatoid arthritis occur when immune system attacks tissues. rheumatoid arthritis are type of rheumatoid arthritis. white blood cells mounts immune response. dendritic cells capture and present antigens. T cells are type of white blood cells. white blood cells are type of white blood cells. immune system has immunological memory. immune system restores health. white blood cells produce complement proteins. immune system has network of cells. T cells fights off infected cells. white blood cells alerts other immune cells. natural killer cells can kill infected cells. white blood cells can kill pathogens. immune system fights off infection. cytokines coordinate immune response. immunological memory has vaccination.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Natural killer cells can directly kill infected cells.",
+    "retrieved_context": "rheumatoid arthritis occur when immune system attacks tissues. rheumatoid arthritis are type of rheumatoid arthritis. white blood cells mounts immune response. immune system has immunological memory. white blood cells are type of white blood cells. T cells are type of white blood cells. dendritic cells capture and present antigens. immune system restores health. white blood cells can kill pathogens. white blood cells produce complement proteins. immune system has network of cells. white blood cells alerts other immune cells. natural killer cells can kill infected cells. T cells fights off infected cells. immune system fights off infection. cytokines coordinate immune response. immunological memory has vaccination.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Complement proteins enhance the ability of antibodies to destroy pathogens.",
+    "retrieved_context": "human body has defense mechanisms. T cells are type of white blood cells. immune system has network of cells. acidic environment can kill pathogens. immune system fights off infection. mucous membranes prevents pathogens. acidic environment located in stomach. white blood cells are type of white blood cells. dendritic cells capture and present antigens. immune system restores health. mucous membranes produce mucous membranes. memory cells quickly recognize pathogen. immunological memory has vaccination. complement proteins enhances complement proteins. white blood cells alerts other immune cells. cytokines coordinate immune response. defense mechanisms prevents harmful pathogens. white blood cells mounts immune response. immune system has immunological memory. white blood cells produce complement proteins. complement proteins bind to pathogens. white blood cells can kill pathogens.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cytokines coordinate the immune response and regulate immune cell activity.",
+    "retrieved_context": "rheumatoid arthritis occur when immune system attacks tissues. rheumatoid arthritis are type of rheumatoid arthritis. white blood cells mounts immune response. immune system has immunological memory. white blood cells are type of white blood cells. T cells are type of white blood cells. dendritic cells capture and present antigens. immune system restores health. white blood cells produce complement proteins. immune system has network of cells. T cells fights off infected cells. white blood cells alerts other immune cells. natural killer cells can kill infected cells. white blood cells can kill pathogens. immune system fights off infection. cytokines coordinate immune response. immunological memory has vaccination.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

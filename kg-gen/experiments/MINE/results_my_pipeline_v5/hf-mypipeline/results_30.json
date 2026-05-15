@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Coffee is a cultural phenomenon in society.",
+    "retrieved_context": "Coffee plays role in social gatherings and rituals. sharing coffee is hospitality, friendship, and warmth. cafe culture emerged in Paris. knowledge of coffee spread_to Arabian Peninsula. Coffee is cultural phenomenon. Coffee breaks socialization_opportunities colleagues. Coffee central_hubs_for social interaction, political discourse, and business transactions in Europe. Coffee plays role in society. Coffee production employment_opportunities millions of people worldwide. Coffee culture emphasizes quality, sustainability, and ethical sourcing of coffee beans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee is an integral part of people's daily lives.",
+    "retrieved_context": "Coffee houses known as qahveh khaneh. Coffee plays role in social gatherings and rituals. sharing coffee is hospitality, friendship, and warmth. Voltaire frequented coffee houses. knowledge of coffee spread_to Arabian Peninsula. Coffee is cultural phenomenon. Coffee breaks socialization_opportunities colleagues. Coffee central_hubs_for social interaction, political discourse, and business transactions in Europe. Coffee houses emerged in Middle East. Coffee plays role in society. Coffee production employment_opportunities millions of people worldwide. Coffee culture emphasizes quality, sustainability, and ethical sourcing of coffee beans. Rousseau frequented coffee houses.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee's history dates back to ancient times.",
+    "retrieved_context": "Coffee houses known as qahveh khaneh. Coffee plays role in social gatherings and rituals. sharing coffee is hospitality, friendship, and warmth. Voltaire frequented coffee houses. knowledge of coffee spread_to Arabian Peninsula. Coffee is cultural phenomenon. Coffee central_hubs_for social interaction, political discourse, and business transactions in Europe. Coffee houses emerged in Middle East. Coffee plays role in society. Rousseau frequented coffee houses. Coffee production employment_opportunities millions of people worldwide. Coffee culture emphasizes quality, sustainability, and ethical sourcing of coffee beans. coffee beans emerged in Ethiopian plateau.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee originated from the Ethiopian plateau.",
+    "retrieved_context": "Coffee plays role in social gatherings and rituals. sharing coffee is hospitality, friendship, and warmth. knowledge of coffee spread_to Arabian Peninsula. Coffee is cultural phenomenon. Coffee central_hubs_for social interaction, political discourse, and business transactions in Europe. Coffee plays role in society. Coffee production employment_opportunities millions of people worldwide. Coffee culture emphasizes quality, sustainability, and ethical sourcing of coffee beans. coffee beans emerged in Ethiopian plateau.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee was discovered by a goat herder named Kaldi.",
+    "retrieved_context": "Kaldi discovered stimulating effects of coffee beans. Coffee houses known as qahveh khaneh. Coffee plays role in social gatherings and rituals. sharing coffee is hospitality, friendship, and warmth. knowledge of coffee spread_to Arabian Peninsula. Coffee is cultural phenomenon. Coffee central_hubs_for social interaction, political discourse, and business transactions in Europe. Coffee houses emerged in Middle East. Coffee plays role in society. Coffee production employment_opportunities millions of people worldwide. Coffee culture emphasizes quality, sustainability, and ethical sourcing of coffee beans. coffee beans emerged in Ethiopian plateau.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Coffee spread to the Arabian Peninsula.",
+    "retrieved_context": "Coffee houses known as qahveh khaneh. Coffee plays role in social gatherings and rituals. sharing coffee is hospitality, friendship, and warmth. knowledge of coffee spread_to Arabian Peninsula. Coffee is cultural phenomenon. Coffee central_hubs_for social interaction, political discourse, and business transactions in Europe. Coffee houses emerged in Middle East. Coffee plays role in society. Coffee production employment_opportunities millions of people worldwide. Coffee culture emphasizes quality, sustainability, and ethical sourcing of coffee beans. coffee beans emerged in Ethiopian plateau.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee houses emerged in the Middle East as social spaces.",
+    "retrieved_context": "Voltaire frequented coffee houses. sharing coffee is hospitality, friendship, and warmth. cafe culture emerged in Paris. Coffee production employment_opportunities millions of people worldwide. knowledge of coffee spread_to Arabian Peninsula. Coffee houses emerged in Middle East. Coffee houses known as qahveh khaneh. Coffee culture emphasizes quality, sustainability, and ethical sourcing of coffee beans. Rousseau frequented coffee houses.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee reached Europe by the 17th century.",
+    "retrieved_context": "Coffee houses known as qahveh khaneh. Coffee plays role in social gatherings and rituals. sharing coffee is hospitality, friendship, and warmth. Voltaire frequented coffee houses. knowledge of coffee spread_to Arabian Peninsula. Coffee is cultural phenomenon. Coffee breaks socialization_opportunities colleagues. Coffee central_hubs_for social interaction, political discourse, and business transactions in Europe. Coffee houses emerged in Middle East. Coffee plays role in society. Coffee production employment_opportunities millions of people worldwide. Coffee culture emphasizes quality, sustainability, and ethical sourcing of coffee beans. Rousseau frequented coffee houses.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Coffee houses in Europe were hubs for social interaction.",
+    "retrieved_context": "Voltaire frequented coffee houses. sharing coffee is hospitality, friendship, and warmth. Coffee plays role in social gatherings and rituals. cafe culture emerged in Paris. Coffee production employment_opportunities millions of people worldwide. knowledge of coffee spread_to Arabian Peninsula. Coffee is cultural phenomenon. Coffee houses emerged in Middle East. Coffee central_hubs_for social interaction, political discourse, and business transactions in Europe. Coffee plays role in society. Coffee houses known as qahveh khaneh. Coffee culture emphasizes quality, sustainability, and ethical sourcing of coffee beans. Rousseau frequented coffee houses.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee played a pivotal role in the Enlightenment period.",
+    "retrieved_context": "Kaldi discovered stimulating effects of coffee beans. Coffee plays role in social gatherings and rituals. sharing coffee is hospitality, friendship, and warmth. knowledge of coffee spread_to Arabian Peninsula. Coffee is cultural phenomenon. Coffee central_hubs_for social interaction, political discourse, and business transactions in Europe. Coffee plays role in society. Coffee production employment_opportunities millions of people worldwide. Coffee culture emphasizes quality, sustainability, and ethical sourcing of coffee beans. coffee beans emerged in Ethiopian plateau.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Coffee consumption is global in the modern era.",
+    "retrieved_context": "Coffee houses known as qahveh khaneh. Coffee plays role in social gatherings and rituals. sharing coffee is hospitality, friendship, and warmth. Voltaire frequented coffee houses. knowledge of coffee spread_to Arabian Peninsula. Coffee is cultural phenomenon. Coffee central_hubs_for social interaction, political discourse, and business transactions in Europe. Coffee houses emerged in Middle East. Coffee plays role in society. Coffee production employment_opportunities millions of people worldwide. Coffee culture emphasizes quality, sustainability, and ethical sourcing of coffee beans. Rousseau frequented coffee houses.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Coffee chains like Starbucks have transformed coffee consumption.",
+    "retrieved_context": "Coffee houses known as qahveh khaneh. Coffee plays role in social gatherings and rituals. Voltaire frequented coffee houses. knowledge of coffee spread_to Arabian Peninsula. Coffee is cultural phenomenon. Coffee breaks socialization_opportunities colleagues. Coffee central_hubs_for social interaction, political discourse, and business transactions in Europe. Coffee houses emerged in Middle East. Coffee plays role in society. Coffee production employment_opportunities millions of people worldwide. Coffee culture emphasizes quality, sustainability, and ethical sourcing of coffee beans. Rousseau frequented coffee houses.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Coffee is a symbol of social status and lifestyle.",
+    "retrieved_context": "Coffee plays role in social gatherings and rituals. sharing coffee is hospitality, friendship, and warmth. Voltaire frequented coffee houses. Coffee production employment_opportunities millions of people worldwide. knowledge of coffee spread_to Arabian Peninsula. Coffee is cultural phenomenon. Coffee central_hubs_for social interaction, political discourse, and business transactions in Europe. Coffee houses emerged in Middle East. Coffee plays role in society. Coffee houses known as qahveh khaneh. Coffee culture emphasizes quality, sustainability, and ethical sourcing of coffee beans. Rousseau frequented coffee houses.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Coffee is associated with productivity and focus.",
+    "retrieved_context": "Kaldi discovered stimulating effects of coffee beans. Coffee plays role in social gatherings and rituals. sharing coffee is hospitality, friendship, and warmth. knowledge of coffee spread_to Arabian Peninsula. Coffee is cultural phenomenon. Coffee breaks socialization_opportunities colleagues. Coffee central_hubs_for social interaction, political discourse, and business transactions in Europe. Coffee plays role in society. Coffee production employment_opportunities millions of people worldwide. Coffee culture emphasizes quality, sustainability, and ethical sourcing of coffee beans. coffee beans emerged in Ethiopian plateau.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Coffee breaks are opportunities for socializing.",
+    "retrieved_context": "Coffee plays role in social gatherings and rituals. sharing coffee is hospitality, friendship, and warmth. Voltaire frequented coffee houses. Coffee production employment_opportunities millions of people worldwide. knowledge of coffee spread_to Arabian Peninsula. Coffee breaks socialization_opportunities colleagues. Coffee is cultural phenomenon. Coffee central_hubs_for social interaction, political discourse, and business transactions in Europe. Coffee houses emerged in Middle East. Coffee plays role in society. Coffee houses known as qahveh khaneh. Coffee culture emphasizes quality, sustainability, and ethical sourcing of coffee beans. Rousseau frequented coffee houses.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

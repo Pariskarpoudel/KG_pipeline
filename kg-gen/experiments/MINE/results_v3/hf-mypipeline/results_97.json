@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Volunteerism fosters a sense of community in society.",
+    "retrieved_context": "Volunteers provides education. Volunteers provides essential services. Volunteerism promotes social bonds. Volunteerism provides self-discovery. Volunteers dedicates resources. Volunteers provides healthcare. Volunteers provides vulnerable populations. Volunteers provides environmental conservation. Volunteerism provides opportunities for personal growth. Volunteers provides social justice. Volunteerism promotes a sense of community. Volunteerism promotes unity. Volunteerism provides skill development. Volunteerism promotes social responsibility. Volunteers dedicates time. Volunteerism creates connections. Volunteers dedicates skills. Volunteerism promotes society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Volunteers dedicate their time, skills, and resources to support causes and organizations.",
+    "retrieved_context": "Volunteers provides education. Volunteers provides healthcare. Volunteers provides essential services. Volunteers dedicates resources. Volunteerism promotes social bonds. Volunteerism provides self-discovery. Volunteers provides vulnerable populations. Volunteers provides environmental conservation. Volunteerism provides opportunities for personal growth. Volunteers provides social justice. Volunteerism promotes a sense of community. Volunteerism promotes unity. Volunteers dedicates time. Volunteerism provides skill development. Volunteers dedicates skills. Volunteerism creates connections. Volunteerism promotes social responsibility. Volunteerism promotes society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Volunteerism promotes social responsibility.",
+    "retrieved_context": "Volunteers provides education. Volunteers provides essential services. Volunteerism promotes social bonds. Volunteerism provides self-discovery. Volunteers dedicates resources. Volunteers provides healthcare. Volunteers provides vulnerable populations. Volunteers provides environmental conservation. Volunteerism provides opportunities for personal growth. Volunteers provides social justice. Volunteerism promotes a sense of community. Volunteerism promotes unity. Volunteerism provides skill development. Volunteerism promotes social responsibility. Volunteers dedicates time. Volunteerism creates connections. Volunteers dedicates skills. Volunteerism promotes society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Volunteers encourage individuals to take an active role in addressing social issues.",
+    "retrieved_context": "Volunteers provides education. Volunteers provides healthcare. Volunteers provides essential services. Volunteers dedicates resources. Volunteerism promotes social bonds. Volunteerism provides self-discovery. Volunteers provides vulnerable populations. Volunteers provides environmental conservation. Volunteerism provides opportunities for personal growth. Volunteers provides social justice. Volunteerism promotes a sense of community. Volunteerism promotes unity. Volunteers dedicates time. Volunteerism provides skill development. Volunteers dedicates skills. Volunteerism creates connections. Volunteerism promotes social responsibility. Volunteerism promotes society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Volunteers support causes such as education, healthcare, environmental conservation, and social justice.",
+    "retrieved_context": "Volunteers provides education. Volunteers provides essential services. Volunteerism promotes social bonds. Volunteerism provides self-discovery. Volunteers dedicates resources. Volunteers provides healthcare. Volunteers provides vulnerable populations. Volunteers provides environmental conservation. Volunteerism provides opportunities for personal growth. Volunteers provides social justice. Volunteerism promotes a sense of community. Volunteerism promotes unity. Volunteerism provides skill development. Volunteerism promotes social responsibility. Volunteers dedicates time. Volunteerism creates connections. Volunteers dedicates skills. Volunteerism promotes society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Volunteerism addresses critical needs within society.",
+    "retrieved_context": "Volunteers provides education. Volunteers provides essential services. Volunteerism promotes social bonds. Volunteerism provides self-discovery. Volunteers dedicates resources. Volunteers provides healthcare. Volunteers provides vulnerable populations. Volunteers provides environmental conservation. Volunteerism provides opportunities for personal growth. Volunteers provides social justice. Volunteerism promotes a sense of community. Volunteerism promotes unity. Volunteerism provides skill development. Volunteerism promotes social responsibility. Volunteers dedicates time. Volunteerism creates connections. Volunteers dedicates skills. Volunteerism promotes society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Volunteers provide essential services and support to vulnerable populations.",
+    "retrieved_context": "Volunteers provides education. Volunteers provides healthcare. Volunteers provides essential services. Volunteers dedicates resources. Volunteerism promotes social bonds. Volunteerism provides self-discovery. Volunteers provides vulnerable populations. Volunteers provides environmental conservation. Volunteerism provides opportunities for personal growth. Volunteers provides social justice. Volunteerism promotes a sense of community. Volunteerism promotes unity. Volunteers dedicates time. Volunteerism provides skill development. Volunteers dedicates skills. Volunteerism creates connections. Volunteerism promotes social responsibility. Volunteerism promotes society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Volunteers contribute to disaster relief efforts and environmental conservation projects.",
+    "retrieved_context": "Volunteers provides education. Volunteers provides healthcare. Volunteers provides essential services. Volunteers dedicates resources. Volunteerism promotes social bonds. Volunteerism provides self-discovery. Volunteers provides vulnerable populations. Volunteers provides environmental conservation. Volunteerism provides opportunities for personal growth. Volunteers provides social justice. Volunteerism promotes a sense of community. Volunteerism promotes unity. Volunteers dedicates time. Volunteerism provides skill development. Volunteers dedicates skills. Volunteerism creates connections. Volunteerism promotes social responsibility. Volunteerism promotes society.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Volunteering provides opportunities for personal growth and skill development.",
+    "retrieved_context": "Volunteers provides education. Volunteers provides essential services. Volunteerism promotes social bonds. Volunteerism provides self-discovery. Volunteers dedicates resources. Volunteers provides healthcare. Volunteers provides vulnerable populations. Volunteers provides environmental conservation. Volunteerism provides opportunities for personal growth. Volunteers provides social justice. Volunteerism promotes a sense of community. Volunteerism promotes unity. Volunteerism provides skill development. Volunteerism promotes social responsibility. Volunteers dedicates time. Volunteerism creates connections. Volunteers dedicates skills. Volunteerism promotes society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Volunteering can boost self-esteem and improve mental health.",
+    "retrieved_context": "Volunteers provides education. Volunteers provides essential services. Volunteerism promotes social bonds. Volunteerism provides self-discovery. Volunteers dedicates resources. Volunteers provides healthcare. Volunteers provides vulnerable populations. Volunteers provides environmental conservation. Volunteerism provides opportunities for personal growth. Volunteers provides social justice. Volunteerism promotes a sense of community. Volunteerism promotes unity. Volunteerism provides skill development. Volunteerism promotes social responsibility. Volunteers dedicates time. Volunteerism creates connections. Volunteers dedicates skills. Volunteerism promotes society.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Volunteerism is a vital component of a healthy society.",
+    "retrieved_context": "Volunteers provides education. Volunteers provides essential services. Volunteerism promotes social bonds. Volunteerism provides self-discovery. Volunteers dedicates resources. Volunteers provides healthcare. Volunteers provides vulnerable populations. Volunteers provides environmental conservation. Volunteerism provides opportunities for personal growth. Volunteers provides social justice. Volunteerism promotes a sense of community. Volunteerism promotes unity. Volunteerism provides skill development. Volunteerism promotes social responsibility. Volunteers dedicates time. Volunteerism creates connections. Volunteers dedicates skills. Volunteerism promotes society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Volunteers play a crucial role in creating positive change.",
+    "retrieved_context": "Volunteers provides education. Volunteers provides healthcare. Volunteers provides essential services. Volunteers dedicates resources. Volunteerism promotes social bonds. Volunteerism provides self-discovery. Volunteers provides vulnerable populations. Volunteers provides environmental conservation. Volunteerism provides opportunities for personal growth. Volunteers provides social justice. Volunteerism promotes a sense of community. Volunteerism promotes unity. Volunteers dedicates time. Volunteerism provides skill development. Volunteers dedicates skills. Volunteerism creates connections. Volunteerism promotes social responsibility. Volunteerism promotes society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Volunteers contribute to the well-being of their communities.",
+    "retrieved_context": "Volunteers provides education. Volunteers provides healthcare. Volunteers provides essential services. Volunteers dedicates resources. Volunteerism promotes social bonds. Volunteerism provides self-discovery. Volunteers provides vulnerable populations. Volunteers provides environmental conservation. Volunteerism provides opportunities for personal growth. Volunteers provides social justice. Volunteerism promotes a sense of community. Volunteerism promotes unity. Volunteers dedicates time. Volunteerism provides skill development. Volunteers dedicates skills. Volunteerism creates connections. Volunteerism promotes social responsibility. Volunteerism promotes society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Volunteerism should be encouraged as an essential aspect of civic engagement.",
+    "retrieved_context": "Volunteers provides education. Volunteers provides essential services. Volunteerism promotes social bonds. Volunteerism provides self-discovery. Volunteers dedicates resources. Volunteers provides healthcare. Volunteers provides vulnerable populations. Volunteers provides environmental conservation. Volunteerism provides opportunities for personal growth. Volunteers provides social justice. Volunteerism promotes a sense of community. Volunteerism promotes unity. Volunteerism provides skill development. Volunteerism promotes social responsibility. Volunteers dedicates time. Volunteerism creates connections. Volunteers dedicates skills. Volunteerism promotes society.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Volunteerism helps to build a more compassionate and inclusive society.",
+    "retrieved_context": "Volunteers provides education. Volunteers provides essential services. Volunteerism promotes social bonds. Volunteerism provides self-discovery. Volunteers dedicates resources. Volunteers provides healthcare. Volunteers provides vulnerable populations. Volunteers provides environmental conservation. Volunteerism provides opportunities for personal growth. Volunteers provides social justice. Volunteerism promotes a sense of community. Volunteerism promotes unity. Volunteerism provides skill development. Volunteerism promotes social responsibility. Volunteers dedicates time. Volunteerism creates connections. Volunteers dedicates skills. Volunteerism promotes society.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Hoaxes have been a part of human history for centuries.",
+    "retrieved_context": "Sokal Affair created by Alan Sokal. Piltdown Man discovered_in 1912. Sokal Affair published in Social Text journal. War of the Worlds radio broadcast broadcast_by Orson Welles. Han van Meegeren created by fake Vermeer paintings. War of the Worlds radio broadcast presented as news bulletins interrupting regular programming. Piltdown Man revealed as forgery in 1953. Piltdown Man presented as fossilized hominid skull.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Individuals and groups perpetrate elaborate deceptions for various purposes.",
+    "retrieved_context": "Sokal Affair created by Alan Sokal. Sokal Affair published in Social Text journal. Piltdown Man discovered_in 1912. War of the Worlds radio broadcast broadcast_by Orson Welles. Han van Meegeren created by fake Vermeer paintings. War of the Worlds radio broadcast presented as news bulletins interrupting regular programming. Piltdown Man revealed as forgery in 1953. Piltdown Man presented as fossilized hominid skull.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hoaxes often capture the public's imagination.",
+    "retrieved_context": "Sokal Affair created by Alan Sokal. Piltdown Man discovered_in 1912. Sokal Affair published in Social Text journal. War of the Worlds radio broadcast broadcast_by Orson Welles. Han van Meegeren created by fake Vermeer paintings. War of the Worlds radio broadcast presented as news bulletins interrupting regular programming. Piltdown Man revealed as forgery in 1953. Piltdown Man presented as fossilized hominid skull.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hoaxes spark debate about the nature of truth and deception.",
+    "retrieved_context": "Sokal Affair created by Alan Sokal. Sokal Affair published in Social Text journal. Piltdown Man discovered_in 1912. War of the Worlds radio broadcast broadcast_by Orson Welles. Han van Meegeren created by fake Vermeer paintings. War of the Worlds radio broadcast presented as news bulletins interrupting regular programming. Piltdown Man revealed as forgery in 1953. Piltdown Man presented as fossilized hominid skull.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Piltdown Man hoax was discovered in England in 1912.",
+    "retrieved_context": "Cardiff Giant discovered_in 1869. Piltdown Man discovered_in 1912. War of the Worlds radio broadcast broadcast_by Orson Welles. Han van Meegeren created by fake Vermeer paintings. War of the Worlds radio broadcast presented as news bulletins interrupting regular programming. Cardiff Giant created by George Hull. Piltdown Man revealed as forgery in 1953. Piltdown Man presented as fossilized hominid skull.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Piltdown Man was a supposed missing link between humans and apes.",
+    "retrieved_context": "Cardiff Giant discovered_in 1869. Piltdown Man discovered_in 1912. War of the Worlds radio broadcast broadcast_by Orson Welles. Han van Meegeren created by fake Vermeer paintings. War of the Worlds radio broadcast presented as news bulletins interrupting regular programming. Cardiff Giant created by George Hull. Piltdown Man revealed as forgery in 1953. Piltdown Man presented as fossilized hominid skull.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Piltdown Man was revealed to be a forgery in 1953.",
+    "retrieved_context": "Cardiff Giant discovered_in 1869. Sokal Affair created by Alan Sokal. Piltdown Man discovered_in 1912. Sokal Affair published in Social Text journal. War of the Worlds radio broadcast broadcast_by Orson Welles. Han van Meegeren created by fake Vermeer paintings. War of the Worlds radio broadcast presented as news bulletins interrupting regular programming. Cardiff Giant created by George Hull. Piltdown Man revealed as forgery in 1953. Piltdown Man presented as fossilized hominid skull.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Cardiff Giant hoax was discovered in Cardiff, New York, in 1869.",
+    "retrieved_context": "Cardiff Giant discovered_in 1869. Piltdown Man discovered_in 1912. War of the Worlds radio broadcast broadcast_by Orson Welles. Han van Meegeren created by fake Vermeer paintings. War of the Worlds radio broadcast presented as news bulletins interrupting regular programming. Cardiff Giant created by George Hull. Piltdown Man revealed as forgery in 1953. Piltdown Man presented as fossilized hominid skull.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Cardiff Giant was later revealed to be a sculpture created by George Hull.",
+    "retrieved_context": "Cardiff Giant discovered_in 1869. Piltdown Man discovered_in 1912. Han van Meegeren created by fake Vermeer paintings. Cardiff Giant created by George Hull. Piltdown Man revealed as forgery in 1953. Piltdown Man presented as fossilized hominid skull.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The War of the Worlds radio broadcast by Orson Welles occurred in 1938.",
+    "retrieved_context": "Cardiff Giant discovered_in 1869. Piltdown Man discovered_in 1912. War of the Worlds radio broadcast broadcast_by Orson Welles. Han van Meegeren created by fake Vermeer paintings. War of the Worlds radio broadcast presented as news bulletins interrupting regular programming. Cardiff Giant created by George Hull. Piltdown Man revealed as forgery in 1953. Piltdown Man presented as fossilized hominid skull.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The War of the Worlds broadcast led to panic and confusion.",
+    "retrieved_context": "Cardiff Giant discovered_in 1869. Sokal Affair created by Alan Sokal. Piltdown Man discovered_in 1912. Sokal Affair published in Social Text journal. War of the Worlds radio broadcast broadcast_by Orson Welles. War of the Worlds radio broadcast presented as news bulletins interrupting regular programming. Cardiff Giant created by George Hull. Piltdown Man revealed as forgery in 1953. Piltdown Man presented as fossilized hominid skull.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Han van Meegeren created and sold fake Vermeer paintings during the 1930s and 1940s.",
+    "retrieved_context": "Cardiff Giant discovered_in 1869. Piltdown Man discovered_in 1912. War of the Worlds radio broadcast broadcast_by Orson Welles. Han van Meegeren created by fake Vermeer paintings. War of the Worlds radio broadcast presented as news bulletins interrupting regular programming. Cardiff Giant created by George Hull. Piltdown Man revealed as forgery in 1953. Piltdown Man presented as fossilized hominid skull.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Sokal Affair of 1996 exposed the shortcomings of postmodernist academic discourse.",
+    "retrieved_context": "Cardiff Giant discovered_in 1869. Sokal Affair created by Alan Sokal. Piltdown Man discovered_in 1912. Sokal Affair published in Social Text journal. War of the Worlds radio broadcast broadcast_by Orson Welles. War of the Worlds radio broadcast presented as news bulletins interrupting regular programming. Cardiff Giant created by George Hull. Piltdown Man revealed as forgery in 1953. Piltdown Man presented as fossilized hominid skull.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Alan Sokal submitted a fake paper to the journal Social Text.",
+    "retrieved_context": "Cardiff Giant discovered_in 1869. Sokal Affair created by Alan Sokal. Piltdown Man discovered_in 1912. Sokal Affair published in Social Text journal. War of the Worlds radio broadcast broadcast_by Orson Welles. Han van Meegeren created by fake Vermeer paintings. War of the Worlds radio broadcast presented as news bulletins interrupting regular programming. Cardiff Giant created by George Hull. Piltdown Man revealed as forgery in 1953. Piltdown Man presented as fossilized hominid skull.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hoaxes have tested the boundaries of truth and fiction.",
+    "retrieved_context": "Sokal Affair created by Alan Sokal. Piltdown Man discovered_in 1912. Sokal Affair published in Social Text journal. War of the Worlds radio broadcast broadcast_by Orson Welles. Han van Meegeren created by fake Vermeer paintings. War of the Worlds radio broadcast presented as news bulletins interrupting regular programming. Piltdown Man revealed as forgery in 1953. Piltdown Man presented as fossilized hominid skull.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

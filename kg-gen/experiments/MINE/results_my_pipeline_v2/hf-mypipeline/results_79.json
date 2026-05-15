@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Consumer behavior is a study area within psychology.",
+    "retrieved_context": "Perception is influenced by consumer behavior. Attitudes encompasses feelings. Consumer behavior is a psychology. motivation driven_by intrinsic motivations. Perception is influenced by marketing messages. motivation experiences post-purchase evaluation. motivation driven_by extrinsic motivations. Decision-making processes encompasses cognitive factors. Attitudes encompasses behaviors. Cultural factors is influenced by consumer behavior. Attitudes is influenced by consumer behavior. Culture encompasses beliefs. motivation is influenced by consumer behavior. motivation experiences evaluation of alternatives. Consumer behavior is a complex area of study. Decision-making processes encompasses emotional factors. motivation experiences purchase decision. motivation experiences information search. motivation experiences problem recognition. Decision-making processes encompasses behavioral factors. Attitudes encompasses beliefs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding consumer purchasing decisions is crucial for businesses.",
+    "retrieved_context": "Perception is influenced by consumer behavior. Attitudes encompasses feelings. Consumer behavior is a psychology. businesses markets products and services. motivation driven_by intrinsic motivations. Perception is influenced by marketing messages. motivation experiences post-purchase evaluation. motivation driven_by extrinsic motivations. Decision-making processes encompasses cognitive factors. Attitudes encompasses behaviors. Cultural factors is influenced by consumer behavior. Attitudes is influenced by consumer behavior. motivation is influenced by consumer behavior. motivation experiences evaluation of alternatives. Consumer behavior is a complex area of study. Decision-making processes encompasses emotional factors. motivation experiences purchase decision. motivation experiences information search. motivation experiences problem recognition. Decision-making processes encompasses behavioral factors. Attitudes encompasses beliefs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Motivation influences consumer behavior.",
+    "retrieved_context": "Perception is influenced by consumer behavior. Attitudes encompasses feelings. Consumer behavior is a psychology. motivation driven_by intrinsic motivations. Perception is influenced by marketing messages. motivation experiences post-purchase evaluation. motivation driven_by extrinsic motivations. Decision-making processes encompasses cognitive factors. intrinsic motivation refers to internal factors. Attitudes encompasses behaviors. Cultural factors is influenced by consumer behavior. Attitudes is influenced by consumer behavior. motivation is influenced by consumer behavior. motivation experiences evaluation of alternatives. Consumer behavior is a complex area of study. Decision-making processes encompasses emotional factors. extrinsic motivation is influenced by external factors. motivation experiences purchase decision. motivation experiences information search. motivation experiences problem recognition. Decision-making processes encompasses behavioral factors. Attitudes encompasses beliefs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Consumers are driven by intrinsic and extrinsic motivations.",
+    "retrieved_context": "Perception is influenced by consumer behavior. Attitudes encompasses feelings. Consumer behavior is a psychology. motivation driven_by intrinsic motivations. Perception is influenced by marketing messages. motivation experiences post-purchase evaluation. motivation driven_by extrinsic motivations. Decision-making processes encompasses cognitive factors. intrinsic motivation refers to internal factors. Attitudes encompasses behaviors. Cultural factors is influenced by consumer behavior. Attitudes is influenced by consumer behavior. motivation is influenced by consumer behavior. motivation experiences evaluation of alternatives. Consumer behavior is a complex area of study. Decision-making processes encompasses emotional factors. extrinsic motivation is influenced by external factors. motivation experiences purchase decision. motivation experiences information search. motivation experiences problem recognition. Decision-making processes encompasses behavioral factors. Attitudes encompasses beliefs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Intrinsic motivation includes personal preferences and values.",
+    "retrieved_context": "Perception is influenced by consumer behavior. Attitudes encompasses feelings. Consumer behavior is a psychology. motivation driven_by intrinsic motivations. motivation experiences post-purchase evaluation. motivation driven_by extrinsic motivations. Decision-making processes encompasses cognitive factors. intrinsic motivation refers to internal factors. Attitudes encompasses behaviors. Cultural factors is influenced by consumer behavior. Attitudes is influenced by consumer behavior. Culture encompasses beliefs. motivation is influenced by consumer behavior. motivation experiences evaluation of alternatives. Decision-making processes encompasses emotional factors. Consumer behavior is a complex area of study. extrinsic motivation is influenced by external factors. motivation experiences purchase decision. motivation experiences information search. motivation experiences problem recognition. Decision-making processes encompasses behavioral factors. Attitudes encompasses beliefs.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Extrinsic motivation is influenced by external factors like social norms.",
+    "retrieved_context": "Attitudes is influenced by consumer behavior. motivation experiences post-purchase evaluation. motivation driven_by extrinsic motivations. motivation is influenced by consumer behavior. Decision-making processes encompasses cognitive factors. Perception is influenced by consumer behavior. motivation experiences evaluation of alternatives. Decision-making processes encompasses emotional factors. extrinsic motivation is influenced by external factors. motivation experiences purchase decision. motivation experiences information search. intrinsic motivation refers to internal factors. motivation experiences problem recognition. Cultural factors is influenced by consumer behavior. Decision-making processes encompasses behavioral factors. motivation driven_by intrinsic motivations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Perception shapes consumer behavior.",
+    "retrieved_context": "Perception is influenced by consumer behavior. Attitudes encompasses feelings. Consumer behavior is a psychology. motivation driven_by intrinsic motivations. Perception is influenced by marketing messages. motivation experiences post-purchase evaluation. motivation driven_by extrinsic motivations. Decision-making processes encompasses cognitive factors. Attitudes encompasses behaviors. Cultural factors is influenced by consumer behavior. Attitudes is influenced by consumer behavior. Culture encompasses beliefs. motivation is influenced by consumer behavior. motivation experiences evaluation of alternatives. Consumer behavior is a complex area of study. Decision-making processes encompasses emotional factors. motivation experiences purchase decision. motivation experiences information search. motivation experiences problem recognition. Decision-making processes encompasses behavioral factors. Attitudes encompasses beliefs.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Consumer perception is influenced by marketing messages.",
+    "retrieved_context": "Perception is influenced by consumer behavior. Attitudes encompasses feelings. Consumer behavior is a psychology. motivation driven_by intrinsic motivations. Perception is influenced by marketing messages. motivation experiences post-purchase evaluation. motivation driven_by extrinsic motivations. Decision-making processes encompasses cognitive factors. Attitudes encompasses behaviors. Cultural factors is influenced by consumer behavior. Attitudes is influenced by consumer behavior. Culture encompasses beliefs. motivation is influenced by consumer behavior. motivation experiences evaluation of alternatives. Consumer behavior is a complex area of study. Decision-making processes encompasses emotional factors. motivation experiences purchase decision. motivation experiences information search. motivation experiences problem recognition. Decision-making processes encompasses behavioral factors. Attitudes encompasses beliefs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Attitudes impact consumer behavior.",
+    "retrieved_context": "Perception is influenced by consumer behavior. Attitudes encompasses feelings. Consumer behavior is a psychology. motivation driven_by intrinsic motivations. Perception is influenced by marketing messages. motivation experiences post-purchase evaluation. motivation driven_by extrinsic motivations. Decision-making processes encompasses cognitive factors. Attitudes encompasses behaviors. Cultural factors is influenced by consumer behavior. Attitudes is influenced by consumer behavior. Culture encompasses beliefs. motivation is influenced by consumer behavior. motivation experiences evaluation of alternatives. Consumer behavior is a complex area of study. Decision-making processes encompasses emotional factors. motivation experiences purchase decision. motivation experiences information search. motivation experiences problem recognition. Decision-making processes encompasses behavioral factors. Attitudes encompasses beliefs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Attitudes are a combination of beliefs, feelings, and behaviors.",
+    "retrieved_context": "Attitudes is influenced by consumer behavior. Culture encompasses beliefs. motivation is influenced by consumer behavior. Attitudes encompasses behaviors. Culture encompasses norms. Consumer behavior is a psychology. Decision-making processes encompasses cognitive factors. Perception is influenced by consumer behavior. Attitudes encompasses feelings. Culture encompasses values. Decision-making processes encompasses emotional factors. Consumer behavior is a complex area of study. Cultural factors is influenced by consumer behavior. Decision-making processes encompasses behavioral factors. Perception is influenced by marketing messages. Attitudes encompasses beliefs. Culture encompasses customs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Decision-making processes involve cognitive, emotional, and behavioral factors.",
+    "retrieved_context": "Attitudes encompasses feelings. Perception is influenced by consumer behavior. Consumer behavior is a psychology. motivation driven_by intrinsic motivations. motivation experiences post-purchase evaluation. motivation driven_by extrinsic motivations. Decision-making processes encompasses cognitive factors. Attitudes encompasses behaviors. Cultural factors is influenced by consumer behavior. Attitudes is influenced by consumer behavior. Culture encompasses beliefs. motivation is influenced by consumer behavior. motivation experiences evaluation of alternatives. Consumer behavior is a complex area of study. Decision-making processes encompasses emotional factors. motivation experiences purchase decision. motivation experiences information search. motivation experiences problem recognition. Decision-making processes encompasses behavioral factors. Attitudes encompasses beliefs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Consumers go through stages like problem recognition and information search.",
+    "retrieved_context": "Perception is influenced by consumer behavior. Attitudes encompasses feelings. Consumer behavior is a psychology. businesses markets products and services. motivation driven_by intrinsic motivations. Perception is influenced by marketing messages. motivation experiences post-purchase evaluation. motivation driven_by extrinsic motivations. Decision-making processes encompasses cognitive factors. Attitudes encompasses behaviors. Cultural factors is influenced by consumer behavior. Attitudes is influenced by consumer behavior. motivation is influenced by consumer behavior. motivation experiences evaluation of alternatives. Consumer behavior is a complex area of study. Decision-making processes encompasses emotional factors. motivation experiences purchase decision. motivation experiences information search. motivation experiences problem recognition. Decision-making processes encompasses behavioral factors. Attitudes encompasses beliefs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cultural factors influence consumer preferences and decision-making.",
+    "retrieved_context": "Perception is influenced by consumer behavior. Attitudes encompasses feelings. Consumer behavior is a psychology. motivation driven_by intrinsic motivations. Perception is influenced by marketing messages. motivation experiences post-purchase evaluation. motivation driven_by extrinsic motivations. Decision-making processes encompasses cognitive factors. Culture encompasses values. Culture encompasses customs. Attitudes encompasses behaviors. Cultural factors is influenced by consumer behavior. Attitudes is influenced by consumer behavior. Culture encompasses norms. motivation is influenced by consumer behavior. Culture encompasses beliefs. motivation experiences evaluation of alternatives. Consumer behavior is a complex area of study. Decision-making processes encompasses emotional factors. motivation experiences purchase decision. motivation experiences information search. motivation experiences problem recognition. Decision-making processes encompasses behavioral factors. Attitudes encompasses beliefs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Culture includes values, beliefs, customs, and norms.",
+    "retrieved_context": "Attitudes is influenced by consumer behavior. Culture encompasses norms. Culture encompasses beliefs. motivation is influenced by consumer behavior. Attitudes encompasses behaviors. Perception is influenced by consumer behavior. Attitudes encompasses feelings. Culture encompasses values. Cultural factors is influenced by consumer behavior. Attitudes encompasses beliefs. Culture encompasses customs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Businesses can tailor marketing strategies based on psychological factors.",
+    "retrieved_context": "Perception is influenced by consumer behavior. Attitudes encompasses feelings. Consumer behavior is a psychology. businesses markets products and services. motivation driven_by intrinsic motivations. Perception is influenced by marketing messages. motivation experiences post-purchase evaluation. motivation driven_by extrinsic motivations. Decision-making processes encompasses cognitive factors. Attitudes encompasses behaviors. Cultural factors is influenced by consumer behavior. Attitudes is influenced by consumer behavior. motivation is influenced by consumer behavior. motivation experiences evaluation of alternatives. Decision-making processes encompasses emotional factors. Consumer behavior is a complex area of study. motivation experiences purchase decision. motivation experiences information search. motivation experiences problem recognition. Decision-making processes encompasses behavioral factors. Attitudes encompasses beliefs.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

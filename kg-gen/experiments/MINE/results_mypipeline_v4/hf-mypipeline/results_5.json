@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Bees are crucial pollinators in agriculture.",
+    "retrieved_context": "Many crops depend on bees for pollination. Bees act as pollinators. Decline of bee populations threatens food security. Pollination is process by which pollen is transferred from male reproductive organs to female reproductive organs. Bees contribute to success of crop production. Bees pollinate one-third of the food crops grown worldwide. Bees contribute to overall health of ecosystems. Farmers support bees with bee-friendly flowers. Conservation efforts are needed to protect and restore bee habitats. Bees contribute to cross-pollination. Bees help maintain biodiversity and ecosystem stability. Factors such as habitat loss, pesticide use, climate change, and diseases contribute to decline of bee populations worldwide. Governments and policymakers contribute to bee conservation through legislation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bees contribute significantly to crop production.",
+    "retrieved_context": "Many crops depend on bees for pollination. Bees act as pollinators. Bees help maintain biodiversity and ecosystem stability. Bees contribute to success of crop production. Bees pollinate one-third of the food crops grown worldwide. Bees contribute to overall health of ecosystems. Farmers support bees with bee-friendly flowers. Conservation efforts are needed to protect and restore bee habitats. Bees contribute to cross-pollination. Decline of bee populations threatens food security. Factors such as habitat loss, pesticide use, climate change, and diseases contribute to decline of bee populations worldwide. Governments and policymakers contribute to bee conservation through legislation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bees are responsible for pollinating fruits, vegetables, and nuts.",
+    "retrieved_context": "Many crops depend on bees for pollination. Bees act as pollinators. Pollination is process by which pollen is transferred from male reproductive organs to female reproductive organs. Decline of bee populations threatens food security. Bees contribute to success of crop production. Bees pollinate one-third of the food crops grown worldwide. Bees contribute to overall health of ecosystems. Farmers support bees with bee-friendly flowers. Conservation efforts are needed to protect and restore bee habitats. Bees contribute to cross-pollination. Bees help maintain biodiversity and ecosystem stability. Factors such as habitat loss, pesticide use, climate change, and diseases contribute to decline of bee populations worldwide. Governments and policymakers contribute to bee conservation through legislation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pollination is a primary function of bees in agriculture.",
+    "retrieved_context": "Many crops depend on bees for pollination. Pollination is process by which pollen is transferred from male reproductive organs to female reproductive organs. Bees act as pollinators. Bees contribute to success of crop production. Bees pollinate one-third of the food crops grown worldwide. Bees contribute to overall health of ecosystems. Farmers support bees with bee-friendly flowers. Conservation efforts are needed to protect and restore bee habitats. Bees contribute to cross-pollination. Bees help maintain biodiversity and ecosystem stability. Governments and policymakers contribute to bee conservation through legislation. Cross-pollination increases genetic diversity within plant populations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bees facilitate cross-pollination and increase genetic diversity.",
+    "retrieved_context": "Many crops depend on bees for pollination. Bees act as pollinators. Pollination is process by which pollen is transferred from male reproductive organs to female reproductive organs. Decline of bee populations threatens food security. Bees contribute to success of crop production. Bees pollinate one-third of the food crops grown worldwide. Bees contribute to overall health of ecosystems. Farmers support bees with bee-friendly flowers. Conservation efforts are needed to protect and restore bee habitats. Bees contribute to cross-pollination. Bees help maintain biodiversity and ecosystem stability. Cross-pollination increases genetic diversity within plant populations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Crops like almonds, apples, cherries, and blueberries depend on bees for pollination.",
+    "retrieved_context": "Many crops depend on bees for pollination. Bees act as pollinators. Pollination is process by which pollen is transferred from male reproductive organs to female reproductive organs. Decline of bee populations threatens food security. Bees contribute to success of crop production. Bees pollinate one-third of the food crops grown worldwide. Bees contribute to overall health of ecosystems. Farmers support bees with bee-friendly flowers. Conservation efforts are needed to protect and restore bee habitats. Bees contribute to cross-pollination. Bees help maintain biodiversity and ecosystem stability. Factors such as habitat loss, pesticide use, climate change, and diseases contribute to decline of bee populations worldwide.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Bees are estimated to pollinate one-third of food crops worldwide.",
+    "retrieved_context": "Many crops depend on bees for pollination. Bees act as pollinators. Decline of bee populations threatens food security. Pollination is process by which pollen is transferred from male reproductive organs to female reproductive organs. Bees contribute to success of crop production. Bees pollinate one-third of the food crops grown worldwide. Bees contribute to overall health of ecosystems. Farmers support bees with bee-friendly flowers. Conservation efforts are needed to protect and restore bee habitats. Bees contribute to cross-pollination. Bees help maintain biodiversity and ecosystem stability. Factors such as habitat loss, pesticide use, climate change, and diseases contribute to decline of bee populations worldwide. Governments and policymakers contribute to bee conservation through legislation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bee pollination services have immense economic value.",
+    "retrieved_context": "Many crops depend on bees for pollination. Bees act as pollinators. Decline of bee populations threatens food security. Pollination is process by which pollen is transferred from male reproductive organs to female reproductive organs. Bees contribute to success of crop production. Bees pollinate one-third of the food crops grown worldwide. Bees contribute to overall health of ecosystems. Farmers support bees with bee-friendly flowers. Conservation efforts are needed to protect and restore bee habitats. Bees contribute to cross-pollination. Bees help maintain biodiversity and ecosystem stability. Factors such as habitat loss, pesticide use, climate change, and diseases contribute to decline of bee populations worldwide. Governments and policymakers contribute to bee conservation through legislation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Bees help maintain biodiversity and ecosystem stability.",
+    "retrieved_context": "Many crops depend on bees for pollination. Bees act as pollinators. Decline of bee populations threatens food security. Bees contribute to success of crop production. Bees pollinate one-third of the food crops grown worldwide. Bees contribute to overall health of ecosystems. Farmers support bees with bee-friendly flowers. Conservation efforts are needed to protect and restore bee habitats. Bees contribute to cross-pollination. Bees help maintain biodiversity and ecosystem stability. Factors such as habitat loss, pesticide use, climate change, and diseases contribute to decline of bee populations worldwide. Governments and policymakers contribute to bee conservation through legislation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The decline of bee populations poses a threat to food security.",
+    "retrieved_context": "Many crops depend on bees for pollination. Bees act as pollinators. Bees help maintain biodiversity and ecosystem stability. Bees contribute to success of crop production. Bees pollinate one-third of the food crops grown worldwide. Bees contribute to overall health of ecosystems. Farmers support bees with bee-friendly flowers. Conservation efforts are needed to protect and restore bee habitats. Bees contribute to cross-pollination. Decline of bee populations threatens food security. Factors such as habitat loss, pesticide use, climate change, and diseases contribute to decline of bee populations worldwide. Governments and policymakers contribute to bee conservation through legislation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Factors contributing to bee decline include habitat loss, pesticide use, and climate change.",
+    "retrieved_context": "Many crops depend on bees for pollination. Bees act as pollinators. Bees help maintain biodiversity and ecosystem stability. Bees contribute to success of crop production. Bees pollinate one-third of the food crops grown worldwide. Bees contribute to overall health of ecosystems. Farmers support bees with bee-friendly flowers. Conservation efforts are needed to protect and restore bee habitats. Bees contribute to cross-pollination. Decline of bee populations threatens food security. Factors such as habitat loss, pesticide use, climate change, and diseases contribute to decline of bee populations worldwide. Governments and policymakers contribute to bee conservation through legislation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Conservation efforts are needed to protect and restore bee habitats.",
+    "retrieved_context": "Many crops depend on bees for pollination. Bees act as pollinators. Bees help maintain biodiversity and ecosystem stability. Bees contribute to success of crop production. Bees pollinate one-third of the food crops grown worldwide. Bees contribute to overall health of ecosystems. Farmers support bees with bee-friendly flowers. Conservation efforts are needed to protect and restore bee habitats. Bees contribute to cross-pollination. Decline of bee populations threatens food security. Factors such as habitat loss, pesticide use, climate change, and diseases contribute to decline of bee populations worldwide. Governments and policymakers contribute to bee conservation through legislation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Farmers can support bee populations by planting bee-friendly flowers.",
+    "retrieved_context": "Many crops depend on bees for pollination. Bees act as pollinators. Bees help maintain biodiversity and ecosystem stability. Bees contribute to success of crop production. Bees pollinate one-third of the food crops grown worldwide. Bees contribute to overall health of ecosystems. Farmers support bees with bee-friendly flowers. Conservation efforts are needed to protect and restore bee habitats. Bees contribute to cross-pollination. Decline of bee populations threatens food security. Factors such as habitat loss, pesticide use, climate change, and diseases contribute to decline of bee populations worldwide. Governments and policymakers contribute to bee conservation through legislation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Governments can promote bee conservation through legislation and incentives.",
+    "retrieved_context": "Many crops depend on bees for pollination. Bees act as pollinators. Bees help maintain biodiversity and ecosystem stability. Bees contribute to success of crop production. Bees pollinate one-third of the food crops grown worldwide. Bees contribute to overall health of ecosystems. Farmers support bees with bee-friendly flowers. Conservation efforts are needed to protect and restore bee habitats. Bees contribute to cross-pollination. Decline of bee populations threatens food security. Factors such as habitat loss, pesticide use, climate change, and diseases contribute to decline of bee populations worldwide. Governments and policymakers contribute to bee conservation through legislation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Recognizing the importance of bees in agriculture is crucial for a sustainable future.",
+    "retrieved_context": "Many crops depend on bees for pollination. Bees act as pollinators. Decline of bee populations threatens food security. Bees contribute to success of crop production. Bees pollinate one-third of the food crops grown worldwide. Bees contribute to overall health of ecosystems. Farmers support bees with bee-friendly flowers. Conservation efforts are needed to protect and restore bee habitats. Bees contribute to cross-pollination. Bees help maintain biodiversity and ecosystem stability. Factors such as habitat loss, pesticide use, climate change, and diseases contribute to decline of bee populations worldwide. Governments and policymakers contribute to bee conservation through legislation.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

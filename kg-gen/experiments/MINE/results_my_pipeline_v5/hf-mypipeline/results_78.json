@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The human body has defense mechanisms to protect itself against harmful pathogens.",
+    "retrieved_context": "B cells produce antibodies to mark pathogens for destruction. immune system is equipped with coordinated responses. immune system kicks into action to fight off infection. complement proteins enhance ability of antibodies to destroy pathogens. defense mechanisms protects against harmful pathogens. immune system has immune memory for rapid response upon re-exposure. human body is equipped with defense mechanisms. stomach is acidic to kill pathogens. white blood cells detect and destroy pathogens.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The immune system fights off infections to restore health.",
+    "retrieved_context": "immune system is equipped with coordinated responses. T cells detect and destroy infected cells. immune system kicks into action to fight off infection. complement proteins enhance ability of antibodies to destroy pathogens. defense mechanisms protects against harmful pathogens. immune system has immune memory for rapid response upon re-exposure. human body is equipped with defense mechanisms. stomach is acidic to kill pathogens. white blood cells detect and destroy pathogens. neutrophils kicks into action to infection.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The immune response involves coordinated responses of cells, tissues, and organs.",
+    "retrieved_context": "immune system is equipped with coordinated responses. T cells detect and destroy infected cells. immune system kicks into action to fight off infection. macrophages patrols body engulfing pathogens. dendritic cells capture and present antigens to T cells. immune system has immune memory for rapid response upon re-exposure. white blood cells detect and destroy pathogens.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Physical barriers prevent pathogens from entering the body.",
+    "retrieved_context": "skin acts as protective barrier. B cells produce antibodies to mark pathogens for destruction. immune system is equipped with coordinated responses. immune system kicks into action to fight off infection. complement proteins enhance ability of antibodies to destroy pathogens. defense mechanisms protects against harmful pathogens. immune system has immune memory for rapid response upon re-exposure. human body is equipped with defense mechanisms. stomach is acidic to kill pathogens. white blood cells detect and destroy pathogens. neutrophils kicks into action to infection.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The skin acts as a protective barrier against pathogens.",
+    "retrieved_context": "skin acts as protective barrier. immune system is equipped with coordinated responses. B cells produce antibodies to mark pathogens for destruction. immune system kicks into action to fight off infection. complement proteins enhance ability of antibodies to destroy pathogens. defense mechanisms protects against harmful pathogens. immune system has immune memory for rapid response upon re-exposure. human body is equipped with defense mechanisms. stomach is acidic to kill pathogens. white blood cells detect and destroy pathogens. neutrophils kicks into action to infection.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mucous membranes produce mucus to trap pathogens.",
+    "retrieved_context": "T cells detect and destroy infected cells. immune system is equipped with coordinated responses. immune system kicks into action to fight off infection. mucous membranes produces mucus. defense mechanisms protects against harmful pathogens. macrophages patrols body engulfing pathogens. immune system has immune memory for rapid response upon re-exposure. human body is equipped with defense mechanisms. stomach is acidic to kill pathogens. white blood cells detect and destroy pathogens.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The acidic environment of the stomach can kill pathogens.",
+    "retrieved_context": "immune system is equipped with coordinated responses. B cells produce antibodies to mark pathogens for destruction. immune system kicks into action to fight off infection. complement proteins enhance ability of antibodies to destroy pathogens. defense mechanisms protects against harmful pathogens. immune system has immune memory for rapid response upon re-exposure. human body is equipped with defense mechanisms. stomach is acidic to kill pathogens. white blood cells detect and destroy pathogens. neutrophils kicks into action to infection.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "White blood cells are key players in the immune response.",
+    "retrieved_context": "immune system is equipped with coordinated responses. T cells detect and destroy infected cells. B cells produce antibodies to mark pathogens for destruction. immune system kicks into action to fight off infection. macrophages patrols body engulfing pathogens. dendritic cells capture and present antigens to T cells. immune system has immune memory for rapid response upon re-exposure. white blood cells detect and destroy pathogens.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neutrophils are the first responders to infections.",
+    "retrieved_context": "T cells detect and destroy infected cells. immune system is equipped with coordinated responses. immune system kicks into action to fight off infection. defense mechanisms protects against harmful pathogens. immune system has immune memory for rapid response upon re-exposure. human body is equipped with defense mechanisms. stomach is acidic to kill pathogens. white blood cells detect and destroy pathogens. neutrophils kicks into action to infection.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Macrophages patrol the body and alert other immune cells.",
+    "retrieved_context": "immune system is equipped with coordinated responses. T cells detect and destroy infected cells. B cells produce antibodies to mark pathogens for destruction. immune system kicks into action to fight off infection. macrophages patrols body engulfing pathogens. dendritic cells capture and present antigens to T cells. immune system has immune memory for rapid response upon re-exposure. stomach is acidic to kill pathogens. white blood cells detect and destroy pathogens.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Lymphocytes mount a targeted immune response.",
+    "retrieved_context": "immune system is equipped with coordinated responses. T cells detect and destroy infected cells. immune system kicks into action to fight off infection. autoimmune diseases occur when immune system attacks body's own tissues. dendritic cells capture and present antigens to T cells. immune system has immune memory for rapid response upon re-exposure. white blood cells detect and destroy pathogens. B cells produce antibodies to mark pathogens for destruction.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dendritic cells present antigens to T cells for a specific immune response.",
+    "retrieved_context": "T cells detect and destroy infected cells. immune system is equipped with coordinated responses. immune system kicks into action to fight off infection. examples of autoimmune diseases is equipped with rheumatoid arthritis, lupus, and multiple sclerosis. dendritic cells capture and present antigens to T cells. immune system has immune memory for rapid response upon re-exposure. autoimmune diseases occur when immune system attacks body's own tissues. neutrophils kicks into action to infection.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Natural killer cells can directly kill infected cells.",
+    "retrieved_context": "T cells detect and destroy infected cells. immune system is equipped with coordinated responses. immune system kicks into action to fight off infection. complement proteins enhance ability of antibodies to destroy pathogens. macrophages patrols body engulfing pathogens. dendritic cells capture and present antigens to T cells. immune system has immune memory for rapid response upon re-exposure. stomach is acidic to kill pathogens.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Complement proteins enhance the ability of antibodies to destroy pathogens.",
+    "retrieved_context": "immune system is equipped with coordinated responses. immune system kicks into action to fight off infection. complement proteins enhance ability of antibodies to destroy pathogens. defense mechanisms protects against harmful pathogens. immune system has immune memory for rapid response upon re-exposure. human body is equipped with defense mechanisms. white blood cells detect and destroy pathogens. stomach is acidic to kill pathogens. B cells produce antibodies to mark pathogens for destruction. memory cells responds quickly to same pathogen.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cytokines coordinate the immune response and regulate immune cell activity.",
+    "retrieved_context": "immune system is equipped with coordinated responses. T cells detect and destroy infected cells. immune system kicks into action to fight off infection. macrophages patrols body engulfing pathogens. dendritic cells capture and present antigens to T cells. immune system has immune memory for rapid response upon re-exposure. white blood cells detect and destroy pathogens. B cells produce antibodies to mark pathogens for destruction.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sports shape cultures around the world.",
+    "retrieved_context": "Sports promote fair play. Major sporting events promote tourism. Athletes learns teamwork. Major sporting events play a role in revenue. Olympics unite millions of people. Sports promote life skills. Sports promote a sense of community. Sports play a role in a tool for promoting social change. Sports promote social justice. Sports promote discipline. Sports promote teamwork. Olympics unite people. Sports industry play a role in a major player in the global economy. Sports challenges stereotypes. Sports play a role in a means of bringing people together. Athletes learns perseverance. Sports play a role in shaping cultures. Sports promote gender equality. Athletes learns resilience. World Cup unite millions of people.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports bring people together.",
+    "retrieved_context": "Sports promote fair play. Major sporting events promote tourism. Athletes learns teamwork. Major sporting events play a role in revenue. Olympics unite millions of people. Sports promote life skills. Sports promote a sense of community. Sports play a role in a tool for promoting social change. Sports promote social justice. Sports promote discipline. Sports promote teamwork. Olympics unite people. Sports challenges stereotypes. Sports industry play a role in a major player in the global economy. Sports play a role in a means of bringing people together. Athletes learns perseverance. Sports play a role in shaping cultures. Sports promote gender equality. Athletes learns resilience. World Cup unite millions of people.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports foster a sense of community.",
+    "retrieved_context": "Sports promote fair play. Major sporting events promote tourism. Athletes learns teamwork. Major sporting events play a role in revenue. Olympics unite millions of people. Sports promote life skills. Sports promote a sense of community. Sports play a role in a tool for promoting social change. Sports promote social justice. Sports promote discipline. Sports promote teamwork. Olympics unite people. Sports challenges stereotypes. Sports industry play a role in a major player in the global economy. Sports play a role in a means of bringing people together. Athletes learns perseverance. Sports play a role in shaping cultures. Sports promote gender equality. Athletes learns resilience. World Cup unite millions of people.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports promote values like teamwork and fair play.",
+    "retrieved_context": "Sports promote fair play. Major sporting events promote tourism. Athletes learns teamwork. Major sporting events play a role in revenue. Olympics unite millions of people. Sports promote life skills. Sports promote a sense of community. Sports play a role in a tool for promoting social change. Sports promote social justice. Sports promote discipline. Sports promote teamwork. Olympics unite people. Sports challenges stereotypes. Sports industry play a role in a major player in the global economy. Sports play a role in a means of bringing people together. Athletes learns perseverance. Sports play a role in shaping cultures. Sports promote gender equality. Athletes learns resilience. World Cup unite millions of people.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports create shared experiences and traditions.",
+    "retrieved_context": "Sports promote fair play. Major sporting events promote tourism. Athletes learns teamwork. Major sporting events play a role in revenue. Olympics unite millions of people. Sports promote life skills. Sports promote a sense of community. Sports play a role in a tool for promoting social change. Sports promote social justice. Sports promote discipline. Sports promote teamwork. Olympics unite people. Sports challenges stereotypes. Sports industry play a role in a major player in the global economy. Sports play a role in a means of bringing people together. Athletes learns perseverance. Sports play a role in shaping cultures. Sports promote gender equality. Athletes learns resilience. World Cup unite millions of people.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sporting events unite people from different backgrounds.",
+    "retrieved_context": "Sports promote fair play. Major sporting events promote tourism. Athletes learns teamwork. Major sporting events play a role in revenue. Olympics unite millions of people. Sports promote life skills. Sports promote a sense of community. Sports play a role in a tool for promoting social change. Sports promote social justice. Sports promote discipline. Sports promote teamwork. Olympics unite people. Sports industry play a role in a major player in the global economy. Sports challenges stereotypes. Sports play a role in a means of bringing people together. Athletes learns perseverance. Sports play a role in shaping cultures. Sports promote gender equality. Athletes learns resilience. World Cup unite millions of people.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The World Cup and Olympics bring millions of people together.",
+    "retrieved_context": "Sports promote fair play. World Cup unite millions of people. Major sporting events promote tourism. Major sporting events play a role in revenue. Olympics unite millions of people. Sports promote life skills. Sports promote a sense of community. Sports play a role in a tool for promoting social change. Sports promote social justice. Sports promote discipline. Sports promote teamwork. Olympics unite people. Sports challenges stereotypes. Sports industry play a role in a major player in the global economy. Sports play a role in a means of bringing people together. Athletes learns perseverance. Sports play a role in shaping cultures. Sports promote gender equality. Athletes learns resilience. Athletes learns teamwork.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports promote important life skills like teamwork.",
+    "retrieved_context": "Sports promote fair play. Major sporting events promote tourism. Athletes learns teamwork. Major sporting events play a role in revenue. Olympics unite millions of people. Sports promote life skills. Sports promote a sense of community. Sports play a role in a tool for promoting social change. Sports promote social justice. Sports promote discipline. Sports promote teamwork. Olympics unite people. Sports challenges stereotypes. Sports industry play a role in a major player in the global economy. Sports play a role in a means of bringing people together. Athletes learns perseverance. Sports play a role in shaping cultures. Sports promote gender equality. Athletes learns resilience. World Cup unite millions of people.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Athletes learn perseverance and resilience through sports.",
+    "retrieved_context": "Sports promote teamwork. Sports play a role in a means of bringing people together. Athletes learns perseverance. Sports promote social justice. Sports play a role in shaping cultures. Sports promote gender equality. Sports promote fair play. Olympics unite millions of people. Sports promote life skills. Olympics unite people. World Cup unite millions of people. Athletes learns resilience. Sports promote a sense of community. Sports challenges stereotypes. Sports play a role in a tool for promoting social change. Sports industry play a role in a major player in the global economy. Athletes learns teamwork. Sports promote discipline.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports help individuals handle challenges in life.",
+    "retrieved_context": "Sports promote fair play. Major sporting events promote tourism. Athletes learns teamwork. Major sporting events play a role in revenue. Olympics unite millions of people. Sports promote life skills. Sports promote a sense of community. Sports play a role in a tool for promoting social change. Sports promote social justice. Sports promote discipline. Sports promote teamwork. Olympics unite people. Sports challenges stereotypes. Sports industry play a role in a major player in the global economy. Sports play a role in a means of bringing people together. Athletes learns perseverance. Sports play a role in shaping cultures. Sports promote gender equality. Athletes learns resilience. World Cup unite millions of people.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports promote social change and break down barriers.",
+    "retrieved_context": "Sports promote fair play. Major sporting events promote tourism. Athletes learns teamwork. Major sporting events play a role in revenue. Olympics unite millions of people. Sports promote life skills. Sports promote a sense of community. Sports play a role in a tool for promoting social change. Sports promote social justice. Sports promote discipline. Sports promote teamwork. Olympics unite people. Sports challenges stereotypes. Sports industry play a role in a major player in the global economy. Sports play a role in a means of bringing people together. Athletes learns perseverance. Sports play a role in shaping cultures. Sports promote gender equality. Athletes learns resilience. World Cup unite millions of people.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports challenge stereotypes and promote gender equality.",
+    "retrieved_context": "Athletes learns teamwork. Sports promote teamwork. Sports play a role in a means of bringing people together. Athletes learns perseverance. Major sporting events play a role in revenue. Sports promote gender equality. Sports promote fair play. Sports play a role in shaping cultures. inclusion of women challenges gender norms. Sports promote life skills. Athletes learns resilience. Sports promote a sense of community. Major sporting events promote tourism. Sports challenges stereotypes. Sports play a role in a tool for promoting social change. Sports industry play a role in a major player in the global economy. Sports promote social justice. Sports promote discipline.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports have a significant economic impact.",
+    "retrieved_context": "Sports promote fair play. Major sporting events promote tourism. Athletes learns teamwork. Major sporting events play a role in revenue. Olympics unite millions of people. Sports promote life skills. Sports promote a sense of community. Sports play a role in a tool for promoting social change. Sports promote social justice. Sports promote discipline. Sports promote teamwork. Olympics unite people. Sports industry play a role in a major player in the global economy. Sports challenges stereotypes. Sports play a role in a means of bringing people together. Athletes learns perseverance. Sports play a role in shaping cultures. Sports promote gender equality. Athletes learns resilience. World Cup unite millions of people.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Major sporting events generate revenue for host cities.",
+    "retrieved_context": "Sports promote fair play. Major sporting events promote tourism. Athletes learns teamwork. Major sporting events play a role in revenue. Olympics unite millions of people. Sports promote life skills. Sports promote a sense of community. Sports play a role in a tool for promoting social change. Sports promote social justice. Sports promote discipline. Sports promote teamwork. Olympics unite people. Sports industry play a role in a major player in the global economy. Sports challenges stereotypes. Sports play a role in a means of bringing people together. Athletes learns perseverance. Sports play a role in shaping cultures. Sports promote gender equality. Athletes learns resilience. World Cup unite millions of people.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sports contribute to the global economy.",
+    "retrieved_context": "Sports promote fair play. Major sporting events promote tourism. Athletes learns teamwork. Major sporting events play a role in revenue. Olympics unite millions of people. Sports promote life skills. Sports promote a sense of community. Sports play a role in a tool for promoting social change. Sports promote social justice. Sports promote discipline. Sports promote teamwork. Olympics unite people. Sports industry play a role in a major player in the global economy. Sports challenges stereotypes. Sports play a role in a means of bringing people together. Athletes learns perseverance. Sports play a role in shaping cultures. Sports promote gender equality. Athletes learns resilience. World Cup unite millions of people.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

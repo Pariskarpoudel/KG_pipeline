@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "People collect items like stamps, coins, or vintage memorabilia.",
+    "retrieved_context": "Collecting provides individuals with a sense of order and structure in their lives. People have been collectors for centuries. Collecting allows individuals to feel a sense of nostalgia and connection to the past. The pursuit of collecting allows individuals to feel completion and closure. Collecting can be a way for individuals to express their identity and interests. Collecting certain items serve as investment that can appreciate in value over time. The pursuit of collecting allows individuals to feel for individuals. Antique furniture collectors feel a deep appreciation for craftsmanship and history.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can be a reflection of human nature.",
+    "retrieved_context": "Collecting provides individuals with a sense of order and structure in their lives. People have been collectors for centuries. Collecting allows individuals to feel a sense of nostalgia and connection to the past. The pursuit of collecting allows individuals to feel completion and closure. Collecting can be a way for individuals to express their identity and interests. Collecting certain items serve as investment that can appreciate in value over time. The pursuit of collecting allows individuals to feel for individuals. Antique furniture collectors feel a deep appreciation for craftsmanship and history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can trigger fond memories and emotions.",
+    "retrieved_context": "Collecting provides individuals with a sense of order and structure in their lives. People have been collectors for centuries. Collecting allows individuals to feel a sense of nostalgia and connection to the past. Psychologists identify reasons for collecting including the desire for control, need for completion, and pursuit of novelty and stimulation. The pursuit of collecting allows individuals to feel completion and closure. Collecting can be a way for individuals to express their identity and interests. Collecting certain items serve as investment that can appreciate in value over time. The pursuit of collecting allows individuals to feel for individuals. Antique furniture collectors feel a deep appreciation for craftsmanship and history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A person who collects antique furniture may appreciate craftsmanship and history.",
+    "retrieved_context": "Collecting provides individuals with a sense of order and structure in their lives. People have been collectors for centuries. Collecting allows individuals to feel a sense of nostalgia and connection to the past. The pursuit of collecting allows individuals to feel completion and closure. Collecting can be a way for individuals to express their identity and interests. Collecting certain items serve as investment that can appreciate in value over time. The pursuit of collecting allows individuals to feel for individuals. Antique furniture collectors feel a deep appreciation for craftsmanship and history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting allows individuals to express their identity and interests.",
+    "retrieved_context": "Collecting provides individuals with a sense of order and structure in their lives. People have been collectors for centuries. Collecting allows individuals to feel a sense of nostalgia and connection to the past. The pursuit of collecting allows individuals to feel completion and closure. Collecting can be a way for individuals to express their identity and interests. Collecting certain items serve as investment that can appreciate in value over time. The pursuit of collecting allows individuals to feel for individuals. Antique furniture collectors feel a deep appreciation for craftsmanship and history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music enthusiasts may collect vinyl records or concert memorabilia.",
+    "retrieved_context": "Collecting provides individuals with a sense of order and structure in their lives. People have been collectors for centuries. Collecting allows individuals to feel a sense of nostalgia and connection to the past. The pursuit of collecting allows individuals to feel completion and closure. Collecting can be a way for individuals to express their identity and interests. Collecting certain items serve as investment that can appreciate in value over time. The pursuit of collecting allows individuals to feel for individuals. Music enthusiasts express through collecting their love for music. Antique furniture collectors feel a deep appreciation for craftsmanship and history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can provide a sense of accomplishment and fulfillment.",
+    "retrieved_context": "Collecting provides individuals with a sense of order and structure in their lives. People have been collectors for centuries. Collecting allows individuals to feel a sense of nostalgia and connection to the past. The pursuit of collecting allows individuals to feel completion and closure. Collecting can be a way for individuals to express their identity and interests. Collecting certain items serve as investment that can appreciate in value over time. The pursuit of collecting allows individuals to feel for individuals. Antique furniture collectors feel a deep appreciation for craftsmanship and history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collectors derive pride and fulfillment from completing sets or finding unique pieces.",
+    "retrieved_context": "Collecting provides individuals with a sense of order and structure in their lives. People have been collectors for centuries. Collecting allows individuals to feel a sense of nostalgia and connection to the past. Psychologists identify reasons for collecting including the desire for control, need for completion, and pursuit of novelty and stimulation. The pursuit of collecting allows individuals to feel completion and closure. Collecting can be a way for individuals to express their identity and interests. Collecting certain items serve as investment that can appreciate in value over time. The pursuit of collecting allows individuals to feel for individuals. Antique furniture collectors feel a deep appreciation for craftsmanship and history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can serve as a form of investment.",
+    "retrieved_context": "Collecting provides individuals with a sense of order and structure in their lives. People have been collectors for centuries. Collecting allows individuals to feel a sense of nostalgia and connection to the past. The pursuit of collecting allows individuals to feel completion and closure. Collecting can be a way for individuals to express their identity and interests. Collecting certain items serve as investment that can appreciate in value over time. The pursuit of collecting allows individuals to feel for individuals. Antique furniture collectors feel a deep appreciation for craftsmanship and history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Artwork, rare books, or vintage cars can appreciate in value over time.",
+    "retrieved_context": "Collecting provides individuals with a sense of order and structure in their lives. People have been collectors for centuries. Collecting allows individuals to feel a sense of nostalgia and connection to the past. The pursuit of collecting allows individuals to feel completion and closure. Collecting can be a way for individuals to express their identity and interests. Collecting certain items serve as investment that can appreciate in value over time. The pursuit of collecting allows individuals to feel for individuals. Antique furniture collectors feel a deep appreciation for craftsmanship and history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can be linked to psychological motivations and behaviors.",
+    "retrieved_context": "Collecting provides individuals with a sense of order and structure in their lives. People have been collectors for centuries. Collecting allows individuals to feel a sense of nostalgia and connection to the past. Psychologists identify reasons for collecting including the desire for control, need for completion, and pursuit of novelty and stimulation. The pursuit of collecting allows individuals to feel completion and closure. Collecting can be a way for individuals to express their identity and interests. Collecting certain items serve as investment that can appreciate in value over time. The pursuit of collecting allows individuals to feel for individuals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can satisfy the human need for completion and closure.",
+    "retrieved_context": "Collecting provides individuals with a sense of order and structure in their lives. People have been collectors for centuries. Collecting allows individuals to feel a sense of nostalgia and connection to the past. Psychologists identify reasons for collecting including the desire for control, need for completion, and pursuit of novelty and stimulation. The pursuit of collecting allows individuals to feel completion and closure. Collecting can be a way for individuals to express their identity and interests. Collecting certain items serve as investment that can appreciate in value over time. The pursuit of collecting allows individuals to feel for individuals. Antique furniture collectors feel a deep appreciation for craftsmanship and history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can offer individuals a source of novelty and excitement.",
+    "retrieved_context": "Collecting provides individuals with a sense of order and structure in their lives. People have been collectors for centuries. Collecting allows individuals to feel a sense of nostalgia and connection to the past. Psychologists identify reasons for collecting including the desire for control, need for completion, and pursuit of novelty and stimulation. The pursuit of collecting allows individuals to feel completion and closure. Collecting can be a way for individuals to express their identity and interests. Collecting certain items serve as investment that can appreciate in value over time. The pursuit of collecting allows individuals to feel for individuals. Antique furniture collectors feel a deep appreciation for craftsmanship and history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can provide a sense of adventure and exploration.",
+    "retrieved_context": "Collecting provides individuals with a sense of order and structure in their lives. People have been collectors for centuries. Collecting allows individuals to feel a sense of nostalgia and connection to the past. The pursuit of collecting allows individuals to feel completion and closure. Collecting can be a way for individuals to express their identity and interests. Collecting certain items serve as investment that can appreciate in value over time. The pursuit of collecting allows individuals to feel for individuals. Antique furniture collectors feel a deep appreciation for craftsmanship and history.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting serves as a meaningful and rewarding pursuit for many individuals.",
+    "retrieved_context": "Collecting provides individuals with a sense of order and structure in their lives. People have been collectors for centuries. Collecting allows individuals to feel a sense of nostalgia and connection to the past. The pursuit of collecting allows individuals to feel completion and closure. Collecting can be a way for individuals to express their identity and interests. Collecting certain items serve as investment that can appreciate in value over time. The pursuit of collecting allows individuals to feel for individuals. Antique furniture collectors feel a deep appreciation for craftsmanship and history.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

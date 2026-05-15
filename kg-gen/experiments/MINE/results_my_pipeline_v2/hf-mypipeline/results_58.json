@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Film editing is an essential aspect of the filmmaking process.",
+    "retrieved_context": "Film editing is known as invisible art. Film editing begins with assembly of footage. non-linear editing are editing technique. Film editing involves arranging shots. Film editing decides duration of shots. assembly of footage is known as assembly of footage. editor enhance assembly of footage. Film editing decides shots to include. flashbacks are editing techniques. Film editing involves filmmaking process. Sound design are crucial aspect of film editing. Film editing transforms story. parallel editing are creative editing technique. Editing transforms raw footage. Film editing involves selecting shots. Film editing decides order of shots. flash-forwards are editing techniques. assembly of footage serves as foundation for film.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Film editing involves selecting and arranging shots in a film.",
+    "retrieved_context": "Film editing is known as invisible art. Film editing begins with assembly of footage. non-linear editing are editing technique. Film editing involves arranging shots. Film editing decides duration of shots. assembly of footage is known as assembly of footage. editor enhance assembly of footage. Film editing decides shots to include. flashbacks are editing techniques. Film editing involves filmmaking process. Sound design are crucial aspect of film editing. Film editing transforms story. parallel editing are creative editing technique. Film editing involves selecting shots. Film editing decides order of shots. editor can evoke emotions. flash-forwards are editing techniques. assembly of footage serves as foundation for film.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Film editing creates a cohesive and engaging narrative.",
+    "retrieved_context": "montages are creative editing techniques. Film editing decides duration of shots. flashbacks are editing techniques. Film editing involves filmmaking process. Film editing is known as invisible art. shots involves cohesive narrative. non-linear editing are editing technique. Film editing involves arranging shots. parallel editing are creative editing technique. Film editing involves selecting shots. flash-forwards are editing techniques. assembly of footage serves as foundation for film. assembly of footage is known as assembly of footage. Film editing begins with assembly of footage. Film editing decides shots to include. jump cuts are creative editing techniques. Sound design are crucial aspect of film editing. Film editing transforms story. editor enhance assembly of footage. Film editing decides order of shots.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Film editing is often referred to as the 'invisible art'.",
+    "retrieved_context": "Film editing is known as invisible art. Film editing begins with assembly of footage. non-linear editing are editing technique. Film editing involves arranging shots. Film editing decides duration of shots. assembly of footage is known as assembly of footage. editor enhance assembly of footage. Film editing decides shots to include. Film editing involves filmmaking process. Sound design are crucial aspect of film editing. Film editing transforms story. parallel editing are creative editing technique. Film editing involves selecting shots. Film editing decides order of shots. editor can evoke emotions. assembly of footage serves as foundation for film.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Editing transforms raw footage into a compelling cinematic experience.",
+    "retrieved_context": "Film editing is known as invisible art. Film editing begins with assembly of footage. non-linear editing are editing technique. Film editing involves arranging shots. Film editing decides duration of shots. assembly of footage is known as assembly of footage. editor enhance assembly of footage. Film editing decides shots to include. flashbacks are editing techniques. Film editing involves filmmaking process. Sound design are crucial aspect of film editing. Film editing transforms story. parallel editing are creative editing technique. Editing transforms raw footage. Film editing involves selecting shots. Film editing decides order of shots. flash-forwards are editing techniques. assembly of footage serves as foundation for film.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A film editor shapes the story by deciding what shots to include.",
+    "retrieved_context": "Film editing is known as invisible art. Film editing begins with assembly of footage. Film editing involves arranging shots. Film editing decides duration of shots. assembly of footage is known as assembly of footage. editor enhance assembly of footage. Film editing decides shots to include. Film editing involves filmmaking process. Sound design are crucial aspect of film editing. Film editing transforms story. parallel editing are creative editing technique. Film editing involves selecting shots. Film editing decides order of shots. editor can evoke emotions. assembly of footage serves as foundation for film.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A film editor decides the order in which shots appear.",
+    "retrieved_context": "Film editing is known as invisible art. Film editing begins with assembly of footage. Film editing involves arranging shots. Film editing decides duration of shots. assembly of footage is known as assembly of footage. editor enhance assembly of footage. Film editing decides shots to include. Film editing involves filmmaking process. Sound design are crucial aspect of film editing. Film editing transforms story. parallel editing are creative editing technique. Film editing involves selecting shots. Film editing decides order of shots. editor can evoke emotions. assembly of footage serves as foundation for film.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A film editor manipulates timing, pace, and rhythm to evoke emotions.",
+    "retrieved_context": "Film editing is known as invisible art. Film editing begins with assembly of footage. non-linear editing are editing technique. Film editing involves arranging shots. Film editing decides duration of shots. assembly of footage is known as assembly of footage. editor enhance assembly of footage. montages are creative editing techniques. Film editing decides shots to include. jump cuts are creative editing techniques. Film editing involves filmmaking process. Sound design are crucial aspect of film editing. Film editing transforms story. parallel editing are creative editing technique. Film editing involves selecting shots. Film editing decides order of shots. editor can evoke emotions. assembly of footage serves as foundation for film.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The editing process starts with the assembly of raw footage.",
+    "retrieved_context": "Film editing decides duration of shots. flashbacks are editing techniques. Film editing involves filmmaking process. Editing transforms raw footage. Film editing is known as invisible art. non-linear editing are editing technique. Film editing involves arranging shots. parallel editing are creative editing technique. Film editing involves selecting shots. flash-forwards are editing techniques. editor can evoke emotions. assembly of footage serves as foundation for film. assembly of footage is known as assembly of footage. Film editing begins with assembly of footage. Film editing decides shots to include. Sound design are crucial aspect of film editing. Film editing transforms story. editor enhance assembly of footage. Film editing decides order of shots.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The rough cut serves as the foundation for the final film.",
+    "retrieved_context": "montages are creative editing techniques. Film editing decides duration of shots. Film editing involves filmmaking process. Editing transforms raw footage. Film editing is known as invisible art. Film editing involves arranging shots. continuity editing maintains temporal coherence. Film editing involves selecting shots. editor can evoke emotions. assembly of footage serves as foundation for film. assembly of footage is known as assembly of footage. Film editing begins with assembly of footage. Film editing decides shots to include. jump cuts are creative editing techniques. Sound design are crucial aspect of film editing. Film editing transforms story. continuity editing maintains spatial coherence. editor enhance assembly of footage. Film editing decides order of shots.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Film editors refine the rough cut by fine-tuning pacing and trimming footage.",
+    "retrieved_context": "Film editing is known as invisible art. Film editing begins with assembly of footage. non-linear editing are editing technique. Film editing involves arranging shots. Film editing decides duration of shots. assembly of footage is known as assembly of footage. editor enhance assembly of footage. Film editing decides shots to include. flashbacks are editing techniques. Film editing involves filmmaking process. Sound design are crucial aspect of film editing. Film editing transforms story. parallel editing are creative editing technique. Film editing involves selecting shots. Film editing decides order of shots. editor can evoke emotions. flash-forwards are editing techniques. assembly of footage serves as foundation for film.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Continuity editing techniques maintain spatial and temporal coherence.",
+    "retrieved_context": "shot-reverse-shot sequences are continuity techniques. non-linear editing are editing technique. eyeline matches are continuity techniques. flashbacks are editing techniques. parallel editing are creative editing technique. continuity editing maintains spatial coherence. continuity editing maintains temporal coherence. Editing transforms raw footage. flash-forwards are editing techniques.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Creative editing techniques convey meaning and evoke emotions.",
+    "retrieved_context": "montages are creative editing techniques. Film editing decides duration of shots. flashbacks are editing techniques. Film editing involves filmmaking process. Editing transforms raw footage. Film editing is known as invisible art. non-linear editing are editing technique. Film editing involves arranging shots. parallel editing are creative editing technique. Film editing involves selecting shots. editor can evoke emotions. flash-forwards are editing techniques. assembly of footage serves as foundation for film. assembly of footage is known as assembly of footage. Film editing begins with assembly of footage. Film editing decides shots to include. jump cuts are creative editing techniques. Film editing transforms story. editor enhance assembly of footage. Film editing decides order of shots.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Film editors manipulate time and space using techniques like flashbacks.",
+    "retrieved_context": "Film editing is known as invisible art. Film editing begins with assembly of footage. non-linear editing are editing technique. Film editing involves arranging shots. Film editing decides duration of shots. assembly of footage is known as assembly of footage. editor enhance assembly of footage. Film editing decides shots to include. flashbacks are editing techniques. Film editing involves filmmaking process. Sound design are crucial aspect of film editing. Film editing transforms story. parallel editing are creative editing technique. Film editing involves selecting shots. Film editing decides order of shots. editor can evoke emotions. flash-forwards are editing techniques. assembly of footage serves as foundation for film.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sound design impacts the emotional impact of a scene.",
+    "retrieved_context": "Film editing is known as invisible art. Film editing involves selecting shots. Film editing begins with assembly of footage. music enhance mood. Film editing involves arranging shots. Film editing decides duration of shots. assembly of footage is known as assembly of footage. dialogue enhance tension. sound effects enhance atmosphere. Film editing decides shots to include. Film editing involves filmmaking process. Sound design are crucial aspect of film editing. Film editing transforms story. editor enhance assembly of footage. Film editing decides order of shots. editor can evoke emotions. assembly of footage serves as foundation for film.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

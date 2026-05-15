@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Time zones shape the way we perceive and organize time across the world.",
+    "retrieved_context": "time zones divided into Mountain. time zones spans 15 degrees of longitude. United States divided into four time zones. International Meridian Conference held_in 1884. time zones played a role in shaping perception of time. time zones played a role in expansion of global trade. conference divided into 24 time zones. Sir Sandford Fleming is Canadian engineer. Greenwich Meridian located_in London. time zones divided into Central. time zones divided into Eastern. time zones played a role in centuries. Trains inefficiency_of local time. Telegraphs inefficiency_of local time. time zones divided into Pacific. Sir Sandford Fleming proposed dividing the world into 24 time zones. International Meridian Conference used system of standard time zones. International Meridian Conference held_in Washington, D.C.. Greenwich Mean Time is based on Greenwich Meridian.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The concept of time zones evolved over centuries to standardize time measurement.",
+    "retrieved_context": "time zones divided into Mountain. time zones spans 15 degrees of longitude. time zones played a role in expansion of global trade. International Meridian Conference held_in 1884. Sir Sandford Fleming proposed dividing the world into 24 time zones. United States divided into four time zones. British railway companies used British railway companies. first major development played a role in introduction of standard time. conference divided into 24 time zones. International Meridian Conference used system of standard time zones. time zones divided into Central. time zones played a role in shaping perception of time. International Meridian Conference held_in Washington, D.C.. time zones divided into Eastern. British railway companies is single standard time. Sir Sandford Fleming is Canadian engineer. time zones played a role in centuries. time zones divided into Pacific.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Time zones synchronize activities across vast distances.",
+    "retrieved_context": "time zones divided into Mountain. time zones spans 15 degrees of longitude. United States divided into four time zones. International Meridian Conference held_in 1884. time zones played a role in shaping perception of time. time zones played a role in expansion of global trade. conference divided into 24 time zones. Sir Sandford Fleming is Canadian engineer. communities used local solar time. Daylight Saving Time is practice of advancing clocks. time zones divided into Central. time zones divided into Eastern. time zones played a role in centuries. Trains inefficiency_of local time. Telegraphs inefficiency_of local time. time zones divided into Pacific. Sir Sandford Fleming proposed dividing the world into 24 time zones. International Meridian Conference used system of standard time zones. International Meridian Conference held_in Washington, D.C..",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The need for time zones arose with the expansion of global trade and transportation networks.",
+    "retrieved_context": "time zones divided into Mountain. time zones spans 15 degrees of longitude. time zones played a role in expansion of global trade. Sir Sandford Fleming proposed dividing the world into 24 time zones. International Meridian Conference held_in 1884. United States divided into four time zones. first major development played a role in introduction of standard time. conference divided into 24 time zones. International Meridian Conference used system of standard time zones. time zones played a role in shaping perception of time. time zones divided into Central. International Meridian Conference held_in Washington, D.C.. time zones divided into Eastern. Sir Sandford Fleming is Canadian engineer. time zones played a role in centuries. Trains inefficiency_of local time. Telegraphs inefficiency_of local time. time zones divided into Pacific.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Communities used local solar time before standardized time measurement.",
+    "retrieved_context": "time zones divided into Mountain. time zones spans 15 degrees of longitude. International Meridian Conference held_in 1884. time zones played a role in shaping perception of time. time zones played a role in expansion of global trade. British railway companies used British railway companies. Greenwich Meridian located_in London. communities used local solar time. Daylight Saving Time is practice of advancing clocks. time zones divided into Central. time zones divided into Eastern. time zones played a role in centuries. Trains inefficiency_of local time. Telegraphs inefficiency_of local time. time zones divided into Pacific. first major development played a role in introduction of standard time. International Meridian Conference used system of standard time zones. International Meridian Conference held_in Washington, D.C.. Greenwich Mean Time is based on Greenwich Meridian. British railway companies is single standard time.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Trains and telegraphs highlighted the inefficiencies of using local time across long distances.",
+    "retrieved_context": "time zones divided into Mountain. time zones spans 15 degrees of longitude. time zones played a role in expansion of global trade. British railway companies used British railway companies. first major development played a role in introduction of standard time. Daylight Saving Time is practice of advancing clocks. time zones divided into Central. time zones played a role in shaping perception of time. time zones divided into Eastern. British railway companies is single standard time. time zones played a role in centuries. Trains inefficiency_of local time. Telegraphs inefficiency_of local time. time zones divided into Pacific. communities used local solar time.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The introduction of standard time in the mid-19th century marked a major development in timekeeping.",
+    "retrieved_context": "time zones divided into Mountain. time zones played a role in expansion of global trade. International Meridian Conference held_in 1884. time zones spans 15 degrees of longitude. United States divided into four time zones. British railway companies used British railway companies. first major development played a role in introduction of standard time. Daylight Saving Time is practice of advancing clocks. International Meridian Conference used system of standard time zones. time zones divided into Central. time zones played a role in shaping perception of time. International Meridian Conference held_in Washington, D.C.. time zones divided into Eastern. time zones played a role in centuries. British railway companies is single standard time. Trains inefficiency_of local time. Telegraphs inefficiency_of local time. time zones divided into Pacific.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Railway Time was adopted by British railway companies in 1847.",
+    "retrieved_context": "time zones divided into Mountain. time zones played a role in expansion of global trade. Greenwich Meridian located_in London. International Meridian Conference held_in 1884. time zones spans 15 degrees of longitude. British railway companies used British railway companies. first major development played a role in introduction of standard time. International Meridian Conference used system of standard time zones. time zones divided into Central. time zones played a role in shaping perception of time. International Meridian Conference held_in Washington, D.C.. Greenwich Mean Time is based on Greenwich Meridian. time zones divided into Eastern. time zones played a role in centuries. British railway companies is single standard time. Trains inefficiency_of local time. Telegraphs inefficiency_of local time. time zones divided into Pacific.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sir Sandford Fleming proposed dividing the world into 24 time zones in the late 19th century.",
+    "retrieved_context": "United States divided into four time zones. Sir Sandford Fleming proposed dividing the world into 24 time zones. time zones divided into Mountain. time zones played a role in expansion of global trade. time zones spans 15 degrees of longitude. International Meridian Conference held_in 1884. first major development played a role in introduction of standard time. conference divided into 24 time zones. International Meridian Conference used system of standard time zones. time zones divided into Central. time zones played a role in shaping perception of time. International Meridian Conference held_in Washington, D.C.. Greenwich Mean Time is based on Greenwich Meridian. time zones divided into Eastern. Sir Sandford Fleming is Canadian engineer. time zones played a role in centuries. Greenwich Meridian located_in London. time zones divided into Pacific.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The International Meridian Conference in 1884 agreed to adopt a system of standard time zones based on Greenwich Mean Time.",
+    "retrieved_context": "time zones divided into Mountain. time zones played a role in expansion of global trade. International Meridian Conference held_in 1884. time zones spans 15 degrees of longitude. Sir Sandford Fleming proposed dividing the world into 24 time zones. first major development played a role in introduction of standard time. conference divided into 24 time zones. International Meridian Conference used system of standard time zones. time zones divided into Central. time zones played a role in shaping perception of time. International Meridian Conference held_in Washington, D.C.. Greenwich Mean Time is based on Greenwich Meridian. time zones divided into Eastern. Sir Sandford Fleming is Canadian engineer. time zones played a role in centuries. Greenwich Meridian located_in London. time zones divided into Pacific.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Greenwich Meridian in London was chosen as the Prime Meridian for coordinating time globally.",
+    "retrieved_context": "time zones divided into Mountain. time zones played a role in expansion of global trade. International Meridian Conference held_in 1884. time zones spans 15 degrees of longitude. Daylight Saving Time is practice of advancing clocks. first major development played a role in introduction of standard time. International Meridian Conference used system of standard time zones. time zones divided into Central. time zones played a role in shaping perception of time. International Meridian Conference held_in Washington, D.C.. Greenwich Mean Time is based on Greenwich Meridian. time zones divided into Eastern. Telegraphs inefficiency_of local time. time zones played a role in centuries. Trains inefficiency_of local time. Greenwich Meridian located_in London. time zones divided into Pacific.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The world was divided into 24 time zones, each spanning 15 degrees of longitude.",
+    "retrieved_context": "time zones spans 15 degrees of longitude. Sir Sandford Fleming proposed dividing the world into 24 time zones. time zones divided into Mountain. time zones played a role in expansion of global trade. United States divided into four time zones. International Meridian Conference held_in 1884. conference divided into 24 time zones. International Meridian Conference used system of standard time zones. time zones played a role in shaping perception of time. time zones divided into Central. International Meridian Conference held_in Washington, D.C.. Greenwich Mean Time is based on Greenwich Meridian. time zones divided into Eastern. Sir Sandford Fleming is Canadian engineer. time zones played a role in centuries. Greenwich Meridian located_in London. time zones divided into Pacific.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Daylight Saving Time (DST) was introduced in the early 20th century to extend daylight hours.",
+    "retrieved_context": "time zones divided into Mountain. time zones spans 15 degrees of longitude. International Meridian Conference held_in 1884. time zones played a role in shaping perception of time. DST used World War I. time zones played a role in expansion of global trade. conference divided into 24 time zones. Sir Sandford Fleming is Canadian engineer. Greenwich Meridian located_in London. Daylight Saving Time is practice of advancing clocks. time zones divided into Central. time zones divided into Eastern. time zones played a role in centuries. time zones divided into Pacific. Sir Sandford Fleming proposed dividing the world into 24 time zones. first major development played a role in introduction of standard time. International Meridian Conference used system of standard time zones. International Meridian Conference held_in Washington, D.C.. Greenwich Mean Time is based on Greenwich Meridian.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "DST was first implemented during World War I to conserve energy.",
+    "retrieved_context": "Sir Sandford Fleming proposed dividing the world into 24 time zones. International Meridian Conference held_in 1884. British railway companies used British railway companies. first major development played a role in introduction of standard time. Daylight Saving Time is practice of advancing clocks. International Meridian Conference used system of standard time zones. International Meridian Conference held_in Washington, D.C.. Greenwich Mean Time is based on Greenwich Meridian. Sir Sandford Fleming is Canadian engineer. British railway companies is single standard time. Greenwich Meridian located_in London. DST used World War I. communities used local solar time.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Advances in technology and communication have made coordinating time across different time zones easier.",
+    "retrieved_context": "time zones divided into Mountain. time zones spans 15 degrees of longitude. time zones played a role in expansion of global trade. United States divided into four time zones. International Meridian Conference held_in 1884. Sir Sandford Fleming proposed dividing the world into 24 time zones. Daylight Saving Time is practice of advancing clocks. conference divided into 24 time zones. International Meridian Conference used system of standard time zones. time zones played a role in shaping perception of time. time zones divided into Central. International Meridian Conference held_in Washington, D.C.. time zones divided into Eastern. Sir Sandford Fleming is Canadian engineer. time zones played a role in centuries. Trains inefficiency_of local time. Telegraphs inefficiency_of local time. time zones divided into Pacific.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

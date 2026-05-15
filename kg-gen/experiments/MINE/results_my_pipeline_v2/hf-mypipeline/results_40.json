@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "A zombie apocalypse is a terrifying scenario.",
+    "retrieved_context": "zombie apocalypse is power. zombie apocalypse is terrifying scenario. zombie apocalypse requires careful planning. teamwork requires survival. mental resilience requires surviving a zombie apocalypse. survival kit includes multi-tool. zombie apocalypse imagines imagination of people. survival kit includes flashlight. zombie apocalypse requires zombie apocalypse. zombie apocalypse requires survival. headshots are effective neutralizing zombies. zombie apocalypse requires teamwork. plan requires outbreak. survival kit includes batteries. clean water is lifesaver. survival kit includes first aid kit. zombie apocalypse requires surviving a zombie apocalypse. zombie apocalypse requires mental health.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A zombie outbreak is often portrayed in movies, TV shows, and literature.",
+    "retrieved_context": "zombie apocalypse is power. zombie apocalypse is terrifying scenario. zombie apocalypse requires careful planning. teamwork requires survival. mental resilience requires surviving a zombie apocalypse. zombie apocalypse imagines imagination of people. zombie apocalypse requires zombie apocalypse. zombie apocalypse requires survival. headshots are effective neutralizing zombies. zombie apocalypse requires teamwork. plan requires outbreak. clean water is lifesaver. zombie apocalypse requires surviving a zombie apocalypse. zombie apocalypse requires mental health.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Preparation is key to surviving a zombie apocalypse.",
+    "retrieved_context": "zombie apocalypse is power. teamwork requires survival. regular exercise requires keeping body strong. proper nutrition requires keeping body strong. survival kit includes flashlight. zombie apocalypse requires survival. headshots are effective neutralizing zombies. survival kit includes batteries. zombie apocalypse is terrifying scenario. adequate rest requires keeping body strong. survival kit includes multi-tool. mental resilience requires surviving a zombie apocalypse. zombie apocalypse requires teamwork. survival kit includes first aid kit. zombie apocalypse requires mental health. zombie apocalypse requires careful planning. zombie apocalypse imagines imagination of people. zombie apocalypse requires zombie apocalypse. zombie apocalypse requires surviving a zombie apocalypse.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Stocking up on essential supplies like food, water, medical supplies, and weapons is crucial.",
+    "retrieved_context": "adequate rest requires keeping body strong. regular exercise requires keeping body strong. proper nutrition requires keeping body strong. survival kit includes multi-tool. supplies includes medical supplies. survival kit includes flashlight. safe location requires access to water. supplies includes weapons. safe location requires access to food. supplies includes food. survival kit includes first aid kit. survival kit includes batteries. supplies includes water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Having a well-equipped survival kit is important.",
+    "retrieved_context": "zombie apocalypse is power. teamwork requires survival. regular exercise requires keeping body strong. proper nutrition requires keeping body strong. survival kit includes flashlight. zombie apocalypse requires survival. survival kit includes batteries. zombie apocalypse is terrifying scenario. adequate rest requires keeping body strong. survival kit includes multi-tool. supplies includes medical supplies. supplies includes food. mental resilience requires surviving a zombie apocalypse. zombie apocalypse requires teamwork. survival kit includes first aid kit. supplies includes water. zombie apocalypse requires mental health. zombie apocalypse requires careful planning. zombie apocalypse imagines imagination of people. zombie apocalypse requires zombie apocalypse. supplies includes weapons. zombie apocalypse requires surviving a zombie apocalypse.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A reliable source of clean water and non-perishable food is essential.",
+    "retrieved_context": "adequate rest requires keeping body strong. regular exercise requires keeping body strong. proper nutrition requires keeping body strong. supplies includes medical supplies. safe location requires access to water. clean water is lifesaver. individuals requires reliable. individuals requires trustworthy. supplies includes weapons. safe location requires access to food. supplies includes food. supplies includes water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Identifying a safe location for shelter is important.",
+    "retrieved_context": "zombie apocalypse is power. zombie apocalypse is terrifying scenario. zombie apocalypse requires careful planning. teamwork requires survival. mental resilience requires surviving a zombie apocalypse. survival kit includes multi-tool. zombie apocalypse imagines imagination of people. survival kit includes flashlight. zombie apocalypse requires surviving a zombie apocalypse. zombie apocalypse requires zombie apocalypse. safe location requires access to water. zombie apocalypse requires survival. zombie apocalypse requires teamwork. survival kit includes first aid kit. safe location requires access to food. survival kit includes batteries. zombie apocalypse requires mental health.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fortifying the safe location to keep zombies out is crucial.",
+    "retrieved_context": "zombie apocalypse is power. teamwork requires survival. regular exercise requires keeping body strong. proper nutrition requires keeping body strong. survival kit includes flashlight. headshots are effective neutralizing zombies. zombie apocalypse requires survival. safe location requires access to food. survival kit includes batteries. zombie apocalypse is terrifying scenario. adequate rest requires keeping body strong. survival kit includes multi-tool. mental resilience requires surviving a zombie apocalypse. zombie apocalypse requires teamwork. survival kit includes first aid kit. zombie apocalypse requires mental health. zombie apocalypse requires careful planning. zombie apocalypse imagines imagination of people. zombie apocalypse requires zombie apocalypse. safe location requires access to water. zombie apocalypse requires surviving a zombie apocalypse.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Teamwork is essential for survival in a zombie apocalypse.",
+    "retrieved_context": "zombie apocalypse is power. teamwork requires survival. regular exercise requires keeping body strong. proper nutrition requires keeping body strong. survival kit includes flashlight. zombie apocalypse requires survival. headshots are effective neutralizing zombies. survival kit includes batteries. zombie apocalypse is terrifying scenario. adequate rest requires keeping body strong. survival kit includes multi-tool. mental resilience requires surviving a zombie apocalypse. zombie apocalypse requires teamwork. survival kit includes first aid kit. zombie apocalypse requires mental health. zombie apocalypse requires careful planning. zombie apocalypse imagines imagination of people. zombie apocalypse requires zombie apocalypse. zombie apocalypse requires surviving a zombie apocalypse.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Assigning roles and responsibilities based on skills and abilities is important for group survival.",
+    "retrieved_context": "zombie apocalypse is power. teamwork requires survival. regular exercise requires keeping body strong. proper nutrition requires keeping body strong. survival kit includes flashlight. zombie apocalypse requires survival. individuals requires trustworthy. survival kit includes batteries. zombie apocalypse is terrifying scenario. adequate rest requires keeping body strong. survival kit includes multi-tool. individuals requires reliable. mental resilience requires surviving a zombie apocalypse. zombie apocalypse requires teamwork. survival kit includes first aid kit. zombie apocalypse requires mental health. zombie apocalypse requires careful planning. zombie apocalypse imagines imagination of people. zombie apocalypse requires zombie apocalypse. zombie apocalypse requires surviving a zombie apocalypse.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Knowledge about zombies' characteristics and behaviors is crucial.",
+    "retrieved_context": "zombie apocalypse is power. zombie apocalypse is terrifying scenario. zombie apocalypse requires careful planning. teamwork requires survival. mental resilience requires surviving a zombie apocalypse. survival kit includes multi-tool. zombie apocalypse imagines imagination of people. survival kit includes flashlight. zombie apocalypse requires zombie apocalypse. headshots are effective neutralizing zombies. zombie apocalypse requires survival. zombie apocalypse requires teamwork. clean water is lifesaver. survival kit includes batteries. survival kit includes first aid kit. zombie apocalypse requires surviving a zombie apocalypse. zombie apocalypse requires mental health.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Aiming for headshots when attacking zombies is effective.",
+    "retrieved_context": "zombie apocalypse is power. teamwork requires survival. regular exercise requires keeping body strong. proper nutrition requires keeping body strong. survival kit includes flashlight. headshots are effective neutralizing zombies. zombie apocalypse requires survival. survival kit includes batteries. zombie apocalypse is terrifying scenario. adequate rest requires keeping body strong. survival kit includes multi-tool. supplies includes medical supplies. supplies includes food. mental resilience requires surviving a zombie apocalypse. zombie apocalypse requires teamwork. survival kit includes first aid kit. supplies includes water. zombie apocalypse requires mental health. zombie apocalypse requires careful planning. zombie apocalypse imagines imagination of people. zombie apocalypse requires zombie apocalypse. supplies includes weapons. zombie apocalypse requires surviving a zombie apocalypse.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Staying physically fit and maintaining good health is crucial.",
+    "retrieved_context": "zombie apocalypse is power. zombie apocalypse is terrifying scenario. adequate rest requires keeping body strong. regular exercise requires keeping body strong. proper nutrition requires keeping body strong. zombie apocalypse requires careful planning. teamwork requires survival. zombie apocalypse imagines imagination of people. mental resilience requires surviving a zombie apocalypse. supplies includes medical supplies. zombie apocalypse requires zombie apocalypse. zombie apocalypse requires survival. zombie apocalypse requires teamwork. supplies includes weapons. supplies includes food. zombie apocalypse requires surviving a zombie apocalypse. supplies includes water. zombie apocalypse requires mental health.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mental resilience is important for surviving a zombie apocalypse.",
+    "retrieved_context": "zombie apocalypse is power. teamwork requires survival. regular exercise requires keeping body strong. proper nutrition requires keeping body strong. survival kit includes flashlight. zombie apocalypse requires survival. headshots are effective neutralizing zombies. survival kit includes batteries. zombie apocalypse is terrifying scenario. adequate rest requires keeping body strong. survival kit includes multi-tool. mental resilience requires surviving a zombie apocalypse. zombie apocalypse requires teamwork. survival kit includes first aid kit. zombie apocalypse requires mental health. zombie apocalypse requires careful planning. zombie apocalypse imagines imagination of people. zombie apocalypse requires zombie apocalypse. zombie apocalypse requires surviving a zombie apocalypse.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Adaptability is key to increasing chances of survival during a zombie apocalypse.",
+    "retrieved_context": "zombie apocalypse is power. teamwork requires survival. regular exercise requires keeping body strong. proper nutrition requires keeping body strong. survival kit includes flashlight. zombie apocalypse requires survival. headshots are effective neutralizing zombies. survival kit includes batteries. zombie apocalypse is terrifying scenario. adequate rest requires keeping body strong. survival kit includes multi-tool. mental resilience requires surviving a zombie apocalypse. zombie apocalypse requires teamwork. survival kit includes first aid kit. zombie apocalypse requires mental health. zombie apocalypse requires careful planning. zombie apocalypse imagines imagination of people. zombie apocalypse requires zombie apocalypse. zombie apocalypse requires surviving a zombie apocalypse.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

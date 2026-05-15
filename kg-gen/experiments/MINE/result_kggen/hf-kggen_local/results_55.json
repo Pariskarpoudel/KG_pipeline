@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Modern medicine has made significant advancements over the past few centuries.",
+    "retrieved_context": "technological innovations paved the way for sophisticated medical practices. scientific discoveries paved the way for sophisticated medical practices. antibiotic era revolutionizing treatment. advanced medical technologies transformed practice. advancements improving quality of life. personalized medicine tailor treatments. modern medicine has made advancements. evolution transformed practice. treatments based on genetic makeup. advancements revolutionizing healthcare practices. advancements in medical technology.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern medicine has revolutionized healthcare practices.",
+    "retrieved_context": "healthcare improved lives. technological innovations paved the way for sophisticated medical practices. scientific discoveries paved the way for sophisticated medical practices. patients access medical care. advanced medical technologies transformed practice. advancements improving quality of life. personalized medicine tailor treatments. modern medicine has made advancements. evolution transformed practice. treatments based on genetic makeup. advancements revolutionizing healthcare practices. advancements in medical technology.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern medicine has improved the quality of life for individuals worldwide.",
+    "retrieved_context": "healthcare improved lives. technological innovations paved the way for sophisticated medical practices. scientific discoveries paved the way for sophisticated medical practices. advancements improving quality of life. personalized medicine tailor treatments. disparities in outcomes. modern medicine has made advancements. opportunity to lead fulfilling lives. treatments based on genetic makeup. opportunity to lead healthy. disparities in healthcare quality. advancements revolutionizing healthcare practices. advancements in medical technology.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The evolution of medicine can be traced back to ancient civilizations.",
+    "retrieved_context": "physicians make decisions. technological innovations paved the way for sophisticated medical practices. scientific discoveries paved the way for sophisticated medical practices. antibiotic era revolutionizing treatment. physicians diagnose diseases. advancements improving quality of life. decisions based on data-driven insights. personalized medicine tailor treatments. modern medicine has made advancements. medical imaging allows physicians. evolution transformed practice. treatments based on genetic makeup. physicians visualize internal structures. advancements revolutionizing healthcare practices. evolution traced back to ancient civilizations. advancements in medical technology.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Primitive forms of medical treatment were practiced in ancient civilizations.",
+    "retrieved_context": "technological innovations paved the way for sophisticated medical practices. scientific discoveries paved the way for sophisticated medical practices. patients access medical care. chronic diseases such as cancer. advancements improving quality of life. chronic diseases such as hypertension. modern medicine has made advancements. evolution transformed practice. evolution traced back to ancient civilizations. chronic diseases such as diabetes. medical conditions including chronic diseases. advancements revolutionizing healthcare practices. advancements in medical technology.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Scientific discoveries and technological innovations have paved the way for sophisticated medical practices.",
+    "retrieved_context": "scientific discoveries paved the way for sophisticated medical practices. technological innovations paved the way for sophisticated medical practices. advanced medical technologies transformed practice. advancements improving quality of life. modern medicine has made advancements. evolution transformed practice. advancements revolutionizing healthcare practices. advancements in medical technology.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "One key development in modern medicine is the understanding of human anatomy and physiology.",
+    "retrieved_context": "technological innovations paved the way for sophisticated medical practices. scientific discoveries paved the way for sophisticated medical practices. patients access medical care. advanced medical technologies transformed practice. advancements improving quality of life. understanding of human anatomy. modern medicine has made advancements. evolution transformed practice. capabilities of medical professionals. advancements revolutionizing healthcare practices. advancements in medical technology.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The study of anatomy began to take shape during the Renaissance period.",
+    "retrieved_context": "minimally invasive procedures such as laparoscopy. introduction of anesthesia. andreas vesalius challenged traditional beliefs. operations without pain. 19th century marked milestone. renaissance period began study. dissections understand structure. andreas vesalius conducted dissections. surgeons perform operations. structure laid foundation. understanding of human anatomy. surgical procedures revolutionized by anesthesia. william morton introduced anesthesia. advancements revolutionizing healthcare practices. advancements in medical technology. operations without distress. advancements improving quality of life. modern medicine has made advancements. invention of minimally invasive procedures.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Andreas Vesalius challenged traditional beliefs and conducted detailed dissections to understand the human body.",
+    "retrieved_context": "pharmaceutical companies develop therapies. conclusion testament to human ingenuity. technological innovations paved the way for sophisticated medical practices. andreas vesalius challenged traditional beliefs. dissections understand structure. scientific discoveries paved the way for sophisticated medical practices. conclusion testament to innovation. advancements improving quality of life. understanding of human anatomy. modern medicine has made advancements. pharmaceutical companies develop drugs. advancements revolutionizing healthcare practices. andreas vesalius conducted dissections. structure laid foundation. advancements in medical technology.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The discovery of germs and the development of germ theory by Louis Pasteur and Robert Koch marked a milestone in medicine.",
+    "retrieved_context": "discovery of germs. physicians make decisions. technological innovations paved the way for sophisticated medical practices. scientific discoveries paved the way for sophisticated medical practices. physicians diagnose diseases. advancements improving quality of life. alexander fleming discovered penicillin. identification of microorganisms. germ theory by louis pasteur. pharmaceutical industry role in discovery. modern medicine has made advancements. medical imaging allows physicians. physicians visualize internal structures. advancements revolutionizing healthcare practices. germ theory by robert koch. discovery of penicillin. advancements in medical technology.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The identification of specific microorganisms as the cause of diseases revolutionized medicine.",
+    "retrieved_context": "antibiotic era revolutionizing treatment. advancements in medical technology. physicians diagnose diseases. advancements improving quality of life. identification of microorganisms. personalized medicine tailor treatments. modern medicine has made advancements. antibiotics combat bacterial infections. medical imaging allows physicians. physicians visualize internal structures. treatments based on genetic makeup. advancements revolutionizing healthcare practices. physicians make decisions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The 20th century witnessed rapid advancements in medical technology.",
+    "retrieved_context": "scientific discoveries paved the way for sophisticated medical practices. technological innovations paved the way for sophisticated medical practices. advanced medical technologies transformed practice. advancements improving quality of life. modern medicine has made advancements. 19th century marked milestone. evolution transformed practice. advancements revolutionizing healthcare practices. advancements in medical technology.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The invention of the X-ray by Wilhelm Roentgen revolutionized medical imaging.",
+    "retrieved_context": "invention of x-ray. wilhelm roentgen invented x-ray. advancements in medical technology. physicians diagnose diseases. advancements improving quality of life. advanced medical technologies transformed practice. imaging techniques such as mri. modern medicine has made advancements. invention of minimally invasive procedures. physicians visualize internal structures. medical imaging allows physicians. imaging techniques such as ct scans. evolution transformed practice. advancements revolutionizing healthcare practices. physicians make decisions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The pharmaceutical industry has played a crucial role in the development of modern medicine.",
+    "retrieved_context": "discovery of germs. antibiotic era revolutionizing treatment. advanced medical technologies transformed practice. advancements improving quality of life. personalized medicine tailor treatments. modern medicine has made advancements. pharmaceutical industry role in discovery. pharmaceutical companies develop drugs. treatments based on genetic makeup. evolution transformed practice. advancements revolutionizing healthcare practices. pharmaceutical companies develop therapies. discovery of penicillin. advancements in medical technology.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The discovery of penicillin by Alexander Fleming revolutionized the treatment of bacterial infections.",
+    "retrieved_context": "discovery of germs. technological innovations paved the way for sophisticated medical practices. scientific discoveries paved the way for sophisticated medical practices. antibiotic era revolutionizing treatment. advancements improving quality of life. alexander fleming discovered penicillin. modern medicine has made advancements. pharmaceutical industry role in discovery. antibiotics combat bacterial infections. advancements revolutionizing healthcare practices. discovery of penicillin. advancements in medical technology.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

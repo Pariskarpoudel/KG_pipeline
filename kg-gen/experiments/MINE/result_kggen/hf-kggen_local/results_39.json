@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "A zombie apocalypse is a terrifying scenario.",
+    "retrieved_context": "teamwork is essential for survival. safe location consider defense. coping mechanisms develop for fear. safe location is for shelter. alive stay teamwork. mindset maintain calm. safe location consider access. safe location develop escape plan. safe location keep out zombies. safe location consider visibility. non-perishable food is crisis. survival maximize undead. scenario captured imagination. zombie outbreak may seem like fiction. coping mechanisms develop for stress. alive stay calm. zombie apocalypse is a scenario. communication is key to safety. safety prioritize zombies. confrontations avoid zombies. dangerous situations stay calm. clean water is crisis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A zombie outbreak is often portrayed in movies, TV shows, and literature.",
+    "retrieved_context": "plan is important for outbreak. safe location consider access. survival maximize undead. scenario captured imagination. zombie outbreak may seem like fiction. confrontations avoid zombies. imagination through literature. teamwork is essential for survival. imagination through tv shows. safe location develop escape plan. safe location keep out zombies. safe location consider defense. safety prioritize zombies. safe location consider visibility. imagination through movies. zombie apocalypse is a scenario. communication is key to safety. safe location is for shelter.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Preparation is key to surviving a zombie apocalypse.",
+    "retrieved_context": "teamwork is essential for survival. supplies include food. safe location consider defense. supplies include medical supplies. supplies include weapons. safe location is for shelter. survival kit includes batteries. alive stay teamwork. survival kit includes multi-tool. safe location consider access. safe location develop escape plan. safe location keep out zombies. safe location consider visibility. survival maximize undead. scenario captured imagination. zombie outbreak may seem like fiction. survival kit includes first aid kit. zombie apocalypse is a scenario. communication is key to safety. safety prioritize zombies. preparation is key for surviving. confrontations avoid zombies. surviving requires supplies. supplies include water. survival kit includes flashlight.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Stocking up on essential supplies like food, water, medical supplies, and weapons is crucial.",
+    "retrieved_context": "non-perishable food is crisis. survival kit includes multi-tool. survival kit includes first aid kit. supplies include food. survival kit includes flashlight. supplies include weapons. surviving requires supplies. supplies include medical supplies. clean water is crisis. supplies include water. preparation is key for surviving. survival kit includes batteries.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Having a well-equipped survival kit is important.",
+    "retrieved_context": "alive stay teamwork. survival kit includes multi-tool. survival maximize undead. confrontations avoid zombies. teamwork is essential for survival. supplies include food. supplies include water. safe location keep out zombies. supplies include weapons. survival kit includes batteries. communication is key to cooperation. surviving requires supplies. supplies include medical supplies. survival kit includes first aid kit. communication is key to safety. preparation is key for surviving. safety prioritize zombies. survival kit includes flashlight.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A reliable source of clean water and non-perishable food is essential.",
+    "retrieved_context": "non-perishable food is crisis. health requires rest. risky behaviors avoid contaminated water. supplies include food. physically fit is crucial for health. health requires exercise. alive stay health. health requires nutrition. risky behaviors avoid contaminated food. supplies include weapons. surviving requires supplies. supplies include medical supplies. clean water is crisis. supplies include water. preparation is key for surviving.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Identifying a safe location for shelter is important.",
+    "retrieved_context": "teamwork is essential for survival. risky behaviors avoid contaminated food. safe location consider defense. communication is key to cooperation. safe location is for shelter. survival kit includes batteries. alive stay teamwork. mindset maintain calm. survival kit includes multi-tool. safe location consider access. risky behaviors avoid contaminated water. safe location develop escape plan. safe location keep out zombies. safe location consider visibility. survival maximize undead. alive stay calm. survival kit includes first aid kit. communication is key to safety. safety prioritize zombies. confrontations avoid zombies. dangerous situations stay calm. safe stay alert. survival kit includes flashlight.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fortifying the safe location to keep zombies out is crucial.",
+    "retrieved_context": "alive stay teamwork. safe location consider access. survival maximize undead. scenario captured imagination. zombie outbreak may seem like fiction. confrontations avoid zombies. teamwork is essential for survival. safe location develop escape plan. safe location keep out zombies. safe location consider defense. communication is key to cooperation. safety prioritize zombies. safe location consider visibility. zombie apocalypse is a scenario. communication is key to safety. safe location is for shelter.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Teamwork is essential for survival in a zombie apocalypse.",
+    "retrieved_context": "alive stay knowledge. teamwork is essential for survival. supplies include food. safe location consider defense. communication is key to cooperation. supplies include medical supplies. supplies include weapons. safe location is for shelter. alive stay teamwork. safe location consider access. alive stay health. safe location develop escape plan. safe location keep out zombies. safe location consider visibility. alive stay planning. survival maximize undead. scenario captured imagination. zombie outbreak may seem like fiction. alive stay calm. zombie apocalypse is a scenario. communication is key to safety. safety prioritize zombies. preparation is key for surviving. alive stay adaptability. confrontations avoid zombies. surviving requires supplies. supplies include water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Assigning roles and responsibilities based on skills and abilities is important for group survival.",
+    "retrieved_context": "alive stay knowledge. communication system establish with group. teamwork is essential for survival. supplies include food. focused stay group. supplies include medical supplies. supplies include weapons. survival kit includes batteries. alive stay teamwork. survival kit includes multi-tool. alive stay health. roles assign based on abilities. open mind keep skills. alive stay planning. survival maximize undead. roles assign based on skills. alive stay calm. survival kit includes first aid kit. preparation is key for surviving. alive stay adaptability. surviving requires supplies. supplies include water. survival kit includes flashlight.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Knowledge about zombies' characteristics and behaviors is crucial.",
+    "retrieved_context": "alive stay knowledge. teamwork is essential for survival. risky behaviors avoid contaminated food. safe location consider defense. safe location is for shelter. alive stay teamwork. safe location consider access. risky behaviors avoid contaminated water. alive stay health. safe location develop escape plan. safe location keep out zombies. safe location consider visibility. alive stay planning. survival maximize undead. scenario captured imagination. zombie outbreak may seem like fiction. characteristics learn about behaviors. alive stay calm. zombie apocalypse is a scenario. communication is key to safety. safety prioritize zombies. alive stay adaptability. confrontations avoid zombies. knowledge is power.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Aiming for headshots when attacking zombies is effective.",
+    "retrieved_context": "communication system establish with group. teamwork is essential for survival. supplies include food. focused stay group. safe location consider defense. supplies include medical supplies. attacking aim for brain. supplies include weapons. safe location is for shelter. safe location consider access. safe location develop escape plan. safe location keep out zombies. safe location consider visibility. survival maximize undead. scenario captured imagination. zombie outbreak may seem like fiction. headshots are effective for attacking. zombie apocalypse is a scenario. communication is key to safety. safety prioritize zombies. confrontations avoid zombies. surviving requires supplies. supplies include water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Staying physically fit and maintaining good health is crucial.",
+    "retrieved_context": "alive stay knowledge. supplies include food. teamwork is essential for survival. meditation is breathing exercises. supplies include medical supplies. supplies include weapons. coping mechanisms develop for fear. alive stay teamwork. health requires rest. physically fit is crucial for health. alive stay health. alive stay planning. survival maximize undead. coping mechanisms develop for stress. alive stay calm. preparation is key for surviving. alive stay adaptability. health requires exercise. health requires nutrition. surviving requires supplies. supplies include water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mental resilience is important for surviving a zombie apocalypse.",
+    "retrieved_context": "teamwork is essential for survival. supplies include food. safe location consider defense. supplies include medical supplies. supplies include weapons. coping mechanisms develop for fear. safe location is for shelter. survival kit includes batteries. alive stay teamwork. survival kit includes multi-tool. safe location consider access. safe location develop escape plan. safe location keep out zombies. challenges face mental resilience. safe location consider visibility. survival maximize undead. scenario captured imagination. zombie outbreak may seem like fiction. coping mechanisms develop for stress. survival kit includes first aid kit. zombie apocalypse is a scenario. communication is key to safety. safety prioritize zombies. preparation is key for surviving. confrontations avoid zombies. surviving requires supplies. supplies include water. survival kit includes flashlight.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Adaptability is key to increasing chances of survival during a zombie apocalypse.",
+    "retrieved_context": "alive stay knowledge. teamwork is essential for survival. supplies include food. decisions change course. safe location consider defense. supplies include medical supplies. supplies include weapons. safe location is for shelter. survival kit includes batteries. alive stay teamwork. survival kit includes multi-tool. safe location consider access. alive stay health. safe location develop escape plan. safe location keep out zombies. safe location consider visibility. alive stay planning. survival maximize undead. scenario captured imagination. zombie outbreak may seem like fiction. alive stay calm. survival kit includes first aid kit. zombie apocalypse is a scenario. communication is key to safety. safety prioritize zombies. preparation is key for surviving. alive stay adaptability. confrontations avoid zombies. adaptability is key for decisions. surviving requires supplies. supplies include water. survival kit includes flashlight.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "100.00%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Colors impact psychological well-being",
+    "retrieved_context": "color psychology affect mood. yellow lead to joy. blue effect on concentration. cool associated with calmness. psychological evoke feelings. blue effect on focus. cool associated with purple. psychological evoke emotions. study known as color psychology. yellow associated with happiness. cool associated with serenity. color psychology affect physical reactions. color psychology influence behavior. cool associated with green. warm associated with yellow. yellow lead to cheerfulness. cool used in meditation rooms. yellow lead to optimism. yellow used in kitchen. yellow associated with positivity. cool associated with peace. cool used in bedrooms. cool associated with blue. cool associated with relaxation. yellow increase serotonin. psychological impact on well-being. cool associated with tranquility.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors evoke emotions and feelings",
+    "retrieved_context": "perception influence blood pressure. color psychology affect mood. perception influence heart rate. blue effect on concentration. cool associated with calmness. psychological evoke feelings. blue effect on focus. cool associated with purple. psychological evoke emotions. study known as color psychology. calming associated with blues. cool associated with serenity. color psychology affect physical reactions. color psychology influence behavior. cool associated with green. cool used in meditation rooms. cool used in bedrooms. cool associated with peace. perception influence arousal. cool associated with blue. cool associated with relaxation. psychological impact on well-being. cool associated with tranquility.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Study of colors and human behavior is color psychology",
+    "retrieved_context": "perception influence blood pressure. color psychology affect mood. perception influence heart rate. warm create urgency. blue effect on concentration. cool associated with calmness. warm evoke excitement. psychological evoke feelings. blue effect on focus. cool associated with purple. psychological evoke emotions. study known as color psychology. warm associated with passion. cool associated with serenity. color psychology affect physical reactions. color psychology influence behavior. warm associated with warmth. cool associated with green. warm associated with energy. warm associated with yellow. cool used in meditation rooms. red used in workout space. cool used in bedrooms. cool associated with peace. warm stimulating appetite. perception influence arousal. cool associated with blue. cool associated with relaxation. psychological impact on well-being. cool associated with tranquility. warm associated with orange. warm associated with red.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different colors affect mood, behavior, and physical reactions",
+    "retrieved_context": "perception influence blood pressure. color psychology affect mood. yellow lead to joy. perception influence heart rate. warm create urgency. blue effect on concentration. cool associated with calmness. warm evoke excitement. blue effect on focus. cool associated with purple. study known as color psychology. warm associated with passion. yellow associated with happiness. cool associated with serenity. color psychology affect physical reactions. color psychology influence behavior. warm associated with warmth. cool associated with green. warm associated with energy. warm associated with yellow. yellow lead to cheerfulness. cool used in meditation rooms. red used in workout space. yellow lead to optimism. yellow used in kitchen. yellow associated with positivity. cool used in bedrooms. cool associated with peace. warm stimulating appetite. perception influence arousal. cool associated with blue. cool associated with relaxation. yellow increase serotonin. cool associated with tranquility. warm associated with orange. warm associated with red.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warm colors like red evoke energy and passion",
+    "retrieved_context": "perception influence blood pressure. color psychology affect mood. yellow lead to joy. perception influence heart rate. warm create urgency. blue effect on concentration. cool associated with calmness. warm evoke excitement. blue effect on focus. cool associated with purple. study known as color psychology. warm associated with passion. yellow associated with happiness. cool associated with serenity. color psychology affect physical reactions. color psychology influence behavior. warm associated with warmth. cool associated with green. warm associated with energy. warm associated with yellow. yellow lead to cheerfulness. cool used in meditation rooms. red used in workout space. yellow lead to optimism. yellow used in kitchen. yellow associated with positivity. cool associated with peace. cool used in bedrooms. warm stimulating appetite. perception influence arousal. advertising create urgency. cool associated with blue. cool associated with relaxation. yellow increase serotonin. cool associated with tranquility. warm associated with orange. warm associated with red.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cool colors like blue evoke calmness and tranquility",
+    "retrieved_context": "color psychology affect mood. yellow lead to joy. blue effect on concentration. cool associated with calmness. blue effect on focus. cool associated with purple. study known as color psychology. calming associated with blues. yellow associated with happiness. cool associated with serenity. color psychology affect physical reactions. color psychology influence behavior. cool associated with green. warm associated with yellow. yellow lead to cheerfulness. cool used in meditation rooms. yellow lead to optimism. yellow used in kitchen. yellow associated with positivity. cool used in bedrooms. cool associated with peace. cool associated with blue. cool associated with relaxation. yellow increase serotonin. cool associated with tranquility.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Red can increase heart rate and blood pressure",
+    "retrieved_context": "perception influence blood pressure. color psychology affect mood. perception influence heart rate. warm create urgency. blue effect on concentration. cool associated with calmness. warm evoke excitement. cool associated with purple. blue effect on focus. study known as color psychology. warm associated with passion. cool associated with serenity. color psychology affect physical reactions. color psychology influence behavior. warm associated with warmth. cool associated with green. warm associated with energy. warm associated with yellow. cool used in meditation rooms. red used in workout space. cool associated with peace. cool used in bedrooms. warm stimulating appetite. perception influence arousal. cool associated with blue. cool associated with relaxation. cool associated with tranquility. warm associated with orange. warm associated with red.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blue has a calming effect on the mind and body",
+    "retrieved_context": "perception influence blood pressure. color psychology affect mood. yellow lead to joy. perception influence heart rate. blue effect on concentration. cool associated with calmness. blue effect on focus. cool associated with purple. study known as color psychology. calming associated with blues. yellow associated with happiness. cool associated with serenity. color psychology affect physical reactions. color psychology influence behavior. cool associated with green. warm associated with yellow. yellow lead to cheerfulness. cool used in meditation rooms. yellow lead to optimism. yellow used in kitchen. yellow associated with positivity. cool used in bedrooms. cool associated with peace. perception influence arousal. cool associated with blue. cool associated with relaxation. yellow increase serotonin. cool associated with tranquility.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yellow is associated with happiness and positivity",
+    "retrieved_context": "color psychology affect mood. yellow lead to joy. warm create urgency. warm evoke excitement. study known as color psychology. warm associated with passion. yellow associated with happiness. color psychology affect physical reactions. color psychology influence behavior. warm associated with warmth. warm associated with energy. energizing associated with yellows. warm associated with yellow. yellow lead to cheerfulness. yellow lead to optimism. yellow used in kitchen. yellow associated with positivity. warm stimulating appetite. yellow increase serotonin. warm associated with orange. warm associated with red.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yellow increases serotonin levels in the brain",
+    "retrieved_context": "color psychology affect mood. yellow lead to joy. warm create urgency. blue effect on concentration. cool associated with calmness. warm evoke excitement. blue effect on focus. cool associated with purple. study known as color psychology. calming associated with blues. warm associated with passion. yellow associated with happiness. cool associated with serenity. color psychology affect physical reactions. color psychology influence behavior. warm associated with warmth. cool associated with green. warm associated with energy. energizing associated with yellows. warm associated with yellow. yellow lead to cheerfulness. cool used in meditation rooms. yellow lead to optimism. yellow used in kitchen. yellow associated with positivity. cool associated with peace. cool used in bedrooms. warm stimulating appetite. cool associated with blue. cool associated with relaxation. yellow increase serotonin. cool associated with tranquility. warm associated with orange. warm associated with red.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black is associated with power and sophistication",
+    "retrieved_context": "black associated with power. perception influence blood pressure. color psychology affect mood. perception influence heart rate. warm create urgency. warm evoke excitement. universal associated with nature. black associated with sophistication. study known as color psychology. warm associated with passion. black described as versatile. black associated with authority. black evoke mystery. color psychology affect physical reactions. color psychology influence behavior. warm associated with warmth. warm associated with energy. warm associated with yellow. black evoke sadness. universal associated with danger. warm stimulating appetite. black described as duality. perception influence arousal. warm associated with orange. warm associated with red.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black can evoke feelings of sadness or mystery",
+    "retrieved_context": "black associated with power. color psychology affect mood. yellow lead to joy. psychological evoke feelings. black associated with sophistication. psychological evoke emotions. study known as color psychology. yellow associated with happiness. black described as versatile. black associated with authority. black evoke mystery. color psychology affect physical reactions. color psychology influence behavior. warm associated with yellow. death associated with mourning. yellow lead to cheerfulness. yellow lead to optimism. yellow used in kitchen. yellow associated with positivity. black evoke sadness. black described as duality. yellow increase serotonin. psychological impact on well-being.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Individual experiences and cultural backgrounds influence color perception",
+    "retrieved_context": "black associated with power. perception influence blood pressure. color psychology affect mood. perception influence heart rate. blue effect on concentration. cool associated with calmness. cool associated with purple. blue effect on focus. black associated with sophistication. study known as color psychology. calming associated with blues. cool associated with serenity. black described as versatile. black associated with authority. black evoke mystery. color psychology affect physical reactions. color psychology influence behavior. individual influence cultural backgrounds. individual influence experiences. cool associated with green. cool used in meditation rooms. black evoke sadness. cool used in bedrooms. cool associated with peace. black described as duality. perception influence arousal. cool associated with blue. cool associated with relaxation. cool associated with tranquility.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors have universal associations but meanings can vary culturally",
+    "retrieved_context": "color psychology affect mood. warm create urgency. blue effect on concentration. cool associated with calmness. warm evoke excitement. cool associated with purple. blue effect on focus. universal associated with nature. study known as color psychology. warm associated with passion. cool associated with serenity. unique associated with associations. color psychology affect physical reactions. color psychology influence behavior. individual influence cultural backgrounds. individual influence experiences. warm associated with warmth. cool associated with green. warm associated with energy. warm associated with yellow. cool used in meditation rooms. red used in workout space. cool used in bedrooms. cool associated with peace. universal associated with danger. warm stimulating appetite. cool associated with blue. cool associated with relaxation. cool associated with tranquility. warm associated with orange. warm associated with red.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors can be used to create environments that promote well-being and productivity",
+    "retrieved_context": "conclusion promote creativity. color psychology affect mood. yellow lead to joy. blue effect on concentration. cool associated with calmness. psychological evoke feelings. blue effect on focus. cool associated with purple. study known as color psychology. psychological evoke emotions. yellow associated with happiness. cool associated with serenity. conclusion promote productivity. color psychology affect physical reactions. color psychology influence behavior. conclusion impact on mindset. cool associated with green. warm associated with yellow. yellow lead to cheerfulness. cool used in meditation rooms. yellow lead to optimism. yellow used in kitchen. yellow associated with positivity. cool associated with peace. cool used in bedrooms. conclusion influence daily lives. cool associated with blue. cool associated with relaxation. yellow increase serotonin. psychological impact on well-being. cool associated with tranquility.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "100.00%"
+  }
+]

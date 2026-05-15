@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Water is crucial for the development of civilization.",
+    "retrieved_context": "Water power harnessed in IR mechanization of production processes. Water essential for agriculture. Availability of water determined success settlements. Water essential for sanitation. Waterways played role military campaigns. Water essential for industry. Ancient societies used water to irrigate crops rivers and streams. Water essential for drinking. Water played role development of civilization. Water essential for cooking. Water essential for human survival. Water essential for transportation. Rivers and seas natural highways transportation of people and goods. Early human settlements near to sources of water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is essential for human survival.",
+    "retrieved_context": "Water power harnessed in IR mechanization of production processes. Water essential for agriculture. Availability of water determined success settlements. Water essential for sanitation. Waterways played role military campaigns. Water essential for industry. Ancient societies used water to irrigate crops rivers and streams. Water essential for drinking. Water played role development of civilization. Water essential for cooking. Water essential for human survival. Water essential for transportation. Rivers and seas natural highways transportation of people and goods. Early human settlements near to sources of water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is important for drinking.",
+    "retrieved_context": "Water power harnessed in IR mechanization of production processes. Water essential for agriculture. Availability of water determined success settlements. Water essential for sanitation. Waterways played role military campaigns. Water essential for industry. Ancient societies used water to irrigate crops rivers and streams. Water essential for drinking. Water played role development of civilization. Water essential for cooking. Water essential for human survival. Water essential for transportation. Rivers and seas natural highways transportation of people and goods. Early human settlements near to sources of water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is important for cooking.",
+    "retrieved_context": "Water power harnessed in IR mechanization of production processes. Water essential for agriculture. Availability of water determined success settlements. Water essential for sanitation. Irrigation systems constructed in ancient Mesopotamia canals. Water essential for industry. Watermills and waterwheels grind grain ancient times. Water essential for drinking. Water played role development of civilization. Water essential for cooking. Water essential for human survival. Water essential for transportation. Terraced fields constructed by the Inca Empire irrigation system. Early human settlements near to sources of water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is important for sanitation.",
+    "retrieved_context": "Water power harnessed in IR mechanization of production processes. Water essential for agriculture. Availability of water determined success settlements. Water essential for sanitation. Irrigation systems constructed in ancient Mesopotamia canals. Waterways played role military campaigns. Water essential for industry. Water essential for drinking. Water played role development of civilization. Water essential for cooking. Water essential for human survival. Water essential for transportation. Terraced fields constructed by the Inca Empire irrigation system. Early human settlements near to sources of water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Early human settlements were established near sources of water.",
+    "retrieved_context": "Waterways played role military campaigns. Water essential for agriculture. Availability of water determined success settlements. Water essential for sanitation. Water essential for industry. Ancient societies used water to irrigate crops rivers and streams. Water essential for drinking. Water played role development of civilization. Water essential for cooking. Water essential for human survival. Water essential for transportation. Rivers and seas natural highways transportation of people and goods. Early human settlements near to sources of water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Access to water was crucial for the survival of early civilizations.",
+    "retrieved_context": "Waterways played role military campaigns. Water essential for agriculture. Availability of water determined success settlements. Water essential for sanitation. Water power harnessed in IR mechanization of production processes. Water essential for industry. Watermills and waterwheels grind grain ancient times. Water essential for drinking. Water played role development of civilization. Water essential for cooking. Water essential for human survival. Water essential for transportation. Rivers and seas natural highways transportation of people and goods. Early human settlements near to sources of water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The availability of water determined the success of settlements.",
+    "retrieved_context": "Waterways played role military campaigns. Water essential for agriculture. Availability of water determined success settlements. Irrigation systems constructed in ancient Mesopotamia canals. Water essential for sanitation. Water essential for industry. Ancient societies used water to irrigate crops rivers and streams. Water essential for drinking. Water played role development of civilization. Water essential for cooking. Water essential for human survival. Water essential for transportation. Early human settlements near to sources of water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is vital for agriculture.",
+    "retrieved_context": "Water power harnessed in IR mechanization of production processes. Water essential for agriculture. Availability of water determined success settlements. Water essential for sanitation. Irrigation systems constructed in ancient Mesopotamia canals. Waterways played role military campaigns. Water essential for industry. Water essential for drinking. Water played role development of civilization. Water essential for cooking. Water essential for human survival. Water essential for transportation. Terraced fields constructed by the Inca Empire irrigation system. Early human settlements near to sources of water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is used to irrigate crops.",
+    "retrieved_context": "Water power harnessed in IR mechanization of production processes. Water essential for agriculture. Availability of water determined success settlements. Irrigation systems constructed in ancient Mesopotamia canals. Water essential for sanitation. Waterways played role military campaigns. Water essential for industry. Water essential for drinking. Water played role development of civilization. Water essential for cooking. Terraced fields constructed by the Inca Empire irrigation system. Water essential for human survival. Water essential for transportation. Early human settlements near to sources of water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water allows societies to cultivate larger areas of land.",
+    "retrieved_context": "Waterways played role military campaigns. Water essential for agriculture. Availability of water determined success settlements. Irrigation systems constructed in ancient Mesopotamia canals. Water essential for sanitation. Water power harnessed in IR mechanization of production processes. Water essential for industry. Water essential for drinking. Water played role development of civilization. Water essential for cooking. Terraced fields constructed by the Inca Empire irrigation system. Water essential for human survival. Water essential for transportation. Rivers and seas natural highways transportation of people and goods. Early human settlements near to sources of water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water has been essential for transportation and trade.",
+    "retrieved_context": "Waterways played role military campaigns. Water essential for agriculture. Availability of water determined success settlements. Water essential for sanitation. Water power harnessed in IR mechanization of production processes. Water essential for industry. Water essential for drinking. Water played role development of civilization. Water essential for cooking. Water essential for human survival. Rivers and seas natural highways transportation of people and goods. Water essential for transportation. Early human settlements near to sources of water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rivers and seas have served as natural highways for trade.",
+    "retrieved_context": "Maritime trade routes connected civilizations exchange of goods. Waterways played role military campaigns. Water essential for agriculture. Irrigation systems constructed in ancient Mesopotamia canals. Water essential for sanitation. Water essential for industry. Ancient societies used water to irrigate crops rivers and streams. Water essential for drinking. Water played role development of civilization. Water essential for cooking. Water essential for transportation. Rivers and seas natural highways transportation of people and goods. Water essential for human survival.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water has been a source of power for industry and innovation.",
+    "retrieved_context": "Water power harnessed in IR mechanization of production processes. Water essential for agriculture. Availability of water determined success settlements. Water essential for sanitation. Waterways played role military campaigns. Water essential for industry. Hydroelectric power generated by water clean and renewable energy. Water essential for drinking. Water played role development of civilization. Water essential for cooking. Water essential for human survival. Water essential for transportation. Early human settlements near to sources of water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Watermills and waterwheels were used in ancient times for various purposes.",
+    "retrieved_context": "Water power harnessed in IR mechanization of production processes. Irrigation systems constructed in ancient Mesopotamia canals. Ancient societies used water to irrigate crops rivers and streams. Hydroelectric power generated by water clean and renewable energy. Watermills and waterwheels grind grain ancient times. Terraced fields constructed by the Inca Empire irrigation system. Early human settlements near to sources of water.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "100.00%"
+  }
+]

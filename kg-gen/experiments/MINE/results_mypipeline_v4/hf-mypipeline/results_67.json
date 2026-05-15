@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Climate change impacts animals' habitats.",
+    "retrieved_context": "rising temperatures affects ecosystems. weather patterns erratic due to climate change. climate change impacts pressure animal populations worldwide. climate change causes food shortages. climate change causes extreme weather events. climate change affects natural cycles of plants and animals. climate change causes loss of habitat for animals. climate change causes habitat loss. climate change affects ecosystems. rising temperatures causes climate change. climate change causes changes in behavior and reproductive patterns of animals. climate change causes more frequent extreme weather events. climate change facilitates spread of diseases. climate change threatens animals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Animals are forced to adapt or migrate due to changing ecosystems.",
+    "retrieved_context": "rising temperatures affects ecosystems. weather patterns erratic due to climate change. climate change impacts pressure animal populations worldwide. climate change causes food shortages. climate change causes extreme weather events. climate change affects natural cycles of plants and animals. climate change causes loss of habitat for animals. climate change causes habitat loss. climate change affects ecosystems. rising temperatures causes climate change. climate change causes changes in behavior and reproductive patterns of animals. climate change causes more frequent extreme weather events. climate change facilitates spread of diseases. climate change threatens animals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Polar bears are losing sea ice in the Arctic due to warming temperatures.",
+    "retrieved_context": "warmer ocean temperatures causes coral bleaching. rising temperatures affects ecosystems. weather patterns erratic due to climate change. warmer temperatures favor disease-causing organisms. climate change impacts pressure animal populations worldwide. polar bears lose sea ice in the Arctic. climate change causes food shortages. climate change causes extreme weather events. climate change affects natural cycles of plants and animals. climate change causes loss of habitat for animals. climate change causes habitat loss. climate change affects ecosystems. rising temperatures causes climate change. climate change causes changes in behavior and reproductive patterns of animals. climate change causes more frequent extreme weather events. climate change facilitates spread of diseases. climate change threatens animals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warmer ocean temperatures cause coral bleaching, affecting fish populations.",
+    "retrieved_context": "warmer ocean temperatures causes coral bleaching. rising temperatures affects ecosystems. weather patterns erratic due to climate change. warmer temperatures favor disease-causing organisms. climate change impacts pressure animal populations worldwide. polar bears lose sea ice in the Arctic. climate change causes food shortages. climate change causes extreme weather events. climate change affects natural cycles of plants and animals. climate change causes loss of habitat for animals. climate change causes habitat loss. climate change affects ecosystems. rising temperatures causes climate change. climate change causes changes in behavior and reproductive patterns of animals. climate change causes more frequent extreme weather events. climate change facilitates spread of diseases. climate change threatens animals.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Extreme weather events like wildfires can destroy animal habitats.",
+    "retrieved_context": "weather patterns erratic due to climate change. climate change impacts pressure animal populations worldwide. climate change causes food shortages. climate change causes extreme weather events. climate change affects natural cycles of plants and animals. climate change causes loss of habitat for animals. climate change causes habitat loss. climate change affects ecosystems. wildfires decimate koalas and other wildlife in Australia. rising temperatures causes climate change. climate change causes changes in behavior and reproductive patterns of animals. climate change causes more frequent extreme weather events. climate change facilitates spread of diseases. climate change threatens animals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wildfires in Australia have decimated koala populations.",
+    "retrieved_context": "rising temperatures affects ecosystems. weather patterns erratic due to climate change. climate change impacts pressure animal populations worldwide. climate change causes food shortages. climate change causes extreme weather events. climate change affects natural cycles of plants and animals. climate change causes loss of habitat for animals. climate change causes habitat loss. climate change affects ecosystems. wildfires decimate koalas and other wildlife in Australia. rising temperatures causes climate change. climate change causes changes in behavior and reproductive patterns of animals. climate change causes more frequent extreme weather events. climate change facilitates spread of diseases. climate change threatens animals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Climate change can lead to the spread of diseases among animals.",
+    "retrieved_context": "rising temperatures affects ecosystems. weather patterns erratic due to climate change. warmer temperatures favor disease-causing organisms. climate change impacts pressure animal populations worldwide. climate change causes food shortages. climate change causes extreme weather events. climate change affects natural cycles of plants and animals. climate change causes loss of habitat for animals. climate change causes habitat loss. climate change affects ecosystems. rising temperatures causes climate change. climate change causes changes in behavior and reproductive patterns of animals. climate change causes more frequent extreme weather events. climate change facilitates spread of diseases. climate change threatens animals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "White-nose syndrome in bats is linked to climate change.",
+    "retrieved_context": "rising temperatures affects ecosystems. weather patterns erratic due to climate change. white-nose syndrome affects bats. climate change impacts pressure animal populations worldwide. climate change causes food shortages. climate change causes extreme weather events. climate change affects natural cycles of plants and animals. climate change causes loss of habitat for animals. climate change causes habitat loss. climate change affects ecosystems. rising temperatures causes climate change. climate change causes changes in behavior and reproductive patterns of animals. climate change causes more frequent extreme weather events. wildfires decimate koalas and other wildlife in Australia. climate change facilitates spread of diseases. climate change threatens animals.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Animals are shifting their ranges due to climate change.",
+    "retrieved_context": "rising temperatures affects ecosystems. weather patterns erratic due to climate change. climate change impacts pressure animal populations worldwide. climate change causes food shortages. climate change causes extreme weather events. climate change affects natural cycles of plants and animals. climate change causes loss of habitat for animals. climate change causes habitat loss. climate change affects ecosystems. rising temperatures causes climate change. climate change causes changes in behavior and reproductive patterns of animals. climate change causes more frequent extreme weather events. climate change facilitates spread of diseases. climate change threatens animals.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Some species are altering their breeding seasons in response to environmental changes.",
+    "retrieved_context": "rising temperatures affects ecosystems. weather patterns erratic due to climate change. climate change impacts pressure animal populations worldwide. climate change causes food shortages. climate change affects natural cycles of plants and animals. climate change causes extreme weather events. climate change causes loss of habitat for animals. climate change causes habitat loss. climate change affects ecosystems. rising temperatures causes climate change. climate change causes changes in behavior and reproductive patterns of animals. climate change causes more frequent extreme weather events. climate change facilitates spread of diseases. climate change threatens animals.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Climate change threatens the survival of many animal species.",
+    "retrieved_context": "rising temperatures affects ecosystems. weather patterns erratic due to climate change. climate change impacts pressure animal populations worldwide. climate change causes food shortages. climate change causes extreme weather events. climate change affects natural cycles of plants and animals. climate change causes loss of habitat for animals. climate change causes habitat loss. climate change affects ecosystems. rising temperatures causes climate change. climate change causes changes in behavior and reproductive patterns of animals. climate change causes more frequent extreme weather events. wildfires decimate koalas and other wildlife in Australia. climate change facilitates spread of diseases. climate change threatens animals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Urgent action is needed to protect biodiversity from climate change.",
+    "retrieved_context": "rising temperatures affects ecosystems. weather patterns erratic due to climate change. climate change impacts pressure animal populations worldwide. climate change causes food shortages. climate change causes extreme weather events. climate change affects natural cycles of plants and animals. climate change causes loss of habitat for animals. climate change causes habitat loss. climate change affects ecosystems. rising temperatures causes climate change. climate change causes changes in behavior and reproductive patterns of animals. climate change causes more frequent extreme weather events. wildfires decimate koalas and other wildlife in Australia. climate change facilitates spread of diseases. climate change threatens animals.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Governments, conservation organizations, and individuals all have a role in addressing climate change impacts on animals.",
+    "retrieved_context": "rising temperatures affects ecosystems. weather patterns erratic due to climate change. climate change impacts pressure animal populations worldwide. climate change causes food shortages. climate change causes extreme weather events. climate change affects natural cycles of plants and animals. climate change causes loss of habitat for animals. climate change causes habitat loss. climate change affects ecosystems. rising temperatures causes climate change. climate change causes changes in behavior and reproductive patterns of animals. climate change causes more frequent extreme weather events. wildfires decimate koalas and other wildlife in Australia. climate change facilitates spread of diseases. climate change threatens animals.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Climate change puts pressure on animal populations worldwide.",
+    "retrieved_context": "rising temperatures affects ecosystems. weather patterns erratic due to climate change. climate change impacts pressure animal populations worldwide. climate change causes food shortages. climate change causes extreme weather events. climate change affects natural cycles of plants and animals. climate change causes loss of habitat for animals. climate change causes habitat loss. climate change affects ecosystems. rising temperatures causes climate change. climate change causes changes in behavior and reproductive patterns of animals. climate change causes more frequent extreme weather events. climate change facilitates spread of diseases. climate change threatens animals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Action is necessary to ensure a sustainable future for all living creatures on Earth.",
+    "retrieved_context": "rising temperatures affects ecosystems. weather patterns erratic due to climate change. climate change impacts pressure animal populations worldwide. warmer temperatures favor disease-causing organisms. climate change causes food shortages. climate change causes extreme weather events. climate change affects natural cycles of plants and animals. climate change causes loss of habitat for animals. climate change causes habitat loss. climate change affects ecosystems. rising temperatures causes climate change. climate change causes changes in behavior and reproductive patterns of animals. climate change causes more frequent extreme weather events. wildfires decimate koalas and other wildlife in Australia. climate change facilitates spread of diseases. climate change threatens animals.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

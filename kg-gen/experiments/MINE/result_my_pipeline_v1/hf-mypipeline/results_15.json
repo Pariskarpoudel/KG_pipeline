@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Cooking is a complex chemical reaction.",
+    "retrieved_context": "salt balances sweetness. emulsification is chemical reaction. temperature control determines chemical reactions. Cooking is complex chemical reaction. Maillard reaction determines aromas of roasted meats. pickling preserves food. fermentation results in fermentation. fermentation determines tenderizing meat. emulsification is process of mixing liquids. Maillard reaction results in formation of new flavor compounds. chemistry of cooking determines taste. chemistry of cooking determines texture. fermentation balances sweetness. Maillard reaction results in browning of food. chemistry of cooking determines nutritional value. chemistry of cooking determines culinary experience. fermentation preserves food. fermentation decomposes sugars. chemistry of cooking is culinary arts. Maillard reaction is chemical reaction. Maillard reaction determines rich flavors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Chemistry of cooking determines taste, texture, and nutritional value of food.",
+    "retrieved_context": "emulsification is chemical reaction. Cooking is complex chemical reaction. Maillard reaction results in formation of new flavor compounds. chemistry of cooking is culinary arts. Maillard reaction is chemical reaction. Maillard reaction determines rich flavors. chemistry of cooking determines taste. chefs results in nutritious dishes. chemistry of cooking determines texture. Maillard reaction results in browning of food. chemistry of cooking determines nutritional value. chemistry of cooking determines culinary experience. Maillard reaction determines aromas of roasted meats. chefs results in delicious dishes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Maillard reaction is a key chemical reaction during cooking.",
+    "retrieved_context": "salt balances sweetness. emulsification is chemical reaction. temperature control determines chemical reactions. Cooking is complex chemical reaction. Maillard reaction determines aromas of roasted meats. pickling preserves food. fermentation results in fermentation. fermentation determines tenderizing meat. Maillard reaction results in formation of new flavor compounds. emulsification is process of mixing liquids. chemistry of cooking determines taste. chemistry of cooking determines texture. fermentation balances sweetness. Maillard reaction results in browning of food. chemistry of cooking determines nutritional value. chemistry of cooking determines culinary experience. fermentation preserves food. fermentation decomposes sugars. Maillard reaction is chemical reaction. Maillard reaction determines rich flavors. chemistry of cooking is culinary arts.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Maillard reaction results in browning of food and formation of flavor compounds.",
+    "retrieved_context": "salt balances sweetness. emulsification is chemical reaction. Cooking is complex chemical reaction. Maillard reaction results in formation of new flavor compounds. Maillard reaction is chemical reaction. Maillard reaction determines rich flavors. chemistry of cooking is culinary arts. chemistry of cooking determines taste. salt tenderizes proteins. chemistry of cooking determines texture. salt enhances natural flavors. Maillard reaction results in browning of food. chemistry of cooking determines nutritional value. chemistry of cooking determines culinary experience. Maillard reaction determines aromas of roasted meats. lemon juice prevents browning of fruits.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Emulsification is an important chemical process in cooking.",
+    "retrieved_context": "emulsification is chemical reaction. Cooking is complex chemical reaction. emulsification is process of mixing liquids. Maillard reaction is chemical reaction. chemistry of cooking is culinary arts. Maillard reaction results in formation of new flavor compounds. chemistry of cooking determines taste. Maillard reaction determines rich flavors. chemistry of cooking determines texture. Maillard reaction results in browning of food. chemistry of cooking determines nutritional value. chemistry of cooking determines culinary experience. Maillard reaction determines aromas of roasted meats. emulsions determines creamy sauces.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Emulsification involves mixing immiscible liquids to form a stable emulsion.",
+    "retrieved_context": "emulsification is chemical reaction. Maillard reaction results in formation of new flavor compounds. Maillard reaction is chemical reaction. emulsification is process of mixing liquids. Maillard reaction determines rich flavors. chemistry of cooking is culinary arts. chemistry of cooking determines taste. chemistry of cooking determines texture. Maillard reaction results in browning of food. chemistry of cooking determines nutritional value. chemistry of cooking determines culinary experience. Maillard reaction determines aromas of roasted meats. emulsions determines creamy sauces.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Acids influence flavor, texture, and structure of food in cooking.",
+    "retrieved_context": "salt balances sweetness. Cooking is complex chemical reaction. Maillard reaction results in formation of new flavor compounds. chemistry of cooking is culinary arts. Maillard reaction is chemical reaction. Maillard reaction determines rich flavors. chemistry of cooking determines taste. salt tenderizes proteins. chemistry of cooking determines texture. salt enhances natural flavors. Maillard reaction results in browning of food. chemistry of cooking determines nutritional value. chemistry of cooking determines culinary experience. Maillard reaction determines aromas of roasted meats.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Salt enhances flavor and regulates enzymatic reactions in cooking.",
+    "retrieved_context": "salt balances sweetness. emulsification is chemical reaction. Cooking is complex chemical reaction. salt tenderizes proteins. chemistry of cooking is culinary arts. Maillard reaction results in formation of new flavor compounds. Maillard reaction is chemical reaction. chemistry of cooking determines taste. Maillard reaction determines rich flavors. chemistry of cooking determines texture. fermentation balances sweetness. salt enhances natural flavors. Maillard reaction results in browning of food. chemistry of cooking determines nutritional value. proteins denatures_at specific temperatures. chemistry of cooking determines culinary experience. Maillard reaction determines aromas of roasted meats.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Temperature control affects texture, color, and flavor of food.",
+    "retrieved_context": "salt balances sweetness. emulsification is chemical reaction. temperature control determines chemical reactions. Maillard reaction determines aromas of roasted meats. fermentation results in fermentation. proteins denatures_at specific temperatures. fermentation determines tenderizing meat. Maillard reaction results in formation of new flavor compounds. chemistry of cooking determines taste. chemistry of cooking determines texture. salt enhances natural flavors. fermentation balances sweetness. Maillard reaction results in browning of food. chemistry of cooking determines nutritional value. chemistry of cooking determines culinary experience. fermentation preserves food. fermentation decomposes sugars. salt tenderizes proteins. Maillard reaction is chemical reaction. Maillard reaction determines rich flavors. chemistry of cooking is culinary arts. lemon juice prevents browning of fruits.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proteins denature and coagulate at specific temperatures.",
+    "retrieved_context": "salt balances sweetness. emulsification is chemical reaction. temperature control determines chemical reactions. Maillard reaction determines aromas of roasted meats. pickling preserves food. proteins denatures_at specific temperatures. Maillard reaction results in formation of new flavor compounds. emulsification is process of mixing liquids. chemistry of cooking determines taste. chemistry of cooking determines texture. salt enhances natural flavors. Maillard reaction results in browning of food. chemistry of cooking determines nutritional value. chemistry of cooking determines culinary experience. salt tenderizes proteins. pickling prevents spoilage microorganisms. Maillard reaction is chemical reaction. Maillard reaction determines rich flavors. chemistry of cooking is culinary arts.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fermentation is a food preservation technique involving microorganisms.",
+    "retrieved_context": "salt balances sweetness. emulsification is chemical reaction. Cooking is complex chemical reaction. Maillard reaction determines aromas of roasted meats. pickling preserves food. fermentation results in fermentation. fermentation determines tenderizing meat. Maillard reaction results in formation of new flavor compounds. chemistry of cooking determines taste. chemistry of cooking determines texture. fermentation balances sweetness. Maillard reaction results in browning of food. chemistry of cooking determines nutritional value. chemistry of cooking determines culinary experience. fermentation preserves food. fermentation decomposes sugars. pickling prevents spoilage microorganisms. chemistry of cooking is culinary arts. Maillard reaction is chemical reaction. Maillard reaction determines rich flavors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fermentation enhances flavor and nutritional value of food.",
+    "retrieved_context": "salt balances sweetness. Maillard reaction determines aromas of roasted meats. pickling preserves food. fermentation results in fermentation. fermentation determines tenderizing meat. Maillard reaction results in formation of new flavor compounds. chemistry of cooking determines taste. chemistry of cooking determines texture. fermentation balances sweetness. salt enhances natural flavors. Maillard reaction results in browning of food. chemistry of cooking determines nutritional value. chemistry of cooking determines culinary experience. fermentation preserves food. fermentation decomposes sugars. salt tenderizes proteins. Maillard reaction is chemical reaction. Maillard reaction determines rich flavors. chemistry of cooking is culinary arts.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pickling involves preserving food in a brine solution.",
+    "retrieved_context": "salt balances sweetness. Cooking is complex chemical reaction. Maillard reaction determines aromas of roasted meats. pickling preserves food. fermentation results in fermentation. fermentation determines tenderizing meat. chefs results in delicious dishes. Maillard reaction results in formation of new flavor compounds. chemistry of cooking determines taste. chemistry of cooking determines texture. fermentation balances sweetness. Maillard reaction results in browning of food. chemistry of cooking determines nutritional value. chemistry of cooking determines culinary experience. fermentation preserves food. fermentation decomposes sugars. pickling prevents spoilage microorganisms. Maillard reaction is chemical reaction. Maillard reaction determines rich flavors. chemistry of cooking is culinary arts. chefs results in nutritious dishes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Chemistry of cooking is essential in culinary arts.",
+    "retrieved_context": "salt balances sweetness. Cooking is complex chemical reaction. chemistry of cooking is culinary arts. chemistry of cooking determines taste. chefs results in nutritious dishes. fermentation results in fermentation. chemistry of cooking determines texture. fermentation balances sweetness. fermentation determines tenderizing meat. chemistry of cooking determines nutritional value. chemistry of cooking determines culinary experience. fermentation preserves food. pickling preserves food. fermentation decomposes sugars. chefs results in delicious dishes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding chemical reactions in cooking helps create delicious dishes.",
+    "retrieved_context": "emulsification is chemical reaction. Cooking is complex chemical reaction. emulsification is process of mixing liquids. chemistry of cooking is culinary arts. Maillard reaction is chemical reaction. Maillard reaction determines rich flavors. chemistry of cooking determines taste. Maillard reaction results in formation of new flavor compounds. chefs results in nutritious dishes. chemistry of cooking determines texture. temperature control determines chemical reactions. Maillard reaction results in browning of food. chemistry of cooking determines nutritional value. chemistry of cooking determines culinary experience. Maillard reaction determines aromas of roasted meats. chefs results in delicious dishes.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

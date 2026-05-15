@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Space exploration is a fascinating and groundbreaking endeavor.",
+    "retrieved_context": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. International Space Station (ISS) milestone in international cooperation. Neil Armstrong and Buzz Aldrin moon walk mission Apollo 11 mission. Yuri Gagarin became the first human to orbit Earth. International Space Station (ISS) constructed and operated in the late 1990s. Apollo 11 mission launched in 1969. NASA's Perseverance rover searches for past life on Mars. NASA's Perseverance rover landed on Mars in February 2021. SpaceX plans human mission to Mars. Yuri Gagarin orbited Earth in 1961.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Humans have constantly pushed the boundaries of what is possible in space.",
+    "retrieved_context": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. International Space Station (ISS) milestone in international cooperation. Neil Armstrong and Buzz Aldrin moon walk mission Apollo 11 mission. Yuri Gagarin became the first human to orbit Earth. International Space Station (ISS) constructed and operated in the late 1990s. NASA's Perseverance rover searches for past life on Mars. Apollo 11 mission launched in 1969. NASA's Perseverance rover landed on Mars in February 2021. SpaceX plans human mission to Mars. Yuri Gagarin orbited Earth in 1961.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Soviet Union launched the first artificial satellite, Sputnik 1, in 1957.",
+    "retrieved_context": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. International Space Station (ISS) milestone in international cooperation. Neil Armstrong and Buzz Aldrin moon walk mission Apollo 11 mission. Sputnik 1 launched in 1957. Yuri Gagarin orbited Earth in 1961. Yuri Gagarin became the first human to orbit Earth. International Space Station (ISS) constructed and operated in the late 1990s. NASA's Perseverance rover searches for past life on Mars. Apollo 11 mission launched in 1969. SpaceX plans human mission to Mars. Sputnik 1 launched by the Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space race began between the United States and the Soviet Union.",
+    "retrieved_context": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. International Space Station (ISS) milestone in international cooperation. Neil Armstrong and Buzz Aldrin moon walk mission Apollo 11 mission. Sputnik 1 launched in 1957. International Space Station (ISS) constructed and operated in the late 1990s. Blue Origin and Virgin Galactic provides suborbital flights to private individuals. NASA's Perseverance rover searches for past life on Mars. Apollo 11 mission launched in 1969. NASA's Perseverance rover landed on Mars in February 2021. SpaceX plans human mission to Mars. Sputnik 1 launched by the Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yuri Gagarin became the first human to orbit the Earth in 1961.",
+    "retrieved_context": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. International Space Station (ISS) milestone in international cooperation. Neil Armstrong and Buzz Aldrin moon walk mission Apollo 11 mission. Sputnik 1 launched in 1957. Yuri Gagarin became the first human to orbit Earth. Sputnik 1 launched by the Soviet Union. International Space Station (ISS) constructed and operated in the late 1990s. Apollo 11 mission launched in 1969. Yuri Gagarin orbited Earth in 1961.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neil Armstrong and Buzz Aldrin were the first humans to walk on the moon in 1969.",
+    "retrieved_context": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. Neil Armstrong and Buzz Aldrin moon walk mission Apollo 11 mission. Sputnik 1 launched in 1957. Yuri Gagarin became the first human to orbit Earth. Sputnik 1 launched by the Soviet Union. NASA's Perseverance rover searches for past life on Mars. Apollo 11 mission launched in 1969. NASA's Perseverance rover landed on Mars in February 2021. SpaceX plans human mission to Mars. Yuri Gagarin orbited Earth in 1961.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Space probes were launched to study other planets in our solar system.",
+    "retrieved_context": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. Neil Armstrong and Buzz Aldrin moon walk mission Apollo 11 mission. Yuri Gagarin orbited Earth in 1961. Yuri Gagarin became the first human to orbit Earth. Apollo 11 mission launched in 1969. NASA's Perseverance rover searches for past life on Mars. NASA's Perseverance rover landed on Mars in February 2021. SpaceX plans human mission to Mars. Blue Origin and Virgin Galactic provides suborbital flights to private individuals.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The International Space Station (ISS) was constructed in the late 1990s.",
+    "retrieved_context": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. International Space Station (ISS) milestone in international cooperation. Neil Armstrong and Buzz Aldrin moon walk mission Apollo 11 mission. Sputnik 1 launched in 1957. Yuri Gagarin orbited Earth in 1961. Yuri Gagarin became the first human to orbit Earth. International Space Station (ISS) constructed and operated in the late 1990s. NASA's Perseverance rover searches for past life on Mars. Apollo 11 mission launched in 1969. SpaceX plans human mission to Mars. Sputnik 1 launched by the Soviet Union.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX developed reusable rockets, reducing the cost of launching payloads into space.",
+    "retrieved_context": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. International Space Station (ISS) milestone in international cooperation. Neil Armstrong and Buzz Aldrin moon walk mission Apollo 11 mission. Sputnik 1 launched in 1957. International Space Station (ISS) constructed and operated in the late 1990s. Blue Origin and Virgin Galactic provides suborbital flights to private individuals. NASA's Perseverance rover searches for past life on Mars. Apollo 11 mission launched in 1969. NASA's Perseverance rover landed on Mars in February 2021. SpaceX plans human mission to Mars. Sputnik 1 launched by the Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "NASA's Perseverance rover landed on Mars in February 2021.",
+    "retrieved_context": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. Neil Armstrong and Buzz Aldrin moon walk mission Apollo 11 mission. Yuri Gagarin became the first human to orbit Earth. NASA's Perseverance rover searches for past life on Mars. Apollo 11 mission launched in 1969. NASA's Perseverance rover landed on Mars in February 2021. SpaceX plans human mission to Mars. Yuri Gagarin orbited Earth in 1961.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX plans to send humans to Mars in the coming years.",
+    "retrieved_context": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. International Space Station (ISS) milestone in international cooperation. Neil Armstrong and Buzz Aldrin moon walk mission Apollo 11 mission. Yuri Gagarin became the first human to orbit Earth. International Space Station (ISS) constructed and operated in the late 1990s. NASA's Perseverance rover searches for past life on Mars. Apollo 11 mission launched in 1969. NASA's Perseverance rover landed on Mars in February 2021. SpaceX plans human mission to Mars. Yuri Gagarin orbited Earth in 1961.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Missions to explore the outer planets of our solar system are being planned.",
+    "retrieved_context": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. International Space Station (ISS) milestone in international cooperation. Neil Armstrong and Buzz Aldrin moon walk mission Apollo 11 mission. Yuri Gagarin became the first human to orbit Earth. International Space Station (ISS) constructed and operated in the late 1990s. Blue Origin and Virgin Galactic provides suborbital flights to private individuals. Apollo 11 mission launched in 1969. NASA's Perseverance rover searches for past life on Mars. NASA's Perseverance rover landed on Mars in February 2021. SpaceX plans human mission to Mars. Yuri Gagarin orbited Earth in 1961.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Advancements in space technology include the development of ion propulsion systems.",
+    "retrieved_context": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. International Space Station (ISS) milestone in international cooperation. Neil Armstrong and Buzz Aldrin moon walk mission Apollo 11 mission. Sputnik 1 launched in 1957. International Space Station (ISS) constructed and operated in the late 1990s. NASA's Perseverance rover searches for past life on Mars. Apollo 11 mission launched in 1969. NASA's Perseverance rover landed on Mars in February 2021. SpaceX plans human mission to Mars. Sputnik 1 launched by the Soviet Union.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Space tourism is gaining traction with companies offering suborbital spaceflights.",
+    "retrieved_context": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. International Space Station (ISS) milestone in international cooperation. Neil Armstrong and Buzz Aldrin moon walk mission Apollo 11 mission. Yuri Gagarin became the first human to orbit Earth. International Space Station (ISS) constructed and operated in the late 1990s. Blue Origin and Virgin Galactic provides suborbital flights to private individuals. Apollo 11 mission launched in 1969. NASA's Perseverance rover searches for past life on Mars. NASA's Perseverance rover landed on Mars in February 2021. SpaceX plans human mission to Mars. Yuri Gagarin orbited Earth in 1961.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The future of space exploration holds the promise of further discovery and innovation.",
+    "retrieved_context": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon. International Space Station (ISS) milestone in international cooperation. Neil Armstrong and Buzz Aldrin moon walk mission Apollo 11 mission. Yuri Gagarin became the first human to orbit Earth. International Space Station (ISS) constructed and operated in the late 1990s. Blue Origin and Virgin Galactic provides suborbital flights to private individuals. NASA's Perseverance rover searches for past life on Mars. Apollo 11 mission launched in 1969. NASA's Perseverance rover landed on Mars in February 2021. SpaceX plans human mission to Mars. Yuri Gagarin orbited Earth in 1961.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

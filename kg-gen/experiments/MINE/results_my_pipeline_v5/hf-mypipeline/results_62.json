@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Protests challenge oppressive regimes.",
+    "retrieved_context": "Black Lives Matter movement emerged_in_response_to police brutality and systemic racism. Protests serve as catalysts for change. Tiananmen Square massacre occurred in China. Civil rights movement challenged racial segregation and discrimination. Rosa Parks led civil rights movement. Revolutions shaped the course of history. Martin Luther King Jr. led civil rights movement. Pro-democracy protesters crackdown_on in Belarus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests demand political rights.",
+    "retrieved_context": "Black Lives Matter movement emerged_in_response_to police brutality and systemic racism. Protests serve as catalysts for change. Tiananmen Square massacre occurred in China. Civil rights movement challenged racial segregation and discrimination. Rosa Parks led civil rights movement. Vladimir Lenin led Bolsheviks. Revolutions shaped the course of history. Martin Luther King Jr. led civil rights movement. Pro-democracy protesters crackdown_on in Belarus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Protests fight for social justice.",
+    "retrieved_context": "Black Lives Matter movement emerged_in_response_to police brutality and systemic racism. Protests serve as catalysts for change. Tiananmen Square massacre occurred in China. Civil rights movement challenged racial segregation and discrimination. Rosa Parks led civil rights movement. Martin Luther King Jr. led civil rights movement. Pro-democracy protesters crackdown_on in Belarus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests can be peaceful demonstrations.",
+    "retrieved_context": "Black Lives Matter movement emerged_in_response_to police brutality and systemic racism. Protests serve as catalysts for change. Tiananmen Square massacre occurred in China. Civil rights movement challenged racial segregation and discrimination. Rosa Parks led civil rights movement. Revolutions shaped the course of history. Martin Luther King Jr. led civil rights movement. Pro-democracy protesters crackdown_on in Belarus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Protests can be violent uprisings.",
+    "retrieved_context": "Black Lives Matter movement emerged_in_response_to police brutality and systemic racism. Protests serve as catalysts for change. Tiananmen Square massacre occurred in China. Civil rights movement challenged racial segregation and discrimination. Rosa Parks led civil rights movement. Revolutions shaped the course of history. Martin Luther King Jr. led civil rights movement. Pro-democracy protesters crackdown_on in Belarus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "American Revolution inspired global fight for freedom.",
+    "retrieved_context": "French Revolution overthrew the monarchy. Declaration of Independence asserts all men are created equal. American Revolution occurred in 1776. Civil rights movement challenged racial segregation and discrimination. Revolutions shaped the course of history. Rosa Parks led civil rights movement. Russian Revolution occurred in 1917. Martin Luther King Jr. led civil rights movement.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "French Revolution established a republic based on liberty.",
+    "retrieved_context": "French Revolution overthrew the monarchy. Declaration of Independence asserts all men are created equal. American Revolution occurred in 1776. Civil rights movement challenged racial segregation and discrimination. Revolutions shaped the course of history. Russian Revolution occurred in 1917.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Russian Revolution led to the world's first communist state.",
+    "retrieved_context": "French Revolution overthrew the monarchy. American Revolution occurred in 1776. Revolutions shaped the course of history. Vladimir Lenin led Bolsheviks. Russian Revolution occurred in 1917. Pro-democracy protesters crackdown_on in Belarus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Civil rights movement challenged racial segregation.",
+    "retrieved_context": "Black Lives Matter movement emerged_in_response_to police brutality and systemic racism. Protests serve as catalysts for change. Civil rights movement challenged racial segregation and discrimination. Rosa Parks led civil rights movement. Martin Luther King Jr. led civil rights movement.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Arab Spring led to the overthrow of dictators.",
+    "retrieved_context": "Arab Spring began in 2010. French Revolution overthrew the monarchy. Protests serve as catalysts for change. Tiananmen Square massacre occurred in China. American Revolution occurred in 1776. Revolutions shaped the course of history. Russian Revolution occurred in 1917.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Black Lives Matter demands racial justice.",
+    "retrieved_context": "Black Lives Matter movement emerged_in_response_to police brutality and systemic racism. Protests serve as catalysts for change. Declaration of Independence asserts all men are created equal. Civil rights movement challenged racial segregation and discrimination. Rosa Parks led civil rights movement. Martin Luther King Jr. led civil rights movement.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Governments use force to suppress protests.",
+    "retrieved_context": "Black Lives Matter movement emerged_in_response_to police brutality and systemic racism. Protests serve as catalysts for change. Tiananmen Square massacre occurred in China. Civil rights movement challenged racial segregation and discrimination. Rosa Parks led civil rights movement. Revolutions shaped the course of history. Martin Luther King Jr. led civil rights movement. Pro-democracy protesters crackdown_on in Belarus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests are a tool for social and political change.",
+    "retrieved_context": "Black Lives Matter movement emerged_in_response_to police brutality and systemic racism. Protests serve as catalysts for change. American Revolution occurred in 1776. Civil rights movement challenged racial segregation and discrimination. Rosa Parks led civil rights movement. Revolutions shaped the course of history. Martin Luther King Jr. led civil rights movement. Pro-democracy protesters crackdown_on in Belarus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests inspire movements for democracy.",
+    "retrieved_context": "French Revolution overthrew the monarchy. Black Lives Matter movement emerged_in_response_to police brutality and systemic racism. Protests serve as catalysts for change. American Revolution occurred in 1776. Civil rights movement challenged racial segregation and discrimination. Rosa Parks led civil rights movement. Revolutions shaped the course of history. Martin Luther King Jr. led civil rights movement. Pro-democracy protesters crackdown_on in Belarus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests remind of the power of the human spirit.",
+    "retrieved_context": "Black Lives Matter movement emerged_in_response_to police brutality and systemic racism. Protests serve as catalysts for change. Declaration of Independence asserts all men are created equal. American Revolution occurred in 1776. Civil rights movement challenged racial segregation and discrimination. Rosa Parks led civil rights movement. Revolutions shaped the course of history. Martin Luther King Jr. led civil rights movement. Pro-democracy protesters crackdown_on in Belarus.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "46.67%"
+  }
+]

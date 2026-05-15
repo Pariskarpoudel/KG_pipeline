@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Color plays a crucial role in branding and marketing strategies.",
+    "retrieved_context": "warm colors like red and orange create a sense of urgency. color create a sense of emotions. understanding color psychology enables creation of strong brand identity. color is associated with messages. color is essential for branding. Coca-Cola logo is colored iconic red. blue is associated with trust. blue is associated with reliability. blue is associated with calmness. color influences consumer behavior. cool colors like blue and green create a sense of trust. color is essential for marketing strategies. cool colors like blue and green create a sense of reliability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors have the power to evoke emotions.",
+    "retrieved_context": "warm colors like red and orange create a sense of urgency. color create a sense of emotions. understanding color psychology enables creation of strong brand identity. red is associated with excitement. red is associated with energy. red is associated with passion. color is associated with messages. color is essential for branding. Coca-Cola logo is colored iconic red. blue is associated with trust. blue is associated with reliability. blue is associated with calmness. color influences consumer behavior. cool colors like blue and green create a sense of trust. color is essential for marketing strategies. cool colors like blue and green create a sense of reliability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors can convey messages.",
+    "retrieved_context": "warm colors like red and orange create a sense of urgency. color create a sense of emotions. understanding color psychology enables creation of strong brand identity. red is associated with excitement. red is associated with energy. red is associated with passion. color is associated with messages. color is essential for branding. Coca-Cola logo is colored iconic red. blue is associated with trust. blue is associated with reliability. blue is associated with calmness. color influences consumer behavior. cool colors like blue and green create a sense of trust. color is essential for marketing strategies. cool colors like blue and green create a sense of reliability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors influence consumer behavior.",
+    "retrieved_context": "warm colors like red and orange create a sense of urgency. color create a sense of emotions. understanding color psychology enables creation of strong brand identity. red is associated with excitement. red is associated with energy. red is associated with passion. color is associated with messages. color is essential for branding. blue is associated with trust. blue is associated with reliability. blue is associated with calmness. color influences consumer behavior. cool colors like blue and green create a sense of trust. color is essential for marketing strategies. cool colors like blue and green create a sense of reliability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding color psychology helps create a strong brand identity.",
+    "retrieved_context": "color create a sense of emotions. understanding color psychology enables creation of strong brand identity. white represents mourning and death in Eastern cultures. color is associated with messages. color is essential for branding. white symbolizes purity and cleanliness in Western cultures. blue is associated with trust. blue is associated with reliability. blue is associated with calmness. color influences consumer behavior. cool colors like blue and green create a sense of trust. color is essential for marketing strategies. cool colors like blue and green create a sense of reliability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different colors evoke specific emotions and associations.",
+    "retrieved_context": "warm colors like red and orange create a sense of urgency. color create a sense of emotions. understanding color psychology enables creation of strong brand identity. red is associated with excitement. red is associated with energy. red is associated with passion. color is associated with messages. color is essential for branding. Coca-Cola logo is colored iconic red. blue is associated with trust. blue is associated with reliability. blue is associated with calmness. color influences consumer behavior. cool colors like blue and green create a sense of trust. color is essential for marketing strategies. cool colors like blue and green create a sense of reliability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Red is associated with passion, energy, and excitement.",
+    "retrieved_context": "warm colors like red and orange create a sense of urgency. color create a sense of emotions. red is associated with excitement. understanding color psychology enables creation of strong brand identity. red is associated with energy. red is associated with passion. color is associated with messages. color is essential for branding. color influences consumer behavior. color is essential for marketing strategies. Coca-Cola logo is colored iconic red.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blue is associated with trust, reliability, and calmness.",
+    "retrieved_context": "color create a sense of emotions. understanding color psychology enables creation of strong brand identity. red is associated with excitement. red is associated with energy. red is associated with passion. color is associated with messages. color is essential for branding. blue is associated with trust. blue is associated with reliability. blue is associated with calmness. color influences consumer behavior. cool colors like blue and green create a sense of trust. color is essential for marketing strategies. cool colors like blue and green create a sense of reliability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors affect how consumers perceive a brand's personality, quality, and value.",
+    "retrieved_context": "warm colors like red and orange create a sense of urgency. color create a sense of emotions. understanding color psychology enables creation of strong brand identity. color is associated with messages. color is essential for branding. blue is associated with trust. blue is associated with reliability. blue is associated with calmness. color influences consumer behavior. cool colors like blue and green create a sense of trust. color is essential for marketing strategies. cool colors like blue and green create a sense of reliability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warm colors like red and orange create a sense of urgency.",
+    "retrieved_context": "warm colors like red and orange create a sense of urgency. color create a sense of emotions. red is associated with excitement. understanding color psychology enables creation of strong brand identity. red is associated with energy. McDonald's arches is colored bright yellow. red is associated with passion. color is associated with messages. Coca-Cola logo is colored iconic red. color is essential for branding. blue is associated with trust. blue is associated with reliability. color influences consumer behavior. cool colors like blue and green create a sense of trust. color is essential for marketing strategies. cool colors like blue and green create a sense of reliability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cool colors like blue and green create a sense of trust.",
+    "retrieved_context": "warm colors like red and orange create a sense of urgency. color create a sense of emotions. understanding color psychology enables creation of strong brand identity. red is associated with excitement. red is associated with energy. McDonald's arches is colored bright yellow. red is associated with passion. color is associated with messages. color is essential for branding. blue is associated with trust. blue is associated with reliability. blue is associated with calmness. color influences consumer behavior. cool colors like blue and green create a sense of trust. color is essential for marketing strategies. cool colors like blue and green create a sense of reliability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors help differentiate a brand from competitors.",
+    "retrieved_context": "warm colors like red and orange create a sense of urgency. color create a sense of emotions. understanding color psychology enables creation of strong brand identity. red is associated with excitement. red is associated with energy. red is associated with passion. color is associated with messages. color is essential for branding. blue is associated with trust. blue is associated with reliability. blue is associated with calmness. color influences consumer behavior. cool colors like blue and green create a sense of trust. color is essential for marketing strategies. cool colors like blue and green create a sense of reliability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cultural associations of colors should be considered in branding.",
+    "retrieved_context": "warm colors like red and orange create a sense of urgency. color create a sense of emotions. understanding color psychology enables creation of strong brand identity. color is associated with messages. color is essential for branding. Coca-Cola logo is colored iconic red. blue is associated with trust. blue is associated with reliability. blue is associated with calmness. color influences consumer behavior. cool colors like blue and green create a sense of trust. color is essential for marketing strategies. cool colors like blue and green create a sense of reliability.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Context influences the meaning and effects of colors in branding.",
+    "retrieved_context": "color create a sense of emotions. understanding color psychology enables creation of strong brand identity. cool colors like blue and green create a sense of reliability. color is associated with messages. color is essential for branding. blue is associated with trust. blue is associated with reliability. blue is associated with calmness. color influences consumer behavior. cool colors like blue and green create a sense of trust. color is essential for marketing strategies. Coca-Cola logo is colored iconic red.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Youth-oriented brands may use bright and bold colors.",
+    "retrieved_context": "warm colors like red and orange create a sense of urgency. color create a sense of emotions. understanding color psychology enables creation of strong brand identity. McDonald's arches is colored bright yellow. color is associated with messages. color is essential for branding. Coca-Cola logo is colored iconic red. blue is associated with trust. blue is associated with reliability. color influences consumer behavior. cool colors like blue and green create a sense of trust. color is essential for marketing strategies. cool colors like blue and green create a sense of reliability.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

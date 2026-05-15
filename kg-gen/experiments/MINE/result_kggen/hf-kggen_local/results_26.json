@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sir Alexander Fleming discovered penicillin in 1928.",
+    "retrieved_context": "discovery stands as enduring. team led by ernst chain. overuse led to antibiotic-resistant bacteria. discovery coincided with onset. sir alexander fleming hypothesized substance. team demonstrated efficacy. discovery stands as serendipity. substance had antibacterial properties. team led by howard florey. sir alexander fleming is scottish. mold identified as penicillium genus. discovery revolutionizing treatment. sir alexander fleming made observation. discovery significantly improved. st. mary's hospital in london. discovery marks milestone. sir alexander fleming credited with discovery. sir alexander fleming researching properties. discovery played role. discovery is groundbreaking. discovery stands as testament. penicillin made game-changer. team purified penicillin. soldiers succumbed combat. antibiotics become indispensable. discovery was breakthrough. observation change course. team at university of oxford. sir alexander fleming working at st. mary's hospital. bacterial infections surrounding mold. discovery laid foundation. discovery stands as power. discovery stands as innovation. discovery is serendipitous. petri dish contaminated with mold. discovery saving lives. discovery revolutionize field. antibiotics prevent spread. sir alexander fleming is bacteriologist. penicillin ability to combat.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fleming was researching the properties of Staphylococcus bacteria.",
+    "retrieved_context": "discovery stands as enduring. overuse led to antibiotic-resistant bacteria. discovery coincided with onset. sir alexander fleming hypothesized substance. discovery stands as serendipity. substance had antibacterial properties. sir alexander fleming is scottish. mold identified as penicillium genus. discovery revolutionizing treatment. sir alexander fleming made observation. discovery significantly improved. st. mary's hospital in london. discovery marks milestone. sir alexander fleming credited with discovery. sir alexander fleming researching properties. research confirmed antibacterial properties. discovery played role. bacterial infections destroyed clear. discovery is groundbreaking. discovery stands as testament. discovery was breakthrough. observation change course. sir alexander fleming working at st. mary's hospital. bacterial infections surrounding mold. discovery laid foundation. discovery stands as power. discovery stands as innovation. discovery is serendipitous. petri dish contaminated with mold. discovery saving lives. discovery revolutionize field. bacterial infections were mortality. petri dish containing staphylococcus bacteria. sir alexander fleming is bacteriologist.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fleming observed that a mold contaminated a petri dish with Staphylococcus bacteria.",
+    "retrieved_context": "bacterial infections surrounding mold. bacterial infections destroyed clear. petri dish contaminated with mold. mold identified as penicillium genus. bacterial infections were mortality. petri dish containing staphylococcus bacteria.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The mold was identified as belonging to the Penicillium genus.",
+    "retrieved_context": "team at university of oxford. bacterial infections surrounding mold. team led by ernst chain. overuse led to antibiotic-resistant bacteria. soldiers succumbed combat. bacterial infections destroyed clear. petri dish contaminated with mold. mold identified as penicillium genus. antibiotics become indispensable. team demonstrated efficacy. penicillin made game-changer. team purified penicillin. team led by howard florey. antibiotics prevent spread. bacterial infections were mortality. petri dish containing staphylococcus bacteria. penicillin ability to combat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The bacteria surrounding the mold were being destroyed.",
+    "retrieved_context": "bacterial infections surrounding mold. bacterial infections destroyed clear. petri dish contaminated with mold. mold identified as penicillium genus. antibiotics become indispensable. antibiotics prevent spread. bacterial infections were mortality. petri dish containing staphylococcus bacteria.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fleming hypothesized that the mold was producing a substance with antibacterial properties.",
+    "retrieved_context": "team led by ernst chain. overuse led to antibiotic-resistant bacteria. sir alexander fleming hypothesized substance. team demonstrated efficacy. team led by howard florey. substance had antibacterial properties. mold identified as penicillium genus. research confirmed antibacterial properties. bacterial infections destroyed clear. penicillin made game-changer. soldiers succumbed combat. team purified penicillin. antibiotics become indispensable. team at university of oxford. bacterial infections surrounding mold. petri dish contaminated with mold. antibiotics prevent spread. bacterial infections were mortality. petri dish containing staphylococcus bacteria. penicillin ability to combat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fleming named the substance produced by the mold as penicillin.",
+    "retrieved_context": "discovery stands as enduring. team led by ernst chain. discovery coincided with onset. sir alexander fleming hypothesized substance. team demonstrated efficacy. discovery stands as serendipity. team led by howard florey. substance had antibacterial properties. sir alexander fleming is scottish. mold identified as penicillium genus. discovery revolutionizing treatment. sir alexander fleming made observation. discovery significantly improved. st. mary's hospital in london. discovery marks milestone. sir alexander fleming credited with discovery. sir alexander fleming researching properties. discovery played role. bacterial infections destroyed clear. discovery is groundbreaking. discovery stands as testament. penicillin made game-changer. antibiotics become indispensable. team purified penicillin. soldiers succumbed combat. discovery was breakthrough. observation change course. team at university of oxford. bacterial infections surrounding mold. sir alexander fleming working at st. mary's hospital. discovery laid foundation. discovery stands as power. discovery stands as innovation. discovery is serendipitous. petri dish contaminated with mold. discovery saving lives. discovery revolutionize field. antibiotics prevent spread. bacterial infections were mortality. petri dish containing staphylococcus bacteria. sir alexander fleming is bacteriologist. penicillin ability to combat.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Penicillin was the first antibiotic drug developed.",
+    "retrieved_context": "team led by ernst chain. overuse led to antibiotic-resistant bacteria. sir alexander fleming hypothesized substance. team demonstrated efficacy. substance had antibacterial properties. team led by howard florey. mold identified as penicillium genus. research confirmed antibacterial properties. bacterial infections destroyed clear. penicillin made game-changer. antibiotics become indispensable. team purified penicillin. soldiers succumbed combat. team at university of oxford. bacterial infections surrounding mold. petri dish contaminated with mold. antibiotics prevent spread. bacterial infections were mortality. penicillin ability to combat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Howard Florey and Ernst Chain successfully purified penicillin in the early 1940s.",
+    "retrieved_context": "team at university of oxford. team led by ernst chain. bacterial infections surrounding mold. overuse led to antibiotic-resistant bacteria. petri dish contaminated with mold. mold identified as penicillium genus. antibiotics become indispensable. penicillin made game-changer. team demonstrated efficacy. team purified penicillin. team led by howard florey. antibiotics prevent spread. soldiers succumbed combat. penicillin ability to combat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Penicillin was demonstrated to be effective in treating bacterial infections.",
+    "retrieved_context": "team led by ernst chain. overuse led to antibiotic-resistant bacteria. sir alexander fleming hypothesized substance. team demonstrated efficacy. substance had antibacterial properties. team led by howard florey. mold identified as penicillium genus. research confirmed antibacterial properties. bacterial infections destroyed clear. penicillin made game-changer. antibiotics become indispensable. team purified penicillin. soldiers succumbed combat. team at university of oxford. bacterial infections surrounding mold. petri dish contaminated with mold. antibiotics prevent spread. bacterial infections were mortality. penicillin ability to combat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The discovery of penicillin coincided with World War II.",
+    "retrieved_context": "team at university of oxford. team led by ernst chain. bacterial infections surrounding mold. overuse led to antibiotic-resistant bacteria. bacterial infections destroyed clear. petri dish contaminated with mold. mold identified as penicillium genus. antibiotics become indispensable. penicillin made game-changer. team demonstrated efficacy. team purified penicillin. team led by howard florey. antibiotics prevent spread. soldiers succumbed combat. bacterial infections were mortality. penicillin ability to combat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Penicillin played a crucial role in saving lives during the war.",
+    "retrieved_context": "team at university of oxford. team led by ernst chain. bacterial infections surrounding mold. overuse led to antibiotic-resistant bacteria. bacterial infections destroyed clear. petri dish contaminated with mold. mold identified as penicillium genus. antibiotics become indispensable. penicillin made game-changer. team demonstrated efficacy. team purified penicillin. team led by howard florey. antibiotics prevent spread. soldiers succumbed combat. bacterial infections were mortality. penicillin ability to combat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Penicillin revolutionized the treatment of bacterial infections.",
+    "retrieved_context": "team at university of oxford. team led by ernst chain. bacterial infections surrounding mold. overuse led to antibiotic-resistant bacteria. bacterial infections destroyed clear. petri dish contaminated with mold. mold identified as penicillium genus. antibiotics become indispensable. penicillin made game-changer. team demonstrated efficacy. team purified penicillin. team led by howard florey. antibiotics prevent spread. soldiers succumbed combat. bacterial infections were mortality. penicillin ability to combat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The overuse of antibiotics has led to the emergence of antibiotic-resistant bacteria.",
+    "retrieved_context": "team at university of oxford. bacterial infections surrounding mold. overuse led to antibiotic-resistant bacteria. team led by ernst chain. soldiers succumbed combat. bacterial infections destroyed clear. team purified penicillin. petri dish contaminated with mold. mold identified as penicillium genus. team demonstrated efficacy. penicillin made game-changer. antibiotics become indispensable. team led by howard florey. antibiotics prevent spread. bacterial infections were mortality. penicillin ability to combat.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The rise of antibiotic resistance poses a significant challenge to global public health.",
+    "retrieved_context": "bacterial infections surrounding mold. overuse led to antibiotic-resistant bacteria. bacterial infections destroyed clear. petri dish contaminated with mold. mold identified as penicillium genus. antibiotics become indispensable. antibiotics prevent spread. bacterial infections were mortality.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

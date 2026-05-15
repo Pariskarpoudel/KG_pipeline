@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "AI has rapidly advanced in recent years.",
+    "retrieved_context": "AI revolutionizes various industries. Ethical dilemmas in AI includes privacy concerns. AI development raises ethical dilemmas. AI systems collect_and_analyze massive amounts of data. AI systems requires_clear_lines_of accountability. AI technologies have potential benefits such as improved efficiency and productivity. Transparency in AI systems is essential for building trust. Ethical dilemmas in AI includes bias issues. Artificial Intelligence advanced in recent years. AI technologies raises job displacement, inequality, and concentration of power. AI affects aspects of daily lives. Complex and opaque AI systems lead to distrust in AI systems. Ethical dilemmas in AI includes transparency concerns. Ethical dilemmas in AI includes accountability questions. Ethical dilemmas in AI is essential for clear ethical guidelines and regulations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI has revolutionized various industries and aspects of daily lives.",
+    "retrieved_context": "AI revolutionizes various industries. Ethical dilemmas in AI includes privacy concerns. AI development raises ethical dilemmas. AI systems collect_and_analyze massive amounts of data. AI systems requires_clear_lines_of accountability. AI technologies have potential benefits such as improved efficiency and productivity. Ethical dilemmas in AI includes bias issues. Artificial Intelligence advanced in recent years. AI technologies raises job displacement, inequality, and concentration of power. AI affects aspects of daily lives. Ethical dilemmas in AI includes transparency concerns. Ethical dilemmas in AI includes accountability questions. Ethical dilemmas in AI is essential for clear ethical guidelines and regulations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ethical dilemmas need to be addressed in the development and deployment of AI technologies.",
+    "retrieved_context": "AI revolutionizes various industries. Ethical dilemmas in AI includes privacy concerns. AI development raises ethical dilemmas. AI systems collect_and_analyze massive amounts of data. AI systems requires_clear_lines_of accountability. AI technologies have potential benefits such as improved efficiency and productivity. Ethical dilemmas in AI includes bias issues. AI technologies raises job displacement, inequality, and concentration of power. Complex and opaque AI systems lead to distrust in AI systems. AI affects aspects of daily lives. Ethical dilemmas in AI includes transparency concerns. Ethical dilemmas in AI includes accountability questions. Ethical dilemmas in AI is essential for clear ethical guidelines and regulations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ethical dilemmas stem from concerns about privacy, bias, accountability, transparency, and societal impact.",
+    "retrieved_context": "Ethical dilemmas in AI includes privacy concerns. AI development raises ethical dilemmas. Facial recognition technology raises right to privacy. AI systems collect_and_analyze massive amounts of data. AI systems requires_clear_lines_of accountability. Ethical dilemmas in AI includes bias issues. Ethical dilemmas in AI includes transparency concerns. Ethical dilemmas in AI includes accountability questions. Ethical dilemmas in AI is essential for clear ethical guidelines and regulations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Privacy is a key ethical dilemma in AI development.",
+    "retrieved_context": "Ethical dilemmas in AI includes privacy concerns. AI development raises ethical dilemmas. Facial recognition technology raises right to privacy. Ethical dilemmas in AI includes bias issues. Transparency in AI systems is essential for building trust. Complex and opaque AI systems lead to distrust in AI systems. Ethical dilemmas in AI includes transparency concerns. Ethical dilemmas in AI includes accountability questions. Ethical dilemmas in AI is essential for clear ethical guidelines and regulations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Concerns arise about the use of data and potential privacy violations.",
+    "retrieved_context": "Ethical dilemmas in AI includes privacy concerns. Facial recognition technology raises right to privacy. AI systems collect_and_analyze massive amounts of data. AI systems requires_clear_lines_of accountability. Ethical dilemmas in AI includes bias issues. Ethical dilemmas in AI includes transparency concerns. Ethical dilemmas in AI includes accountability questions. Ethical dilemmas in AI is essential for clear ethical guidelines and regulations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Facial recognition technology raises questions about privacy and abuse of power.",
+    "retrieved_context": "Ethical dilemmas in AI includes privacy concerns. AI development raises ethical dilemmas. Facial recognition technology raises right to privacy. Ethical dilemmas in AI includes bias issues. Ethical dilemmas in AI includes transparency concerns. Ethical dilemmas in AI includes accountability questions. Ethical dilemmas in AI is essential for clear ethical guidelines and regulations.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Bias is another ethical dilemma in AI development.",
+    "retrieved_context": "AI revolutionizes various industries. Ethical dilemmas in AI includes privacy concerns. AI development raises ethical dilemmas. AI technologies have potential benefits such as improved efficiency and productivity. Ethical dilemmas in AI includes bias issues. Biased algorithms can perpetuate discrimination based on race, gender, or other factors. Complex and opaque AI systems lead to distrust in AI systems. AI affects aspects of daily lives. AI technologies raises job displacement, inequality, and concentration of power. Ethical dilemmas in AI includes transparency concerns. Ethical dilemmas in AI includes accountability questions. Ethical dilemmas in AI is essential for clear ethical guidelines and regulations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Biased data can lead to discriminatory outcomes in AI systems.",
+    "retrieved_context": "Ethical dilemmas in AI is essential for clear ethical guidelines and regulations. AI revolutionizes various industries. Ethical dilemmas in AI includes privacy concerns. AI systems collect_and_analyze massive amounts of data. AI systems requires_clear_lines_of accountability. Ethical dilemmas in AI includes bias issues. Transparency in AI systems is essential for building trust. Complex and opaque AI systems lead to distrust in AI systems. AI affects aspects of daily lives. Ethical dilemmas in AI includes transparency concerns. Ethical dilemmas in AI includes accountability questions. Biased algorithms can perpetuate discrimination based on race, gender, or other factors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Addressing bias is crucial for fairness and equity in decision-making.",
+    "retrieved_context": "Ethical dilemmas in AI includes privacy concerns. AI development raises ethical dilemmas. AI systems collect_and_analyze massive amounts of data. AI systems requires_clear_lines_of accountability. Ethical dilemmas in AI includes bias issues. Biased algorithms can perpetuate discrimination based on race, gender, or other factors. Ethical dilemmas in AI includes transparency concerns. Ethical dilemmas in AI includes accountability questions. Ethical dilemmas in AI is essential for clear ethical guidelines and regulations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Accountability is an ethical dilemma in AI development.",
+    "retrieved_context": "AI revolutionizes various industries. Ethical dilemmas in AI includes privacy concerns. AI development raises ethical dilemmas. AI systems collect_and_analyze massive amounts of data. AI systems requires_clear_lines_of accountability. Ethical dilemmas in AI includes bias issues. Complex and opaque AI systems lead to distrust in AI systems. AI affects aspects of daily lives. Ethical dilemmas in AI includes transparency concerns. Ethical dilemmas in AI includes accountability questions. Ethical dilemmas in AI is essential for clear ethical guidelines and regulations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Establishing clear lines of accountability is crucial as AI systems become more autonomous.",
+    "retrieved_context": "AI revolutionizes various industries. Ethical dilemmas in AI includes privacy concerns. AI development raises ethical dilemmas. AI systems collect_and_analyze massive amounts of data. AI systems requires_clear_lines_of accountability. Transparency in AI systems is essential for building trust. Ethical dilemmas in AI includes bias issues. AI affects aspects of daily lives. Complex and opaque AI systems lead to distrust in AI systems. Ethical dilemmas in AI includes transparency concerns. Ethical dilemmas in AI includes accountability questions. Ethical dilemmas in AI is essential for clear ethical guidelines and regulations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Transparency is a significant ethical dilemma in AI development.",
+    "retrieved_context": "Ethical dilemmas in AI includes privacy concerns. AI development raises ethical dilemmas. Ethical dilemmas in AI includes bias issues. Transparency in AI systems is essential for building trust. Complex and opaque AI systems lead to distrust in AI systems. Ethical dilemmas in AI includes transparency concerns. Ethical dilemmas in AI includes accountability questions. Ethical dilemmas in AI is essential for clear ethical guidelines and regulations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Lack of transparency can lead to distrust in AI systems.",
+    "retrieved_context": "AI revolutionizes various industries. Ethical dilemmas in AI includes privacy concerns. AI systems collect_and_analyze massive amounts of data. AI systems requires_clear_lines_of accountability. AI technologies have potential benefits such as improved efficiency and productivity. Transparency in AI systems is essential for building trust. Ethical dilemmas in AI includes bias issues. AI technologies raises job displacement, inequality, and concentration of power. Complex and opaque AI systems lead to distrust in AI systems. AI affects aspects of daily lives. Ethical dilemmas in AI includes transparency concerns. Ethical dilemmas in AI includes accountability questions. Ethical dilemmas in AI is essential for clear ethical guidelines and regulations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ensuring transparency is essential for building trust and accountability.",
+    "retrieved_context": "Ethical dilemmas in AI includes privacy concerns. Facial recognition technology raises right to privacy. AI systems collect_and_analyze massive amounts of data. AI systems requires_clear_lines_of accountability. Ethical dilemmas in AI includes bias issues. Transparency in AI systems is essential for building trust. Ethical dilemmas in AI includes transparency concerns. Ethical dilemmas in AI includes accountability questions. Ethical dilemmas in AI is essential for clear ethical guidelines and regulations.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

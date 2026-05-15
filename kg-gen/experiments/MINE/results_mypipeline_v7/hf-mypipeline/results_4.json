@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Video games have evolved since the mid-20th century.",
+    "retrieved_context": "history of video games began in 1960s. Halo became synonymous with online multiplayer gaming. games introduced visual aesthetics. games introduced new gameplay mechanics. games pushed boundaries of storytelling. augmented reality is a advancement in technology. games are becoming more sophisticated. Call of Duty became synonymous with online multiplayer gaming. PC gaming saw emergence of 3D graphics. World of Warcraft became synonymous with online multiplayer gaming. 1970s saw emergence of arcade gaming. cloud gaming is a advancement in technology. games pushed boundaries of graphics. games pushed boundaries of gameplay. games are becoming more interconnected. virtual reality is a advancement in technology. success of arcade games laid development of home gaming consoles. PC gaming saw emergence of PC gaming. gaming industry saw emergence of surge in popularity. PC gaming saw emergence of CD-ROM technology. history of video games began in 1950s. games introduced storytelling elements. games are becoming more realistic.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pong and Space Invaders were simple, pixelated games.",
+    "retrieved_context": "Space Invaders is a game. Spacewar! introduced real-time action. history of video games began in 1960s. Spacewar! is a a milestone. Space Invaders became cultural phenomena. Quake is a groundbreaking game. Spacewar! laid foundation. Pac-Man became cultural phenomena. Pong is a pixelated game. Spacewar! began in 1962. Pong became cultural phenomena. Spacewar! introduced multiplayer gameplay. 8-bit graphics allowed more detailed game worlds. Pong is a game. Space Invaders is a pixelated game. Pac-Man is a game. Massachusetts Institute of Technology abbreviation MIT. 16-bit graphics allowed more colorful game worlds. Doom is a groundbreaking game. history of video games began in 1950s. Spacewar! developed at Massachusetts Institute of Technology. Final Fantasy VII is a groundbreaking game.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Red Dead Redemption and Fortnite offer lifelike worlds.",
+    "retrieved_context": "World of Warcraft became synonymous with online multiplayer gaming. games pushed boundaries of graphics. games are becoming more interconnected. Halo became synonymous with online multiplayer gaming. games pushed boundaries of gameplay. 16-bit graphics allowed more colorful game worlds. games introduced visual aesthetics. AR games blurs line between virtual and physical worlds. games pushed boundaries of storytelling. Red Dead Redemption is a lifelike world. games introduced new gameplay mechanics. games introduced storytelling elements. Fortnite is a lifelike world. games are becoming more sophisticated. Call of Duty became synonymous with online multiplayer gaming. games are becoming more realistic. 8-bit graphics allowed more detailed game worlds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spacewar! was developed in 1962 at MIT.",
+    "retrieved_context": "Spacewar! introduced real-time action. Space Invaders is a game. history of video games began in 1960s. Half-Life became instant classic. Halo became synonymous with online multiplayer gaming. Spacewar! is a a milestone. Call of Duty became synonymous with online multiplayer gaming. World of Warcraft became synonymous with online multiplayer gaming. Space Invaders became cultural phenomena. Spacewar! laid foundation. Pac-Man became cultural phenomena. Spacewar! began in 1962. Pong is a pixelated game. Diablo became instant classic. Pong became cultural phenomena. Spacewar! introduced multiplayer gameplay. Pong is a game. StarCraft became instant classic. Space Invaders is a pixelated game. Pac-Man is a game. Massachusetts Institute of Technology abbreviation MIT. history of video games began in 1950s. Spacewar! developed at Massachusetts Institute of Technology.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spacewar! introduced multiplayer gameplay.",
+    "retrieved_context": "Spacewar! introduced real-time action. Space Invaders is a game. Half-Life became instant classic. Halo became synonymous with online multiplayer gaming. Spacewar! is a a milestone. games introduced visual aesthetics. games pushed boundaries of storytelling. games introduced new gameplay mechanics. games are becoming more sophisticated. World of Warcraft became synonymous with online multiplayer gaming. Call of Duty became synonymous with online multiplayer gaming. Space Invaders became cultural phenomena. Quake is a groundbreaking game. Spacewar! laid foundation. games pushed boundaries of graphics. games are becoming more interconnected. Pac-Man became cultural phenomena. games pushed boundaries of gameplay. Spacewar! began in 1962. Pong is a pixelated game. Diablo became instant classic. Pong became cultural phenomena. Spacewar! introduced multiplayer gameplay. Pong is a game. StarCraft became instant classic. Space Invaders is a pixelated game. Pac-Man is a game. Massachusetts Institute of Technology abbreviation MIT. Doom is a groundbreaking game. games introduced storytelling elements. Spacewar! developed at Massachusetts Institute of Technology. Final Fantasy VII is a groundbreaking game. games are becoming more realistic.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Arcade gaming rose in the 1970s.",
+    "retrieved_context": "history of video games began in 1960s. 1970s saw emergence of arcade gaming. Atari 2600 introduced arcade experience into people's living rooms. success of arcade games laid development of home gaming consoles. history of video games began in 1950s. PC gaming saw emergence of PC gaming. PC gaming saw emergence of CD-ROM technology. PC gaming saw emergence of 3D graphics. Atari 2600 is a home gaming console. gaming industry saw emergence of surge in popularity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Atari 2600 brought arcade experience to homes.",
+    "retrieved_context": "history of video games began in 1960s. Atari 2600 introduced arcade experience into people's living rooms. 1970s saw emergence of arcade gaming. success of arcade games laid development of home gaming consoles. history of video games began in 1950s. PC gaming saw emergence of PC gaming. PC gaming saw emergence of CD-ROM technology. PC gaming saw emergence of 3D graphics. Atari 2600 is a home gaming console.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Super Mario Bros. and The Legend of Zelda were iconic games in the 1980s.",
+    "retrieved_context": "history of video games began in 1960s. 1970s saw emergence of arcade gaming. success of arcade games laid development of home gaming consoles. history of video games began in 1950s. Doom is a groundbreaking game. 1980s began in golden age. The Legend of Zelda is a iconic game. Final Fantasy VII is a groundbreaking game. Tetris is a iconic game. Super Mario Bros. is a iconic game. Quake is a groundbreaking game.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "8-bit and 16-bit graphics enhanced game worlds.",
+    "retrieved_context": "Space Invaders is a game. Halo became synonymous with online multiplayer gaming. games introduced visual aesthetics. games pushed boundaries of storytelling. games introduced new gameplay mechanics. games are becoming more sophisticated. World of Warcraft became synonymous with online multiplayer gaming. PC gaming saw emergence of 3D graphics. Call of Duty became synonymous with online multiplayer gaming. Space Invaders became cultural phenomena. games pushed boundaries of graphics. games pushed boundaries of gameplay. games are becoming more interconnected. PC gaming saw emergence of PC gaming. Pong is a pixelated game. Pong became cultural phenomena. 8-bit graphics allowed more detailed game worlds. Pong is a game. PC gaming saw emergence of CD-ROM technology. Space Invaders is a pixelated game. 16-bit graphics allowed more colorful game worlds. games introduced storytelling elements. games are becoming more realistic.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Doom and Quake pushed boundaries in the 1990s.",
+    "retrieved_context": "history of video games began in 1960s. games introduced visual aesthetics. games pushed boundaries of storytelling. games introduced new gameplay mechanics. games are becoming more sophisticated. Xbox Live allowed players to connect. Quake is a groundbreaking game. 1970s saw emergence of arcade gaming. games pushed boundaries of graphics. PlayStation Network allowed players to connect. games pushed boundaries of gameplay. games are becoming more interconnected. Xbox Live began in early 2000s. 1980s began in golden age. Doom is a groundbreaking game. history of video games began in 1950s. games introduced storytelling elements. Final Fantasy VII is a groundbreaking game. PlayStation Network began in early 2000s. games are becoming more realistic.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Online gaming rose in the early 2000s.",
+    "retrieved_context": "history of video games began in 1960s. Xbox Live allowed players to connect. 1970s saw emergence of arcade gaming. World of Warcraft became synonymous with online multiplayer gaming. cloud gaming is a advancement in technology. PlayStation Network allowed players to connect. Halo became synonymous with online multiplayer gaming. virtual reality is a advancement in technology. PC gaming saw emergence of PC gaming. history of video games began in 1950s. PC gaming saw emergence of CD-ROM technology. success of arcade games laid development of home gaming consoles. augmented reality is a advancement in technology. PlayStation Network began in early 2000s. Call of Duty became synonymous with online multiplayer gaming. PC gaming saw emergence of 3D graphics. Xbox Live began in early 2000s. gaming industry saw emergence of surge in popularity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "VR and AR technologies have advanced gaming experiences.",
+    "retrieved_context": "cloud gaming is a advancement in technology. PlayStation VR allowed players to immerse themselves. Oculus Rift is a VR headset. virtual reality is a advancement in technology. AR games blurs line between virtual and physical worlds. Pok\u00c3\u00a9mon Go is a AR game. augmented reality is a advancement in technology. PlayStation VR is a VR headset.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI, machine learning, and blockchain are revolutionizing the gaming industry.",
+    "retrieved_context": "industry are becoming innovation. Half-Life became instant classic. artificial intelligence is a development. augmented reality is a advancement in technology. PC gaming saw emergence of 3D graphics. 1970s saw emergence of arcade gaming. blockchain technology is a development. cloud gaming is a advancement in technology. industry are becoming changing consumer preferences. virtual reality is a advancement in technology. PC gaming saw emergence of PC gaming. success of arcade games laid development of home gaming consoles. Diablo became instant classic. gaming industry saw emergence of surge in popularity. StarCraft became instant classic. PC gaming saw emergence of CD-ROM technology. machine learning is a development. industry are becoming advancements in technology. industry are becoming new opportunities for creativity.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Video games have responded to technological advancements and consumer preferences.",
+    "retrieved_context": "history of video games began in 1960s. industry are becoming innovation. games introduced visual aesthetics. games introduced new gameplay mechanics. games pushed boundaries of storytelling. augmented reality is a advancement in technology. games are becoming more sophisticated. PC gaming saw emergence of 3D graphics. 1970s saw emergence of arcade gaming. cloud gaming is a advancement in technology. industry are becoming changing consumer preferences. games pushed boundaries of graphics. games pushed boundaries of gameplay. virtual reality is a advancement in technology. games are becoming more interconnected. success of arcade games laid development of home gaming consoles. PC gaming saw emergence of PC gaming. gaming industry saw emergence of surge in popularity. PC gaming saw emergence of CD-ROM technology. history of video games began in 1950s. games introduced storytelling elements. industry are becoming advancements in technology. games are becoming more realistic. industry are becoming new opportunities for creativity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The future of video games promises new and exciting experiences.",
+    "retrieved_context": "history of video games began in 1960s. games introduced visual aesthetics. games introduced new gameplay mechanics. games pushed boundaries of storytelling. games are becoming more sophisticated. PC gaming saw emergence of 3D graphics. Quake is a groundbreaking game. 1970s saw emergence of arcade gaming. games pushed boundaries of graphics. games pushed boundaries of gameplay. games are becoming more interconnected. success of arcade games laid development of home gaming consoles. PC gaming saw emergence of PC gaming. gaming industry saw emergence of surge in popularity. PC gaming saw emergence of CD-ROM technology. Doom is a groundbreaking game. history of video games began in 1950s. games introduced storytelling elements. Final Fantasy VII is a groundbreaking game. games are becoming more realistic.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

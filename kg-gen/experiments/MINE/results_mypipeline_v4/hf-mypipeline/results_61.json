@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The wheel was invented around 3500 BC in Mesopotamia.",
+    "retrieved_context": "internet transformed the way we live, work, and communicate. inventions driven human civilization. wheel invented around 3500 BC. light bulb invented by Thomas Edison. printing press invented by Johannes Gutenberg. printing press invented in 15th century. inventions transformed human history. wheel transformed transportation. light bulb replaced gas lamps and candles. printing press transformed dissemination of information. light bulb invented in late 19th century. ENIAC invented around the 1940s. ENIAC paved the way for modern computing technologies. wheel invented in Mesopotamia. wheel transformed the way we live, work, and communicate. inventions driven progress and innovation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The wheel revolutionized transportation and enabled the development of wheeled vehicles.",
+    "retrieved_context": "steam engine invented by James Watt and Thomas Newcomen. ENIAC invented around the 1940s. internet transformed information access. internet transformed the way we live, work, and communicate. wheel invented around 3500 BC. light bulb invented by Thomas Edison. inventions driven progress and innovation. light bulb invented in late 19th century. internet transformed communication methods. steam engine invented in 18th century. wheel invented in Mesopotamia. steam engine powered machinery. light bulb replaced gas lamps and candles. ENIAC paved the way for modern computing technologies. internet connected people across the globe. internet invented in late 20th century. inventions driven human civilization. internet paved the way for social media. internet paved the way for e-commerce. inventions transformed human history. wheel transformed transportation. internet invented by researchers like Tim Berners-Lee. wheel transformed the way we live, work, and communicate. internet transformed business conduct.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The printing press was invented by Johannes Gutenberg in the 15th century.",
+    "retrieved_context": "telephone paved the way for real-time communication over long distances. telephone invented in 19th century. inventions driven human civilization. steam engine powered machinery. steam engine invented by James Watt and Thomas Newcomen. light bulb invented by Thomas Edison. printing press invented by Johannes Gutenberg. printing press invented in 15th century. inventions transformed human history. light bulb replaced gas lamps and candles. telephone invented by Alexander Graham Bell. printing press transformed dissemination of information. light bulb invented in late 19th century. steam engine invented in 18th century. inventions driven progress and innovation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The printing press revolutionized the dissemination of information.",
+    "retrieved_context": "internet transformed the way we live, work, and communicate. inventions driven human civilization. internet paved the way for social media. internet paved the way for e-commerce. printing press invented by Johannes Gutenberg. printing press invented in 15th century. inventions transformed human history. ENIAC invented around the 1940s. printing press transformed dissemination of information. internet invented by researchers like Tim Berners-Lee. ENIAC paved the way for modern computing technologies. internet transformed business conduct. internet transformed communication methods. internet connected people across the globe. internet transformed information access. internet invented in late 20th century. inventions driven progress and innovation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The steam engine was invented in the 18th century.",
+    "retrieved_context": "telephone paved the way for real-time communication over long distances. steam engine invented by James Watt and Thomas Newcomen. internet transformed information access. internet transformed the way we live, work, and communicate. light bulb invented by Thomas Edison. light bulb invented in late 19th century. internet transformed business conduct. internet transformed communication methods. steam engine invented in 18th century. steam engine powered machinery. telephone invented by Alexander Graham Bell. light bulb replaced gas lamps and candles. internet connected people across the globe. internet invented in late 20th century. telephone invented in 19th century. inventions driven human civilization. internet paved the way for social media. internet paved the way for e-commerce. inventions transformed human history. internet invented by researchers like Tim Berners-Lee. inventions driven progress and innovation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The steam engine powered machinery and revolutionized manufacturing processes.",
+    "retrieved_context": "telephone paved the way for real-time communication over long distances. telephone invented in 19th century. inventions driven human civilization. steam engine powered machinery. steam engine invented by James Watt and Thomas Newcomen. light bulb invented by Thomas Edison. printing press invented by Johannes Gutenberg. printing press invented in 15th century. inventions transformed human history. light bulb replaced gas lamps and candles. telephone invented by Alexander Graham Bell. printing press transformed dissemination of information. light bulb invented in late 19th century. steam engine invented in 18th century. inventions driven progress and innovation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The telephone was invented by Alexander Graham Bell in the 19th century.",
+    "retrieved_context": "telephone paved the way for real-time communication over long distances. steam engine invented by James Watt and Thomas Newcomen. internet transformed information access. internet transformed the way we live, work, and communicate. light bulb invented by Thomas Edison. light bulb invented in late 19th century. inventions driven progress and innovation. internet transformed communication methods. steam engine invented in 18th century. steam engine powered machinery. telephone invented by Alexander Graham Bell. light bulb replaced gas lamps and candles. internet connected people across the globe. internet invented in late 20th century. telephone invented in 19th century. inventions driven human civilization. internet paved the way for social media. internet paved the way for e-commerce. inventions transformed human history. internet invented by researchers like Tim Berners-Lee. internet transformed business conduct.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The telephone transformed communication over long distances.",
+    "retrieved_context": "telephone paved the way for real-time communication over long distances. printing press invented by Johannes Gutenberg. ENIAC invented around the 1940s. internet transformed information access. internet transformed the way we live, work, and communicate. wheel invented around 3500 BC. printing press invented in 15th century. internet transformed communication methods. wheel invented in Mesopotamia. telephone invented by Alexander Graham Bell. ENIAC paved the way for modern computing technologies. internet connected people across the globe. internet invented in late 20th century. telephone invented in 19th century. internet paved the way for social media. internet paved the way for e-commerce. wheel transformed transportation. printing press transformed dissemination of information. internet invented by researchers like Tim Berners-Lee. wheel transformed the way we live, work, and communicate. internet transformed business conduct.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The light bulb was invented by Thomas Edison in the late 19th century.",
+    "retrieved_context": "telephone paved the way for real-time communication over long distances. steam engine invented by James Watt and Thomas Newcomen. internet transformed information access. internet transformed the way we live, work, and communicate. light bulb invented by Thomas Edison. light bulb invented in late 19th century. inventions driven progress and innovation. internet transformed communication methods. steam engine invented in 18th century. steam engine powered machinery. telephone invented by Alexander Graham Bell. light bulb replaced gas lamps and candles. internet connected people across the globe. internet invented in late 20th century. telephone invented in 19th century. inventions driven human civilization. internet paved the way for social media. internet paved the way for e-commerce. inventions transformed human history. internet invented by researchers like Tim Berners-Lee. internet transformed business conduct.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The light bulb replaced gas lamps and candles as the primary source of lighting.",
+    "retrieved_context": "steam engine invented by James Watt and Thomas Newcomen. internet transformed information access. internet transformed the way we live, work, and communicate. wheel invented around 3500 BC. light bulb invented by Thomas Edison. light bulb invented in late 19th century. internet transformed business conduct. internet transformed communication methods. wheel invented in Mesopotamia. steam engine invented in 18th century. steam engine powered machinery. light bulb replaced gas lamps and candles. internet connected people across the globe. internet invented in late 20th century. inventions driven human civilization. internet paved the way for social media. internet paved the way for e-commerce. inventions transformed human history. wheel transformed transportation. internet invented by researchers like Tim Berners-Lee. wheel transformed the way we live, work, and communicate. inventions driven progress and innovation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The computer was invented in the 20th century.",
+    "retrieved_context": "telephone paved the way for real-time communication over long distances. ENIAC invented around the 1940s. internet transformed information access. internet transformed the way we live, work, and communicate. light bulb invented by Thomas Edison. light bulb invented in late 19th century. internet transformed business conduct. internet transformed communication methods. telephone invented by Alexander Graham Bell. light bulb replaced gas lamps and candles. ENIAC paved the way for modern computing technologies. internet connected people across the globe. internet invented in late 20th century. telephone invented in 19th century. inventions driven human civilization. internet paved the way for social media. internet paved the way for e-commerce. inventions transformed human history. internet invented by researchers like Tim Berners-Lee. inventions driven progress and innovation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The computer ushered in the digital age and revolutionized various aspects of life.",
+    "retrieved_context": "internet transformed the way we live, work, and communicate. inventions driven human civilization. wheel invented around 3500 BC. internet paved the way for social media. internet paved the way for e-commerce. ENIAC invented around the 1940s. inventions transformed human history. wheel transformed transportation. inventions driven progress and innovation. internet invented by researchers like Tim Berners-Lee. ENIAC paved the way for modern computing technologies. internet transformed communication methods. internet connected people across the globe. wheel invented in Mesopotamia. internet transformed information access. wheel transformed the way we live, work, and communicate. internet invented in late 20th century. internet transformed business conduct.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The internet was developed in the late 20th century.",
+    "retrieved_context": "telephone paved the way for real-time communication over long distances. ENIAC invented around the 1940s. internet transformed information access. internet transformed the way we live, work, and communicate. light bulb invented by Thomas Edison. light bulb invented in late 19th century. inventions driven progress and innovation. internet transformed communication methods. telephone invented by Alexander Graham Bell. light bulb replaced gas lamps and candles. ENIAC paved the way for modern computing technologies. internet connected people across the globe. internet invented in late 20th century. telephone invented in 19th century. inventions driven human civilization. internet paved the way for social media. internet paved the way for e-commerce. inventions transformed human history. internet invented by researchers like Tim Berners-Lee. wheel transformed the way we live, work, and communicate. internet transformed business conduct.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The internet revolutionized access to information and communication.",
+    "retrieved_context": "internet transformed the way we live, work, and communicate. inventions driven human civilization. internet paved the way for social media. internet paved the way for e-commerce. printing press invented by Johannes Gutenberg. printing press invented in 15th century. inventions transformed human history. ENIAC invented around the 1940s. printing press transformed dissemination of information. internet invented by researchers like Tim Berners-Lee. inventions driven progress and innovation. ENIAC paved the way for modern computing technologies. internet transformed communication methods. internet connected people across the globe. internet transformed information access. wheel transformed the way we live, work, and communicate. internet invented in late 20th century. internet transformed business conduct.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Inventions have played a crucial role in shaping human history and driving progress.",
+    "retrieved_context": "internet transformed information access. internet transformed the way we live, work, and communicate. wheel invented around 3500 BC. light bulb invented by Thomas Edison. light bulb invented in late 19th century. inventions driven progress and innovation. internet transformed communication methods. wheel invented in Mesopotamia. light bulb replaced gas lamps and candles. internet connected people across the globe. internet invented in late 20th century. inventions driven human civilization. internet paved the way for social media. internet paved the way for e-commerce. inventions transformed human history. wheel transformed transportation. internet invented by researchers like Tim Berners-Lee. wheel transformed the way we live, work, and communicate. internet transformed business conduct.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

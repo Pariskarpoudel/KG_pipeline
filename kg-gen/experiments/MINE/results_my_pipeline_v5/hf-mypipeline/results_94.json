@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Military technology shapes the course of history.",
+    "retrieved_context": "Siege weapons used in sieges. Industrial Revolution brought about mass production of weapons. Hypersonic missiles developed for future warfare. Artificial intelligence integrated_into military operations. Military technology played a crucial role in shaping history. Autonomous robots developed for future warfare. Siege weapons developed for medieval warfare. Directed energy weapons developed for future warfare. Unmanned aerial vehicles (UAVs) used in modern warfare. Cyber warfare invented in recent decades.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Weapons and equipment development for military advantage is a constant theme in human civilization.",
+    "retrieved_context": "Siege weapons used in sieges. Industrial Revolution brought about mass production of weapons. Nuclear weapons invented in Manhattan Project. Trebuchets used in sieges. Hypersonic missiles developed for future warfare. Artificial intelligence integrated_into military operations. Military technology played a crucial role in shaping history. Autonomous robots developed for future warfare. Siege weapons developed for medieval warfare. Directed energy weapons developed for future warfare. Unmanned aerial vehicles (UAVs) used in modern warfare.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The bow and arrow revolutionized warfare by enabling long-range combat.",
+    "retrieved_context": "Firearms developed with gunpowder. Siege weapons used in sieges. Cannons developed with gunpowder. Bow and arrow used by Egyptians. Bow and arrow used by Greeks. Trebuchets used in sieges. Hypersonic missiles developed for future warfare. Military technology played a crucial role in shaping history. Autonomous robots developed for future warfare. Bow and arrow invented by ancient civilizations. Siege weapons developed for medieval warfare. Unmanned aerial vehicles (UAVs) used in modern warfare. Directed energy weapons developed for future warfare. Bow and arrow used by Romans. Cyber warfare invented in recent decades.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The bow and arrow increased soldiers' effectiveness on the battlefield.",
+    "retrieved_context": "Firearms developed with gunpowder. Siege weapons used in sieges. Cannons developed with gunpowder. Bow and arrow used by Egyptians. Bow and arrow used by Greeks. Trebuchets used in sieges. Hypersonic missiles developed for future warfare. Artificial intelligence integrated_into military operations. Military technology played a crucial role in shaping history. Autonomous robots developed for future warfare. Bow and arrow invented by ancient civilizations. Siege weapons developed for medieval warfare. Unmanned aerial vehicles (UAVs) used in modern warfare. Directed energy weapons developed for future warfare. Bow and arrow used by Romans.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Siege weapons like catapults and trebuchets were used to lay siege to fortified cities and castles.",
+    "retrieved_context": "Firearms developed with gunpowder. Siege weapons used in sieges. Cannons developed with gunpowder. Gunpowder invented in China during the 9th century. Siege weapons developed for medieval warfare. Unmanned aerial vehicles (UAVs) used in modern warfare. Trebuchets used in sieges.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Siege weapons were instrumental in shaping the outcome of battles and conflicts.",
+    "retrieved_context": "Firearms developed with gunpowder. Siege weapons used in sieges. Cannons developed with gunpowder. Industrial Revolution brought about mass production of weapons. Hypersonic missiles developed for future warfare. Autonomous robots developed for future warfare. Siege weapons developed for medieval warfare. Unmanned aerial vehicles (UAVs) used in modern warfare. Directed energy weapons developed for future warfare. Trebuchets used in sieges. Cyber warfare invented in recent decades.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gunpowder weapons revolutionized warfare by providing powerful means of engaging the enemy.",
+    "retrieved_context": "Firearms developed with gunpowder. Siege weapons used in sieges. Cannons developed with gunpowder. Industrial Revolution brought about mass production of weapons. Gunpowder invented in China during the 9th century. Trebuchets used in sieges. Hypersonic missiles developed for future warfare. Autonomous robots developed for future warfare. Siege weapons developed for medieval warfare. Directed energy weapons developed for future warfare. Unmanned aerial vehicles (UAVs) used in modern warfare.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution brought mass production of sophisticated and deadly weapons.",
+    "retrieved_context": "Firearms developed with gunpowder. Cannons developed with gunpowder. Industrial Revolution brought about mass production of weapons. Gunpowder invented in China during the 9th century. Rifled barrels invented in the Industrial Revolution. Military technology played a crucial role in shaping history. Repeating firearms invented in the Industrial Revolution. Breech-loading mechanisms invented in the Industrial Revolution. Unmanned aerial vehicles (UAVs) used in modern warfare.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rifled barrels, breech-loading mechanisms, and repeating firearms transformed warfare.",
+    "retrieved_context": "Firearms developed with gunpowder. Siege weapons used in sieges. Cannons developed with gunpowder. Industrial Revolution brought about mass production of weapons. Gunpowder invented in China during the 9th century. Rifled barrels invented in the Industrial Revolution. Repeating firearms invented in the Industrial Revolution. Siege weapons developed for medieval warfare. Breech-loading mechanisms invented in the Industrial Revolution. Trebuchets used in sieges.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The 20th century saw advancements in tanks, aircraft, submarines, and missiles.",
+    "retrieved_context": "Aircraft invented in 20th century. Cyber warfare invented in recent decades. Tanks invented in 20th century. Hypersonic missiles developed for future warfare. Military technology played a crucial role in shaping history. Autonomous robots developed for future warfare. Submarines invented in 20th century. Directed energy weapons developed for future warfare. Missiles invented in 20th century.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Nuclear weapons have the potential to annihilate entire cities and civilizations.",
+    "retrieved_context": "Aircraft invented in 20th century. Cyber warfare invented in recent decades. Siege weapons used in sieges. Tanks invented in 20th century. Industrial Revolution brought about mass production of weapons. Nuclear weapons invented in Manhattan Project. Hypersonic missiles developed for future warfare. Autonomous robots developed for future warfare. Siege weapons developed for medieval warfare. Submarines invented in 20th century. Directed energy weapons developed for future warfare. Trebuchets used in sieges. Missiles invented in 20th century.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Unmanned aerial vehicles (UAVs), drones, cyber warfare, and artificial intelligence have transformed the battlefield.",
+    "retrieved_context": "Aircraft invented in 20th century. Siege weapons used in sieges. Tanks invented in 20th century. Missiles invented in 20th century. Hypersonic missiles developed for future warfare. Artificial intelligence integrated_into military operations. Military technology played a crucial role in shaping history. Autonomous robots developed for future warfare. Siege weapons developed for medieval warfare. Submarines invented in 20th century. Directed energy weapons developed for future warfare. Unmanned aerial vehicles (UAVs) used in modern warfare. Cyber warfare invented in recent decades.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Advanced technology enables precision strikes and real-time intelligence gathering.",
+    "retrieved_context": "Aircraft invented in 20th century. Tanks invented in 20th century. Missiles invented in 20th century. Hypersonic missiles developed for future warfare. Artificial intelligence integrated_into military operations. Military technology played a crucial role in shaping history. Autonomous robots developed for future warfare. Submarines invented in 20th century. Directed energy weapons developed for future warfare. Unmanned aerial vehicles (UAVs) used in modern warfare. Cyber warfare invented in recent decades.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Hypersonic missiles, directed energy weapons, and autonomous robots are emerging military technologies.",
+    "retrieved_context": "Aircraft invented in 20th century. Cyber warfare invented in recent decades. Tanks invented in 20th century. Nuclear weapons invented in Manhattan Project. Hypersonic missiles developed for future warfare. Artificial intelligence integrated_into military operations. Military technology played a crucial role in shaping history. Autonomous robots developed for future warfare. Submarines invented in 20th century. Directed energy weapons developed for future warfare. Missiles invented in 20th century.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Military technology innovation continues to drive change and shape conflicts.",
+    "retrieved_context": "Aircraft invented in 20th century. Tanks invented in 20th century. Industrial Revolution brought about mass production of weapons. Missiles invented in 20th century. Nuclear weapons invented in Manhattan Project. Hypersonic missiles developed for future warfare. Artificial intelligence integrated_into military operations. Military technology played a crucial role in shaping history. Autonomous robots developed for future warfare. Submarines invented in 20th century. Directed energy weapons developed for future warfare. Unmanned aerial vehicles (UAVs) used in modern warfare. Cyber warfare invented in recent decades.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

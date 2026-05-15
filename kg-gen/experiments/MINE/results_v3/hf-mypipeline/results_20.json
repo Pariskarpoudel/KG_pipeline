@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Cryptocurrencies revolutionized the way we think about money and transactions.",
+    "retrieved_context": "cryptocurrencies provides financial inclusion. cryptocurrencies attracts investors. block linked to previous block. blockchain ensures transparency. smart contracts is self-executing contracts. transaction recorded in block. smart contracts replaces intermediaries. blockchain is distributed ledger technology. blockchain ensures immutability. cryptocurrencies is digital assets. cryptocurrencies attracts speculators. Bitcoin created by Satoshi Nakamoto. cryptocurrencies uses peer-to-peer network. Bitcoin created in 2009.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Bitcoin was created in 2009 by an anonymous individual or group known as Satoshi Nakamoto.",
+    "retrieved_context": "cryptocurrencies provides financial inclusion. cryptocurrencies attracts investors. blockchain ensures transparency. blockchain is distributed ledger technology. blockchain ensures immutability. cryptocurrencies is digital assets. Bitcoin created by Satoshi Nakamoto. Bitcoin created in 2009. cryptocurrencies attracts speculators. cryptocurrencies uses peer-to-peer network.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cryptocurrencies have become a significant player in the global economy.",
+    "retrieved_context": "cryptocurrencies provides financial inclusion. cryptocurrencies attracts investors. blockchain ensures transparency. smart contracts is self-executing contracts. smart contracts replaces intermediaries. blockchain is distributed ledger technology. blockchain ensures immutability. cryptocurrencies is digital assets. cryptocurrencies attracts speculators. Bitcoin created by Satoshi Nakamoto. cryptocurrencies uses peer-to-peer network. Bitcoin created in 2009.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cryptocurrencies are decentralized digital assets.",
+    "retrieved_context": "cryptocurrencies provides financial inclusion. cryptocurrencies attracts investors. blockchain ensures transparency. smart contracts is self-executing contracts. smart contracts replaces intermediaries. blockchain is distributed ledger technology. blockchain ensures immutability. cryptocurrencies is digital assets. cryptocurrencies attracts speculators. Bitcoin created by Satoshi Nakamoto. cryptocurrencies uses peer-to-peer network. Bitcoin created in 2009.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cryptocurrencies operate on a peer-to-peer network.",
+    "retrieved_context": "cryptocurrencies provides financial inclusion. cryptocurrencies attracts investors. blockchain ensures transparency. smart contracts is self-executing contracts. smart contracts replaces intermediaries. blockchain is distributed ledger technology. blockchain ensures immutability. cryptocurrencies is digital assets. cryptocurrencies attracts speculators. Bitcoin created by Satoshi Nakamoto. cryptocurrencies uses peer-to-peer network. Bitcoin created in 2009.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Transactions occur directly between users without intermediaries in cryptocurrencies.",
+    "retrieved_context": "cryptocurrencies provides financial inclusion. cryptocurrencies attracts investors. block linked to previous block. smart contracts is self-executing contracts. blockchain ensures transparency. transaction recorded in block. smart contracts replaces intermediaries. blockchain is distributed ledger technology. blockchain ensures immutability. cryptocurrencies is digital assets. cryptocurrencies attracts speculators. Bitcoin created by Satoshi Nakamoto. cryptocurrencies uses peer-to-peer network. Bitcoin created in 2009.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Decentralization provides users with more control over their funds in cryptocurrencies.",
+    "retrieved_context": "cryptocurrencies provides financial inclusion. cryptocurrencies attracts investors. blockchain ensures transparency. smart contracts is self-executing contracts. smart contracts replaces intermediaries. blockchain is distributed ledger technology. blockchain ensures immutability. cryptocurrencies is digital assets. cryptocurrencies attracts speculators. Bitcoin created by Satoshi Nakamoto. cryptocurrencies uses peer-to-peer network. Bitcoin created in 2009.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Decentralization enhances security and privacy in cryptocurrencies.",
+    "retrieved_context": "cryptocurrencies provides financial inclusion. cryptocurrencies attracts investors. blockchain ensures transparency. smart contracts is self-executing contracts. smart contracts replaces intermediaries. blockchain is distributed ledger technology. blockchain ensures immutability. cryptocurrencies is digital assets. cryptocurrencies attracts speculators. Bitcoin created by Satoshi Nakamoto. cryptocurrencies uses peer-to-peer network. Bitcoin created in 2009.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Blockchain is the technology that underpins cryptocurrencies.",
+    "retrieved_context": "cryptocurrencies provides financial inclusion. cryptocurrencies attracts investors. blockchain ensures transparency. smart contracts is self-executing contracts. smart contracts replaces intermediaries. blockchain is distributed ledger technology. blockchain ensures immutability. cryptocurrencies is digital assets. cryptocurrencies attracts speculators. Bitcoin created by Satoshi Nakamoto. cryptocurrencies uses peer-to-peer network. Bitcoin created in 2009.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blockchain ensures transparency and immutability of transactions.",
+    "retrieved_context": "cryptocurrencies provides financial inclusion. cryptocurrencies attracts investors. block linked to previous block. blockchain ensures transparency. smart contracts is self-executing contracts. transaction recorded in block. smart contracts replaces intermediaries. blockchain is distributed ledger technology. blockchain ensures immutability. cryptocurrencies is digital assets. cryptocurrencies attracts speculators. Bitcoin created by Satoshi Nakamoto. cryptocurrencies uses peer-to-peer network. Bitcoin created in 2009.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Each transaction in blockchain is recorded in a block.",
+    "retrieved_context": "cryptocurrencies provides financial inclusion. block linked to previous block. cryptocurrencies attracts investors. blockchain ensures transparency. smart contracts is self-executing contracts. transaction recorded in block. smart contracts replaces intermediaries. blockchain is distributed ledger technology. blockchain ensures immutability. cryptocurrencies is digital assets. Bitcoin created by Satoshi Nakamoto. Bitcoin created in 2009. cryptocurrencies attracts speculators. cryptocurrencies uses peer-to-peer network.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blockchain forms a chain of blocks that cannot be altered once validated.",
+    "retrieved_context": "cryptocurrencies provides financial inclusion. block linked to previous block. cryptocurrencies attracts investors. blockchain ensures transparency. smart contracts is self-executing contracts. transaction recorded in block. smart contracts replaces intermediaries. blockchain is distributed ledger technology. blockchain ensures immutability. cryptocurrencies is digital assets. Bitcoin created by Satoshi Nakamoto. Bitcoin created in 2009. cryptocurrencies attracts speculators. cryptocurrencies uses peer-to-peer network.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smart contracts are self-executing contracts with terms written into code.",
+    "retrieved_context": "cryptocurrencies provides financial inclusion. cryptocurrencies attracts investors. block linked to previous block. smart contracts is self-executing contracts. blockchain ensures transparency. transaction recorded in block. smart contracts replaces intermediaries. blockchain is distributed ledger technology. blockchain ensures immutability. cryptocurrencies is digital assets. cryptocurrencies attracts speculators. Bitcoin created by Satoshi Nakamoto. cryptocurrencies uses peer-to-peer network. Bitcoin created in 2009.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Smart contracts automatically enforce and execute themselves when conditions are met.",
+    "retrieved_context": "regulation is contentious issue. cryptocurrencies provides financial inclusion. cryptocurrencies attracts investors. block linked to previous block. smart contracts is self-executing contracts. blockchain ensures transparency. transaction recorded in block. smart contracts replaces intermediaries. blockchain is distributed ledger technology. blockchain ensures immutability. cryptocurrencies is digital assets. cryptocurrencies attracts speculators. cryptocurrencies uses peer-to-peer network.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cryptocurrencies offer financial inclusion to individuals in underserved communities.",
+    "retrieved_context": "cryptocurrencies provides financial inclusion. cryptocurrencies attracts investors. blockchain ensures transparency. smart contracts is self-executing contracts. smart contracts replaces intermediaries. blockchain is distributed ledger technology. blockchain ensures immutability. cryptocurrencies is digital assets. cryptocurrencies attracts speculators. Bitcoin created by Satoshi Nakamoto. cryptocurrencies uses peer-to-peer network. Bitcoin created in 2009.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

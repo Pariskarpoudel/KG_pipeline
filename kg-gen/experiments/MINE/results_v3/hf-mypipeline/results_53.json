@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The Olympic Games are one of the most prestigious sporting events in the world.",
+    "retrieved_context": "Nazi Germany used 1936 Berlin Olympics. Pierre de Coubertin is French educator. 1936 Berlin Olympics used propaganda tool. ancient Olympics dedicated to Zeus. Pierre de Coubertin founded by 1894. ancient Olympics held in Olympia. first modern Olympic Games held in Greece. Olympic motto is Citius, Altius, Fortius. ancient Olympics originated in ancient Greece. ancient Olympics originated in 776 BC. ancient Olympics frequency four years. Soviet Union's invasion of Afghanistan caused 1980 Moscow Olympics boycott. first modern Olympic Games held in Athens. modern Olympic Games founded by Pierre de Coubertin. ancient Olympics abolished by Theodosius. Theodosius is Roman Emperor. ancient Olympics is religious festival. first modern Olympic Games featured 43 events. 1980 Moscow Olympics boycotted by Western countries. first modern Olympic Games held in 1896. ancient Olympics abolished in 393 AD. first modern Olympic Games featured 14 countries.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Olympic Games have a rich history dating back to ancient Greece.",
+    "retrieved_context": "Pierre de Coubertin is French educator. ancient Olympics dedicated to Zeus. Pierre de Coubertin founded by 1894. ancient Olympics held in Olympia. first modern Olympic Games held in Greece. Olympic motto is Citius, Altius, Fortius. ancient Olympics originated in ancient Greece. ancient Olympics originated in 776 BC. ancient Olympics frequency four years. first modern Olympic Games held in Athens. ancient Olympics abolished by Theodosius. modern Olympic Games founded by Pierre de Coubertin. Theodosius is Roman Emperor. ancient Olympics is religious festival. first modern Olympic Games featured 43 events. 1980 Moscow Olympics boycotted by Western countries. first modern Olympic Games held in 1896. ancient Olympics abolished in 393 AD. first modern Olympic Games featured 14 countries.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The ancient Olympic Games were held in honor of the Greek god Zeus.",
+    "retrieved_context": "first modern Olympic Games held in Athens. first modern Olympic Games featured 43 events. first modern Olympic Games held in Greece. Olympic motto is Citius, Altius, Fortius. Pierre de Coubertin is French educator. ancient Olympics dedicated to Zeus. ancient Olympics originated in ancient Greece. first modern Olympic Games held in 1896. Pierre de Coubertin founded by 1894. ancient Olympics originated in 776 BC. ancient Olympics held in Olympia. ancient Olympics abolished in 393 AD. ancient Olympics frequency four years. ancient Olympics abolished by Theodosius. Theodosius is Roman Emperor. modern Olympic Games founded by Pierre de Coubertin. first modern Olympic Games featured 14 countries. ancient Olympics is religious festival.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The ancient Olympic Games were first held in 776 BC in Olympia, Greece.",
+    "retrieved_context": "first modern Olympic Games held in Athens. first modern Olympic Games featured 43 events. first modern Olympic Games held in Greece. Pierre de Coubertin is French educator. ancient Olympics dedicated to Zeus. ancient Olympics originated in ancient Greece. first modern Olympic Games held in 1896. Pierre de Coubertin founded by 1894. ancient Olympics originated in 776 BC. ancient Olympics held in Olympia. ancient Olympics abolished in 393 AD. ancient Olympics frequency four years. ancient Olympics abolished by Theodosius. Theodosius is Roman Emperor. modern Olympic Games founded by Pierre de Coubertin. first modern Olympic Games featured 14 countries. ancient Olympics is religious festival.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The ancient Olympic Games were a religious festival dedicated to Zeus.",
+    "retrieved_context": "first modern Olympic Games held in Athens. first modern Olympic Games featured 43 events. first modern Olympic Games held in Greece. Pierre de Coubertin is French educator. Olympic motto is Citius, Altius, Fortius. ancient Olympics dedicated to Zeus. ancient Olympics originated in ancient Greece. first modern Olympic Games held in 1896. Pierre de Coubertin founded by 1894. ancient Olympics originated in 776 BC. ancient Olympics held in Olympia. ancient Olympics abolished in 393 AD. ancient Olympics frequency four years. ancient Olympics abolished by Theodosius. Theodosius is Roman Emperor. modern Olympic Games founded by Pierre de Coubertin. first modern Olympic Games featured 14 countries. ancient Olympics is religious festival.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Athletes from various city-states would gather to compete in the ancient Olympics.",
+    "retrieved_context": "Nazi Germany used 1936 Berlin Olympics. Pierre de Coubertin is French educator. 1936 Berlin Olympics used propaganda tool. ancient Olympics dedicated to Zeus. Pierre de Coubertin founded by 1894. ancient Olympics held in Olympia. first modern Olympic Games held in Greece. Olympic motto is Citius, Altius, Fortius. ancient Olympics originated in ancient Greece. ancient Olympics originated in 776 BC. ancient Olympics frequency four years. first modern Olympic Games held in Athens. ancient Olympics abolished by Theodosius. modern Olympic Games founded by Pierre de Coubertin. Theodosius is Roman Emperor. ancient Olympics is religious festival. first modern Olympic Games featured 43 events. 1980 Moscow Olympics boycotted by Western countries. first modern Olympic Games held in 1896. ancient Olympics abolished in 393 AD. first modern Olympic Games featured 14 countries.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The ancient Olympics included events like running, wrestling, boxing, and chariot racing.",
+    "retrieved_context": "Nazi Germany used 1936 Berlin Olympics. Pierre de Coubertin is French educator. 1936 Berlin Olympics used propaganda tool. ancient Olympics dedicated to Zeus. Pierre de Coubertin founded by 1894. ancient Olympics held in Olympia. first modern Olympic Games held in Greece. Olympic motto is Citius, Altius, Fortius. ancient Olympics originated in ancient Greece. ancient Olympics originated in 776 BC. ancient Olympics frequency four years. first modern Olympic Games held in Athens. ancient Olympics abolished by Theodosius. modern Olympic Games founded by Pierre de Coubertin. Theodosius is Roman Emperor. ancient Olympics is religious festival. first modern Olympic Games featured 43 events. 1980 Moscow Olympics boycotted by Western countries. first modern Olympic Games held in 1896. ancient Olympics abolished in 393 AD. first modern Olympic Games featured 14 countries.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The ancient Olympic Games were held every four years.",
+    "retrieved_context": "Pierre de Coubertin is French educator. ancient Olympics dedicated to Zeus. Pierre de Coubertin founded by 1894. ancient Olympics held in Olympia. first modern Olympic Games held in Greece. Olympic motto is Citius, Altius, Fortius. ancient Olympics originated in ancient Greece. ancient Olympics originated in 776 BC. ancient Olympics frequency four years. first modern Olympic Games held in Athens. ancient Olympics abolished by Theodosius. modern Olympic Games founded by Pierre de Coubertin. Theodosius is Roman Emperor. ancient Olympics is religious festival. first modern Olympic Games featured 43 events. 1980 Moscow Olympics boycotted by Western countries. first modern Olympic Games held in 1896. ancient Olympics abolished in 393 AD. first modern Olympic Games featured 14 countries.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The ancient Olympics were abolished by the Roman Emperor Theodosius in 393 AD.",
+    "retrieved_context": "Nazi Germany used 1936 Berlin Olympics. Pierre de Coubertin is French educator. 1936 Berlin Olympics used propaganda tool. ancient Olympics dedicated to Zeus. Pierre de Coubertin founded by 1894. ancient Olympics held in Olympia. first modern Olympic Games held in Greece. Olympic motto is Citius, Altius, Fortius. ancient Olympics originated in ancient Greece. ancient Olympics originated in 776 BC. ancient Olympics frequency four years. first modern Olympic Games held in Athens. ancient Olympics abolished by Theodosius. modern Olympic Games founded by Pierre de Coubertin. Theodosius is Roman Emperor. ancient Olympics is religious festival. first modern Olympic Games featured 43 events. 1980 Moscow Olympics boycotted by Western countries. first modern Olympic Games held in 1896. ancient Olympics abolished in 393 AD. first modern Olympic Games featured 14 countries.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The modern Olympic Games were founded by Pierre de Coubertin in 1894.",
+    "retrieved_context": "Nazi Germany used 1936 Berlin Olympics. Pierre de Coubertin is French educator. 1936 Berlin Olympics used propaganda tool. ancient Olympics dedicated to Zeus. Pierre de Coubertin founded by 1894. ancient Olympics held in Olympia. first modern Olympic Games held in Greece. Olympic motto is Citius, Altius, Fortius. ancient Olympics originated in ancient Greece. ancient Olympics originated in 776 BC. ancient Olympics frequency four years. first modern Olympic Games held in Athens. modern Olympic Games founded by Pierre de Coubertin. ancient Olympics abolished by Theodosius. Theodosius is Roman Emperor. ancient Olympics is religious festival. first modern Olympic Games featured 43 events. 1980 Moscow Olympics boycotted by Western countries. first modern Olympic Games held in 1896. ancient Olympics abolished in 393 AD. first modern Olympic Games featured 14 countries.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The first modern Olympic Games were held in Athens, Greece, in 1896.",
+    "retrieved_context": "first modern Olympic Games held in Athens. first modern Olympic Games featured 43 events. 1980 Moscow Olympics boycotted by Western countries. first modern Olympic Games held in Greece. Pierre de Coubertin is French educator. ancient Olympics dedicated to Zeus. ancient Olympics originated in ancient Greece. first modern Olympic Games held in 1896. Pierre de Coubertin founded by 1894. ancient Olympics originated in 776 BC. ancient Olympics held in Olympia. modern Olympic Games founded by Pierre de Coubertin. ancient Olympics abolished in 393 AD. ancient Olympics frequency four years. ancient Olympics abolished by Theodosius. first modern Olympic Games featured 14 countries. ancient Olympics is religious festival. Theodosius is Roman Emperor.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The modern Olympics were inspired by the ancient Olympics.",
+    "retrieved_context": "Nazi Germany used 1936 Berlin Olympics. Pierre de Coubertin is French educator. 1936 Berlin Olympics used propaganda tool. ancient Olympics dedicated to Zeus. Pierre de Coubertin founded by 1894. ancient Olympics held in Olympia. first modern Olympic Games held in Greece. Olympic motto is Citius, Altius, Fortius. ancient Olympics originated in ancient Greece. ancient Olympics originated in 776 BC. ancient Olympics frequency four years. Soviet Union's invasion of Afghanistan caused 1980 Moscow Olympics boycott. first modern Olympic Games held in Athens. ancient Olympics abolished by Theodosius. modern Olympic Games founded by Pierre de Coubertin. Theodosius is Roman Emperor. ancient Olympics is religious festival. first modern Olympic Games featured 43 events. 1980 Moscow Olympics boycotted by Western countries. first modern Olympic Games held in 1896. ancient Olympics abolished in 393 AD. first modern Olympic Games featured 14 countries.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Olympic Games have grown in size and popularity since their revival.",
+    "retrieved_context": "Nazi Germany used 1936 Berlin Olympics. Pierre de Coubertin is French educator. 1936 Berlin Olympics used propaganda tool. ancient Olympics dedicated to Zeus. Pierre de Coubertin founded by 1894. ancient Olympics held in Olympia. first modern Olympic Games held in Greece. Olympic motto is Citius, Altius, Fortius. ancient Olympics originated in ancient Greece. ancient Olympics originated in 776 BC. ancient Olympics frequency four years. Soviet Union's invasion of Afghanistan caused 1980 Moscow Olympics boycott. first modern Olympic Games held in Athens. modern Olympic Games founded by Pierre de Coubertin. ancient Olympics abolished by Theodosius. Theodosius is Roman Emperor. ancient Olympics is religious festival. first modern Olympic Games featured 43 events. 1980 Moscow Olympics boycotted by Western countries. first modern Olympic Games held in 1896. ancient Olympics abolished in 393 AD. first modern Olympic Games featured 14 countries.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Olympic Games have expanded to include a wide range of sports.",
+    "retrieved_context": "Nazi Germany used 1936 Berlin Olympics. Pierre de Coubertin is French educator. 1936 Berlin Olympics used propaganda tool. ancient Olympics dedicated to Zeus. Pierre de Coubertin founded by 1894. ancient Olympics held in Olympia. first modern Olympic Games held in Greece. Olympic motto is Citius, Altius, Fortius. ancient Olympics originated in ancient Greece. ancient Olympics originated in 776 BC. ancient Olympics frequency four years. Soviet Union's invasion of Afghanistan caused 1980 Moscow Olympics boycott. first modern Olympic Games held in Athens. modern Olympic Games founded by Pierre de Coubertin. ancient Olympics abolished by Theodosius. Theodosius is Roman Emperor. ancient Olympics is religious festival. first modern Olympic Games featured 43 events. 1980 Moscow Olympics boycotted by Western countries. first modern Olympic Games held in 1896. ancient Olympics abolished in 393 AD. first modern Olympic Games featured 14 countries.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Olympic Games have been marred by political disputes, boycotts, and doping scandals.",
+    "retrieved_context": "Nazi Germany used 1936 Berlin Olympics. Pierre de Coubertin is French educator. 1936 Berlin Olympics used propaganda tool. ancient Olympics dedicated to Zeus. Pierre de Coubertin founded by 1894. ancient Olympics held in Olympia. first modern Olympic Games held in Greece. Olympic motto is Citius, Altius, Fortius. ancient Olympics originated in ancient Greece. ancient Olympics originated in 776 BC. ancient Olympics frequency four years. Soviet Union's invasion of Afghanistan caused 1980 Moscow Olympics boycott. first modern Olympic Games held in Athens. modern Olympic Games founded by Pierre de Coubertin. ancient Olympics abolished by Theodosius. Theodosius is Roman Emperor. ancient Olympics is religious festival. first modern Olympic Games featured 43 events. 1980 Moscow Olympics boycotted by Western countries. first modern Olympic Games held in 1896. ancient Olympics abolished in 393 AD. first modern Olympic Games featured 14 countries.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Storytelling is a form of communication used by humans for centuries.",
+    "retrieved_context": "storyteller engages listeners. storyteller creates empathy. storyteller relies on symbolism. Storytelling is a form of communication. storyteller relies on metaphor. Storytelling relies on vivid imagery. Storytelling relies on humans. Storytelling relies on understanding. Storytelling relies on empathy. storyteller evokes empathy characters. narrative engages audience. Storytelling is the art of creating a narrative. storyteller creates connection. Storytelling relies on descriptive language. Storytelling relies on human culture.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Storytelling conveys emotions and shares experiences.",
+    "retrieved_context": "storyteller engages listeners. story has clear middle. storyteller creates empathy. storyteller relies on symbolism. Storytelling is a form of communication. storyteller relies on metaphor. Storytelling relies on vivid imagery. story has clear beginning. Storytelling relies on humans. Storytelling relies on understanding. story has clear end. Storytelling relies on empathy. storyteller evokes empathy characters. narrative engages audience. Storytelling is the art of creating a narrative. storyteller creates connection. Storytelling relies on descriptive language. Storytelling relies on human culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Storytelling passes down knowledge from generation to generation.",
+    "retrieved_context": "storyteller engages listeners. story has clear middle. storyteller creates empathy. storyteller relies on symbolism. Storytelling is a form of communication. storyteller relies on metaphor. Storytelling relies on vivid imagery. story has clear beginning. Storytelling relies on humans. Storytelling relies on understanding. story has clear end. Storytelling relies on empathy. storyteller evokes empathy characters. narrative engages audience. Storytelling is the art of creating a narrative. storyteller creates connection. Storytelling relies on descriptive language. Storytelling relies on human culture.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Storytelling engages the audience through words, images, or sounds.",
+    "retrieved_context": "storyteller engages listeners. storyteller creates empathy. storyteller relies on symbolism. Storytelling is a form of communication. storyteller relies on metaphor. Storytelling relies on vivid imagery. Storytelling relies on humans. Storytelling relies on understanding. Storytelling relies on empathy. storyteller evokes empathy characters. storyteller creates connection. Storytelling is the art of creating a narrative. narrative engages audience. Storytelling relies on descriptive language. Storytelling relies on human culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Storytelling can captivate, inspire, and provoke thought.",
+    "retrieved_context": "storyteller engages listeners. storyteller creates empathy. storyteller relies on symbolism. Storytelling is a form of communication. storyteller relies on metaphor. Storytelling relies on vivid imagery. Storytelling relies on humans. Storytelling relies on understanding. Storytelling relies on empathy. storyteller evokes empathy characters. narrative engages audience. Storytelling is the art of creating a narrative. storyteller creates connection. Storytelling relies on descriptive language. Storytelling relies on human culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Storytelling creates a connection with the audience.",
+    "retrieved_context": "storyteller engages listeners. storyteller creates empathy. storyteller relies on symbolism. Storytelling is a form of communication. storyteller relies on metaphor. Storytelling relies on vivid imagery. Storytelling relies on humans. Storytelling relies on understanding. Storytelling relies on empathy. storyteller evokes empathy characters. narrative engages audience. Storytelling is the art of creating a narrative. storyteller creates connection. Storytelling relies on descriptive language. Storytelling relies on human culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Storytelling makes the audience care about characters and events.",
+    "retrieved_context": "storyteller engages listeners. storyteller creates empathy. storyteller relies on symbolism. Storytelling is a form of communication. storyteller relies on metaphor. Storytelling relies on vivid imagery. Storytelling relies on humans. Storytelling relies on understanding. Storytelling relies on empathy. storyteller evokes empathy characters. narrative engages audience. Storytelling is the art of creating a narrative. storyteller creates connection. Storytelling relies on descriptive language. Storytelling relies on human culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Storytelling creates empathy and emotional resonance.",
+    "retrieved_context": "storyteller engages listeners. storyteller creates empathy. storyteller relies on symbolism. Storytelling is a form of communication. storyteller relies on metaphor. Storytelling relies on vivid imagery. Storytelling relies on humans. Storytelling relies on understanding. Storytelling relies on empathy. storyteller evokes empathy characters. storyteller creates connection. Storytelling is the art of creating a narrative. narrative engages audience. Storytelling relies on descriptive language. Storytelling relies on human culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Storytelling uses structure and pacing to build tension.",
+    "retrieved_context": "storyteller engages listeners. storyteller creates empathy. storyteller relies on symbolism. Storytelling is a form of communication. storyteller relies on metaphor. Storytelling relies on vivid imagery. Storytelling relies on humans. Storytelling relies on understanding. Storytelling relies on empathy. storyteller evokes empathy characters. narrative engages audience. Storytelling is the art of creating a narrative. storyteller creates connection. Storytelling relies on descriptive language. Storytelling relies on human culture.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Storytelling has a clear beginning, middle, and end.",
+    "retrieved_context": "storyteller engages listeners. story has clear middle. storyteller creates empathy. storyteller relies on symbolism. Storytelling is a form of communication. storyteller relies on metaphor. Storytelling relies on vivid imagery. story has clear beginning. Storytelling relies on humans. Storytelling relies on understanding. story has clear end. Storytelling relies on empathy. storyteller evokes empathy characters. narrative engages audience. Storytelling is the art of creating a narrative. storyteller creates connection. Storytelling relies on descriptive language. Storytelling relies on human culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Storytelling relies on vivid imagery and descriptive language.",
+    "retrieved_context": "storyteller engages listeners. storyteller creates empathy. storyteller relies on symbolism. Storytelling is a form of communication. storyteller relies on metaphor. Storytelling relies on vivid imagery. Storytelling relies on humans. Storytelling relies on understanding. Storytelling relies on empathy. storyteller evokes empathy characters. narrative engages audience. Storytelling is the art of creating a narrative. storyteller creates connection. Storytelling relies on descriptive language. Storytelling relies on human culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Storytelling transports the audience to another time and place.",
+    "retrieved_context": "storyteller engages listeners. storyteller creates empathy. storyteller relies on symbolism. Storytelling is a form of communication. storyteller relies on metaphor. Storytelling relies on vivid imagery. Storytelling relies on humans. Storytelling relies on understanding. Storytelling relies on empathy. storyteller evokes empathy characters. storyteller creates connection. Storytelling is the art of creating a narrative. narrative engages audience. Storytelling relies on descriptive language. Storytelling relies on human culture.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Storytelling involves symbolism and metaphor to convey deeper meanings.",
+    "retrieved_context": "storyteller engages listeners. storyteller creates empathy. storyteller relies on symbolism. Storytelling is a form of communication. storyteller relies on metaphor. Storytelling relies on vivid imagery. Storytelling relies on humans. Storytelling relies on understanding. Storytelling relies on empathy. storyteller evokes empathy characters. storyteller creates connection. Storytelling is the art of creating a narrative. narrative engages audience. Storytelling relies on descriptive language. Storytelling relies on human culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Storytelling fosters empathy and understanding among people.",
+    "retrieved_context": "storyteller engages listeners. storyteller creates empathy. storyteller relies on symbolism. Storytelling is a form of communication. storyteller relies on metaphor. Storytelling relies on vivid imagery. Storytelling relies on humans. Storytelling relies on understanding. Storytelling relies on empathy. storyteller evokes empathy characters. storyteller creates connection. Storytelling is the art of creating a narrative. narrative engages audience. Storytelling relies on descriptive language. Storytelling relies on human culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Storytelling helps bridge cultural divides and challenge stereotypes.",
+    "retrieved_context": "storyteller engages listeners. story has clear middle. storyteller creates empathy. storyteller relies on symbolism. Storytelling is a form of communication. storyteller relies on metaphor. Storytelling relies on vivid imagery. story has clear beginning. Storytelling relies on humans. Storytelling relies on understanding. story has clear end. Storytelling relies on empathy. storyteller evokes empathy characters. narrative engages audience. Storytelling is the art of creating a narrative. storyteller creates connection. Storytelling relies on descriptive language. Storytelling relies on human culture.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

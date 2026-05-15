@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Music streaming services revolutionized music consumption.",
+    "retrieved_context": "personalized playlists provide users discover music. streaming services provide different model based on royalties. streaming services provide data and analytics. physical music retailers impact streaming. artists connects_with fans. music streaming services have revolutionized online platforms. music streaming services provide platform for independent artists. music streaming services impact artists. music streaming services impact listeners. music streaming services have revolutionized way people consume music. music streaming services is a music streaming service. recommendations algorithms provide users discover music. music streaming services impact music industry. artists earns royalties. music streaming services accessible_to wider audience. music discovery have revolutionized social media. record labels impact streaming. music streaming services provide platform for emerging artists.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Platforms like Spotify, Apple Music, and Pandora provide extensive song libraries.",
+    "retrieved_context": "personalized playlists provide users discover music. physical music retailers impact streaming. artists connects_with fans. music streaming services have revolutionized online platforms. music streaming services provide platform for independent artists. music streaming services impact artists. CDs were physical music formats. music streaming services impact listeners. music streaming services have revolutionized way people consume music. music streaming services is a music streaming service. recommendations algorithms provide users discover music. vinyl records were physical music formats. music streaming services impact music industry. artists earns royalties. music streaming services accessible_to wider audience. music discovery have revolutionized social media. record labels impact streaming. music streaming services provide platform for emerging artists.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Shift from physical music formats to online platforms due to streaming services.",
+    "retrieved_context": "music streaming services have revolutionized online platforms. music streaming services is a music streaming service. personalized playlists provide users discover music. streaming services provide different model based on royalties. streaming services provide data and analytics. CDs were physical music formats. music streaming services impact listeners. physical music retailers impact streaming. artists connects_with fans. vinyl records were physical music formats. recommendations algorithms provide users discover music. artists earns royalties. record labels impact streaming. music streaming services provide platform for emerging artists. music streaming services provide platform for independent artists. music streaming services impact artists. music streaming services have revolutionized way people consume music. music streaming services impact music industry. music streaming services accessible_to wider audience.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Decline in physical music sales due to the rise of streaming services.",
+    "retrieved_context": "music streaming services have revolutionized online platforms. music streaming services is a music streaming service. personalized playlists provide users discover music. streaming services provide different model based on royalties. streaming services provide data and analytics. CDs were physical music formats. music streaming services impact listeners. physical music retailers impact streaming. artists connects_with fans. vinyl records were physical music formats. recommendations algorithms provide users discover music. artists earns royalties. record labels impact streaming. music streaming services provide platform for emerging artists. music streaming services provide platform for independent artists. music streaming services impact artists. music streaming services have revolutionized way people consume music. music streaming services impact music industry. music streaming services accessible_to wider audience.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Streaming services offer opportunities for artists to reach a global audience.",
+    "retrieved_context": "streaming services provide different model based on royalties. streaming services provide data and analytics. physical music retailers impact streaming. artists connects_with fans. music streaming services have revolutionized online platforms. music streaming services provide platform for independent artists. music streaming services impact artists. music streaming services impact listeners. music streaming services have revolutionized way people consume music. music streaming services is a music streaming service. music streaming services impact music industry. artists earns royalties. music streaming services accessible_to wider audience. record labels impact streaming. music streaming services provide platform for emerging artists.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Streaming platforms democratize the music industry for independent artists.",
+    "retrieved_context": "personalized playlists provide users discover music. streaming services provide different model based on royalties. streaming services provide data and analytics. artists connects_with fans. music streaming services have revolutionized online platforms. music streaming services provide platform for independent artists. music streaming services impact artists. music streaming services impact listeners. music streaming services have revolutionized way people consume music. music streaming services is a music streaming service. recommendations algorithms provide users discover music. music streaming services impact music industry. artists earns royalties. music streaming services accessible_to wider audience. music streaming services provide platform for emerging artists.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Artists earn royalties based on the number of streams on music streaming services.",
+    "retrieved_context": "streaming services provide different model based on royalties. streaming services provide data and analytics. artists connects_with fans. music streaming services have revolutionized online platforms. music streaming services provide platform for independent artists. music streaming services impact artists. music streaming services impact listeners. music streaming services have revolutionized way people consume music. music streaming services is a music streaming service. music streaming services impact music industry. artists earns royalties. music streaming services accessible_to wider audience. music streaming services provide platform for emerging artists.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Critics argue that the current royalty system is unfair to lesser-known artists.",
+    "retrieved_context": "streaming services provide different model based on royalties. streaming services provide data and analytics. physical music retailers impact streaming. artists connects_with fans. music streaming services have revolutionized online platforms. music streaming services provide platform for independent artists. music streaming services impact artists. music streaming services impact listeners. music streaming services have revolutionized way people consume music. music streaming services is a music streaming service. music streaming services impact music industry. artists earns royalties. music streaming services accessible_to wider audience. record labels impact streaming. music streaming services provide platform for emerging artists.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Established artists benefit from streaming platforms as a new revenue stream.",
+    "retrieved_context": "streaming services provide different model based on royalties. streaming services provide data and analytics. physical music retailers impact streaming. artists connects_with fans. music streaming services have revolutionized online platforms. music streaming services provide platform for independent artists. music streaming services impact artists. music streaming services impact listeners. music streaming services have revolutionized way people consume music. music streaming services is a music streaming service. music streaming services impact music industry. artists earns royalties. music streaming services accessible_to wider audience. record labels impact streaming. music streaming services provide platform for emerging artists.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Streaming services provide valuable data and analytics for artists.",
+    "retrieved_context": "streaming services provide different model based on royalties. streaming services provide data and analytics. physical music retailers impact streaming. artists connects_with fans. music streaming services have revolutionized online platforms. music streaming services provide platform for independent artists. music streaming services impact artists. music streaming services impact listeners. music streaming services have revolutionized way people consume music. music streaming services is a music streaming service. music streaming services impact music industry. artists earns royalties. music streaming services accessible_to wider audience. music discovery have revolutionized social media. record labels impact streaming. music streaming services provide platform for emerging artists.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Listeners can easily discover new artists and genres through streaming services.",
+    "retrieved_context": "personalized playlists provide users discover music. streaming services provide different model based on royalties. streaming services provide data and analytics. artists connects_with fans. music streaming services have revolutionized online platforms. music streaming services provide platform for independent artists. music streaming services impact artists. music streaming services impact listeners. music streaming services have revolutionized way people consume music. music streaming services is a music streaming service. recommendations algorithms provide users discover music. music streaming services impact music industry. artists earns royalties. music streaming services accessible_to wider audience. music discovery have revolutionized social media. music streaming services provide platform for emerging artists.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Personalized playlists and recommendations enhance the music listening experience.",
+    "retrieved_context": "personalized playlists provide users discover music. artists connects_with fans. music streaming services have revolutionized online platforms. music streaming services provide platform for independent artists. music streaming services impact artists. CDs were physical music formats. music streaming services impact listeners. music streaming services have revolutionized way people consume music. music streaming services is a music streaming service. recommendations algorithms provide users discover music. vinyl records were physical music formats. music streaming services impact music industry. artists earns royalties. music streaming services accessible_to wider audience. music discovery have revolutionized social media. music streaming services provide platform for emerging artists.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music streaming services have made music more accessible to a wider audience.",
+    "retrieved_context": "personalized playlists provide users discover music. streaming services provide different model based on royalties. streaming services provide data and analytics. artists connects_with fans. music streaming services have revolutionized online platforms. music streaming services provide platform for independent artists. music streaming services impact artists. music streaming services impact listeners. music streaming services have revolutionized way people consume music. music streaming services is a music streaming service. recommendations algorithms provide users discover music. music streaming services impact music industry. artists earns royalties. music streaming services accessible_to wider audience. music discovery have revolutionized social media. music streaming services provide platform for emerging artists.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Listeners can stream individual tracks and create personalized playlists.",
+    "retrieved_context": "personalized playlists provide users discover music. streaming services provide different model based on royalties. streaming services provide data and analytics. artists connects_with fans. music streaming services have revolutionized online platforms. music streaming services provide platform for independent artists. music streaming services impact artists. CDs were physical music formats. music streaming services impact listeners. music streaming services have revolutionized way people consume music. music streaming services is a music streaming service. recommendations algorithms provide users discover music. vinyl records were physical music formats. music streaming services impact music industry. artists earns royalties. music streaming services accessible_to wider audience. music discovery have revolutionized social media. music streaming services provide platform for emerging artists.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Challenges include concerns about the sustainability of the music business model.",
+    "retrieved_context": "personalized playlists provide users discover music. streaming services provide different model based on royalties. streaming services provide data and analytics. physical music retailers impact streaming. music streaming services have revolutionized online platforms. music streaming services provide platform for independent artists. music streaming services impact artists. music streaming services impact listeners. music streaming services have revolutionized way people consume music. music streaming services is a music streaming service. recommendations algorithms provide users discover music. music streaming services impact music industry. music streaming services accessible_to wider audience. music discovery have revolutionized social media. record labels impact streaming. music streaming services provide platform for emerging artists.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

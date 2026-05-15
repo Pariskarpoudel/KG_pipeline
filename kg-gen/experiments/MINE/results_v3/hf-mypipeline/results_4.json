@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Video games have evolved since the mid-20th century.",
+    "retrieved_context": "PlayStation VR is a VR headset. StarCraft became an instant classic. Fortnite is a lifelike game. Red Dead Redemption is a lifelike game. Atari 2600 is a home gaming console. Diablo became an instant classic. Halo became synonymous with online multiplayer gaming. video games released in mid-20th century. Half-Life became an instant classic. Call of Duty became synonymous with online multiplayer gaming. World of Warcraft became synonymous with online multiplayer gaming. Oculus Rift is a VR headset.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pong and Space Invaders were simple, pixelated games.",
+    "retrieved_context": "Diablo became an instant classic. Halo became synonymous with online multiplayer gaming. Spacewar! is a milestone. video games released in mid-20th century. Half-Life became an instant classic. Pac-Man became a cultural phenomenon. Fortnite is a lifelike game. Spacewar! introduced real-time action. Pong is a pixelated game. Spacewar! developed in 1962. StarCraft became an instant classic. Red Dead Redemption is a lifelike game. Spacewar! introduced multiplayer gameplay. Space Invaders is a pixelated game. Spacewar! developed at Massachusetts Institute of Technology. World of Warcraft became synonymous with online multiplayer gaming. Pong became a cultural phenomenon. Call of Duty became synonymous with online multiplayer gaming. Space Invaders became a cultural phenomenon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Red Dead Redemption and Fortnite offer lifelike worlds.",
+    "retrieved_context": "Quake released in 1990s. StarCraft became an instant classic. Fortnite is a lifelike game. Red Dead Redemption is a lifelike game. Diablo became an instant classic. Halo became synonymous with online multiplayer gaming. Final Fantasy VII released in 1990s. video games released in mid-20th century. Half-Life became an instant classic. Doom released in 1990s. Call of Duty became synonymous with online multiplayer gaming. World of Warcraft became synonymous with online multiplayer gaming.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spacewar! was developed in 1962 at MIT.",
+    "retrieved_context": "Pong became a cultural phenomenon. Spacewar! developed in 1962. StarCraft became an instant classic. Diablo became an instant classic. Halo became synonymous with online multiplayer gaming. Spacewar! introduced multiplayer gameplay. Spacewar! is a milestone. World of Warcraft became synonymous with online multiplayer gaming. video games released in mid-20th century. Space Invaders is a pixelated game. Spacewar! introduced real-time action. Pong is a pixelated game. Half-Life became an instant classic. Spacewar! developed at Massachusetts Institute of Technology. Call of Duty became synonymous with online multiplayer gaming. Space Invaders became a cultural phenomenon. Pac-Man became a cultural phenomenon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spacewar! introduced multiplayer gameplay.",
+    "retrieved_context": "Pong became a cultural phenomenon. Spacewar! developed in 1962. StarCraft became an instant classic. Diablo became an instant classic. Halo became synonymous with online multiplayer gaming. Spacewar! introduced multiplayer gameplay. Spacewar! is a milestone. Space Invaders became a cultural phenomenon. video games released in mid-20th century. Space Invaders is a pixelated game. Spacewar! introduced real-time action. Half-Life became an instant classic. Pong is a pixelated game. Spacewar! developed at Massachusetts Institute of Technology. Call of Duty became synonymous with online multiplayer gaming. World of Warcraft became synonymous with online multiplayer gaming. Pac-Man became a cultural phenomenon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Arcade gaming rose in the 1970s.",
+    "retrieved_context": "PlayStation VR is a VR headset. Atari 2600 is a home gaming console. Halo became synonymous with online multiplayer gaming. Tetris released in 1980s. Call of Duty became synonymous with online multiplayer gaming. video games released in mid-20th century. The Legend of Zelda released in 1980s. Xbox Live released in early 2000s. Super Mario Bros. released in 1980s. PlayStation Network released in early 2000s. World of Warcraft became synonymous with online multiplayer gaming. Oculus Rift is a VR headset.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Atari 2600 brought arcade experience to homes.",
+    "retrieved_context": "PlayStation VR is a VR headset. Pong became a cultural phenomenon. Fortnite is a lifelike game. Red Dead Redemption is a lifelike game. Atari 2600 is a home gaming console. Tetris released in 1980s. video games released in mid-20th century. Space Invaders is a pixelated game. Pong is a pixelated game. The Legend of Zelda released in 1980s. Super Mario Bros. released in 1980s. Space Invaders became a cultural phenomenon. Oculus Rift is a VR headset.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Super Mario Bros. and The Legend of Zelda were iconic games in the 1980s.",
+    "retrieved_context": "Quake released in 1990s. Fortnite is a lifelike game. Red Dead Redemption is a lifelike game. Atari 2600 is a home gaming console. Halo became synonymous with online multiplayer gaming. Tetris released in 1980s. Final Fantasy VII released in 1990s. video games released in mid-20th century. The Legend of Zelda released in 1980s. Super Mario Bros. released in 1980s. Doom released in 1990s. Call of Duty became synonymous with online multiplayer gaming. World of Warcraft became synonymous with online multiplayer gaming.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "8-bit and 16-bit graphics enhanced game worlds.",
+    "retrieved_context": "Quake released in 1990s. Diablo became an instant classic. Halo became synonymous with online multiplayer gaming. Final Fantasy VII released in 1990s. Spacewar! is a milestone. video games released in mid-20th century. Half-Life became an instant classic. Spacewar! introduced real-time action. Pong is a pixelated game. StarCraft became an instant classic. Spacewar! developed in 1962. Atari 2600 is a home gaming console. Spacewar! introduced multiplayer gameplay. Space Invaders is a pixelated game. Spacewar! developed at Massachusetts Institute of Technology. Doom released in 1990s. World of Warcraft became synonymous with online multiplayer gaming. Pong became a cultural phenomenon. Call of Duty became synonymous with online multiplayer gaming. Space Invaders became a cultural phenomenon.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Doom and Quake pushed boundaries in the 1990s.",
+    "retrieved_context": "Quake released in 1990s. PlayStation VR is a VR headset. Halo became synonymous with online multiplayer gaming. Tetris released in 1980s. Final Fantasy VII released in 1990s. Call of Duty became synonymous with online multiplayer gaming. video games released in mid-20th century. The Legend of Zelda released in 1980s. Xbox Live released in early 2000s. Super Mario Bros. released in 1980s. Doom released in 1990s. PlayStation Network released in early 2000s. World of Warcraft became synonymous with online multiplayer gaming. Oculus Rift is a VR headset.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Online gaming rose in the early 2000s.",
+    "retrieved_context": "StarCraft became an instant classic. Spacewar! developed in 1962. Atari 2600 is a home gaming console. Diablo became an instant classic. Halo became synonymous with online multiplayer gaming. Call of Duty became synonymous with online multiplayer gaming. Spacewar! introduced multiplayer gameplay. Spacewar! is a milestone. video games released in mid-20th century. Half-Life became an instant classic. Spacewar! introduced real-time action. Spacewar! developed at Massachusetts Institute of Technology. Xbox Live released in early 2000s. PlayStation Network released in early 2000s. World of Warcraft became synonymous with online multiplayer gaming.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "VR and AR technologies have advanced gaming experiences.",
+    "retrieved_context": "Spacewar! developed in 1962. Atari 2600 is a home gaming console. Halo became synonymous with online multiplayer gaming. Spacewar! introduced multiplayer gameplay. Spacewar! is a milestone. video games released in mid-20th century. Spacewar! introduced real-time action. Pok\u00c3\u00a9mon Go is an AR game. Spacewar! developed at Massachusetts Institute of Technology. Oculus Rift is a VR headset. Call of Duty became synonymous with online multiplayer gaming. World of Warcraft became synonymous with online multiplayer gaming. PlayStation VR is a VR headset.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI, machine learning, and blockchain are revolutionizing the gaming industry.",
+    "retrieved_context": "Pong became a cultural phenomenon. StarCraft became an instant classic. Spacewar! developed in 1962. Diablo became an instant classic. Atari 2600 is a home gaming console. Halo became synonymous with online multiplayer gaming. Spacewar! introduced multiplayer gameplay. Spacewar! is a milestone. video games released in mid-20th century. Space Invaders became a cultural phenomenon. Space Invaders is a pixelated game. Half-Life became an instant classic. Spacewar! introduced real-time action. Pong is a pixelated game. Spacewar! developed at Massachusetts Institute of Technology. Call of Duty became synonymous with online multiplayer gaming. World of Warcraft became synonymous with online multiplayer gaming.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Video games have responded to technological advancements and consumer preferences.",
+    "retrieved_context": "Diablo became an instant classic. Halo became synonymous with online multiplayer gaming. Spacewar! is a milestone. video games released in mid-20th century. Half-Life became an instant classic. Spacewar! introduced real-time action. Pong is a pixelated game. StarCraft became an instant classic. Spacewar! developed in 1962. Atari 2600 is a home gaming console. Spacewar! introduced multiplayer gameplay. Space Invaders is a pixelated game. Spacewar! developed at Massachusetts Institute of Technology. World of Warcraft became synonymous with online multiplayer gaming. Oculus Rift is a VR headset. PlayStation VR is a VR headset. Pong became a cultural phenomenon. Call of Duty became synonymous with online multiplayer gaming. Space Invaders became a cultural phenomenon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The future of video games promises new and exciting experiences.",
+    "retrieved_context": "Quake released in 1990s. Diablo became an instant classic. Halo became synonymous with online multiplayer gaming. Final Fantasy VII released in 1990s. video games released in mid-20th century. Half-Life became an instant classic. Fortnite is a lifelike game. Pong is a pixelated game. StarCraft became an instant classic. Red Dead Redemption is a lifelike game. Atari 2600 is a home gaming console. Space Invaders is a pixelated game. Doom released in 1990s. World of Warcraft became synonymous with online multiplayer gaming. Oculus Rift is a VR headset. PlayStation VR is a VR headset. Pong became a cultural phenomenon. Call of Duty became synonymous with online multiplayer gaming. Space Invaders became a cultural phenomenon.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

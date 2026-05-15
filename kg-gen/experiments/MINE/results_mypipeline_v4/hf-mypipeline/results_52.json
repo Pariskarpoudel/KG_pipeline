@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Tornadoes are powerful and destructive natural phenomena on Earth.",
+    "retrieved_context": "Meteorologists use tools like weather radar, satellite imagery, and ground observations to monitor atmospheric conditions and identify regions at risk for tornado development. Tornadoes occurs when severe thunderstorms. Dust whirl stage is the initial stage of tornado development. Tornadoes use Enhanced Fujita (EF) scale. EF5 tornadoes can have wind speeds exceeding 200 mph and cause catastrophic destruction. EF0 tornadoes have wind speeds of 65-85 mph and cause minor damage. Tornadoes can cause immense damage to buildings, trees, and anything else in their path. Mesocyclone can cause a tornado. Tornadoes are powerful and destructive natural phenomena. Understanding the science behind tornadoes is crucial for predicting and mitigating their impact on human lives and property.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tornadoes can cause immense damage to buildings, trees, and anything in their path.",
+    "retrieved_context": "Meteorologists use tools like weather radar, satellite imagery, and ground observations to monitor atmospheric conditions and identify regions at risk for tornado development. Tornadoes occurs when severe thunderstorms. Trigger mechanism includes cold fronts, dry lines, or outflow boundaries can act as focal points for lifting air leading to severe thunderstorms and tornadoes. Dust whirl stage is the initial stage of tornado development. Tornadoes use Enhanced Fujita (EF) scale. Tornadoes can cause immense damage to buildings, trees, and anything else in their path. Mesocyclone can cause a tornado. Tornadoes are powerful and destructive natural phenomena. Doppler radar detects rotation within thunderstorms and issuing timely tornado warnings to the public. Understanding the science behind tornadoes is crucial for predicting and mitigating their impact on human lives and property.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tornadoes form in severe thunderstorms when specific atmospheric conditions are present.",
+    "retrieved_context": "Meteorologists use tools like weather radar, satellite imagery, and ground observations to monitor atmospheric conditions and identify regions at risk for tornado development. Tornadoes occurs when severe thunderstorms. Trigger mechanism includes cold fronts, dry lines, or outflow boundaries can act as focal points for lifting air leading to severe thunderstorms and tornadoes. Dust whirl stage is the initial stage of tornado development. Tornadoes use Enhanced Fujita (EF) scale. EF0 tornadoes have wind speeds of 65-85 mph and cause minor damage. Tornadoes can cause immense damage to buildings, trees, and anything else in their path. Mesocyclone can cause a tornado. Tornadoes are powerful and destructive natural phenomena. Understanding the science behind tornadoes is crucial for predicting and mitigating their impact on human lives and property.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wind shear is a key ingredient for tornado formation.",
+    "retrieved_context": "Wind shear creates a rotating column of air known as a mesocyclone within a thunderstorm. Wind shear refers to the change in wind speed and direction with height. Meteorologists use tools like weather radar, satellite imagery, and ground observations to monitor atmospheric conditions and identify regions at risk for tornado development. Tornadoes occurs when severe thunderstorms. Trigger mechanism includes cold fronts, dry lines, or outflow boundaries can act as focal points for lifting air leading to severe thunderstorms and tornadoes. Dust whirl stage is the initial stage of tornado development. Tornadoes use Enhanced Fujita (EF) scale. EF0 tornadoes have wind speeds of 65-85 mph and cause minor damage. Tornadoes can cause immense damage to buildings, trees, and anything else in their path. Mesocyclone can cause a tornado. Tornadoes are powerful and destructive natural phenomena. Understanding the science behind tornadoes is crucial for predicting and mitigating their impact on human lives and property.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wind shear creates a rotating column of air known as a mesocyclone within a thunderstorm.",
+    "retrieved_context": "Wind shear creates a rotating column of air known as a mesocyclone within a thunderstorm. Wind shear refers to the change in wind speed and direction with height. Trigger mechanism includes cold fronts, dry lines, or outflow boundaries can act as focal points for lifting air leading to severe thunderstorms and tornadoes. Tornadoes occurs when severe thunderstorms. Tornadoes use Enhanced Fujita (EF) scale. Tornadoes can cause immense damage to buildings, trees, and anything else in their path. Mesocyclone can cause a tornado. Tornadoes are powerful and destructive natural phenomena. Understanding the science behind tornadoes is crucial for predicting and mitigating their impact on human lives and property.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Instability in the atmosphere is another important factor in tornado formation.",
+    "retrieved_context": "Meteorologists use tools like weather radar, satellite imagery, and ground observations to monitor atmospheric conditions and identify regions at risk for tornado development. Instability in the atmosphere occurs when warm, moist air near the surface is overlaid by cooler, drier air aloft. Tornadoes occurs when severe thunderstorms. Trigger mechanism includes cold fronts, dry lines, or outflow boundaries can act as focal points for lifting air leading to severe thunderstorms and tornadoes. Dust whirl stage is the initial stage of tornado development. Tornadoes use Enhanced Fujita (EF) scale. EF0 tornadoes have wind speeds of 65-85 mph and cause minor damage. Tornadoes can cause immense damage to buildings, trees, and anything else in their path. Mesocyclone can cause a tornado. Tornadoes are powerful and destructive natural phenomena. Understanding the science behind tornadoes is crucial for predicting and mitigating their impact on human lives and property.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Instability occurs when warm, moist air near the surface is overlaid by cooler, drier air aloft.",
+    "retrieved_context": "Wind shear creates a rotating column of air known as a mesocyclone within a thunderstorm. Wind shear refers to the change in wind speed and direction with height. Instability in the atmosphere occurs when warm, moist air near the surface is overlaid by cooler, drier air aloft. Trigger mechanism includes cold fronts, dry lines, or outflow boundaries can act as focal points for lifting air leading to severe thunderstorms and tornadoes. Dust whirl stage is the initial stage of tornado development. Dissipating stage occurs when the inflow of warm, moist air is cut off causing the funnel to shrink and disappear.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A trigger mechanism, such as a cold front, dry line, or outflow boundary, is needed for tornado formation.",
+    "retrieved_context": "Meteorologists use tools like weather radar, satellite imagery, and ground observations to monitor atmospheric conditions and identify regions at risk for tornado development. Trigger mechanism includes cold fronts, dry lines, or outflow boundaries can act as focal points for lifting air leading to severe thunderstorms and tornadoes. Tornadoes occurs when severe thunderstorms. Dust whirl stage is the initial stage of tornado development. Tornadoes use Enhanced Fujita (EF) scale. EF5 tornadoes can have wind speeds exceeding 200 mph and cause catastrophic destruction. EF0 tornadoes have wind speeds of 65-85 mph and cause minor damage. Tornadoes can cause immense damage to buildings, trees, and anything else in their path. Mesocyclone can cause a tornado. Tornadoes are powerful and destructive natural phenomena. Understanding the science behind tornadoes is crucial for predicting and mitigating their impact on human lives and property.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tornadoes go through stages of development: dust whirl stage, mature stage, and dissipating stage.",
+    "retrieved_context": "Meteorologists use tools like weather radar, satellite imagery, and ground observations to monitor atmospheric conditions and identify regions at risk for tornado development. Tornadoes occurs when severe thunderstorms. Dust whirl stage is the initial stage of tornado development. Tornadoes use Enhanced Fujita (EF) scale. EF5 tornadoes can have wind speeds exceeding 200 mph and cause catastrophic destruction. EF0 tornadoes have wind speeds of 65-85 mph and cause minor damage. Tornadoes can cause immense damage to buildings, trees, and anything else in their path. Mesocyclone can cause a tornado. Tornadoes are powerful and destructive natural phenomena. Understanding the science behind tornadoes is crucial for predicting and mitigating their impact on human lives and property.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Tornadoes are classified using the Enhanced Fujita (EF) scale.",
+    "retrieved_context": "Meteorologists use tools like weather radar, satellite imagery, and ground observations to monitor atmospheric conditions and identify regions at risk for tornado development. Tornadoes occurs when severe thunderstorms. Dust whirl stage is the initial stage of tornado development. Tornadoes use Enhanced Fujita (EF) scale. EF5 tornadoes can have wind speeds exceeding 200 mph and cause catastrophic destruction. EF0 tornadoes have wind speeds of 65-85 mph and cause minor damage. Tornadoes can cause immense damage to buildings, trees, and anything else in their path. Mesocyclone can cause a tornado. Tornadoes are powerful and destructive natural phenomena. Understanding the science behind tornadoes is crucial for predicting and mitigating their impact on human lives and property.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The EF scale ranges from EF0 (weakest) to EF5 (strongest).",
+    "retrieved_context": "Tornadoes occurs when severe thunderstorms. Trigger mechanism includes cold fronts, dry lines, or outflow boundaries can act as focal points for lifting air leading to severe thunderstorms and tornadoes. Dust whirl stage is the initial stage of tornado development. Dissipating stage occurs when the inflow of warm, moist air is cut off causing the funnel to shrink and disappear. Tornadoes use Enhanced Fujita (EF) scale. EF5 tornadoes can have wind speeds exceeding 200 mph and cause catastrophic destruction. EF0 tornadoes have wind speeds of 65-85 mph and cause minor damage. Tornadoes can cause immense damage to buildings, trees, and anything else in their path. Tornadoes are powerful and destructive natural phenomena.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forecasting tornadoes is complex due to their rapid and unpredictable nature.",
+    "retrieved_context": "Meteorologists use tools like weather radar, satellite imagery, and ground observations to monitor atmospheric conditions and identify regions at risk for tornado development. Tornadoes occurs when severe thunderstorms. Dust whirl stage is the initial stage of tornado development. Tornadoes use Enhanced Fujita (EF) scale. EF5 tornadoes can have wind speeds exceeding 200 mph and cause catastrophic destruction. EF0 tornadoes have wind speeds of 65-85 mph and cause minor damage. Tornadoes can cause immense damage to buildings, trees, and anything else in their path. Mesocyclone can cause a tornado. Tornadoes are powerful and destructive natural phenomena. Doppler radar detects rotation within thunderstorms and issuing timely tornado warnings to the public. Understanding the science behind tornadoes is crucial for predicting and mitigating their impact on human lives and property.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Meteorologists use weather radar, satellite imagery, and ground observations to monitor atmospheric conditions for tornado development.",
+    "retrieved_context": "Meteorologists use tools like weather radar, satellite imagery, and ground observations to monitor atmospheric conditions and identify regions at risk for tornado development. Tornadoes occurs when severe thunderstorms. Trigger mechanism includes cold fronts, dry lines, or outflow boundaries can act as focal points for lifting air leading to severe thunderstorms and tornadoes. Dust whirl stage is the initial stage of tornado development. Tornadoes use Enhanced Fujita (EF) scale. Tornadoes can cause immense damage to buildings, trees, and anything else in their path. Mesocyclone can cause a tornado. Tornadoes are powerful and destructive natural phenomena. Doppler radar detects rotation within thunderstorms and issuing timely tornado warnings to the public. Understanding the science behind tornadoes is crucial for predicting and mitigating their impact on human lives and property.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Doppler radar is instrumental in detecting rotation within thunderstorms and issuing tornado warnings.",
+    "retrieved_context": "Wind shear creates a rotating column of air known as a mesocyclone within a thunderstorm. Wind shear refers to the change in wind speed and direction with height. Meteorologists use tools like weather radar, satellite imagery, and ground observations to monitor atmospheric conditions and identify regions at risk for tornado development. Trigger mechanism includes cold fronts, dry lines, or outflow boundaries can act as focal points for lifting air leading to severe thunderstorms and tornadoes. Tornadoes occurs when severe thunderstorms. Tornadoes use Enhanced Fujita (EF) scale. Tornadoes can cause immense damage to buildings, trees, and anything else in their path. Mesocyclone can cause a tornado. Tornadoes are powerful and destructive natural phenomena. Doppler radar detects rotation within thunderstorms and issuing timely tornado warnings to the public. Understanding the science behind tornadoes is crucial for predicting and mitigating their impact on human lives and property.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Despite advances in technology, tornadoes continue to pose a significant threat to communities.",
+    "retrieved_context": "Meteorologists use tools like weather radar, satellite imagery, and ground observations to monitor atmospheric conditions and identify regions at risk for tornado development. Tornadoes occurs when severe thunderstorms. Dust whirl stage is the initial stage of tornado development. Tornadoes use Enhanced Fujita (EF) scale. EF5 tornadoes can have wind speeds exceeding 200 mph and cause catastrophic destruction. EF0 tornadoes have wind speeds of 65-85 mph and cause minor damage. Tornadoes can cause immense damage to buildings, trees, and anything else in their path. Mesocyclone can cause a tornado. Tornadoes are powerful and destructive natural phenomena. Doppler radar detects rotation within thunderstorms and issuing timely tornado warnings to the public. Understanding the science behind tornadoes is crucial for predicting and mitigating their impact on human lives and property.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

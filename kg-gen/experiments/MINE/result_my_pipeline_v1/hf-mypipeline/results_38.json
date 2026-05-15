@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Bread is a staple food in many cultures.",
+    "retrieved_context": "Bread made of flour. carbon dioxide gas causes dough to rise. Bread is a an art. Fermentation made of yeast. Fermentation causes alcohol. Bread is a a science. Yeast is a fungus. Yeast is crucial for Fermentation. Yeast causes carbon dioxide gas. Bread made of water. Bread is a blend of art and science. Bread enjoyed by people around the world. network captures carbon dioxide gas. Flour made of gluten. Bread made of salt. baking is crucial for chemical reactions. Bread is a staple food. Yeast consumes sugars in flour. Fermentation is crucial for flavor development. Bread made of yeast. Fermentation is crucial for texture development.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Baking bread is both an art and a science.",
+    "retrieved_context": "Bread made of flour. carbon dioxide gas causes dough to rise. Bread is a an art. Fermentation made of yeast. Fermentation causes alcohol. Bread is a a science. Yeast is a fungus. Yeast is crucial for Fermentation. Yeast causes carbon dioxide gas. Bread made of water. Bread is a blend of art and science. Bread enjoyed by people around the world. network captures carbon dioxide gas. Bread made of salt. baking is crucial for chemical reactions. Temperature is crucial for baking process. Humidity is crucial for baking process. Bread is a staple food. Yeast consumes sugars in flour. Fermentation is crucial for flavor development. Bread made of yeast. Fermentation is crucial for texture development.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bread is made from flour, water, yeast, and salt.",
+    "retrieved_context": "Bread made of flour. carbon dioxide gas causes dough to rise. Bread is a an art. Fermentation made of yeast. Fermentation causes alcohol. Bread is a a science. Yeast is a fungus. Yeast is crucial for Fermentation. Yeast causes carbon dioxide gas. Bread made of water. Bread is a blend of art and science. Bread enjoyed by people around the world. network captures carbon dioxide gas. Flour made of gluten. Bread made of salt. baking is crucial for chemical reactions. Temperature is crucial for baking process. Humidity is crucial for baking process. Bread is a staple food. Yeast consumes sugars in flour. Fermentation is crucial for flavor development. Bread made of yeast. Fermentation is crucial for texture development.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yeast plays a key role in the fermentation process of bread.",
+    "retrieved_context": "Bread made of flour. carbon dioxide gas causes dough to rise. Bread is a an art. Fermentation made of yeast. Fermentation causes alcohol. Bread is a a science. Yeast is a fungus. Yeast is crucial for Fermentation. Yeast causes carbon dioxide gas. Bread made of water. Bread is a blend of art and science. Bread enjoyed by people around the world. network captures carbon dioxide gas. Bread made of salt. baking is crucial for chemical reactions. Temperature is crucial for baking process. Humidity is crucial for baking process. Bread is a staple food. Yeast consumes sugars in flour. Fermentation is crucial for flavor development. Bread made of yeast. Fermentation is crucial for texture development.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yeast feeds on sugars in flour, producing carbon dioxide gas.",
+    "retrieved_context": "Bread made of flour. carbon dioxide gas causes dough to rise. Bread is a an art. Fermentation made of yeast. Fermentation causes alcohol. Bread is a a science. Yeast is a fungus. Yeast is crucial for Fermentation. Yeast causes carbon dioxide gas. Bread made of water. Bread is a blend of art and science. Bread enjoyed by people around the world. network captures carbon dioxide gas. Flour made of gluten. Bread made of salt. Bread is a staple food. Yeast consumes sugars in flour. Fermentation is crucial for flavor development. Bread made of yeast. Fermentation is crucial for texture development.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Carbon dioxide gas causes the dough to rise.",
+    "retrieved_context": "Bread made of flour. carbon dioxide gas causes dough to rise. Bread is a an art. Fermentation made of yeast. Bread is a a science. Yeast is a fungus. Yeast is crucial for Fermentation. Yeast causes carbon dioxide gas. Bread made of water. Bread is a blend of art and science. Bread enjoyed by people around the world. network captures carbon dioxide gas. Flour made of gluten. Bread made of salt. baking is crucial for chemical reactions. Temperature is crucial for baking process. Humidity is crucial for baking process. Bread is a staple food. Yeast consumes sugars in flour. Bread made of yeast.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fermentation process produces alcohol, contributing to bread flavor.",
+    "retrieved_context": "Bread made of flour. carbon dioxide gas causes dough to rise. Bread is a an art. Fermentation made of yeast. Fermentation causes alcohol. Bread is a a science. Yeast is a fungus. Maillard reaction causes complex flavors. Yeast is crucial for Fermentation. Yeast causes carbon dioxide gas. Bread made of water. Bread is a blend of art and science. Bread enjoyed by people around the world. network captures carbon dioxide gas. Maillard reaction causes browning of crust. Bread made of salt. Temperature is crucial for baking process. Humidity is crucial for baking process. Bread is a staple food. Yeast consumes sugars in flour. Fermentation is crucial for flavor development. Bread made of yeast. Fermentation is crucial for texture development.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Longer fermentation time leads to more complex flavor in bread.",
+    "retrieved_context": "Bread made of flour. carbon dioxide gas causes dough to rise. Bread is a an art. Fermentation made of yeast. Fermentation causes alcohol. Bread is a a science. Yeast is a fungus. Maillard reaction causes complex flavors. Yeast is crucial for Fermentation. Yeast causes carbon dioxide gas. Bread made of water. Bread is a blend of art and science. Bread enjoyed by people around the world. network captures carbon dioxide gas. Maillard reaction causes browning of crust. Bread made of salt. Bread is a staple food. Yeast consumes sugars in flour. Fermentation is crucial for flavor development. Bread made of yeast. Fermentation is crucial for texture development.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Flour contains proteins called gluten, giving bread structure.",
+    "retrieved_context": "Bread made of flour. Gluten proteins made of a network. Bread is a an art. development made of gluten structure. Fermentation made of yeast. Bread is a a science. Yeast is a fungus. Yeast is crucial for Fermentation. Yeast causes carbon dioxide gas. Bread made of water. Bread is a blend of art and science. Bread enjoyed by people around the world. Gluten yields structure. Flour made of gluten. Bread made of salt. Bread is a staple food. Yeast consumes sugars in flour. Bread made of yeast. Gluten yields elasticity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gluten network traps carbon dioxide gas, allowing dough to rise.",
+    "retrieved_context": "Bread made of flour. carbon dioxide gas causes dough to rise. Gluten proteins made of a network. Bread is a an art. development made of gluten structure. Bread is a a science. Yeast is a fungus. Yeast is crucial for Fermentation. Yeast causes carbon dioxide gas. Kneading stretches gluten strands. Bread made of water. Bread is a blend of art and science. Bread enjoyed by people around the world. network captures carbon dioxide gas. Flour made of gluten. Gluten yields structure. Bread made of salt. Bread is a staple food. Yeast consumes sugars in flour. Bread made of yeast. Gluten yields elasticity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Kneading strengthens gluten strands, giving bread structure.",
+    "retrieved_context": "Bread made of flour. carbon dioxide gas causes dough to rise. Gluten proteins made of a network. Bread is a an art. development made of gluten structure. Fermentation made of yeast. Bread is a a science. Yeast causes carbon dioxide gas. Kneading stretches gluten strands. Bread made of water. Bread is a blend of art and science. Bread enjoyed by people around the world. network captures carbon dioxide gas. Gluten yields structure. Flour made of gluten. Bread made of salt. Bread is a staple food. Bread made of yeast. Gluten yields elasticity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proper kneading is crucial for bread to rise properly.",
+    "retrieved_context": "Bread made of flour. carbon dioxide gas causes dough to rise. Bread is a an art. Fermentation made of yeast. Fermentation causes alcohol. Bread is a a science. Yeast is a fungus. Yeast is crucial for Fermentation. Yeast causes carbon dioxide gas. Kneading stretches gluten strands. Bread made of water. Bread is a blend of art and science. Bread enjoyed by people around the world. network captures carbon dioxide gas. Bread made of salt. baking is crucial for chemical reactions. Temperature is crucial for baking process. Humidity is crucial for baking process. Bread is a staple food. Yeast consumes sugars in flour. Fermentation is crucial for flavor development. Bread made of yeast. Fermentation is crucial for texture development.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Baking bread involves the interaction of heat with dough ingredients.",
+    "retrieved_context": "Bread made of flour. carbon dioxide gas causes dough to rise. Heat gelatinizes gelatinize. Bread is a an art. Fermentation made of yeast. Fermentation causes alcohol. Bread is a a science. Maillard reaction causes complex flavors. Yeast is a fungus. Yeast is crucial for Fermentation. Yeast causes carbon dioxide gas. Bread made of water. Bread is a blend of art and science. Bread enjoyed by people around the world. network captures carbon dioxide gas. Maillard reaction causes browning of crust. Bread made of salt. baking is crucial for chemical reactions. Temperature is crucial for baking process. Humidity is crucial for baking process. Bread is a staple food. Heat is crucial for more active. Yeast consumes sugars in flour. Fermentation is crucial for flavor development. Bread made of yeast. Fermentation is crucial for texture development.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Heat in the oven causes yeast to become more active.",
+    "retrieved_context": "Bread made of flour. carbon dioxide gas causes dough to rise. Bread is a an art. Fermentation made of yeast. Fermentation causes alcohol. Bread is a a science. Yeast is a fungus. Maillard reaction causes complex flavors. Yeast is crucial for Fermentation. Yeast causes carbon dioxide gas. Bread made of water. Bread is a blend of art and science. Bread enjoyed by people around the world. network captures carbon dioxide gas. Maillard reaction causes browning of crust. Bread made of salt. baking is crucial for chemical reactions. Temperature is crucial for baking process. Humidity is crucial for baking process. Bread is a staple food. Yeast consumes sugars in flour. Fermentation is crucial for flavor development. Bread made of yeast. Fermentation is crucial for texture development.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Maillard reaction is responsible for browning the crust.",
+    "retrieved_context": "Bread made of flour. Bread is a an art. Fermentation made of yeast. Fermentation causes alcohol. Maillard reaction causes complex flavors. Yeast is a fungus. Bread is a a science. Yeast is crucial for Fermentation. Yeast causes carbon dioxide gas. Bread made of water. Bread is a blend of art and science. Bread enjoyed by people around the world. Maillard reaction causes browning of crust. Flour made of gluten. Bread made of salt. baking is crucial for chemical reactions. Temperature is crucial for baking process. Humidity is crucial for baking process. Bread is a staple food. Yeast consumes sugars in flour. Fermentation is crucial for flavor development. Bread made of yeast. Fermentation is crucial for texture development.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

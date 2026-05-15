@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Education influences values in society.",
+    "retrieved_context": "Education teach cultural norms. Education influences behaviors. Education influences gender equality. Education influences shaping culture. Education influences a tool. Education influences cultural respect. educational systems may prioritize cultural narratives. Education influences empathy. Education is a catalyst. Education is institutions. Education influences cultural appreciation. Education influences cultural hegemony. Education influences culture. Education challenges traditional gender roles. Education influences cultural understanding. Education teach cultural values. Education influences values. Education influences cultural diversity. Education influences tolerance. Education influences beliefs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Culture is defined as shared beliefs and traditions.",
+    "retrieved_context": "Education teach cultural norms. Culture is customs. Education influences behaviors. Education influences gender equality. Education influences shaping culture. Education influences a tool. Education influences cultural respect. Education influences empathy. Education is a catalyst. Culture is shared beliefs. Education is institutions. Education influences cultural appreciation. Culture is passed down through generations. Education influences cultural hegemony. Education influences culture. Education challenges traditional gender roles. Education influences cultural understanding. Education teach cultural values. Education influences values. Education influences cultural diversity. Education influences tolerance. Education influences beliefs. Culture is traditions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Culture is passed down through generations.",
+    "retrieved_context": "Education teach cultural norms. Culture is customs. Education influences behaviors. Education influences gender equality. Education influences shaping culture. Education influences a tool. Education influences cultural respect. Education influences empathy. Education is a catalyst. Culture is shared beliefs. Education is institutions. Education influences cultural appreciation. Culture is passed down through generations. Education influences cultural hegemony. Education influences culture. Education challenges traditional gender roles. Education influences cultural understanding. Education teach cultural values. Education influences values. Education influences cultural diversity. Education influences tolerance. Education influences beliefs. Culture is traditions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education preserves and transforms culture.",
+    "retrieved_context": "Education teach cultural norms. Culture is customs. Education influences behaviors. Education influences gender equality. Education influences shaping culture. Education influences a tool. Education influences cultural respect. Education influences empathy. Education is a catalyst. Culture is shared beliefs. Education is institutions. Education influences cultural appreciation. history classes cover cultural events. Culture is passed down through generations. Education influences cultural hegemony. history classes cover cultural achievements. Education influences culture. Education challenges traditional gender roles. Education influences cultural understanding. Education teach cultural values. Education influences values. Education influences cultural diversity. Education influences tolerance. Education influences beliefs. Culture is traditions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Schools transmit cultural knowledge to young individuals.",
+    "retrieved_context": "Education teach cultural norms. Culture is customs. Education influences behaviors. Education influences gender equality. Education influences shaping culture. Education influences a tool. Education influences cultural respect. educational systems may prioritize cultural narratives. Education influences empathy. Education is a catalyst. Culture is shared beliefs. Education is institutions. Education influences cultural appreciation. history classes cover cultural events. Culture is passed down through generations. Education influences cultural hegemony. history classes cover cultural achievements. Education influences culture. Education challenges traditional gender roles. Education influences cultural understanding. Education teach cultural values. Education influences values. Education influences cultural diversity. Education influences tolerance. Education influences beliefs. Culture is traditions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "History classes cover cultural achievements and events.",
+    "retrieved_context": "Education teach cultural norms. Culture is customs. Education influences behaviors. Education influences gender equality. Education influences shaping culture. Education influences a tool. educational systems may prioritize cultural narratives. Education influences cultural respect. Education influences empathy. Education is a catalyst. Culture is shared beliefs. Education is institutions. history classes cover cultural events. Education influences cultural appreciation. Culture is passed down through generations. Education influences cultural hegemony. history classes cover cultural achievements. Education influences culture. Education challenges traditional gender roles. Education influences cultural understanding. Education teach cultural values. Education influences values. Education influences cultural diversity. Education influences tolerance. Education influences beliefs. Culture is traditions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education instills pride and identity in students.",
+    "retrieved_context": "Education teach cultural norms. Education influences behaviors. Education influences gender equality. Education influences shaping culture. Education influences a tool. Education influences cultural respect. educational systems may prioritize cultural narratives. Education influences empathy. Education is a catalyst. Education is institutions. Education influences cultural appreciation. history classes cover cultural events. Education influences cultural hegemony. Education influences culture. Education challenges traditional gender roles. Education influences cultural understanding. Education teach cultural values. Education influences values. Education influences cultural diversity. Education influences tolerance. Education influences beliefs. history classes cover cultural achievements.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Learning about cultural heritage deepens connection to roots.",
+    "retrieved_context": "Education teach cultural norms. Culture is customs. Education influences behaviors. Culture is traditions. Education influences gender equality. Education influences shaping culture. Education influences a tool. Education influences cultural respect. educational systems may prioritize cultural narratives. Education influences empathy. Education is a catalyst. Culture is shared beliefs. Education is institutions. Education influences cultural appreciation. history classes cover cultural events. Culture is passed down through generations. Education influences cultural hegemony. Education influences culture. Education challenges traditional gender roles. Education influences cultural understanding. Education teach cultural values. Education influences values. Education influences cultural diversity. Education influences tolerance. Education influences beliefs. history classes cover cultural achievements.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Education promotes cultural diversity and understanding.",
+    "retrieved_context": "Education teach cultural norms. Culture is customs. Education influences behaviors. Education influences gender equality. Education influences shaping culture. Education influences a tool. Education influences cultural respect. Education influences empathy. Education is a catalyst. Culture is shared beliefs. Education is institutions. Education influences cultural appreciation. Culture is passed down through generations. Education influences cultural hegemony. Education influences culture. Education challenges traditional gender roles. Education influences cultural understanding. Education teach cultural values. Education influences values. Education influences cultural diversity. Education influences tolerance. Education influences beliefs. Culture is traditions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education fosters cultural appreciation and respect.",
+    "retrieved_context": "Education teach cultural norms. Culture is customs. Education influences behaviors. Education influences gender equality. Education influences shaping culture. Education influences a tool. Education influences cultural respect. Education influences empathy. Education is a catalyst. Culture is shared beliefs. Education is institutions. Education influences cultural appreciation. history classes cover cultural events. Culture is passed down through generations. Education influences cultural hegemony. history classes cover cultural achievements. Education influences culture. Education challenges traditional gender roles. Education influences cultural understanding. Education teach cultural values. Education influences values. Education influences cultural diversity. Education influences tolerance. Education influences beliefs. Culture is traditions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education encourages empathy towards different cultures.",
+    "retrieved_context": "Education teach cultural norms. Education influences behaviors. Education influences gender equality. Education influences shaping culture. Education influences a tool. Education influences cultural respect. Education influences empathy. Education is a catalyst. Education is institutions. Education influences cultural appreciation. Education influences cultural hegemony. Education influences culture. Education challenges traditional gender roles. Education influences cultural understanding. Education teach cultural values. Education influences values. Education influences cultural diversity. Education influences tolerance. Education influences beliefs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education can drive social change and innovation.",
+    "retrieved_context": "Education teach cultural norms. Culture is customs. Education influences behaviors. Culture is traditions. Education influences gender equality. Education influences shaping culture. Education influences a tool. Education influences cultural respect. educational systems may prioritize cultural narratives. Education influences empathy. Education is a catalyst. Culture is shared beliefs. Education is institutions. Education influences cultural appreciation. history classes cover cultural events. Culture is passed down through generations. Education influences cultural hegemony. Education influences culture. Education challenges traditional gender roles. Education influences cultural understanding. Education teach cultural values. Education influences values. Education influences cultural diversity. Education influences tolerance. Education influences beliefs. history classes cover cultural achievements.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Education challenges traditional gender roles.",
+    "retrieved_context": "Education teach cultural norms. Culture is customs. Education influences behaviors. Education influences gender equality. Education influences shaping culture. Education influences a tool. Education influences cultural respect. educational systems may prioritize cultural narratives. Education influences empathy. Education is a catalyst. Culture is shared beliefs. Education is institutions. Education influences cultural appreciation. Culture is passed down through generations. Education influences cultural hegemony. Education influences culture. Education challenges traditional gender roles. Education influences cultural understanding. Education teach cultural values. Education influences values. Education influences cultural diversity. Education influences tolerance. Education influences beliefs. Culture is traditions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education can be a tool for cultural hegemony.",
+    "retrieved_context": "Education teach cultural norms. Culture is customs. Education influences behaviors. Culture is traditions. Education influences gender equality. Education influences shaping culture. Education influences a tool. Education influences cultural respect. Education influences empathy. Education is a catalyst. Culture is shared beliefs. Education is institutions. Education influences cultural appreciation. history classes cover cultural events. Culture is passed down through generations. Education influences cultural hegemony. Education influences culture. Education challenges traditional gender roles. Education influences cultural understanding. Education teach cultural values. Education influences values. Education influences cultural diversity. Education influences tolerance. Education influences beliefs. history classes cover cultural achievements.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Education should be inclusive and representative of all cultural groups.",
+    "retrieved_context": "Education teach cultural norms. Education influences behaviors. Education influences gender equality. Education influences shaping culture. Education influences a tool. Education influences cultural respect. Education influences empathy. Education is a catalyst. Education is institutions. Education influences cultural appreciation. history classes cover cultural events. Education influences cultural hegemony. Education influences culture. Education challenges traditional gender roles. Education influences cultural understanding. Education teach cultural values. Education influences values. Education influences cultural diversity. Education influences tolerance. Education influences beliefs. history classes cover cultural achievements.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

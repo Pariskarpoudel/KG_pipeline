@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Astronaut is fascinated by space exploration.",
+    "retrieved_context": "daily chores of astronaut include cleaning living quarters. astronaut requires physical fitness. daily chores of astronaut include preparing meals. astronaut requires intelligence. morning briefing include crew discussion. astronaut performs maintenance work on the space station. day in the life of an astronaut begins with morning briefing. astronaut spends time meals and relaxation. evening activities of astronaut include final check-in with mission control. astronaut spends time exercising. astronaut sleeps_in sleeping bags attached to walls. astronaut performs routine checks on station's systems. astronaut performs scientific experiments. morning briefing reviews new instructions from mission control. astronaut uses specialized equipment for exercise. astronaut requires high level of dedication. astronaut socializes_with crewmates during downtime.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronaut requires dedication, intelligence, and physical fitness.",
+    "retrieved_context": "daily chores of astronaut include cleaning living quarters. astronaut requires physical fitness. daily chores of astronaut include preparing meals. astronaut requires intelligence. morning briefing include crew discussion. astronaut performs maintenance work on the space station. day in the life of an astronaut begins with morning briefing. astronaut spends time meals and relaxation. evening activities of astronaut include final check-in with mission control. astronaut spends time exercising. astronaut sleeps_in sleeping bags attached to walls. astronaut performs routine checks on station's systems. astronaut performs scientific experiments. morning briefing reviews new instructions from mission control. astronaut uses specialized equipment for exercise. astronaut requires high level of dedication. astronaut socializes_with crewmates during downtime.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronaut's day is filled with tasks like scientific experiments and maintenance work.",
+    "retrieved_context": "daily chores of astronaut include cleaning living quarters. astronaut requires physical fitness. daily chores of astronaut include preparing meals. morning briefing include crew discussion. astronaut requires intelligence. astronaut performs maintenance work on the space station. day in the life of an astronaut begins with morning briefing. evening activities of astronaut include final check-in with mission control. astronaut spends time meals and relaxation. astronaut spends time exercising. astronaut sleeps_in sleeping bags attached to walls. astronaut performs routine checks on station's systems. morning briefing reviews new instructions from mission control. astronaut performs scientific experiments. astronaut uses specialized equipment for exercise. astronaut requires high level of dedication. astronaut socializes_with crewmates during downtime.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronaut begins the day with a morning briefing with the crew.",
+    "retrieved_context": "daily chores of astronaut include cleaning living quarters. astronaut requires physical fitness. daily chores of astronaut include preparing meals. morning briefing include crew discussion. astronaut requires intelligence. astronaut performs maintenance work on the space station. day in the life of an astronaut begins with morning briefing. evening activities of astronaut include final check-in with mission control. astronaut spends time meals and relaxation. astronaut spends time exercising. astronaut sleeps_in sleeping bags attached to walls. astronaut performs routine checks on station's systems. morning briefing reviews new instructions from mission control. astronaut performs scientific experiments. astronaut uses specialized equipment for exercise. astronaut requires high level of dedication. astronaut socializes_with crewmates during downtime.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts have breakfast together before starting daily work assignments.",
+    "retrieved_context": "daily chores of astronaut include cleaning living quarters. astronaut requires physical fitness. daily chores of astronaut include preparing meals. morning briefing include crew discussion. astronaut requires intelligence. astronaut performs maintenance work on the space station. day in the life of an astronaut begins with morning briefing. evening activities of astronaut include final check-in with mission control. astronaut spends time meals and relaxation. astronaut spends time exercising. astronaut sleeps_in sleeping bags attached to walls. astronaut performs routine checks on station's systems. morning briefing reviews new instructions from mission control. astronaut performs scientific experiments. astronaut uses specialized equipment for exercise. astronaut requires high level of dedication. astronaut socializes_with crewmates during downtime.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts conduct scientific research or perform maintenance work.",
+    "retrieved_context": "daily chores of astronaut include cleaning living quarters. astronaut requires physical fitness. daily chores of astronaut include preparing meals. astronaut requires intelligence. morning briefing include crew discussion. astronaut performs maintenance work on the space station. day in the life of an astronaut begins with morning briefing. astronaut spends time meals and relaxation. evening activities of astronaut include final check-in with mission control. astronaut spends time exercising. astronaut sleeps_in sleeping bags attached to walls. astronaut performs routine checks on station's systems. astronaut performs scientific experiments. morning briefing reviews new instructions from mission control. astronaut uses specialized equipment for exercise. astronaut requires high level of dedication. astronaut socializes_with crewmates during downtime.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts spend at least two hours daily exercising.",
+    "retrieved_context": "daily chores of astronaut include cleaning living quarters. astronaut requires physical fitness. daily chores of astronaut include preparing meals. morning briefing include crew discussion. astronaut requires intelligence. astronaut performs maintenance work on the space station. day in the life of an astronaut begins with morning briefing. evening activities of astronaut include final check-in with mission control. astronaut spends time meals and relaxation. astronaut spends time exercising. astronaut sleeps_in sleeping bags attached to walls. astronaut performs routine checks on station's systems. morning briefing reviews new instructions from mission control. astronaut performs scientific experiments. exercise regimen prevents muscle and bone loss. astronaut uses specialized equipment for exercise. astronaut requires high level of dedication. astronaut socializes_with crewmates during downtime.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts use specialized equipment for exercise.",
+    "retrieved_context": "daily chores of astronaut include cleaning living quarters. astronaut requires physical fitness. daily chores of astronaut include preparing meals. astronaut requires intelligence. morning briefing include crew discussion. astronaut performs maintenance work on the space station. day in the life of an astronaut begins with morning briefing. astronaut spends time meals and relaxation. evening activities of astronaut include final check-in with mission control. astronaut spends time exercising. astronaut sleeps_in sleeping bags attached to walls. astronaut performs routine checks on station's systems. astronaut performs scientific experiments. morning briefing reviews new instructions from mission control. exercise regimen prevents muscle and bone loss. astronaut uses specialized equipment for exercise. astronaut requires high level of dedication. astronaut socializes_with crewmates during downtime.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts have daily chores like cleaning, meal preparation, and system checks.",
+    "retrieved_context": "daily chores of astronaut include cleaning living quarters. astronaut requires physical fitness. daily chores of astronaut include preparing meals. morning briefing include crew discussion. astronaut requires intelligence. astronaut performs maintenance work on the space station. day in the life of an astronaut begins with morning briefing. evening activities of astronaut include final check-in with mission control. astronaut spends time meals and relaxation. astronaut spends time exercising. astronaut sleeps_in sleeping bags attached to walls. astronaut performs routine checks on station's systems. morning briefing reviews new instructions from mission control. astronaut performs scientific experiments. astronaut uses specialized equipment for exercise. astronaut requires high level of dedication. astronaut socializes_with crewmates during downtime.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts have scheduled breaks for meals and relaxation.",
+    "retrieved_context": "daily chores of astronaut include cleaning living quarters. astronaut requires physical fitness. daily chores of astronaut include preparing meals. astronaut requires intelligence. morning briefing include crew discussion. astronaut performs maintenance work on the space station. day in the life of an astronaut begins with morning briefing. evening activities of astronaut include final check-in with mission control. astronaut spends time meals and relaxation. astronaut spends time exercising. astronaut sleeps_in sleeping bags attached to walls. astronaut performs routine checks on station's systems. astronaut performs scientific experiments. morning briefing reviews new instructions from mission control. astronaut uses specialized equipment for exercise. astronaut requires high level of dedication. astronaut socializes_with crewmates during downtime.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts socialize with crewmates during breaks.",
+    "retrieved_context": "daily chores of astronaut include cleaning living quarters. astronaut requires physical fitness. daily chores of astronaut include preparing meals. astronaut requires intelligence. morning briefing include crew discussion. astronaut performs maintenance work on the space station. day in the life of an astronaut begins with morning briefing. astronaut spends time meals and relaxation. evening activities of astronaut include final check-in with mission control. astronaut spends time exercising. astronaut sleeps_in sleeping bags attached to walls. astronaut performs routine checks on station's systems. astronaut performs scientific experiments. morning briefing reviews new instructions from mission control. astronaut uses specialized equipment for exercise. astronaut requires high level of dedication. astronaut socializes_with crewmates during downtime.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts have downtime for reading, watching movies, or gazing at Earth.",
+    "retrieved_context": "daily chores of astronaut include cleaning living quarters. astronaut requires physical fitness. daily chores of astronaut include preparing meals. morning briefing include crew discussion. astronaut requires intelligence. astronaut performs maintenance work on the space station. day in the life of an astronaut begins with morning briefing. evening activities of astronaut include final check-in with mission control. astronaut spends time meals and relaxation. astronaut spends time exercising. astronaut sleeps_in sleeping bags attached to walls. astronaut performs routine checks on station's systems. morning briefing reviews new instructions from mission control. astronaut performs scientific experiments. astronaut uses specialized equipment for exercise. astronaut requires high level of dedication. astronaut socializes_with crewmates during downtime.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts wind down activities in the evening and prepare for bed.",
+    "retrieved_context": "daily chores of astronaut include cleaning living quarters. astronaut requires physical fitness. daily chores of astronaut include preparing meals. morning briefing include crew discussion. astronaut requires intelligence. astronaut performs maintenance work on the space station. day in the life of an astronaut begins with morning briefing. evening activities of astronaut include final check-in with mission control. astronaut spends time meals and relaxation. astronaut spends time exercising. astronaut sleeps_in sleeping bags attached to walls. astronaut performs routine checks on station's systems. morning briefing reviews new instructions from mission control. astronaut performs scientific experiments. astronaut uses specialized equipment for exercise. astronaut requires high level of dedication. astronaut socializes_with crewmates during downtime.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronauts have a final check-in with mission control before sleeping.",
+    "retrieved_context": "daily chores of astronaut include cleaning living quarters. astronaut requires physical fitness. daily chores of astronaut include preparing meals. morning briefing include crew discussion. astronaut requires intelligence. astronaut performs maintenance work on the space station. day in the life of an astronaut begins with morning briefing. evening activities of astronaut include final check-in with mission control. astronaut spends time meals and relaxation. astronaut spends time exercising. astronaut sleeps_in sleeping bags attached to walls. astronaut performs routine checks on station's systems. morning briefing reviews new instructions from mission control. astronaut performs scientific experiments. astronaut uses specialized equipment for exercise. astronaut requires high level of dedication. astronaut socializes_with crewmates during downtime.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Astronauts sleep in quarters with sleeping bags attached to walls.",
+    "retrieved_context": "daily chores of astronaut include cleaning living quarters. astronaut requires physical fitness. daily chores of astronaut include preparing meals. astronaut requires intelligence. morning briefing include crew discussion. astronaut performs maintenance work on the space station. day in the life of an astronaut begins with morning briefing. astronaut spends time meals and relaxation. evening activities of astronaut include final check-in with mission control. astronaut sleeps_in sleeping bags attached to walls. astronaut spends time exercising. astronaut performs routine checks on station's systems. astronaut performs scientific experiments. morning briefing reviews new instructions from mission control. astronaut uses specialized equipment for exercise. astronaut requires high level of dedication. astronaut socializes_with crewmates during downtime.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

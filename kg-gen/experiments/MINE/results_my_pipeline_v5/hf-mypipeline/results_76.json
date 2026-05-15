@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Architecture shapes the way we live, work, and interact with one another.",
+    "retrieved_context": "Architecture influences how people interact with one another. Architecture influences the environment and sustainability. Well-designed houses encourages pride and ownership among residents. Public spaces influence how people move through urban spaces. Architecture influences the way we live. Architecture shapes residential areas. Energy-efficient buildings reduces carbon footprint of the built environment. Well-designed buildings and infrastructure attracts investment and tourism. Architecture influences the way we work. Government building serve as symbols of power and stability. Public buildings serve as symbols of a society's values and priorities.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Architecture influences society through the design of public spaces.",
+    "retrieved_context": "Architecture influences how people interact with one another. Architecture influences the environment and sustainability. Public spaces influence how people move through urban spaces. Well-designed houses encourages pride and ownership among residents. Architecture influences the way we live. Architecture shapes residential areas. Well-designed buildings and infrastructure attracts investment and tourism. Architecture influences the way we work. Government building serve as symbols of power and stability. Public buildings serve as symbols of a society's values and priorities. Neglected or poorly maintained buildings deters and contributes to urban blight.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Public buildings serve as symbols of a society's values and priorities.",
+    "retrieved_context": "Public spaces influence how people move through urban spaces. Energy-efficient buildings reduces carbon footprint of the built environment. Well-designed buildings and infrastructure attracts investment and tourism. Government building serve as symbols of power and stability. Public buildings serve as symbols of a society's values and priorities. Neglected or poorly maintained buildings deters and contributes to urban blight.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The design of public buildings can convey a sense of authority, tradition, or modernity.",
+    "retrieved_context": "Architecture influences how people interact with one another. Architecture influences the environment and sustainability. Well-designed houses encourages pride and ownership among residents. Public spaces influence how people move through urban spaces. Architecture influences the way we live. Architecture shapes residential areas. Energy-efficient buildings reduces carbon footprint of the built environment. Well-designed buildings and infrastructure attracts investment and tourism. Architecture influences the way we work. Government building serve as symbols of power and stability. Public buildings serve as symbols of a society's values and priorities. Neglected or poorly maintained buildings deters and contributes to urban blight.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Public buildings shape how people interact with their surroundings.",
+    "retrieved_context": "Architecture influences how people interact with one another. Architecture influences the environment and sustainability. Public spaces influence how people move through urban spaces. Architecture influences the way we live. Energy-efficient buildings reduces carbon footprint of the built environment. Architecture shapes residential areas. Well-designed buildings and infrastructure attracts investment and tourism. Architecture influences the way we work. Government building serve as symbols of power and stability. Public buildings serve as symbols of a society's values and priorities. Neglected or poorly maintained buildings deters and contributes to urban blight.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The layout of a city influences how people move through urban spaces.",
+    "retrieved_context": "Architecture influences how people interact with one another. Architecture influences the environment and sustainability. Public spaces influence how people move through urban spaces. Well-designed houses encourages pride and ownership among residents. Architecture influences the way we live. Architecture shapes residential areas. Well-designed buildings and infrastructure attracts investment and tourism. Green spaces and urban forests improves air quality and reduces urban heat islands. Architecture influences the way we work. Public buildings serve as symbols of a society's values and priorities.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Well-designed parks can encourage social interaction and community engagement.",
+    "retrieved_context": "Public spaces influence how people move through urban spaces. Well-designed houses encourages pride and ownership among residents. Energy-efficient buildings reduces carbon footprint of the built environment. Well-designed park encourages social interaction and community engagement. Well-designed buildings and infrastructure attracts investment and tourism. Green spaces and urban forests improves air quality and reduces urban heat islands.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Architecture shapes the built environment of residential areas.",
+    "retrieved_context": "Architecture influences how people interact with one another. Architecture influences the environment and sustainability. Well-designed houses encourages pride and ownership among residents. Architecture influences the way we live. Architecture shapes residential areas. Energy-efficient buildings reduces carbon footprint of the built environment. Well-designed buildings and infrastructure attracts investment and tourism. Architecture influences the way we work. Public buildings serve as symbols of a society's values and priorities. Neglected or poorly maintained buildings deters and contributes to urban blight.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The design of homes and neighborhoods impacts the quality of life of residents.",
+    "retrieved_context": "Architecture influences how people interact with one another. Architecture influences the environment and sustainability. Well-designed houses encourages pride and ownership among residents. Public spaces influence how people move through urban spaces. Architecture influences the way we live. Architecture shapes residential areas. Energy-efficient buildings reduces carbon footprint of the built environment. Well-designed buildings and infrastructure attracts investment and tourism. Architecture influences the way we work. Poorly designed or dilapidated housing encourages social isolation, crime, and other negative outcomes. Neglected or poorly maintained buildings deters and contributes to urban blight.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Well-designed houses can promote a sense of pride and ownership among residents.",
+    "retrieved_context": "Architecture influences how people interact with one another. Architecture influences the environment and sustainability. Well-designed houses encourages pride and ownership among residents. Architecture influences the way we live. Architecture shapes residential areas. Energy-efficient buildings reduces carbon footprint of the built environment. Well-designed park encourages social interaction and community engagement. Well-designed buildings and infrastructure attracts investment and tourism. Architecture influences the way we work. Public buildings serve as symbols of a society's values and priorities. Poorly designed or dilapidated housing encourages social isolation, crime, and other negative outcomes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Architecture influences the economic development of a society.",
+    "retrieved_context": "Architecture influences how people interact with one another. Architecture influences the environment and sustainability. Well-designed houses encourages pride and ownership among residents. Architecture influences the way we live. Architecture shapes residential areas. Energy-efficient buildings reduces carbon footprint of the built environment. Well-designed buildings and infrastructure attracts investment and tourism. Architecture influences the way we work. Government building serve as symbols of power and stability. Public buildings serve as symbols of a society's values and priorities. Neglected or poorly maintained buildings deters and contributes to urban blight.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Well-designed buildings can attract investment and tourism, boosting the local economy.",
+    "retrieved_context": "Well-designed houses encourages pride and ownership among residents. Energy-efficient buildings reduces carbon footprint of the built environment. Well-designed park encourages social interaction and community engagement. Well-designed buildings and infrastructure attracts investment and tourism. Government building serve as symbols of power and stability. Public buildings serve as symbols of a society's values and priorities. Neglected or poorly maintained buildings deters and contributes to urban blight.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Architecture can influence the environment and sustainability.",
+    "retrieved_context": "Architecture influences how people interact with one another. Architecture influences the environment and sustainability. Well-designed houses encourages pride and ownership among residents. Architecture influences the way we live. Architecture shapes residential areas. Energy-efficient buildings reduces carbon footprint of the built environment. Well-designed buildings and infrastructure attracts investment and tourism. Architecture influences the way we work. Green spaces and urban forests improves air quality and reduces urban heat islands. Public buildings serve as symbols of a society's values and priorities.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Designing energy-efficient buildings can help reduce the carbon footprint of the built environment.",
+    "retrieved_context": "Architecture influences how people interact with one another. Architecture influences the environment and sustainability. Well-designed houses encourages pride and ownership among residents. Architecture influences the way we live. Energy-efficient buildings reduces carbon footprint of the built environment. Architecture shapes residential areas. Well-designed buildings and infrastructure attracts investment and tourism. Architecture influences the way we work. Government building serve as symbols of power and stability. Public buildings serve as symbols of a society's values and priorities. Neglected or poorly maintained buildings deters and contributes to urban blight.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Green spaces and urban forests can improve air quality and provide habitat for wildlife.",
+    "retrieved_context": "Architecture influences how people interact with one another. Architecture influences the environment and sustainability. Public spaces influence how people move through urban spaces. Architecture influences the way we live. Architecture shapes residential areas. Energy-efficient buildings reduces carbon footprint of the built environment. Well-designed park encourages social interaction and community engagement. Green spaces and urban forests improves air quality and reduces urban heat islands. Architecture influences the way we work. Neglected or poorly maintained buildings deters and contributes to urban blight.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

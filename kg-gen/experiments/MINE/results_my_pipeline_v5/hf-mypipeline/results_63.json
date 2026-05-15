@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Fairytales are a beloved form of storytelling for centuries.",
+    "retrieved_context": "Fairytales includes magical elements. Brothers Grimm's Fairy Tales includes Cinderella. Cinderella originates from ancient Greece. Snow White has variations in German folklore. Beauty and the Beast originates from ancient myths. Rhodopis includes the earliest known version of Cinderella. Fairytales includes valuable insights into the human experience. Hansel and Gretel collected the Brothers Grimm. Brothers Grimm's Fairy Tales includes Hansel and Gretel. Snow White has variations in Italian folklore. Perrault's version of Cinderella introduced fairy godmother. Brothers Grimm collected Snow White. Brothers Grimm's Fairy Tales includes Snow White. Perrault's version of Cinderella introduced glass slipper. Fairytales are a form of storytelling. Fairytales includes timeless themes. Snow White has variations in Slavic folklore.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fairytales often feature fantastical creatures.",
+    "retrieved_context": "Fairytales includes magical elements. Brothers Grimm's Fairy Tales includes Cinderella. Cinderella originates from ancient Greece. Snow White has variations in German folklore. Charles Perrault published Cinderella in 1697. Rhodopis includes the earliest known version of Cinderella. Fairytales includes valuable insights into the human experience. Perrault's version of Cinderella introduced fairy godmother. Hansel and Gretel collected the Brothers Grimm. Brothers Grimm's Fairy Tales includes Hansel and Gretel. Snow White has variations in Italian folklore. Brothers Grimm collected Snow White. Brothers Grimm's Fairy Tales includes Snow White. Perrault's version of Cinderella introduced glass slipper. Fairytales are a form of storytelling. Fairytales includes timeless themes. Snow White has variations in Slavic folklore.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fairytales often feature heroic protagonists.",
+    "retrieved_context": "Fairytales includes magical elements. Brothers Grimm's Fairy Tales includes Cinderella. Cinderella originates from ancient Greece. Snow White has variations in German folklore. Beauty and the Beast originates from ancient myths. Rhodopis includes the earliest known version of Cinderella. Fairytales includes valuable insights into the human experience. Hansel and Gretel collected the Brothers Grimm. Brothers Grimm's Fairy Tales includes Hansel and Gretel. Snow White has variations in Italian folklore. Perrault's version of Cinderella introduced fairy godmother. Brothers Grimm collected Snow White. Brothers Grimm's Fairy Tales includes Snow White. Perrault's version of Cinderella introduced glass slipper. Fairytales are a form of storytelling. Fairytales includes timeless themes. Snow White has variations in Slavic folklore.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fairytales often feature moral lessons.",
+    "retrieved_context": "Fairytales includes magical elements. Brothers Grimm's Fairy Tales includes Cinderella. Cinderella originates from ancient Greece. Snow White has variations in German folklore. Beauty and the Beast originates from ancient myths. Fairytales includes valuable insights into the human experience. Hansel and Gretel collected the Brothers Grimm. Brothers Grimm's Fairy Tales includes Hansel and Gretel. Snow White has variations in Italian folklore. Perrault's version of Cinderella introduced fairy godmother. Brothers Grimm collected Snow White. Brothers Grimm's Fairy Tales includes Snow White. Perrault's version of Cinderella introduced glass slipper. Fairytales are a form of storytelling. Fairytales includes timeless themes. Snow White has variations in Slavic folklore.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Brothers Grimm collected and published 'Grimm's Fairy Tales' in the early 19th century.",
+    "retrieved_context": "Fairytales includes magical elements. Brothers Grimm's Fairy Tales includes Cinderella. Cinderella originates from ancient Greece. Snow White has variations in German folklore. Jacob and Wilhelm Grimm began collecting tales in early 19th century. Jacob and Wilhelm Grimm are German brothers and scholars. Fairytales includes timeless themes. Hansel and Gretel collected the Brothers Grimm. Fairytales includes valuable insights into the human experience. Brothers Grimm's Fairy Tales includes Hansel and Gretel. Snow White has variations in Italian folklore. Brothers Grimm collected Snow White. Brothers Grimm's Fairy Tales includes Snow White. Fairytales are a form of storytelling. Rhodopis includes the earliest known version of Cinderella. Snow White has variations in Slavic folklore.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Brothers Grimm gathered stories from peasants and villagers.",
+    "retrieved_context": "Fairytales includes magical elements. Brothers Grimm's Fairy Tales includes Cinderella. Cinderella originates from ancient Greece. Snow White has variations in German folklore. Jacob and Wilhelm Grimm began collecting tales in early 19th century. Jacob and Wilhelm Grimm are German brothers and scholars. Hansel and Gretel collected the Brothers Grimm. Fairytales includes valuable insights into the human experience. Brothers Grimm's Fairy Tales includes Hansel and Gretel. Snow White has variations in Italian folklore. Brothers Grimm collected Snow White. Brothers Grimm's Fairy Tales includes Snow White. Fairytales are a form of storytelling. Fairytales includes timeless themes. Snow White has variations in Slavic folklore.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The earliest known version of Cinderella can be traced back to ancient Greece.",
+    "retrieved_context": "Fairytales includes magical elements. Cinderella originates from ancient Greece. Brothers Grimm's Fairy Tales includes Cinderella. Snow White has variations in German folklore. Charles Perrault published Cinderella in 1697. Fairytales includes timeless themes. Beauty and the Beast originates from ancient myths. Hansel and Gretel collected the Brothers Grimm. Perrault's version of Cinderella introduced fairy godmother. Brothers Grimm's Fairy Tales includes Hansel and Gretel. Snow White has variations in Italian folklore. Fairytales includes valuable insights into the human experience. Brothers Grimm collected Snow White. Brothers Grimm's Fairy Tales includes Snow White. Perrault's version of Cinderella introduced glass slipper. Fairytales are a form of storytelling. Rhodopis includes the earliest known version of Cinderella. Snow White has variations in Slavic folklore.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Charles Perrault published a version of Cinderella in 1697.",
+    "retrieved_context": "Fairytales includes magical elements. Cinderella originates from ancient Greece. Brothers Grimm's Fairy Tales includes Cinderella. Snow White has variations in German folklore. Charles Perrault published Cinderella in 1697. Beauty and the Beast originates from ancient myths. Fairytales includes timeless themes. Hansel and Gretel collected the Brothers Grimm. Perrault's version of Cinderella introduced fairy godmother. Brothers Grimm's Fairy Tales includes Hansel and Gretel. Snow White has variations in Italian folklore. Fairytales includes valuable insights into the human experience. Brothers Grimm collected Snow White. Brothers Grimm's Fairy Tales includes Snow White. Perrault's version of Cinderella introduced glass slipper. Fairytales are a form of storytelling. Rhodopis includes the earliest known version of Cinderella. Snow White has variations in Slavic folklore.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The story of Snow White can be found in folklore from various cultures.",
+    "retrieved_context": "Fairytales includes magical elements. Brothers Grimm's Fairy Tales includes Cinderella. Cinderella originates from ancient Greece. Snow White has variations in German folklore. Beauty and the Beast originates from ancient myths. Rhodopis includes the earliest known version of Cinderella. Hansel and Gretel collected the Brothers Grimm. Fairytales includes valuable insights into the human experience. Brothers Grimm's Fairy Tales includes Hansel and Gretel. Snow White has variations in Italian folklore. Brothers Grimm collected Snow White. Brothers Grimm's Fairy Tales includes Snow White. Fairytales are a form of storytelling. Fairytales includes timeless themes. Snow White has variations in Slavic folklore.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The most well-known version of Snow White was collected by the Brothers Grimm.",
+    "retrieved_context": "Fairytales includes magical elements. Brothers Grimm's Fairy Tales includes Cinderella. Cinderella originates from ancient Greece. Snow White has variations in German folklore. Jacob and Wilhelm Grimm began collecting tales in early 19th century. Jacob and Wilhelm Grimm are German brothers and scholars. Fairytales includes timeless themes. Hansel and Gretel collected the Brothers Grimm. Fairytales includes valuable insights into the human experience. Brothers Grimm's Fairy Tales includes Hansel and Gretel. Snow White has variations in Italian folklore. Brothers Grimm collected Snow White. Brothers Grimm's Fairy Tales includes Snow White. Fairytales are a form of storytelling. Rhodopis includes the earliest known version of Cinderella. Snow White has variations in Slavic folklore.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Hansel and Gretel is a classic fairytale collected by the Brothers Grimm.",
+    "retrieved_context": "Fairytales includes magical elements. Cinderella originates from ancient Greece. Brothers Grimm's Fairy Tales includes Cinderella. Snow White has variations in German folklore. Jacob and Wilhelm Grimm began collecting tales in early 19th century. Jacob and Wilhelm Grimm are German brothers and scholars. Rhodopis includes the earliest known version of Cinderella. Hansel and Gretel collected the Brothers Grimm. Fairytales includes valuable insights into the human experience. Brothers Grimm's Fairy Tales includes Hansel and Gretel. Snow White has variations in Italian folklore. Brothers Grimm collected Snow White. Brothers Grimm's Fairy Tales includes Snow White. Fairytales are a form of storytelling. Fairytales includes timeless themes. Snow White has variations in Slavic folklore.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The story of Hansel and Gretel is believed to have originated from European folklore.",
+    "retrieved_context": "Brothers Grimm's Fairy Tales includes Cinderella. Cinderella originates from ancient Greece. Snow White has variations in German folklore. Beauty and the Beast originates from ancient myths. Hansel and Gretel collected the Brothers Grimm. Brothers Grimm's Fairy Tales includes Hansel and Gretel. Snow White has variations in Italian folklore. Brothers Grimm collected Snow White. Brothers Grimm's Fairy Tales includes Snow White. Snow White has variations in Slavic folklore.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The origins of Beauty and the Beast can be traced back to ancient myths.",
+    "retrieved_context": "Fairytales includes magical elements. Brothers Grimm's Fairy Tales includes Cinderella. Cinderella originates from ancient Greece. Snow White has variations in German folklore. Charles Perrault published Cinderella in 1697. Beauty and the Beast originates from ancient myths. Fairytales includes timeless themes. Hansel and Gretel collected the Brothers Grimm. Fairytales includes valuable insights into the human experience. Brothers Grimm's Fairy Tales includes Hansel and Gretel. Snow White has variations in Italian folklore. Brothers Grimm collected Snow White. Brothers Grimm's Fairy Tales includes Snow White. Fairytales are a form of storytelling. Rhodopis includes the earliest known version of Cinderella. Snow White has variations in Slavic folklore.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The earliest known version of Beauty and the Beast can be found in the works of the Roman poet Ovid.",
+    "retrieved_context": "Brothers Grimm's Fairy Tales includes Cinderella. Cinderella originates from ancient Greece. Snow White has variations in German folklore. Ovid introduced Pygmalion and Galatea. Charles Perrault published Cinderella in 1697. Jacob and Wilhelm Grimm began collecting tales in early 19th century. Beauty and the Beast originates from ancient myths. Jacob and Wilhelm Grimm are German brothers and scholars. Hansel and Gretel collected the Brothers Grimm. Perrault's version of Cinderella introduced fairy godmother. Brothers Grimm's Fairy Tales includes Hansel and Gretel. Snow White has variations in Italian folklore. Brothers Grimm collected Snow White. Brothers Grimm's Fairy Tales includes Snow White. Perrault's version of Cinderella introduced glass slipper. Rhodopis includes the earliest known version of Cinderella. Snow White has variations in Slavic folklore.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Beauty and the Beast explores the theme of love and transformation.",
+    "retrieved_context": "Fairytales includes magical elements. Cinderella originates from ancient Greece. Brothers Grimm's Fairy Tales includes Cinderella. Snow White has variations in German folklore. Charles Perrault published Cinderella in 1697. Beauty and the Beast originates from ancient myths. Fairytales includes valuable insights into the human experience. Perrault's version of Cinderella introduced fairy godmother. Brothers Grimm's Fairy Tales includes Hansel and Gretel. Hansel and Gretel collected the Brothers Grimm. Snow White has variations in Italian folklore. Brothers Grimm collected Snow White. Brothers Grimm's Fairy Tales includes Snow White. Perrault's version of Cinderella introduced glass slipper. Fairytales are a form of storytelling. Fairytales includes timeless themes. Snow White has variations in Slavic folklore.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "46.67%"
+  }
+]

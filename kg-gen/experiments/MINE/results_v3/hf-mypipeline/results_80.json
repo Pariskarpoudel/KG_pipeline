@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sputnik 1 was the first artificial satellite launched by the Soviet Union on October 4, 1957.",
+    "retrieved_context": "Sputnik 1 marked dawn of the space age. NASA is National Aeronautics and Space Administration. International Space Station is International Space Station. International Space Station enabled by space shuttle program. Yuri Gagarin first to travel into space. Sputnik 1 launch date October 4, 1957. Yuri Gagarin launch date April 12, 1961. space shuttle program launched NASA. Columbia disaster occurred in 2003. Sputnik 1 launched Soviet Union. space shuttle program launch date 1980s.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The launch of Sputnik 1 marked the beginning of the space age.",
+    "retrieved_context": "Sputnik 1 marked dawn of the space age. Apollo 11 landed on moon. NASA is National Aeronautics and Space Administration. International Space Station is International Space Station. International Space Station enabled by space shuttle program. Yuri Gagarin first to travel into space. SpaceX launched Elon Musk. Sputnik 1 launch date October 4, 1957. Yuri Gagarin launch date April 12, 1961. space shuttle program launched NASA. Apollo 11 landed on July 20, 1969. SpaceX launched multiple crewed missions to the ISS. Sputnik 1 launched Soviet Union. space shuttle program launch date 1980s.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The United States and the Soviet Union engaged in a race to explore space after the launch of Sputnik 1.",
+    "retrieved_context": "Sputnik 1 marked dawn of the space age. NASA is National Aeronautics and Space Administration. International Space Station is International Space Station. International Space Station enabled by space shuttle program. Yuri Gagarin first to travel into space. Sputnik 1 launch date October 4, 1957. Yuri Gagarin launch date April 12, 1961. space shuttle program launched NASA. Sputnik 1 launched Soviet Union. space shuttle program launch date 1980s.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yuri Gagarin was the first human to travel into space on April 12, 1961.",
+    "retrieved_context": "Sputnik 1 marked dawn of the space age. Apollo 11 landed on moon. NASA is National Aeronautics and Space Administration. Gagarin flight aboard Vostok 1. International Space Station is International Space Station. International Space Station enabled by space shuttle program. Yuri Gagarin first to travel into space. Sputnik 1 launch date October 4, 1957. Yuri Gagarin launch date April 12, 1961. space shuttle program launched NASA. Apollo 11 landed on July 20, 1969. Sputnik 1 launched Soviet Union. space shuttle program launch date 1980s.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yuri Gagarin's flight aboard Vostok 1 was a significant milestone in human history.",
+    "retrieved_context": "Sputnik 1 marked dawn of the space age. Apollo 11 landed on moon. NASA is National Aeronautics and Space Administration. Gagarin flight aboard Vostok 1. International Space Station enabled by space shuttle program. Yuri Gagarin first to travel into space. Sputnik 1 launch date October 4, 1957. Yuri Gagarin launch date April 12, 1961. space shuttle program launched NASA. Apollo 11 landed on July 20, 1969. Sputnik 1 launched Soviet Union. space shuttle program launch date 1980s.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "NASA is the National Aeronautics and Space Administration of the United States.",
+    "retrieved_context": "Sputnik 1 launched Soviet Union. Sputnik 1 marked dawn of the space age. Apollo 11 landed on moon. NASA is National Aeronautics and Space Administration. Neil Armstrong first to set foot on moon. International Space Station enabled by space shuttle program. Yuri Gagarin first to travel into space. Buzz Aldrin first to set foot on moon. Sputnik 1 launch date October 4, 1957. Yuri Gagarin launch date April 12, 1961. space shuttle program launched NASA. Apollo 11 landed on July 20, 1969. International Space Station is International Space Station. space shuttle program launch date 1980s.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Apollo 11 landed on the moon on July 20, 1969.",
+    "retrieved_context": "Sputnik 1 marked dawn of the space age. Apollo 11 landed on moon. NASA is National Aeronautics and Space Administration. Neil Armstrong first to set foot on moon. International Space Station enabled by space shuttle program. Yuri Gagarin first to travel into space. Buzz Aldrin first to set foot on moon. Sputnik 1 launch date October 4, 1957. Yuri Gagarin launch date April 12, 1961. space shuttle program launched NASA. Apollo 11 landed on July 20, 1969. Sputnik 1 launched Soviet Union. space shuttle program launch date 1980s.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neil Armstrong and Buzz Aldrin were the first humans to set foot on the moon during the Apollo 11 mission.",
+    "retrieved_context": "Sputnik 1 launched Soviet Union. Sputnik 1 marked dawn of the space age. Apollo 11 landed on moon. NASA is National Aeronautics and Space Administration. Neil Armstrong first to set foot on moon. International Space Station enabled by space shuttle program. Buzz Aldrin first to set foot on moon. Sputnik 1 launch date October 4, 1957. SpaceX launched multiple crewed missions to the ISS. space shuttle program launched NASA. Apollo 11 landed on July 20, 1969. SpaceX launched Elon Musk. space shuttle program launch date 1980s.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle program was initiated by NASA in the 1980s.",
+    "retrieved_context": "Sputnik 1 launched Soviet Union. Sputnik 1 marked dawn of the space age. NASA is National Aeronautics and Space Administration. International Space Station enabled by space shuttle program. Yuri Gagarin first to travel into space. Sputnik 1 launch date October 4, 1957. Yuri Gagarin launch date April 12, 1961. space shuttle program launched NASA. space shuttle Challenger disaster occurred in 1986. International Space Station is International Space Station. space shuttle program launch date 1980s.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle program provided a reusable spacecraft for multiple missions.",
+    "retrieved_context": "Sputnik 1 launched Soviet Union. Sputnik 1 marked dawn of the space age. NASA is National Aeronautics and Space Administration. International Space Station enabled by space shuttle program. SpaceX launched Elon Musk. Yuri Gagarin first to travel into space. Sputnik 1 launch date October 4, 1957. SpaceX launched multiple crewed missions to the ISS. space shuttle program launched NASA. Yuri Gagarin launch date April 12, 1961. space shuttle Challenger disaster occurred in 1986. International Space Station is International Space Station. space shuttle program launch date 1980s.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The International Space Station (ISS) was constructed as a collaborative effort between multiple countries.",
+    "retrieved_context": "Sputnik 1 launched Soviet Union. Sputnik 1 marked dawn of the space age. NASA is National Aeronautics and Space Administration. International Space Station is International Space Station. International Space Station enabled by space shuttle program. Sputnik 1 launch date October 4, 1957. SpaceX launched multiple crewed missions to the ISS. space shuttle program launched NASA. SpaceX launched Elon Musk. space shuttle program launch date 1980s.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX is a private company founded by Elon Musk.",
+    "retrieved_context": "Sputnik 1 launched Soviet Union. Sputnik 1 marked dawn of the space age. NASA is National Aeronautics and Space Administration. International Space Station is International Space Station. International Space Station enabled by space shuttle program. Yuri Gagarin first to travel into space. Sputnik 1 launch date October 4, 1957. SpaceX launched multiple crewed missions to the ISS. space shuttle program launched NASA. Yuri Gagarin launch date April 12, 1961. SpaceX launched Elon Musk. space shuttle program launch date 1980s.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "SpaceX has successfully launched multiple crewed missions to the ISS.",
+    "retrieved_context": "Sputnik 1 launched Soviet Union. Sputnik 1 marked dawn of the space age. Apollo 11 landed on moon. NASA is National Aeronautics and Space Administration. International Space Station is International Space Station. International Space Station enabled by space shuttle program. Yuri Gagarin first to travel into space. Sputnik 1 launch date October 4, 1957. SpaceX launched multiple crewed missions to the ISS. space shuttle program launched NASA. Yuri Gagarin launch date April 12, 1961. Apollo 11 landed on July 20, 1969. SpaceX launched Elon Musk. space shuttle program launch date 1980s.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle Challenger disaster occurred in 1986.",
+    "retrieved_context": "Sputnik 1 launched Soviet Union. Sputnik 1 marked dawn of the space age. Columbia disaster occurred in 2003. NASA is National Aeronautics and Space Administration. International Space Station enabled by space shuttle program. Sputnik 1 launch date October 4, 1957. space shuttle program launched NASA. space shuttle Challenger disaster occurred in 1986. International Space Station is International Space Station. space shuttle program launch date 1980s.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plans for manned missions to Mars and the establishment of lunar bases are part of the future of human space travel.",
+    "retrieved_context": "Sputnik 1 launched Soviet Union. Sputnik 1 marked dawn of the space age. Apollo 11 landed on moon. NASA is National Aeronautics and Space Administration. Neil Armstrong first to set foot on moon. International Space Station enabled by space shuttle program. Yuri Gagarin first to travel into space. Buzz Aldrin first to set foot on moon. Sputnik 1 launch date October 4, 1957. Yuri Gagarin launch date April 12, 1961. space shuttle program launched NASA. Apollo 11 landed on July 20, 1969. SpaceX launched multiple crewed missions to the ISS. SpaceX launched Elon Musk. space shuttle program launch date 1980s.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

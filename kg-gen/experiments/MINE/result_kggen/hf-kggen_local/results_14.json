@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Ancient Egyptian burial practices reflect Egyptians' beliefs about the afterlife.",
+    "retrieved_context": "ordinary egyptians buried with tools. pyramids built for pharaohs. pyramids protect possessions. burial practices reflect beliefs. burial practices ensure afterlife. burial practices ensure existence. affair requires expertise. ancient egypt is known for burial practices. mourners perform rituals. pyramids located at giza. pyramids serve as gateway. mourners lead funeral procession. burial practices part of culture. burial practices reflect reverence. burial practices part of society. tombs include pyramids. pyramids protect body. rituals to honor. family hires mourners. burial is affair. burial practices reflect importance.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Elaborate tombs were constructed to house pharaohs and important individuals.",
+    "retrieved_context": "ordinary egyptians buried with tools. burial practices part of culture. burial practices reflect reverence. burial practices part of society. pyramids built for pharaohs. tombs include pyramids. ancient egypt is known for burial practices. pyramids protect possessions. pyramids protect body. burial practices reflect beliefs. pyramids located at giza. burial is affair. burial practices reflect importance. pyramids serve as gateway. burial practices ensure afterlife. burial practices ensure existence. affair requires expertise.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pyramids at Giza were designed to protect the deceased's body and possessions.",
+    "retrieved_context": "burial practices part of culture. burial practices reflect reverence. burial practices part of society. ancient egypt is known for burial practices. pyramids built for pharaohs. tombs include pyramids. ordinary egyptians buried with tools. pyramids protect possessions. pyramids protect body. burial practices reflect beliefs. pyramids located at giza. burial is affair. burial practices reflect importance. pyramids serve as gateway. burial practices ensure afterlife. burial practices ensure existence. affair requires expertise.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Items like food, clothing, and jewelry were buried with the deceased.",
+    "retrieved_context": "realm is of gods. pyramids built for pharaohs. pyramids protect possessions. burial practices reflect beliefs. religious texts guide journey. burial practices ensure afterlife. burial practices ensure existence. items include jewelry. items include clothing. affair requires expertise. book of the dead inscribed on papyrus scrolls. ancient egypt is known for burial practices. items include food. mourners perform rituals. expertise provided by priests. items include personal belongings. pyramids located at giza. book of the dead is religious texts. pyramids serve as gateway. mourners lead funeral procession. burial practices part of culture. burial practices reflect reverence. burial practices part of society. expertise provided by embalmers. tombs include pyramids. pyramids protect body. items provide sustenance. deceased buried with items. items provide comfort. book of the dead helps navigate dangers. family hires mourners. burial is affair. burial practices reflect importance. book of the dead helps reach realm.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mummification was used to preserve the body for the afterlife.",
+    "retrieved_context": "process involves removing organs. pyramids built for pharaohs. pyramids protect possessions. burial practices reflect beliefs. burial practices ensure afterlife. burial practices ensure existence. affair requires expertise. ancient egypt is known for burial practices. mourners perform rituals. expertise provided by priests. mummification involves process. pyramids located at giza. pyramids serve as gateway. mourners lead funeral procession. burial practices part of culture. burial practices reflect reverence. burial practices part of society. expertise provided by embalmers. tombs include pyramids. process involves drying with salt. pyramids protect body. rituals to honor. process involves wrapping in linen bandages. process prevents decay. family hires mourners. process ensures preservation. burial is affair. burial practices reflect importance.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mummification involved removing internal organs and drying out the body.",
+    "retrieved_context": "process involves removing organs. pyramids built for pharaohs. pyramids protect possessions. burial practices reflect beliefs. burial practices ensure afterlife. burial practices ensure existence. items include jewelry. items include clothing. affair requires expertise. ancient egypt is known for burial practices. items include food. mourners perform rituals. expertise provided by priests. mummification involves process. items include personal belongings. pyramids located at giza. pyramids serve as gateway. mourners lead funeral procession. expertise provided by embalmers. burial practices part of culture. burial practices reflect reverence. burial practices part of society. tombs include pyramids. process involves drying with salt. pyramids protect body. rituals to honor. items provide sustenance. process involves wrapping in linen bandages. deceased buried with items. items provide comfort. process prevents decay. family hires mourners. process ensures preservation. burial is affair. burial practices reflect importance.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Religious texts and amulets were included in the burial chamber.",
+    "retrieved_context": "realm is of gods. pyramids built for pharaohs. pyramids protect possessions. burial practices reflect beliefs. religious texts guide journey. burial practices ensure afterlife. burial practices ensure existence. affair requires expertise. book of the dead inscribed on papyrus scrolls. ancient egypt is known for burial practices. mourners perform rituals. expertise provided by priests. pyramids located at giza. book of the dead is religious texts. pyramids serve as gateway. mourners lead funeral procession. burial practices part of culture. burial practices reflect reverence. burial practices part of society. expertise provided by embalmers. tombs include pyramids. pyramids protect body. rituals to honor. book of the dead helps navigate dangers. family hires mourners. burial is affair. burial practices reflect importance. book of the dead helps reach realm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Book of the Dead helped the deceased navigate the afterlife.",
+    "retrieved_context": "realm is of gods. pyramids built for pharaohs. pyramids protect possessions. burial practices reflect beliefs. religious texts guide journey. burial practices ensure afterlife. items include jewelry. burial practices ensure existence. items include clothing. book of the dead inscribed on papyrus scrolls. affair requires expertise. ancient egypt is known for burial practices. items include food. mourners perform rituals. items include personal belongings. book of the dead is religious texts. pyramids located at giza. pyramids serve as gateway. mourners lead funeral procession. burial practices part of culture. burial practices reflect reverence. burial practices part of society. tombs include pyramids. pyramids protect body. items provide sustenance. deceased buried with items. items provide comfort. book of the dead helps navigate dangers. family hires mourners. burial is affair. burial practices reflect importance. book of the dead helps reach realm.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Burial process required priests, embalmers, and skilled individuals.",
+    "retrieved_context": "pyramids built for pharaohs. pyramids protect possessions. burial practices reflect beliefs. burial practices ensure afterlife. burial practices ensure existence. items include jewelry. items include clothing. affair requires expertise. ancient egypt is known for burial practices. items include food. mourners perform rituals. expertise provided by priests. items include personal belongings. pyramids located at giza. pyramids serve as gateway. mourners lead funeral procession. burial practices part of culture. burial practices reflect reverence. burial practices part of society. expertise provided by embalmers. tombs include pyramids. pyramids protect body. rituals to honor. items provide sustenance. deceased buried with items. items provide comfort. family hires mourners. burial is affair. burial practices reflect importance.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Professional mourners were hired to lead funeral processions.",
+    "retrieved_context": "burial practices reflect beliefs. burial practices ensure afterlife. burial practices ensure existence. items include jewelry. items include clothing. affair requires expertise. ancient egypt is known for burial practices. items include food. mourners perform rituals. expertise provided by priests. items include personal belongings. mourners lead funeral procession. expertise provided by embalmers. burial practices part of culture. burial practices reflect reverence. burial practices part of society. rituals to honor. items provide sustenance. deceased buried with items. items provide comfort. family hires mourners. burial is affair. burial practices reflect importance.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Common people in ancient Egypt were buried with care and respect.",
+    "retrieved_context": "ordinary egyptians buried with tools. pyramids built for pharaohs. pyramids protect possessions. burial practices reflect beliefs. common people lack resources. burial practices ensure afterlife. burial practices ensure existence. affair requires expertise. common people buried with respect. ancient egypt is known for burial practices. mourners perform rituals. pyramids located at giza. pyramids serve as gateway. mourners lead funeral procession. burial practices part of culture. burial practices reflect reverence. burial practices part of society. common people buried with care. tombs include pyramids. pyramids protect body. family hires mourners. burial is affair. burial practices reflect importance.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ordinary Egyptians were buried with items they would need in the afterlife.",
+    "retrieved_context": "ordinary egyptians buried with tools. pyramids built for pharaohs. pyramids protect possessions. burial practices reflect beliefs. burial practices ensure afterlife. burial practices ensure existence. affair requires expertise. ancient egypt is known for burial practices. expertise provided by priests. pyramids located at giza. pyramids serve as gateway. burial practices part of culture. burial practices reflect reverence. burial practices part of society. expertise provided by embalmers. tombs include pyramids. pyramids protect body. burial is affair. burial practices reflect importance.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Burial practices ensured the deceased's safe passage into the afterlife.",
+    "retrieved_context": "pyramids built for pharaohs. pyramids protect possessions. burial practices reflect beliefs. burial practices ensure afterlife. burial practices ensure existence. items include jewelry. items include clothing. affair requires expertise. ancient egypt is known for burial practices. items include food. mourners perform rituals. expertise provided by priests. items include personal belongings. pyramids located at giza. pyramids serve as gateway. mourners lead funeral procession. burial practices part of culture. burial practices reflect reverence. burial practices part of society. expertise provided by embalmers. tombs include pyramids. pyramids protect body. rituals to honor. items provide sustenance. deceased buried with items. items provide comfort. family hires mourners. burial is affair. burial practices reflect importance.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ancient Egyptians believed in the existence of a soul.",
+    "retrieved_context": "ordinary egyptians buried with tools. soul needs reunion. pyramids built for pharaohs. pyramids protect possessions. burial practices reflect beliefs. burial practices ensure afterlife. burial practices ensure existence. affair requires expertise. ancient egypt is known for burial practices. mourners perform rituals. expertise provided by priests. pyramids located at giza. pyramids serve as gateway. mourners lead funeral procession. burial practices part of culture. burial practices reflect reverence. burial practices part of society. expertise provided by embalmers. tombs include pyramids. pyramids protect body. rituals to honor. family hires mourners. burial practices reflect importance.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ancient Egyptian burial practices were a vital part of Egyptian culture.",
+    "retrieved_context": "ordinary egyptians buried with tools. pyramids built for pharaohs. pyramids protect possessions. burial practices reflect beliefs. burial practices ensure afterlife. burial practices ensure existence. affair requires expertise. ancient egypt is known for burial practices. mourners perform rituals. expertise provided by priests. pyramids located at giza. pyramids serve as gateway. mourners lead funeral procession. burial practices part of culture. burial practices reflect reverence. burial practices part of society. expertise provided by embalmers. tombs include pyramids. pyramids protect body. rituals to honor. family hires mourners. burial is affair. burial practices reflect importance.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

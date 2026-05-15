@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Renewable energy sources gaining momentum in recent years",
+    "retrieved_context": "hydropower is derived from moving water. renewable energy sources is derived from kinetic energy of the wind. carbon pricing mechanisms is policy support. hydropower is one of the oldest sources of renewable energy. renewable energy targets is policy support. fossil fuels is finite. subsidies is policy support. solar panels harnesses energy from the sun. smart grid technologies optimizes use of renewable energy resources. pumped hydro storage is pumped hydro storage. solar panels generate energy into electricity. renewable energy sources generate energy into electricity. solar panels is renewable energy source. renewable energy sources is renewable energy source. solar tracking systems is advancements in solar technology. thin-film solar cells is advancements in solar technology. pumped hydro storage is addressing intermittent nature of renewable energy. renewable energy sources is momentum.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "World moving towards a more sustainable and environmentally friendly future",
+    "retrieved_context": "Paris Agreement drives global efforts to reduce greenhouse gas emissions. bioenergy is derived from organic materials. renewable energy sources is derived from kinetic energy of the wind. carbon pricing mechanisms is policy support. fossil fuels is finite. climate change concerns over air pollution. solar panels harnesses energy from the sun. solar panels generate energy into electricity. renewable energy sources generate energy into electricity. subsidies is policy support. renewable energy targets is policy support. solar panels is renewable energy source. renewable energy sources is renewable energy source. dams cause environmental impact. renewable energy sources is momentum.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Growing concerns over climate change, air pollution, and finite nature of fossil fuels",
+    "retrieved_context": "biofuels can power vehicles. Paris Agreement drives global efforts to reduce greenhouse gas emissions. carbon pricing mechanisms is policy support. fossil fuels is finite. climate change concerns over air pollution. biofuels can heat buildings. subsidies is policy support. renewable energy targets is policy support. dams cause environmental impact.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Increased investments and advancements in renewable energy technologies",
+    "retrieved_context": "hydropower is derived from moving water. renewable energy sources is derived from kinetic energy of the wind. carbon pricing mechanisms is policy support. hydropower is one of the oldest sources of renewable energy. renewable energy targets is policy support. solar panels harnesses energy from the sun. smart grid technologies optimizes use of renewable energy resources. subsidies is policy support. solar panels generate energy into electricity. renewable energy sources generate energy into electricity. solar panels is renewable energy source. renewable energy sources is renewable energy source. solar tracking systems is advancements in solar technology. thin-film solar cells is advancements in solar technology. renewable energy sources is momentum.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Solar panels harness energy from the sun and convert it into electricity",
+    "retrieved_context": "renewable energy sources is derived from kinetic energy of the wind. cost of solar panels is decreasing. solar panels harnesses energy from the sun. smart grid technologies optimizes use of renewable energy resources. solar panels generate energy into electricity. renewable energy sources generate energy into electricity. solar panels is renewable energy source. renewable energy sources is renewable energy source. solar tracking systems is advancements in solar technology. thin-film solar cells is advancements in solar technology. renewable energy sources is momentum.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cost of solar panels steadily decreasing over the years",
+    "retrieved_context": "renewable energy sources is derived from kinetic energy of the wind. cost of solar panels is decreasing. solar panels harnesses energy from the sun. smart grid technologies optimizes use of renewable energy resources. pumped hydro storage is pumped hydro storage. solar panels generate energy into electricity. renewable energy sources generate energy into electricity. solar panels is renewable energy source. renewable energy sources is renewable energy source. solar tracking systems is advancements in solar technology. thin-film solar cells is advancements in solar technology. pumped hydro storage is addressing intermittent nature of renewable energy. renewable energy sources is momentum.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Advancements in solar technology improving efficiency and effectiveness of solar power generation",
+    "retrieved_context": "hydropower is derived from moving water. renewable energy sources is derived from kinetic energy of the wind. hydropower is one of the oldest sources of renewable energy. cost of solar panels is decreasing. solar panels harnesses energy from the sun. solar panels generate energy into electricity. solar tracking systems is advancements in solar technology. solar panels is renewable energy source. renewable energy sources generate energy into electricity. renewable energy sources is renewable energy source. thin-film solar cells is advancements in solar technology. renewable energy sources is momentum.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wind turbines capture kinetic energy of the wind and convert it into electricity",
+    "retrieved_context": "hydropower is derived from moving water. renewable energy sources is derived from kinetic energy of the wind. carbon pricing mechanisms is policy support. hydropower is one of the oldest sources of renewable energy. renewable energy targets is policy support. solar panels harnesses energy from the sun. smart grid technologies optimizes use of renewable energy resources. subsidies is policy support. biomass power plants generate electricity. solar panels generate energy into electricity. renewable energy sources is renewable energy source. renewable energy sources generate energy into electricity. solar panels is renewable energy source. renewable energy sources is momentum.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Wind power growing in popularity as a clean and renewable resource",
+    "retrieved_context": "hydropower is derived from moving water. renewable energy sources is derived from kinetic energy of the wind. carbon pricing mechanisms is policy support. hydropower is one of the oldest sources of renewable energy. renewable energy targets is policy support. solar panels harnesses energy from the sun. smart grid technologies optimizes use of renewable energy resources. subsidies is policy support. pumped hydro storage is pumped hydro storage. solar panels generate energy into electricity. renewable energy sources generate energy into electricity. solar panels is renewable energy source. renewable energy sources is renewable energy source. pumped hydro storage is addressing intermittent nature of renewable energy. renewable energy sources is momentum.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Hydropower derived from the energy of moving water",
+    "retrieved_context": "hydropower is derived from moving water. renewable energy sources is derived from kinetic energy of the wind. hydropower is one of the oldest sources of renewable energy. solar panels harnesses energy from the sun. pumped hydro storage is pumped hydro storage. solar panels generate energy into electricity. renewable energy sources generate energy into electricity. solar panels is renewable energy source. renewable energy sources is renewable energy source. pumped hydro storage is addressing intermittent nature of renewable energy. dams cause environmental impact. renewable energy sources is momentum.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Large-scale hydropower plants capable of generating significant amounts of electricity",
+    "retrieved_context": "hydropower is derived from moving water. renewable energy sources is derived from kinetic energy of the wind. carbon pricing mechanisms is policy support. hydropower is one of the oldest sources of renewable energy. renewable energy targets is policy support. solar panels harnesses energy from the sun. subsidies is policy support. biomass power plants generate electricity. solar panels generate energy into electricity. renewable energy sources generate energy into electricity. solar panels is renewable energy source. renewable energy sources is renewable energy source. pumped hydro storage is pumped hydro storage. pumped hydro storage is addressing intermittent nature of renewable energy. renewable energy sources is momentum.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Bioenergy derived from organic materials such as plants and waste",
+    "retrieved_context": "biofuels can power vehicles. hydropower is derived from moving water. renewable energy sources is derived from kinetic energy of the wind. hydropower is one of the oldest sources of renewable energy. fossil fuels is finite. solar panels harnesses energy from the sun. biofuels can heat buildings. biomass power plants generate electricity. solar panels generate energy into electricity. renewable energy sources generate energy into electricity. bioenergy is derived from organic materials. solar panels is renewable energy source. renewable energy sources is renewable energy source. renewable energy sources is momentum.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Geothermal energy derived from the heat of the Earth's interior",
+    "retrieved_context": "geothermal energy is derived from heat from underground reservoirs. hydropower is derived from moving water. renewable energy sources is derived from kinetic energy of the wind. hydropower is one of the oldest sources of renewable energy. solar panels harnesses energy from the sun. solar panels generate energy into electricity. solar panels is renewable energy source. renewable energy sources generate energy into electricity. renewable energy sources is renewable energy source. geothermal energy is derived from heat of the Earth's interior. renewable energy sources is momentum.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ongoing research and development driving innovation and efficiency improvements in renewable energy sources",
+    "retrieved_context": "hydropower is derived from moving water. renewable energy sources is derived from kinetic energy of the wind. carbon pricing mechanisms is policy support. hydropower is one of the oldest sources of renewable energy. renewable energy targets is policy support. solar panels harnesses energy from the sun. subsidies is policy support. smart grid technologies optimizes use of renewable energy resources. pumped hydro storage is pumped hydro storage. solar panels generate energy into electricity. renewable energy sources generate energy into electricity. solar panels is renewable energy source. renewable energy sources is renewable energy source. solar tracking systems is advancements in solar technology. thin-film solar cells is advancements in solar technology. biomass power plants generate electricity. pumped hydro storage is addressing intermittent nature of renewable energy. renewable energy sources is momentum.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Policy support and incentives essential for continued growth of renewable energy",
+    "retrieved_context": "hydropower is derived from moving water. renewable energy sources is derived from kinetic energy of the wind. carbon pricing mechanisms is policy support. hydropower is one of the oldest sources of renewable energy. solar panels harnesses energy from the sun. smart grid technologies optimizes use of renewable energy resources. pumped hydro storage is pumped hydro storage. solar panels generate energy into electricity. renewable energy sources generate energy into electricity. subsidies is policy support. renewable energy targets is policy support. solar panels is renewable energy source. renewable energy sources is renewable energy source. pumped hydro storage is addressing intermittent nature of renewable energy. renewable energy sources is momentum.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

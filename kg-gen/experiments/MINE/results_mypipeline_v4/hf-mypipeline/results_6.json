@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Music is a powerful medium.",
+    "retrieved_context": "music evokes unity among listeners. music increases emotional well-being. music has ability to change mood. understanding mechanisms evokes how music influences mood. music conveys messages. Slow music lowers heart rate. music has ability to mood. music increases spirits. music increases us. music increases our lives. music is a powerful medium. music evokes memories and associations. Slow music evokes relaxation. Rock music is associated with energy, rebellion, and intensity. music evokes memories. music evokes connections. music has ability to influence emotions. music regulates emotions. Classical music is associated with elegance, sophistication, and relaxation. music is a powerful tool. Upbeat music increases heart rate. Lyrics has ability to mood. music evokes specific genres and styles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can influence emotions and mood.",
+    "retrieved_context": "music evokes unity among listeners. music increases emotional well-being. music has ability to change mood. understanding mechanisms evokes how music influences mood. music conveys messages. Slow music lowers heart rate. music has ability to mood. music increases spirits. music increases us. music increases our lives. music is a powerful medium. music evokes memories and associations. Rock music is associated with energy, rebellion, and intensity. music evokes memories. music evokes connections. music has ability to influence emotions. music regulates emotions. music is a powerful tool. Upbeat music evokes feelings of excitement. Upbeat music increases heart rate. Lyrics has ability to mood. music evokes specific genres and styles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can enhance or change emotional state.",
+    "retrieved_context": "music evokes unity among listeners. music increases emotional well-being. music has ability to change mood. understanding mechanisms evokes how music influences mood. music conveys messages. Slow music lowers heart rate. music has ability to mood. music increases spirits. music increases us. music increases our lives. music is a powerful medium. music evokes memories and associations. Rock music is associated with energy, rebellion, and intensity. music evokes memories. music evokes connections. music has ability to influence emotions. music regulates emotions. music is a powerful tool. Upbeat music evokes feelings of excitement. Upbeat music increases heart rate. Lyrics has ability to mood. music evokes specific genres and styles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can evoke memories and associations.",
+    "retrieved_context": "music evokes unity among listeners. music increases emotional well-being. music has ability to change mood. understanding mechanisms evokes how music influences mood. music conveys messages. Slow music lowers heart rate. music has ability to mood. music increases spirits. music increases us. music increases our lives. music is a powerful medium. music evokes memories and associations. Rock music is associated with energy, rebellion, and intensity. music evokes memories. music evokes connections. music has ability to influence emotions. music regulates emotions. Classical music is associated with elegance, sophistication, and relaxation. music is a powerful tool. Upbeat music evokes feelings of excitement. Upbeat music increases heart rate. Lyrics has ability to mood. music evokes specific genres and styles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hearing a song can trigger memories.",
+    "retrieved_context": "music increases emotional well-being. music evokes unity among listeners. music has ability to change mood. understanding mechanisms evokes how music influences mood. music conveys messages. Empowering lyrics evokes confident and inspired. Slow music lowers heart rate. music has ability to mood. music increases spirits. music increases us. music increases our lives. music is a powerful medium. music evokes memories and associations. Rock music is associated with energy, rebellion, and intensity. music evokes connections. music evokes memories. music has ability to influence emotions. music regulates emotions. music is a powerful tool. Upbeat music evokes feelings of excitement. Upbeat music increases heart rate. Lyrics has ability to mood. music evokes specific genres and styles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can regulate emotions physiologically.",
+    "retrieved_context": "music evokes unity among listeners. music increases emotional well-being. music has ability to change mood. understanding mechanisms evokes how music influences mood. music conveys messages. Slow music lowers heart rate. music has ability to mood. music increases spirits. music increases us. music increases our lives. music is a powerful medium. music evokes memories and associations. Rock music is associated with energy, rebellion, and intensity. music evokes memories. music evokes connections. music has ability to influence emotions. music regulates emotions. Classical music is associated with elegance, sophistication, and relaxation. music is a powerful tool. Upbeat music evokes feelings of excitement. Upbeat music increases heart rate. Lyrics has ability to mood. music evokes specific genres and styles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music impacts heart rate.",
+    "retrieved_context": "music evokes unity among listeners. music increases emotional well-being. music has ability to change mood. understanding mechanisms evokes how music influences mood. music conveys messages. Slow music lowers heart rate. music has ability to mood. music increases spirits. music increases us. music increases our lives. Slow music evokes relaxation. music is a powerful medium. music evokes memories and associations. Rock music is associated with energy, rebellion, and intensity. music evokes connections. music evokes memories. music has ability to influence emotions. music regulates emotions. Classical music is associated with elegance, sophistication, and relaxation. Upbeat music evokes feelings of excitement. Upbeat music increases heart rate. music is a powerful tool. Lyrics has ability to mood. music evokes specific genres and styles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music impacts blood pressure.",
+    "retrieved_context": "music evokes unity among listeners. music increases emotional well-being. music has ability to change mood. understanding mechanisms evokes how music influences mood. music conveys messages. Slow music lowers heart rate. music has ability to mood. music increases spirits. music increases us. music increases our lives. music is a powerful medium. music evokes memories and associations. Slow music evokes relaxation. Rock music is associated with energy, rebellion, and intensity. music evokes memories. music evokes connections. music has ability to influence emotions. music regulates emotions. Classical music is associated with elegance, sophistication, and relaxation. music is a powerful tool. Upbeat music increases heart rate. Upbeat music evokes feelings of excitement. Lyrics has ability to mood. music evokes specific genres and styles.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Music impacts cortisol levels.",
+    "retrieved_context": "music evokes unity among listeners. music increases emotional well-being. music has ability to change mood. understanding mechanisms evokes how music influences mood. music conveys messages. Slow music lowers heart rate. music has ability to mood. music increases spirits. music increases us. music increases our lives. music is a powerful medium. music evokes memories and associations. Slow music evokes relaxation. Rock music is associated with energy, rebellion, and intensity. music evokes memories. music evokes connections. music has ability to influence emotions. music regulates emotions. Classical music is associated with elegance, sophistication, and relaxation. music is a powerful tool. Upbeat music evokes feelings of excitement. Upbeat music increases heart rate. Lyrics has ability to mood. music evokes specific genres and styles.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Lyrics of a song can influence mood.",
+    "retrieved_context": "music evokes unity among listeners. music increases emotional well-being. music has ability to change mood. understanding mechanisms evokes how music influences mood. music conveys messages. Empowering lyrics evokes confident and inspired. Slow music lowers heart rate. music has ability to mood. music increases spirits. Sad lyrics evokes empathy and introspection. music increases us. music increases our lives. music is a powerful medium. music evokes memories and associations. music evokes memories. music evokes connections. music has ability to influence emotions. music regulates emotions. music is a powerful tool. Upbeat music evokes feelings of excitement. Upbeat music increases heart rate. Lyrics has ability to mood. music evokes specific genres and styles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Themes and messages in lyrics can resonate with listeners.",
+    "retrieved_context": "music evokes unity among listeners. music increases emotional well-being. music has ability to change mood. understanding mechanisms evokes how music influences mood. music conveys messages. Empowering lyrics evokes confident and inspired. Slow music lowers heart rate. music has ability to mood. music increases spirits. Sad lyrics evokes empathy and introspection. music increases us. music increases our lives. music is a powerful medium. music evokes memories and associations. Rock music is associated with energy, rebellion, and intensity. music evokes connections. music evokes memories. music has ability to influence emotions. music regulates emotions. music is a powerful tool. Upbeat music evokes feelings of excitement. Upbeat music increases heart rate. Lyrics has ability to mood. music evokes specific genres and styles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can create a sense of unity among listeners.",
+    "retrieved_context": "music increases emotional well-being. music evokes unity among listeners. music has ability to change mood. understanding mechanisms evokes how music influences mood. music conveys messages. Slow music lowers heart rate. music has ability to mood. music increases spirits. music increases us. music increases our lives. music is a powerful medium. music evokes memories and associations. Slow music evokes relaxation. Rock music is associated with energy, rebellion, and intensity. music evokes memories. music evokes connections. music has ability to influence emotions. music regulates emotions. Classical music is associated with elegance, sophistication, and relaxation. music is a powerful tool. Upbeat music evokes feelings of excitement. Upbeat music increases heart rate. Lyrics has ability to mood. music evokes specific genres and styles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Listening to music together can create a sense of belonging.",
+    "retrieved_context": "music evokes unity among listeners. music increases emotional well-being. music has ability to change mood. understanding mechanisms evokes how music influences mood. music conveys messages. Empowering lyrics evokes confident and inspired. Slow music lowers heart rate. music has ability to mood. music increases spirits. music increases us. music increases our lives. music is a powerful medium. music evokes memories and associations. Slow music evokes relaxation. Rock music is associated with energy, rebellion, and intensity. music evokes memories. music evokes connections. music has ability to influence emotions. music regulates emotions. Classical music is associated with elegance, sophistication, and relaxation. music is a powerful tool. Upbeat music increases heart rate. Lyrics has ability to mood. music evokes specific genres and styles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genre and style of music impact mood.",
+    "retrieved_context": "music evokes unity among listeners. music increases emotional well-being. music has ability to change mood. understanding mechanisms evokes how music influences mood. music conveys messages. Slow music lowers heart rate. music has ability to mood. music increases spirits. music increases us. music increases our lives. music is a powerful medium. music evokes memories and associations. Rock music is associated with energy, rebellion, and intensity. music evokes memories. music evokes connections. music has ability to influence emotions. music regulates emotions. Upbeat music evokes feelings of excitement. music is a powerful tool. Upbeat music increases heart rate. Lyrics has ability to mood. music evokes specific genres and styles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different genres evoke different emotions.",
+    "retrieved_context": "music increases emotional well-being. music evokes unity among listeners. music has ability to change mood. understanding mechanisms evokes how music influences mood. music conveys messages. Slow music lowers heart rate. music has ability to mood. music increases spirits. music increases us. music increases our lives. music is a powerful medium. music evokes memories and associations. Rock music is associated with energy, rebellion, and intensity. music evokes memories. music evokes connections. music has ability to influence emotions. music regulates emotions. music is a powerful tool. Upbeat music evokes feelings of excitement. Upbeat music increases heart rate. Lyrics has ability to mood. music evokes specific genres and styles.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Video games have evolved since the mid-20th century.",
+    "retrieved_context": "history of video games began in 1950s. early 2000s became online gaming. Spacewar! became multiplayer gameplay. history of video games began in mid-20th century. Spacewar! is milestone in history of video game development. Spacewar! developed at Massachusetts Institute of Technology. 1970s became arcade gaming. Spacewar! became real-time action. computer scientists became experimenting with interactive electronic games. history of video games began in 1960s. arcade games became home gaming consoles. Spacewar! was developed in 1962. 1980s became synonymous with golden age for video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pong and Space Invaders were simple, pixelated games.",
+    "retrieved_context": "history of video games began in 1950s. 8-bit graphics became more detailed game worlds. Spacewar! became multiplayer gameplay. Spacewar! is milestone in history of video game development. Space Invaders is pixelated game. Spacewar! developed at Massachusetts Institute of Technology. history of video games began in 1960s. Spacewar! became real-time action. Doom is groundbreaking game. computer scientists became experimenting with interactive electronic games. Quake is groundbreaking game. Pac-Man became cultural phenomenon. Final Fantasy VII is groundbreaking game. Spacewar! was developed in 1962. history of video games began in mid-20th century. Pong is pixelated game. Space Invaders became cultural phenomenon. Pong became cultural phenomenon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Red Dead Redemption and Fortnite offer lifelike worlds.",
+    "retrieved_context": "Call of Duty became synonymous with online multiplayer gaming. 8-bit graphics became more detailed game worlds. World of Warcraft became synonymous with online multiplayer gaming. 16-bit graphics became more colorful game worlds. Doom is groundbreaking game. Halo became synonymous with online multiplayer gaming. Red Dead Redemption is lifelike world. Quake is groundbreaking game. Final Fantasy VII is groundbreaking game. Fortnite is lifelike world. 1980s became synonymous with golden age for video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spacewar! was developed in 1962 at MIT.",
+    "retrieved_context": "Call of Duty became synonymous with online multiplayer gaming. Spacewar! developed at Massachusetts Institute of Technology. Space Invaders is pixelated game. Spacewar! became real-time action. Halo became synonymous with online multiplayer gaming. Pac-Man became cultural phenomenon. history of video games began in mid-20th century. history of video games began in 1950s. StarCraft became instant classic. Spacewar! became multiplayer gameplay. Spacewar! is milestone in history of video game development. Diablo became instant classic. World of Warcraft became synonymous with online multiplayer gaming. Pong is pixelated game. Space Invaders became cultural phenomenon. Half-Life became instant classic. history of video games began in 1960s. Spacewar! was developed in 1962. Pong became cultural phenomenon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spacewar! introduced multiplayer gameplay.",
+    "retrieved_context": "Call of Duty became synonymous with online multiplayer gaming. Spacewar! developed at Massachusetts Institute of Technology. Space Invaders is pixelated game. Spacewar! became real-time action. Halo became synonymous with online multiplayer gaming. Pac-Man became cultural phenomenon. StarCraft became instant classic. Spacewar! became multiplayer gameplay. Spacewar! is milestone in history of video game development. Diablo became instant classic. World of Warcraft became synonymous with online multiplayer gaming. Doom is groundbreaking game. Quake is groundbreaking game. Final Fantasy VII is groundbreaking game. Pong is pixelated game. Space Invaders became cultural phenomenon. Half-Life became instant classic. Spacewar! was developed in 1962. Pong became cultural phenomenon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Arcade gaming rose in the 1970s.",
+    "retrieved_context": "history of video games began in 1950s. Spacewar! became multiplayer gameplay. 1970s became arcade gaming. history of video games began in mid-20th century. Spacewar! is milestone in history of video game development. Spacewar! developed at Massachusetts Institute of Technology. Spacewar! became real-time action. Atari 2600 became arcade experience into people's living rooms. history of video games began in 1960s. arcade games became home gaming consoles. Spacewar! was developed in 1962. 1980s became synonymous with golden age for video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Atari 2600 brought arcade experience to homes.",
+    "retrieved_context": "history of video games began in 1950s. Spacewar! became multiplayer gameplay. 1970s became arcade gaming. Spacewar! is milestone in history of video game development. Spacewar! developed at Massachusetts Institute of Technology. history of video games began in 1960s. Spacewar! became real-time action. Atari 2600 became arcade experience into people's living rooms. history of video games began in mid-20th century. arcade games became home gaming consoles. Spacewar! was developed in 1962. 1980s became synonymous with golden age for video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Super Mario Bros. and The Legend of Zelda were iconic games in the 1980s.",
+    "retrieved_context": "history of video games began in 1950s. The Legend of Zelda is iconic game. Super Mario Bros. is iconic game. Spacewar! became multiplayer gameplay. Spacewar! is milestone in history of video game development. Spacewar! developed at Massachusetts Institute of Technology. 1970s became arcade gaming. history of video games began in 1960s. Spacewar! became real-time action. Tetris is iconic game. history of video games began in mid-20th century. arcade games became home gaming consoles. Spacewar! was developed in 1962. 1980s became synonymous with golden age for video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "8-bit and 16-bit graphics enhanced game worlds.",
+    "retrieved_context": "Call of Duty became synonymous with online multiplayer gaming. 8-bit graphics became more detailed game worlds. early 2000s became online gaming. computer scientists became experimenting with interactive electronic games. Space Invaders is pixelated game. World of Warcraft became synonymous with online multiplayer gaming. 16-bit graphics became more colorful game worlds. Halo became synonymous with online multiplayer gaming. Pong is pixelated game. Space Invaders became cultural phenomenon. Pong became cultural phenomenon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Doom and Quake pushed boundaries in the 1990s.",
+    "retrieved_context": "history of video games began in 1950s. early 2000s became online gaming. Spacewar! became multiplayer gameplay. history of video games began in mid-20th century. Spacewar! is milestone in history of video game development. Spacewar! developed at Massachusetts Institute of Technology. Spacewar! became real-time action. Doom is groundbreaking game. Quake is groundbreaking game. Final Fantasy VII is groundbreaking game. Spacewar! was developed in 1962. 1990s became CD-ROM technology. history of video games began in 1960s. 1990s became 3D graphics. 1980s became synonymous with golden age for video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Online gaming rose in the early 2000s.",
+    "retrieved_context": "Call of Duty became synonymous with online multiplayer gaming. early 2000s became online gaming. blockchain technology is technology. Spacewar! developed at Massachusetts Institute of Technology. Spacewar! became real-time action. Halo became synonymous with online multiplayer gaming. history of video games began in mid-20th century. artificial intelligence is technology. history of video games began in 1950s. cloud gaming is technology. 1980s became synonymous with golden age for video games. Spacewar! became multiplayer gameplay. 1970s became arcade gaming. Spacewar! is milestone in history of video game development. World of Warcraft became synonymous with online multiplayer gaming. augmented reality is technology. history of video games began in 1960s. virtual reality is technology. Spacewar! was developed in 1962.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "VR and AR technologies have advanced gaming experiences.",
+    "retrieved_context": "augmented reality is technology. early 2000s became online gaming. cloud gaming is technology. Oculus Rift is VR headset. blockchain technology is technology. Pok\u00c3\u00a9mon Go is AR game. virtual reality is technology. PlayStation VR is VR headset. artificial intelligence is technology.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI, machine learning, and blockchain are revolutionizing the gaming industry.",
+    "retrieved_context": "augmented reality is technology. early 2000s became online gaming. cloud gaming is technology. 1970s became arcade gaming. blockchain technology is technology. Diablo became instant classic. industry has evolved in response to changing consumer preferences. Half-Life became instant classic. industry has evolved in response to new opportunities for creativity. StarCraft became instant classic. industry has evolved in response to innovation. industry has evolved in response to advancements in technology. arcade games became home gaming consoles. virtual reality is technology. 1980s became synonymous with golden age for video games. artificial intelligence is technology.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Video games have responded to technological advancements and consumer preferences.",
+    "retrieved_context": "history of video games began in 1950s. early 2000s became online gaming. Spacewar! became multiplayer gameplay. history of video games began in mid-20th century. Spacewar! is milestone in history of video game development. Spacewar! developed at Massachusetts Institute of Technology. computer scientists became experimenting with interactive electronic games. Spacewar! became real-time action. 1970s became arcade gaming. industry has evolved in response to changing consumer preferences. industry has evolved in response to new opportunities for creativity. industry has evolved in response to innovation. industry has evolved in response to advancements in technology. history of video games began in 1960s. arcade games became home gaming consoles. Spacewar! was developed in 1962. 1980s became synonymous with golden age for video games.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The future of video games promises new and exciting experiences.",
+    "retrieved_context": "history of video games began in 1950s. early 2000s became online gaming. Spacewar! became multiplayer gameplay. Spacewar! is milestone in history of video game development. Spacewar! developed at Massachusetts Institute of Technology. 1970s became arcade gaming. history of video games began in 1960s. Spacewar! became real-time action. Doom is groundbreaking game. computer scientists became experimenting with interactive electronic games. Quake is groundbreaking game. Final Fantasy VII is groundbreaking game. history of video games began in mid-20th century. arcade games became home gaming consoles. Spacewar! was developed in 1962. 1980s became synonymous with golden age for video games.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

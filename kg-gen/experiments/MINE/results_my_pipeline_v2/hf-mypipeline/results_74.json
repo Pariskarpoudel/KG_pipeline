@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Comedy provides entertainment to audiences.",
+    "retrieved_context": "Comedy promotes unity. Comedy is a social commentary. Comedy is a means of social commentary. Comedy is a tool for bringing people together. Comedy is a entertainment. Comedy is a vital part of human culture. Laughter is a health benefits. Humor is a subjective. Comedians is a humor. Comedy challenges societal norms. Comedy is a catalyst for change. Comedy promotes community. Comedy is a form of entertainment.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Laughter has health benefits like reducing stress.",
+    "retrieved_context": "Comedy promotes unity. Comedy is a social commentary. Laughter is a health benefits. Comedy is a means of social commentary. Comedy is a tool for bringing people together. Comedy is a entertainment. Comedy is a vital part of human culture. Humor is a subjective. Comedians is a humor. Comedy challenges societal norms. Comedy is a catalyst for change. Comedy promotes community. Comedy is a form of entertainment.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy helps people relax and escape daily pressures.",
+    "retrieved_context": "Comedy promotes unity. Comedy is a social commentary. Comedy is a means of social commentary. Comedy is a tool for bringing people together. Comedy is a entertainment. Comedy is a vital part of human culture. Laughter is a health benefits. Humor is a subjective. Comedians is a humor. Comedy challenges societal norms. Comedy is a catalyst for change. Comedy promotes community. Comedy is a form of entertainment.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy uplifts spirits and brings joy to people.",
+    "retrieved_context": "Comedy promotes unity. Comedy is a social commentary. Comedy is a means of social commentary. Comedy is a tool for bringing people together. Comedy is a entertainment. Comedy is a vital part of human culture. Laughter is a health benefits. Humor is a subjective. Comedians is a humor. Comedy challenges societal norms. Comedy is a catalyst for change. Comedy promotes community. Comedy is a form of entertainment.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy is a tool for social commentary and criticism.",
+    "retrieved_context": "Comedy promotes unity. Comedy is a social commentary. Comedy is a means of social commentary. Comedy is a tool for bringing people together. Comedy is a entertainment. Comedy is a vital part of human culture. Humor is a subjective. Comedians is a humor. Comedy challenges societal norms. Comedy is a catalyst for change. Comedy promotes community. Comedy is a form of entertainment.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedians use humor to challenge societal norms.",
+    "retrieved_context": "Comedy promotes unity. Comedy is a social commentary. Comedy is a means of social commentary. Comedy is a tool for bringing people together. Comedy is a entertainment. Comedy is a vital part of human culture. Laughter is a health benefits. Humor is a subjective. Comedians is a humor. Comedy challenges societal norms. Comedy is a catalyst for change. Comedy promotes community. Comedy is a form of entertainment.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy highlights absurdities and injustices in society.",
+    "retrieved_context": "Comedy promotes unity. Comedy is a social commentary. Comedy is a means of social commentary. Comedy is a tool for bringing people together. Comedy is a entertainment. Comedy is a vital part of human culture. Laughter is a health benefits. Humor is a subjective. Comedians is a humor. Comedy challenges societal norms. Comedy is a catalyst for change. Comedy promotes community. Comedy is a form of entertainment.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy fosters a sense of community and unity.",
+    "retrieved_context": "Comedy promotes unity. Comedy is a social commentary. Comedy is a means of social commentary. Comedy is a tool for bringing people together. Comedy is a entertainment. Comedy is a vital part of human culture. Laughter is a health benefits. Humor is a subjective. Comedians is a humor. Comedy challenges societal norms. Comedy is a catalyst for change. Comedy promotes community. Comedy is a form of entertainment.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Shared laughter creates bonds among individuals.",
+    "retrieved_context": "Comedy promotes unity. Comedy is a social commentary. Laughter is a health benefits. Comedy is a means of social commentary. Comedy is a tool for bringing people together. Comedy is a entertainment. Comedy is a vital part of human culture. Humor is a subjective. Comedians is a humor. Comedy challenges societal norms. Comedy is a catalyst for change. Comedy promotes community. Comedy is a form of entertainment.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy events bring people together to connect through humor.",
+    "retrieved_context": "Comedy promotes unity. Comedy is a social commentary. Comedy is a means of social commentary. Comedy is a tool for bringing people together. Comedy is a entertainment. Comedy is a vital part of human culture. Laughter is a health benefits. Humor is a subjective. Comedians is a humor. Comedy challenges societal norms. Comedy is a catalyst for change. Comedy promotes community. Comedy is a form of entertainment.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy can promote change and challenge the status quo.",
+    "retrieved_context": "Comedy promotes unity. Comedy is a social commentary. Comedy is a means of social commentary. Comedy is a tool for bringing people together. Comedy is a entertainment. Comedy is a vital part of human culture. Humor is a subjective. Comedians is a humor. Comedy challenges societal norms. Comedy is a catalyst for change. Comedy promotes community. Comedy is a form of entertainment.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedians use humor to inspire action and drive social progress.",
+    "retrieved_context": "Comedy promotes unity. Comedy is a social commentary. Comedy is a means of social commentary. Comedy is a tool for bringing people together. Comedy is a entertainment. Comedy is a vital part of human culture. Laughter is a health benefits. Humor is a subjective. Comedians is a humor. Comedy challenges societal norms. Comedy is a catalyst for change. Comedy promotes community. Comedy is a form of entertainment.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Humor is subjective and can be offensive to some.",
+    "retrieved_context": "Comedy promotes unity. Comedy is a social commentary. Comedy is a means of social commentary. Comedy is a tool for bringing people together. Comedy is a entertainment. Comedy is a vital part of human culture. Laughter is a health benefits. Humor is a subjective. Comedians is a humor. Comedy challenges societal norms. Comedy is a catalyst for change. Comedy promotes community. Comedy is a form of entertainment.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedians must balance pushing boundaries with respecting sensitivities.",
+    "retrieved_context": "Comedy promotes unity. Comedy is a social commentary. Comedy is a means of social commentary. Comedy is a tool for bringing people together. Comedy is a entertainment. Comedy is a vital part of human culture. Laughter is a health benefits. Humor is a subjective. Comedians is a humor. Comedy challenges societal norms. Comedy is a catalyst for change. Comedy promotes community. Comedy is a form of entertainment.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedians must use humor responsibly and ethically.",
+    "retrieved_context": "Comedy promotes unity. Comedy is a social commentary. Comedy is a means of social commentary. Comedy is a tool for bringing people together. Comedy is a entertainment. Comedy is a vital part of human culture. Laughter is a health benefits. Humor is a subjective. Comedians is a humor. Comedy challenges societal norms. Comedy is a catalyst for change. Comedy promotes community. Comedy is a form of entertainment.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

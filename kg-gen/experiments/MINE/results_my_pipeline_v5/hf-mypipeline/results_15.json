@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Cooking is a complex chemical reaction.",
+    "retrieved_context": "Maillard reaction causes rich flavors and aromas. Maillard reaction occurs when proteins and sugars are exposed to heat. Acids determines flavor. Maillard reaction results in browning of food. Acids determines texture. Salt controls enzymatic reactions during cooking. Cooking is a complex chemical reaction. Acids determines structure of food. Chemistry of Cooking determines texture. Temperature control determines texture. Chemistry of Cooking determines taste. Salt enhances flavor of food. Maillard reaction forms new flavor compounds. Chemistry of Cooking determines nutritional value. Fermentation is the process of microorganisms break down sugars to produce acids, alcohol, and carbon dioxide.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Chemistry of cooking determines taste, texture, and nutritional value of food.",
+    "retrieved_context": "Maillard reaction causes rich flavors and aromas. Maillard reaction occurs when proteins and sugars are exposed to heat. Temperature control determines flavor of the food. Acids determines flavor. Maillard reaction results in browning of food. Acids determines texture. Salt controls enzymatic reactions during cooking. Cooking is a complex chemical reaction. Acids determines structure of food. Chemistry of Cooking determines texture. Temperature control determines texture. Temperature control determines color. Chemistry of Cooking determines taste. Salt enhances flavor of food. Maillard reaction forms new flavor compounds. Chemistry of Cooking determines nutritional value.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Maillard reaction is a key chemical reaction during cooking.",
+    "retrieved_context": "Maillard reaction causes rich flavors and aromas. Maillard reaction occurs when proteins and sugars are exposed to heat. Temperature control determines flavor of the food. Maillard reaction results in browning of food. Acids determines texture. Salt controls enzymatic reactions during cooking. Cooking is a complex chemical reaction. Temperature control determines texture. Chemistry of Cooking determines texture. Temperature control determines color. Chemistry of Cooking determines taste. Salt enhances flavor of food. Maillard reaction forms new flavor compounds. Chemistry of Cooking determines nutritional value. Fermentation is the process of microorganisms break down sugars to produce acids, alcohol, and carbon dioxide.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Maillard reaction results in browning of food and formation of flavor compounds.",
+    "retrieved_context": "Maillard reaction causes rich flavors and aromas. Maillard reaction occurs when proteins and sugars are exposed to heat. Lemon juice prevents fruits from browning. Temperature control determines flavor of the food. Maillard reaction results in browning of food. Acids determines texture. Salt controls enzymatic reactions during cooking. Temperature control determines texture. Chemistry of Cooking determines texture. Temperature control determines color. Chemistry of Cooking determines taste. Salt enhances flavor of food. Maillard reaction forms new flavor compounds. Chemistry of Cooking determines nutritional value.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Emulsification is an important chemical process in cooking.",
+    "retrieved_context": "Maillard reaction causes rich flavors and aromas. Maillard reaction occurs when proteins and sugars are exposed to heat. Maillard reaction results in browning of food. Acids determines texture. Salt controls enzymatic reactions during cooking. Cooking is a complex chemical reaction. Chemistry of Cooking determines texture. Temperature control determines texture. Chemistry of Cooking determines taste. Salt enhances flavor of food. Maillard reaction forms new flavor compounds. Emulsions forms creamy sauces, dressings, and mayonnaise. Chemistry of Cooking determines nutritional value. Fermentation is the process of microorganisms break down sugars to produce acids, alcohol, and carbon dioxide. Emulsification is the process of mixing two immiscible liquids.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Emulsification involves mixing immiscible liquids to form a stable emulsion.",
+    "retrieved_context": "Maillard reaction causes rich flavors and aromas. Maillard reaction occurs when proteins and sugars are exposed to heat. Acids determines flavor. Maillard reaction results in browning of food. Acids determines texture. Salt controls enzymatic reactions during cooking. Acids determines structure of food. Temperature control determines texture. Chemistry of Cooking determines texture. Salt enhances flavor of food. Maillard reaction forms new flavor compounds. Emulsions forms creamy sauces, dressings, and mayonnaise. Emulsification is the process of mixing two immiscible liquids.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Acids influence flavor, texture, and structure of food in cooking.",
+    "retrieved_context": "Maillard reaction causes rich flavors and aromas. Maillard reaction occurs when proteins and sugars are exposed to heat. Temperature control determines flavor of the food. Acids determines flavor. Maillard reaction results in browning of food. Acids determines texture. Salt controls enzymatic reactions during cooking. Acids determines structure of food. Cooking is a complex chemical reaction. Temperature control determines texture. Chemistry of Cooking determines texture. Temperature control determines color. Chemistry of Cooking determines taste. Salt enhances flavor of food. Maillard reaction forms new flavor compounds. Chemistry of Cooking determines nutritional value.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Salt enhances flavor and regulates enzymatic reactions in cooking.",
+    "retrieved_context": "Maillard reaction causes rich flavors and aromas. Maillard reaction occurs when proteins and sugars are exposed to heat. Temperature control determines flavor of the food. Maillard reaction results in browning of food. Acids determines texture. Salt controls enzymatic reactions during cooking. Cooking is a complex chemical reaction. Chemistry of Cooking determines texture. Temperature control determines texture. Temperature control determines color. Chemistry of Cooking determines taste. Salt enhances flavor of food. Maillard reaction forms new flavor compounds. Chemistry of Cooking determines nutritional value.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Temperature control affects texture, color, and flavor of food.",
+    "retrieved_context": "Maillard reaction occurs when proteins and sugars are exposed to heat. Maillard reaction causes rich flavors and aromas. Temperature control determines flavor of the food. Maillard reaction results in browning of food. Acids determines texture. Salt controls enzymatic reactions during cooking. Temperature control determines texture. Chemistry of Cooking determines texture. Temperature control determines color. Chemistry of Cooking determines taste. Salt enhances flavor of food. Maillard reaction forms new flavor compounds. Chemistry of Cooking determines nutritional value.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proteins denature and coagulate at specific temperatures.",
+    "retrieved_context": "Maillard reaction occurs when proteins and sugars are exposed to heat. Maillard reaction causes rich flavors and aromas. Temperature control determines flavor of the food. Acids determines flavor. Maillard reaction results in browning of food. Acids determines texture. Salt controls enzymatic reactions during cooking. Acids determines structure of food. Chemistry of Cooking determines texture. Temperature control determines texture. Temperature control determines color. Salt enhances flavor of food. Maillard reaction forms new flavor compounds. Fermentation is the process of microorganisms break down sugars to produce acids, alcohol, and carbon dioxide. Emulsification is the process of mixing two immiscible liquids.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fermentation is a food preservation technique involving microorganisms.",
+    "retrieved_context": "Maillard reaction causes rich flavors and aromas. Maillard reaction occurs when proteins and sugars are exposed to heat. Acids determines flavor. Maillard reaction results in browning of food. Acids determines texture. Salt controls enzymatic reactions during cooking. Cooking is a complex chemical reaction. Acids determines structure of food. Temperature control determines texture. Chemistry of Cooking determines texture. Chemistry of Cooking determines taste. Salt enhances flavor of food. Maillard reaction forms new flavor compounds. Chemistry of Cooking determines nutritional value. Fermentation is the process of microorganisms break down sugars to produce acids, alcohol, and carbon dioxide.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fermentation enhances flavor and nutritional value of food.",
+    "retrieved_context": "Maillard reaction causes rich flavors and aromas. Maillard reaction occurs when proteins and sugars are exposed to heat. Temperature control determines flavor of the food. Acids determines flavor. Maillard reaction results in browning of food. Acids determines texture. Salt controls enzymatic reactions during cooking. Acids determines structure of food. Temperature control determines texture. Chemistry of Cooking determines texture. Temperature control determines color. Chemistry of Cooking determines taste. Salt enhances flavor of food. Maillard reaction forms new flavor compounds. Chemistry of Cooking determines nutritional value. Fermentation is the process of microorganisms break down sugars to produce acids, alcohol, and carbon dioxide.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pickling involves preserving food in a brine solution.",
+    "retrieved_context": "Maillard reaction causes rich flavors and aromas. Maillard reaction occurs when proteins and sugars are exposed to heat. Temperature control determines flavor of the food. Acids determines flavor. Maillard reaction results in browning of food. Acids determines texture. Salt controls enzymatic reactions during cooking. Acids determines structure of food. Temperature control determines texture. Chemistry of Cooking determines texture. Temperature control determines color. Chemistry of Cooking determines taste. Salt enhances flavor of food. Maillard reaction forms new flavor compounds. Chemistry of Cooking determines nutritional value. Pickling preserves in a brine solution.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Chemistry of cooking is essential in culinary arts.",
+    "retrieved_context": "Maillard reaction causes rich flavors and aromas. Maillard reaction occurs when proteins and sugars are exposed to heat. Temperature control determines flavor of the food. Maillard reaction results in browning of food. Acids determines texture. Salt controls enzymatic reactions during cooking. Cooking is a complex chemical reaction. Chemistry of Cooking determines texture. Temperature control determines texture. Temperature control determines color. Chemistry of Cooking determines taste. Salt enhances flavor of food. Maillard reaction forms new flavor compounds. Chemistry of Cooking determines nutritional value. Fermentation is the process of microorganisms break down sugars to produce acids, alcohol, and carbon dioxide.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding chemical reactions in cooking helps create delicious dishes.",
+    "retrieved_context": "Maillard reaction causes rich flavors and aromas. Maillard reaction occurs when proteins and sugars are exposed to heat. Temperature control determines flavor of the food. Maillard reaction results in browning of food. Acids determines texture. Salt controls enzymatic reactions during cooking. Cooking is a complex chemical reaction. Chemistry of Cooking determines texture. Temperature control determines texture. Temperature control determines color. Chemistry of Cooking determines taste. Salt enhances flavor of food. Maillard reaction forms new flavor compounds. Chemistry of Cooking determines nutritional value. Fermentation is the process of microorganisms break down sugars to produce acids, alcohol, and carbon dioxide.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

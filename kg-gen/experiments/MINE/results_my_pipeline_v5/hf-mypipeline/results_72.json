@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Leonardo da Vinci painted the Mona Lisa in the early 16th century.",
+    "retrieved_context": "Mona Lisa painted in early 16th century. Leonardo da Vinci embodied Renaissance ideal of the 'Renaissance man'. Pablo Picasso pioneer_of Cubism. Vincent van Gogh known for emotionally charged landscapes. Leonardo da Vinci known for Mona Lisa. Michelangelo mastered anatomy and perspective. Art is a form of human expression. Mona Lisa is a masterpiece of the Renaissance period. Michelangelo known for frescoes on the ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Mona Lisa is considered a masterpiece of the Renaissance period.",
+    "retrieved_context": "Mona Lisa painted in early 16th century. Leonardo da Vinci embodied Renaissance ideal of the 'Renaissance man'. Caravaggio known for dramatic use of light and shadow. Caravaggio known for intense realism and emotional depth. Leonardo da Vinci known for Mona Lisa. Michelangelo mastered anatomy and perspective. Sistine Chapel frescoes painted in 1508 and 1512. Mona Lisa is a masterpiece of the Renaissance period. Michelangelo known for frescoes on the ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Michelangelo painted the frescoes on the ceiling of the Sistine Chapel between 1508 and 1512.",
+    "retrieved_context": "Mona Lisa painted in early 16th century. Leonardo da Vinci embodied Renaissance ideal of the 'Renaissance man'. Sistine Chapel frescoes painted in 1508 and 1512. Michelangelo mastered anatomy and perspective. Leonardo da Vinci known for Mona Lisa. Mona Lisa is a masterpiece of the Renaissance period. Michelangelo known for frescoes on the ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The frescoes on the Sistine Chapel ceiling feature scenes from the Bible.",
+    "retrieved_context": "Art is a form of human expression. Mona Lisa painted in early 16th century. Leonardo da Vinci embodied Renaissance ideal of the 'Renaissance man'. The Calling of Saint Matthew depicts moment when Jesus calls Matthew to become one of his disciples. Sistine Chapel frescoes painted in 1508 and 1512. Michelangelo mastered anatomy and perspective. Leonardo da Vinci known for Mona Lisa. Claude Monet known for series of paintings of water lilies and gardens at Giverny. Mona Lisa is a masterpiece of the Renaissance period. Michelangelo known for frescoes on the ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Caravaggio was known for his dramatic use of light and shadow in his paintings.",
+    "retrieved_context": "Mona Lisa painted in early 16th century. Leonardo da Vinci embodied Renaissance ideal of the 'Renaissance man'. Caravaggio known for dramatic use of light and shadow. Frida Kahlo known for powerful self-portraits. Vincent van Gogh known for emotionally charged landscapes. Caravaggio known for intense realism and emotional depth. Leonardo da Vinci known for Mona Lisa. Michelangelo mastered anatomy and perspective. Mona Lisa is a masterpiece of the Renaissance period. Michelangelo known for frescoes on the ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "One of Caravaggio's famous works is 'The Calling of Saint Matthew'.",
+    "retrieved_context": "Mona Lisa painted in early 16th century. Leonardo da Vinci embodied Renaissance ideal of the 'Renaissance man'. Caravaggio known for dramatic use of light and shadow. The Calling of Saint Matthew depicts moment when Jesus calls Matthew to become one of his disciples. Caravaggio known for intense realism and emotional depth. Leonardo da Vinci known for Mona Lisa. Michelangelo mastered anatomy and perspective. Mona Lisa is a masterpiece of the Renaissance period. Michelangelo known for frescoes on the ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Claude Monet is famous for his series of paintings of water lilies and gardens at Giverny.",
+    "retrieved_context": "Mona Lisa painted in early 16th century. Frida Kahlo known for powerful self-portraits. Pablo Picasso pioneer_of Cubism. Vincent van Gogh known for emotionally charged landscapes. Monet used loose brushwork and vibrant colors. Michelangelo mastered anatomy and perspective. Leonardo da Vinci known for Mona Lisa. Claude Monet known for series of paintings of water lilies and gardens at Giverny. Mona Lisa is a masterpiece of the Renaissance period. Michelangelo known for frescoes on the ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Monet's paintings are known for their loose brushwork and vibrant colors.",
+    "retrieved_context": "Art is a form of human expression. Frida Kahlo known for powerful self-portraits. Pablo Picasso pioneer_of Cubism. Vincent van Gogh known for emotionally charged landscapes. Monet used loose brushwork and vibrant colors. Claude Monet known for series of paintings of water lilies and gardens at Giverny.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pablo Picasso was a pioneer of Cubism in the 20th century.",
+    "retrieved_context": "Mona Lisa painted in early 16th century. Claude Monet known for series of paintings of water lilies and gardens at Giverny. Leonardo da Vinci embodied Renaissance ideal of the 'Renaissance man'. Pablo Picasso pioneer_of Cubism. Vincent van Gogh known for emotionally charged landscapes. Michelangelo mastered anatomy and perspective. Leonardo da Vinci known for Mona Lisa. Art is a form of human expression. Mona Lisa is a masterpiece of the Renaissance period. Michelangelo known for frescoes on the ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Picasso's painting 'Les Demoiselles d'Avignon' shattered traditional notions of perspective.",
+    "retrieved_context": "Mona Lisa painted in early 16th century. Caravaggio known for dramatic use of light and shadow. Pablo Picasso pioneer_of Cubism. Caravaggio known for intense realism and emotional depth. Michelangelo mastered anatomy and perspective. Mona Lisa is a masterpiece of the Renaissance period. Leonardo da Vinci known for Mona Lisa. Art is a form of human expression. Les Demoiselles d'Avignon challenged perspective and representation. Michelangelo known for frescoes on the ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Vincent van Gogh created emotionally charged landscapes in his artworks.",
+    "retrieved_context": "Claude Monet known for series of paintings of water lilies and gardens at Giverny. Caravaggio known for dramatic use of light and shadow. Frida Kahlo known for powerful self-portraits. Pablo Picasso pioneer_of Cubism. Vincent van Gogh known for emotionally charged landscapes. Caravaggio known for intense realism and emotional depth. Art is a form of human expression.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Frida Kahlo is known for her powerful self-portraits.",
+    "retrieved_context": "Art is a form of human expression. Mona Lisa painted in early 16th century. Leonardo da Vinci embodied Renaissance ideal of the 'Renaissance man'. Frida Kahlo known for powerful self-portraits. Pablo Picasso pioneer_of Cubism. Leonardo da Vinci known for Mona Lisa. Michelangelo mastered anatomy and perspective. Claude Monet known for series of paintings of water lilies and gardens at Giverny. Mona Lisa is a masterpiece of the Renaissance period. Michelangelo known for frescoes on the ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Artists like Leonardo da Vinci embodied the Renaissance ideal of the 'Renaissance man'.",
+    "retrieved_context": "Mona Lisa painted in early 16th century. Leonardo da Vinci embodied Renaissance ideal of the 'Renaissance man'. Frida Kahlo known for powerful self-portraits. Pablo Picasso pioneer_of Cubism. Vincent van Gogh known for emotionally charged landscapes. Leonardo da Vinci known for Mona Lisa. Michelangelo mastered anatomy and perspective. Mona Lisa is a masterpiece of the Renaissance period. Michelangelo known for frescoes on the ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Michelangelo's work on the Sistine Chapel ceiling continues to inspire artists.",
+    "retrieved_context": "Mona Lisa painted in early 16th century. Leonardo da Vinci embodied Renaissance ideal of the 'Renaissance man'. Sistine Chapel frescoes painted in 1508 and 1512. Michelangelo mastered anatomy and perspective. Leonardo da Vinci known for Mona Lisa. Art is a form of human expression. Mona Lisa is a masterpiece of the Renaissance period. Michelangelo known for frescoes on the ceiling of the Sistine Chapel.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Impressionists aimed to capture the effects of light and color in their paintings.",
+    "retrieved_context": "Claude Monet known for series of paintings of water lilies and gardens at Giverny. Caravaggio known for dramatic use of light and shadow. Frida Kahlo known for powerful self-portraits. Pablo Picasso pioneer_of Cubism. Vincent van Gogh known for emotionally charged landscapes. Monet used loose brushwork and vibrant colors. Caravaggio known for intense realism and emotional depth. Art is a form of human expression.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sputnik 1 was the first artificial satellite launched by the Soviet Union on October 4, 1957.",
+    "retrieved_context": "Yuri Gagarin first to travel into space. history of human space travel demonstrated determination. Sputnik 1 represents humble beginnings. history of human space travel demonstrated ingenuity. Sputnik 1 launched Soviet Union. history of human space travel demonstrated courage. Yuri Gagarin travel date April 12, 1961. NASA is National Aeronautics and Space Administration. International Space Station is International Space Station. Sputnik 1 launch date October 4, 1957. space shuttle program launch date 1980s. Sputnik 1 represents dawn of the space age. International Space Station is collaborative effort. space shuttle program launched NASA.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The launch of Sputnik 1 marked the beginning of the space age.",
+    "retrieved_context": "Sputnik 1 represents humble beginnings. Apollo 11 landed on moon. Sputnik 1 launched Soviet Union. Apollo 11 landed on July 20, 1969. International Space Station is International Space Station. Yuri Gagarin first to travel into space. history of human space travel demonstrated determination. SpaceX launched Elon Musk. history of human space travel demonstrated courage. NASA is National Aeronautics and Space Administration. Sputnik 1 represents dawn of the space age. Yuri Gagarin travel date April 12, 1961. SpaceX plans send humans to Mars. Sputnik 1 launch date October 4, 1957. International Space Station is collaborative effort. history of human space travel demonstrated ingenuity. SpaceX launched multiple crewed missions to the ISS. space shuttle program launch date 1980s. space shuttle program launched NASA.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The United States and the Soviet Union engaged in a race to explore space after the launch of Sputnik 1.",
+    "retrieved_context": "Yuri Gagarin first to travel into space. history of human space travel demonstrated determination. Sputnik 1 represents humble beginnings. history of human space travel demonstrated ingenuity. Sputnik 1 launched Soviet Union. history of human space travel demonstrated courage. Yuri Gagarin travel date April 12, 1961. NASA is National Aeronautics and Space Administration. International Space Station is International Space Station. Sputnik 1 launch date October 4, 1957. space shuttle program launch date 1980s. Sputnik 1 represents dawn of the space age. International Space Station is collaborative effort. space shuttle program launched NASA.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yuri Gagarin was the first human to travel into space on April 12, 1961.",
+    "retrieved_context": "Yuri Gagarin first to travel into space. history of human space travel demonstrated determination. Sputnik 1 represents humble beginnings. history of human space travel demonstrated ingenuity. Sputnik 1 launched Soviet Union. history of human space travel demonstrated courage. Yuri Gagarin travel date April 12, 1961. NASA is National Aeronautics and Space Administration. International Space Station is International Space Station. Sputnik 1 launch date October 4, 1957. space shuttle program launch date 1980s. Sputnik 1 represents dawn of the space age. International Space Station is collaborative effort. Gagarin flight aboard Vostok 1. space shuttle program launched NASA.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yuri Gagarin's flight aboard Vostok 1 was a significant milestone in human history.",
+    "retrieved_context": "Yuri Gagarin first to travel into space. history of human space travel demonstrated determination. Sputnik 1 represents humble beginnings. history of human space travel demonstrated ingenuity. Sputnik 1 launched Soviet Union. history of human space travel demonstrated courage. Yuri Gagarin travel date April 12, 1961. NASA is National Aeronautics and Space Administration. Sputnik 1 launch date October 4, 1957. space shuttle program launch date 1980s. Sputnik 1 represents dawn of the space age. Gagarin flight aboard Vostok 1. space shuttle program launched NASA.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "NASA is the National Aeronautics and Space Administration of the United States.",
+    "retrieved_context": "Yuri Gagarin first to travel into space. history of human space travel demonstrated determination. Sputnik 1 represents humble beginnings. history of human space travel demonstrated ingenuity. Sputnik 1 launched Soviet Union. Apollo 11 landed on moon. Apollo 11 landed on July 20, 1969. history of human space travel demonstrated courage. Yuri Gagarin travel date April 12, 1961. NASA is National Aeronautics and Space Administration. International Space Station is International Space Station. Sputnik 1 launch date October 4, 1957. space shuttle program launch date 1980s. Sputnik 1 represents dawn of the space age. International Space Station is collaborative effort. space shuttle program launched NASA.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Apollo 11 landed on the moon on July 20, 1969.",
+    "retrieved_context": "Yuri Gagarin first to travel into space. history of human space travel demonstrated determination. Apollo 11 landed on moon. history of human space travel demonstrated ingenuity. Apollo 11 landed on July 20, 1969. history of human space travel demonstrated courage. Yuri Gagarin travel date April 12, 1961. NASA is National Aeronautics and Space Administration. space shuttle program launched NASA. Buzz Aldrin first to set foot on moon. space shuttle program launch date 1980s. Neil Armstrong first to set foot on moon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neil Armstrong and Buzz Aldrin were the first humans to set foot on the moon during the Apollo 11 mission.",
+    "retrieved_context": "history of human space travel demonstrated determination. Apollo 11 landed on moon. history of human space travel demonstrated ingenuity. Apollo 11 landed on July 20, 1969. SpaceX launched Elon Musk. humans demonstrated thirst for knowledge. history of human space travel demonstrated courage. humans demonstrated adventure. SpaceX launched multiple crewed missions to the ISS. Buzz Aldrin first to set foot on moon. SpaceX plans send humans to Mars. Neil Armstrong first to set foot on moon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle program was initiated by NASA in the 1980s.",
+    "retrieved_context": "history of human space travel demonstrated determination. Sputnik 1 represents humble beginnings. history of human space travel demonstrated ingenuity. Sputnik 1 launched Soviet Union. history of human space travel demonstrated courage. NASA is National Aeronautics and Space Administration. space shuttle Challenger disaster occurred in 1986. International Space Station is International Space Station. Sputnik 1 launch date October 4, 1957. space shuttle program launch date 1980s. Sputnik 1 represents dawn of the space age. International Space Station is collaborative effort. space shuttle program launched NASA.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle program provided a reusable spacecraft for multiple missions.",
+    "retrieved_context": "Yuri Gagarin first to travel into space. history of human space travel demonstrated determination. history of human space travel demonstrated ingenuity. SpaceX launched Elon Musk. history of human space travel demonstrated courage. Yuri Gagarin travel date April 12, 1961. NASA is National Aeronautics and Space Administration. International Space Station is International Space Station. space shuttle Challenger disaster occurred in 1986. SpaceX launched multiple crewed missions to the ISS. SpaceX plans send humans to Mars. space shuttle program launch date 1980s. International Space Station is collaborative effort. space shuttle program launched NASA.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The International Space Station (ISS) was constructed as a collaborative effort between multiple countries.",
+    "retrieved_context": "history of human space travel demonstrated determination. history of human space travel demonstrated ingenuity. SpaceX launched Elon Musk. history of human space travel demonstrated courage. SpaceX launched multiple crewed missions to the ISS. NASA is National Aeronautics and Space Administration. International Space Station is International Space Station. SpaceX plans send humans to Mars. space shuttle program launch date 1980s. International Space Station is collaborative effort. space shuttle program launched NASA.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX is a private company founded by Elon Musk.",
+    "retrieved_context": "Yuri Gagarin first to travel into space. history of human space travel demonstrated determination. Sputnik 1 represents humble beginnings. history of human space travel demonstrated ingenuity. Sputnik 1 launched Soviet Union. SpaceX launched Elon Musk. history of human space travel demonstrated courage. Yuri Gagarin travel date April 12, 1961. Sputnik 1 launch date October 4, 1957. International Space Station is International Space Station. NASA is National Aeronautics and Space Administration. SpaceX launched multiple crewed missions to the ISS. SpaceX plans send humans to Mars. space shuttle program launch date 1980s. Sputnik 1 represents dawn of the space age. International Space Station is collaborative effort. space shuttle program launched NASA.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "SpaceX has successfully launched multiple crewed missions to the ISS.",
+    "retrieved_context": "Yuri Gagarin first to travel into space. history of human space travel demonstrated determination. history of human space travel demonstrated ingenuity. SpaceX launched Elon Musk. history of human space travel demonstrated courage. Yuri Gagarin travel date April 12, 1961. International Space Station is International Space Station. NASA is National Aeronautics and Space Administration. SpaceX launched multiple crewed missions to the ISS. SpaceX plans send humans to Mars. space shuttle program launch date 1980s. International Space Station is collaborative effort. space shuttle program launched NASA.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle Challenger disaster occurred in 1986.",
+    "retrieved_context": "history of human space travel demonstrated determination. history of human space travel demonstrated ingenuity. history of human space travel demonstrated courage. space shuttle Challenger disaster occurred in 1986. NASA is National Aeronautics and Space Administration. Columbia disaster occurred in 2003. space shuttle program launch date 1980s. space shuttle program launched NASA.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plans for manned missions to Mars and the establishment of lunar bases are part of the future of human space travel.",
+    "retrieved_context": "Sputnik 1 represents humble beginnings. Apollo 11 landed on moon. Sputnik 1 launched Soviet Union. Apollo 11 landed on July 20, 1969. Buzz Aldrin first to set foot on moon. Yuri Gagarin first to travel into space. history of human space travel demonstrated determination. SpaceX launched Elon Musk. history of human space travel demonstrated courage. NASA is National Aeronautics and Space Administration. Sputnik 1 represents dawn of the space age. Neil Armstrong first to set foot on moon. Yuri Gagarin travel date April 12, 1961. Sputnik 1 launch date October 4, 1957. SpaceX plans send humans to Mars. history of human space travel demonstrated ingenuity. SpaceX launched multiple crewed missions to the ISS. space shuttle program launch date 1980s. space shuttle program launched NASA.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

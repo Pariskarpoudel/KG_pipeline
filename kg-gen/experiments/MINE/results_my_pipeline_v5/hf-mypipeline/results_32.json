@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Writing allows us to record and communicate information across time and space.",
+    "retrieved_context": "alphabet can be traced back to the ancient Near East. development of writing systems marks crucial milestone in human culture and society. writing is a significant invention. Unicode allows global exchange of written texts in multiple languages and scripts. early forms of writing emerged around 3000 BCE. early forms of writing can be traced back to ancient civilizations such as Sumer, Egypt, and China. writing allows communicating information across time and space. writing allows recording information.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The development of writing systems is a crucial milestone in human culture and society.",
+    "retrieved_context": "alphabet can be traced back to the ancient Near East. development of writing systems marks crucial milestone in human culture and society. writing is a significant invention. Jean-Fran\u00e7ois Champollion deciphered hieroglyphics in the 19th century. Unicode allows global exchange of written texts in multiple languages and scripts. early forms of writing emerged around 3000 BCE. early forms of writing can be traced back to ancient civilizations such as Sumer, Egypt, and China. hieroglyphics used by ancient Egyptians. writing allows communicating information across time and space. writing allows recording information.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Early writing systems were primarily pictographic, with symbols representing objects, ideas, or sounds.",
+    "retrieved_context": "alphabet can be traced back to the ancient Near East. cuneiform consisted of wedge-shaped symbols impressed on clay tablets. Chinese characters are complex symbols that represent words or morphemes. development of writing systems marks crucial milestone in human culture and society. Jean-Fran\u00e7ois Champollion deciphered hieroglyphics in the 19th century. writing is a significant invention. early forms of writing emerged around 3000 BCE. early forms of writing can be traced back to ancient civilizations such as Sumer, Egypt, and China. cuneiform used by the ancient Sumerians in Mesopotamia. hieroglyphics used by ancient Egyptians. writing allows communicating information across time and space. writing allows recording information.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cuneiform was used by the ancient Sumerians in Mesopotamia for accounting and record-keeping.",
+    "retrieved_context": "alphabet can be traced back to the ancient Near East. cuneiform consisted of wedge-shaped symbols impressed on clay tablets. Jean-Fran\u00e7ois Champollion deciphered hieroglyphics in the 19th century. writing is a significant invention. early forms of writing emerged around 3000 BCE. early forms of writing can be traced back to ancient civilizations such as Sumer, Egypt, and China. cuneiform used by the ancient Sumerians in Mesopotamia. hieroglyphics used by ancient Egyptians. writing allows communicating information across time and space. writing allows recording information.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Hieroglyphics in ancient Egypt were used to record important religious and historical texts.",
+    "retrieved_context": "alphabet can be traced back to the ancient Near East. cuneiform consisted of wedge-shaped symbols impressed on clay tablets. Greek alphabet consisted of individual symbols for consonants and vowels. Jean-Fran\u00e7ois Champollion deciphered hieroglyphics in the 19th century. early forms of writing emerged around 3000 BCE. early forms of writing can be traced back to ancient civilizations such as Sumer, Egypt, and China. cuneiform used by the ancient Sumerians in Mesopotamia. hieroglyphics used by ancient Egyptians.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Chinese characters are complex symbols representing words or morphemes.",
+    "retrieved_context": "Greek alphabet consisted of individual symbols for consonants and vowels. alphabet can be traced back to the ancient Near East. cuneiform consisted of wedge-shaped symbols impressed on clay tablets. Chinese characters are complex symbols that represent words or morphemes. Jean-Fran\u00e7ois Champollion deciphered hieroglyphics in the 19th century. Unicode allows global exchange of written texts in multiple languages and scripts. cuneiform used by the ancient Sumerians in Mesopotamia. hieroglyphics used by ancient Egyptians.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The alphabet introduced a more efficient method of representing speech sounds.",
+    "retrieved_context": "Greek alphabet consisted of individual symbols for consonants and vowels. alphabet can be traced back to the ancient Near East. Jean-Fran\u00e7ois Champollion deciphered hieroglyphics in the 19th century. development of writing systems marks crucial milestone in human culture and society. Unicode allows global exchange of written texts in multiple languages and scripts. early forms of writing emerged around 3000 BCE. early forms of writing can be traced back to ancient civilizations such as Sumer, Egypt, and China. hieroglyphics used by ancient Egyptians.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The spread of the Greek alphabet laid the foundation for many modern writing systems.",
+    "retrieved_context": "Greek alphabet consisted of individual symbols for consonants and vowels. alphabet can be traced back to the ancient Near East. development of writing systems marks crucial milestone in human culture and society. Jean-Fran\u00e7ois Champollion deciphered hieroglyphics in the 19th century. writing is a significant invention. Unicode allows global exchange of written texts in multiple languages and scripts. early forms of writing emerged around 3000 BCE. early forms of writing can be traced back to ancient civilizations such as Sumer, Egypt, and China. hieroglyphics used by ancient Egyptians. writing allows communicating information across time and space. writing allows recording information.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Writing systems are influenced by cultural, technological, and social factors.",
+    "retrieved_context": "alphabet can be traced back to the ancient Near East. development of writing systems marks crucial milestone in human culture and society. writing is a significant invention. Jean-Fran\u00e7ois Champollion deciphered hieroglyphics in the 19th century. Unicode allows global exchange of written texts in multiple languages and scripts. early forms of writing emerged around 3000 BCE. early forms of writing can be traced back to ancient civilizations such as Sumer, Egypt, and China. writing allows communicating information across time and space. writing allows recording information.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Digital technology has transformed the way we write and communicate.",
+    "retrieved_context": "cuneiform consisted of wedge-shaped symbols impressed on clay tablets. development of writing systems marks crucial milestone in human culture and society. writing is a significant invention. Unicode allows global exchange of written texts in multiple languages and scripts. early forms of writing emerged around 3000 BCE. early forms of writing can be traced back to ancient civilizations such as Sumer, Egypt, and China. cuneiform used by the ancient Sumerians in Mesopotamia. writing allows communicating information across time and space. writing allows recording information.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Unicode facilitates the global exchange of written texts in multiple languages and scripts.",
+    "retrieved_context": "alphabet can be traced back to the ancient Near East. Greek alphabet consisted of individual symbols for consonants and vowels. Chinese characters are complex symbols that represent words or morphemes. development of writing systems marks crucial milestone in human culture and society. writing is a significant invention. Unicode allows global exchange of written texts in multiple languages and scripts. early forms of writing emerged around 3000 BCE. early forms of writing can be traced back to ancient civilizations such as Sumer, Egypt, and China. writing allows communicating information across time and space. writing allows recording information.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "New forms of communication are emerging in response to the changing needs of society.",
+    "retrieved_context": "development of writing systems marks crucial milestone in human culture and society. writing is a significant invention. Unicode allows global exchange of written texts in multiple languages and scripts. early forms of writing emerged around 3000 BCE. early forms of writing can be traced back to ancient civilizations such as Sumer, Egypt, and China. writing allows communicating information across time and space. writing allows recording information.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Writing systems have played a crucial role in shaping human civilization and culture.",
+    "retrieved_context": "alphabet can be traced back to the ancient Near East. development of writing systems marks crucial milestone in human culture and society. writing is a significant invention. Jean-Fran\u00e7ois Champollion deciphered hieroglyphics in the 19th century. Unicode allows global exchange of written texts in multiple languages and scripts. early forms of writing emerged around 3000 BCE. early forms of writing can be traced back to ancient civilizations such as Sumer, Egypt, and China. writing allows communicating information across time and space. writing allows recording information.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Writing systems have evolved to meet the diverse needs of human communication.",
+    "retrieved_context": "alphabet can be traced back to the ancient Near East. cuneiform consisted of wedge-shaped symbols impressed on clay tablets. development of writing systems marks crucial milestone in human culture and society. writing is a significant invention. Unicode allows global exchange of written texts in multiple languages and scripts. early forms of writing emerged around 3000 BCE. early forms of writing can be traced back to ancient civilizations such as Sumer, Egypt, and China. cuneiform used by the ancient Sumerians in Mesopotamia. writing allows communicating information across time and space. writing allows recording information.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The legacy of ancient writing systems reminds us of the enduring power of words.",
+    "retrieved_context": "alphabet can be traced back to the ancient Near East. Greek alphabet consisted of individual symbols for consonants and vowels. cuneiform consisted of wedge-shaped symbols impressed on clay tablets. Chinese characters are complex symbols that represent words or morphemes. development of writing systems marks crucial milestone in human culture and society. writing is a significant invention. early forms of writing emerged around 3000 BCE. early forms of writing can be traced back to ancient civilizations such as Sumer, Egypt, and China. cuneiform used by the ancient Sumerians in Mesopotamia. hieroglyphics used by ancient Egyptians. writing allows communicating information across time and space. writing allows recording information.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "40.00%"
+  }
+]

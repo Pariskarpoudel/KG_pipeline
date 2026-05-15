@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Fire provides warmth and light to humans in history.",
+    "retrieved_context": "cooking food made it more palatable. discovery of fire led to invention of pottery and ceramics. fire led to improved nutrition. early humans used fire for extending waking hours. fire heats homes. fire provided light. smelting metals led to development of tools, weapons, and technologies. fire used in cooking in restaurants. fire led to cooking food. sharing meals around fire led to community and cooperation. cooking food breaks down tough fibers. fire provided warmth. ancient civilizations worshipped fire as a deity or sacred element. fire led to smelting metals. fire represented destruction and renewal in culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fire enables cooking and tool-making for humans.",
+    "retrieved_context": "different cooking methods emerged roasting, boiling, and baking. cooking food made it more palatable. discovery of fire led to invention of pottery and ceramics. fire led to improved nutrition. fire heats homes. fire provided light. smelting metals led to development of tools, weapons, and technologies. fire used in cooking in restaurants. fire led to cooking food. sharing meals around fire led to community and cooperation. cooking food breaks down tough fibers. fire provided warmth. fire led to smelting metals. fire represented destruction and renewal in culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fire extends waking hours and increases productivity.",
+    "retrieved_context": "different cooking methods emerged roasting, boiling, and baking. cooking food made it more palatable. early humans used fire for extending waking hours. fire led to improved nutrition. discovery of fire led to invention of pottery and ceramics. fire heats homes. fire provided light. smelting metals led to development of tools, weapons, and technologies. fire used in cooking in restaurants. fire led to cooking food. sharing meals around fire led to community and cooperation. cooking food breaks down tough fibers. fire provided warmth. fire led to smelting metals. fire represented destruction and renewal in culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cooking food over fire makes it more palatable.",
+    "retrieved_context": "different cooking methods emerged roasting, boiling, and baking. cooking food made it more palatable. discovery of fire led to invention of pottery and ceramics. fire led to improved nutrition. fire heats homes. fire provided light. fire used in cooking in restaurants. smelting metals led to development of tools, weapons, and technologies. fire led to cooking food. sharing meals around fire led to community and cooperation. cooking food breaks down tough fibers. fire provided warmth. fire led to smelting metals. fire represented destruction and renewal in culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cooking food over fire breaks down tough fibers and kills harmful bacteria.",
+    "retrieved_context": "different cooking methods emerged roasting, boiling, and baking. cooking food made it more palatable. discovery of fire led to invention of pottery and ceramics. fire led to improved nutrition. fire heats homes. fire used in cooking in restaurants. fire provided light. smelting metals led to development of tools, weapons, and technologies. fire led to cooking food. sharing meals around fire led to community and cooperation. cooking food breaks down tough fibers. fire provided warmth. fire led to smelting metals. fire represented destruction and renewal in culture.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cooking food over fire leads to improved nutrition and well-being.",
+    "retrieved_context": "different cooking methods emerged roasting, boiling, and baking. cooking food made it more palatable. discovery of fire led to invention of pottery and ceramics. fire led to improved nutrition. fire heats homes. fire used in cooking in restaurants. fire provided light. smelting metals led to development of tools, weapons, and technologies. fire led to cooking food. sharing meals around fire led to community and cooperation. cooking food breaks down tough fibers. fire provided warmth. fire led to smelting metals. fire represented destruction and renewal in culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different cooking methods like roasting and boiling emerge due to fire.",
+    "retrieved_context": "different cooking methods emerged roasting, boiling, and baking. cooking food made it more palatable. discovery of fire led to invention of pottery and ceramics. fire led to improved nutrition. fire heats homes. fire provided light. fire used in cooking in restaurants. smelting metals led to development of tools, weapons, and technologies. fire led to cooking food. sharing meals around fire led to community and cooperation. cooking food breaks down tough fibers. fire provided warmth. fire led to smelting metals. fire represented destruction and renewal in culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sharing meals around a fire fosters community and cooperation.",
+    "retrieved_context": "cooking food made it more palatable. discovery of fire led to invention of pottery and ceramics. fire led to improved nutrition. fire heats homes. fire provided light. smelting metals led to development of tools, weapons, and technologies. fire used in cooking in restaurants. fire led to cooking food. sharing meals around fire led to community and cooperation. cooking food breaks down tough fibers. fire provided warmth. fire led to smelting metals. fire represented destruction and renewal in culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fire allows smelting of metals for tool and weapon development.",
+    "retrieved_context": "different cooking methods emerged roasting, boiling, and baking. cooking food made it more palatable. discovery of fire led to invention of pottery and ceramics. fire led to improved nutrition. fire heats homes. fire used in cooking in restaurants. smelting metals led to development of tools, weapons, and technologies. fire provided light. fire led to cooking food. sharing meals around fire led to community and cooperation. cooking food breaks down tough fibers. fire provided warmth. fire led to smelting metals. fire represented destruction and renewal in culture. modern times used fire for powering engines and generating electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fire leads to the invention of pottery and ceramics.",
+    "retrieved_context": "different cooking methods emerged roasting, boiling, and baking. cooking food made it more palatable. discovery of fire led to invention of pottery and ceramics. fire led to improved nutrition. fire heats homes. fire provided light. smelting metals led to development of tools, weapons, and technologies. fire used in cooking in restaurants. fire led to cooking food. sharing meals around fire led to community and cooperation. cooking food breaks down tough fibers. fire provided warmth. ancient civilizations worshipped fire as a deity or sacred element. fire led to smelting metals. fire represented destruction and renewal in culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fire is a symbol of destruction and renewal in human culture.",
+    "retrieved_context": "cooking food made it more palatable. discovery of fire led to invention of pottery and ceramics. fire led to improved nutrition. early humans used fire for extending waking hours. fire heats homes. fire used in cooking in restaurants. fire provided light. smelting metals led to development of tools, weapons, and technologies. fire led to cooking food. sharing meals around fire led to community and cooperation. cooking food breaks down tough fibers. fire provided warmth. ancient civilizations worshipped fire as a deity or sacred element. fire led to smelting metals. fire represented destruction and renewal in culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fire is worshipped as a deity in ancient civilizations.",
+    "retrieved_context": "cooking food made it more palatable. discovery of fire led to invention of pottery and ceramics. fire led to improved nutrition. fire heats homes. fire provided light. smelting metals led to development of tools, weapons, and technologies. fire used in cooking in restaurants. fire led to cooking food. sharing meals around fire led to community and cooperation. cooking food breaks down tough fibers. fire provided warmth. ancient civilizations worshipped fire as a deity or sacred element. fire led to smelting metals. fire represented destruction and renewal in culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fire is used in various industries for powering engines and generating electricity.",
+    "retrieved_context": "different cooking methods emerged roasting, boiling, and baking. cooking food made it more palatable. discovery of fire led to invention of pottery and ceramics. fire led to improved nutrition. fire heats homes. fire provided light. smelting metals led to development of tools, weapons, and technologies. fire used in cooking in restaurants. fire led to cooking food. sharing meals around fire led to community and cooperation. cooking food breaks down tough fibers. fire provided warmth. fire led to smelting metals. fire represented destruction and renewal in culture. modern times used fire for powering engines and generating electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fire is used for heating homes and cooking in restaurants.",
+    "retrieved_context": "different cooking methods emerged roasting, boiling, and baking. cooking food made it more palatable. discovery of fire led to invention of pottery and ceramics. fire led to improved nutrition. fire heats homes. fire provided light. smelting metals led to development of tools, weapons, and technologies. fire used in cooking in restaurants. fire led to cooking food. sharing meals around fire led to community and cooperation. cooking food breaks down tough fibers. fire provided warmth. fire led to smelting metals. fire represented destruction and renewal in culture.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Widespread use of fire leads to environmental challenges like air pollution.",
+    "retrieved_context": "different cooking methods emerged roasting, boiling, and baking. cooking food made it more palatable. discovery of fire led to invention of pottery and ceramics. fire led to improved nutrition. fire heats homes. fire provided light. smelting metals led to development of tools, weapons, and technologies. fire used in cooking in restaurants. fire led to cooking food. sharing meals around fire led to community and cooperation. cooking food breaks down tough fibers. fire provided warmth. fire led to smelting metals. fire represented destruction and renewal in culture.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

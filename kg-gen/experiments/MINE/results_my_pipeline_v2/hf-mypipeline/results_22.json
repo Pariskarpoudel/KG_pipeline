@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Social media revolutionized communication in the digital age.",
+    "retrieved_context": "social media promotes inclusion. Instagram is a platform. social media has impacted perceptions. Snapchat is a platform. instant messaging is a feature. social media promotes superficial communication. social media promotes diversity. social media promotes social activism. news spreads_via social networking sites. social media has impacted relationships. Facebook is a platform. social media promotes others. social media has impacted communication. video calls is a feature. Twitter provides_platform underrepresented communities. social networking features is a feature. social media has impacted behaviors. Twitter is a platform. social media promotes shallow communication.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Social media impacted relationships, behaviors, and perceptions.",
+    "retrieved_context": "social media promotes inclusion. Instagram is a platform. social media has impacted perceptions. Snapchat is a platform. instant messaging is a feature. social media promotes superficial communication. social media promotes diversity. news spreads_via social networking sites. social media promotes social activism. social media has impacted relationships. Facebook is a platform. social media promotes others. social media has impacted communication. video calls is a feature. Twitter provides_platform underrepresented communities. social networking features is a feature. social media has impacted behaviors. Twitter is a platform. social media promotes shallow communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media influenced communication positively and negatively.",
+    "retrieved_context": "likes is a form of communication. social media promotes inclusion. Instagram is a platform. social media has impacted perceptions. Snapchat is a platform. instant messaging is a feature. social media promotes superficial communication. shares is a form of communication. social media promotes diversity. social media promotes social activism. news spreads_via social networking sites. social media has impacted relationships. Facebook is a platform. social media promotes others. social media has impacted communication. video calls is a feature. Twitter provides_platform underrepresented communities. social networking features is a feature. emojis is a form of communication. social media has impacted behaviors. Twitter is a platform. social media promotes shallow communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media enables connection regardless of physical distance.",
+    "retrieved_context": "social media promotes inclusion. Instagram is a platform. social media has impacted perceptions. Snapchat is a platform. instant messaging is a feature. social media promotes superficial communication. news spreads_via social networking sites. social media promotes diversity. social media promotes social activism. social media has impacted relationships. Facebook is a platform. social media promotes others. social media has impacted communication. video calls is a feature. Twitter provides_platform underrepresented communities. social networking features is a feature. social media has impacted behaviors. Twitter is a platform. social media promotes shallow communication.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Platforms like Facebook, Twitter, Instagram, and Snapchat facilitate staying in touch globally.",
+    "retrieved_context": "social media promotes inclusion. Instagram is a platform. social media has impacted perceptions. Snapchat is a platform. instant messaging is a feature. social media promotes superficial communication. news spreads_via social networking sites. social media promotes diversity. social media promotes social activism. social media has impacted relationships. Facebook is a platform. social media promotes others. Twitter provides_platform underrepresented communities. social media has impacted communication. video calls is a feature. social networking features is a feature. social media has impacted behaviors. Twitter is a platform. social media promotes shallow communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media allows sharing updates, photos, and thoughts in real-time.",
+    "retrieved_context": "social media promotes inclusion. Instagram is a platform. social media has impacted perceptions. Snapchat is a platform. instant messaging is a feature. social media promotes superficial communication. social media promotes diversity. social media promotes social activism. news spreads_via social networking sites. social media has impacted relationships. Facebook is a platform. social media promotes others. social media has impacted communication. video calls is a feature. Twitter provides_platform underrepresented communities. social networking features is a feature. social media has impacted behaviors. Twitter is a platform. social media promotes shallow communication.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "News spreads rapidly through social media via citizen journalism and user-generated content.",
+    "retrieved_context": "social media promotes inclusion. citizen journalism is a content. Instagram is a platform. social media has impacted perceptions. Snapchat is a platform. instant messaging is a feature. social media promotes superficial communication. social media promotes diversity. social media promotes social activism. news spreads_via social networking sites. social media has impacted relationships. Facebook is a platform. social media promotes others. social media has impacted communication. Twitter provides_platform underrepresented communities. video calls is a feature. social networking features is a feature. user-generated content is a content. social media has impacted behaviors. Twitter is a platform. social media promotes shallow communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media democratizes information and engages individuals in current events.",
+    "retrieved_context": "social media promotes inclusion. Instagram is a platform. citizen journalism is a content. social media has impacted perceptions. Snapchat is a platform. instant messaging is a feature. social media promotes superficial communication. social media promotes diversity. social media promotes social activism. news spreads_via social networking sites. social media has impacted relationships. Facebook is a platform. social media promotes others. social media has impacted communication. Twitter provides_platform underrepresented communities. video calls is a feature. social networking features is a feature. user-generated content is a content. social media has impacted behaviors. Twitter is a platform. social media promotes shallow communication.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Twitter provides a platform for marginalized groups to share stories and advocate for change.",
+    "retrieved_context": "social media promotes inclusion. Instagram is a platform. social media has impacted perceptions. Snapchat is a platform. instant messaging is a feature. social media promotes superficial communication. social media promotes diversity. social media promotes social activism. news spreads_via social networking sites. social media has impacted relationships. Facebook is a platform. social media promotes others. Twitter provides_platform underrepresented communities. social media has impacted communication. video calls is a feature. social networking features is a feature. social media has impacted behaviors. Twitter is a platform. social media promotes shallow communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media amplifies voices and visibility of underrepresented communities.",
+    "retrieved_context": "social media promotes inclusion. Instagram is a platform. social media has impacted perceptions. Snapchat is a platform. instant messaging is a feature. social media promotes superficial communication. social media promotes diversity. social media promotes social activism. news spreads_via social networking sites. social media has impacted relationships. Facebook is a platform. social media promotes others. Twitter provides_platform underrepresented communities. social media has impacted communication. video calls is a feature. social networking features is a feature. social media has impacted behaviors. Twitter is a platform. social media promotes shallow communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Misinformation and fake news are challenges on social networking sites.",
+    "retrieved_context": "social media promotes inclusion. Instagram is a platform. citizen journalism is a content. social media has impacted perceptions. Snapchat is a platform. instant messaging is a feature. social media promotes superficial communication. social media promotes diversity. social media promotes social activism. news spreads_via social networking sites. social media has impacted relationships. Facebook is a platform. social media promotes others. misinformation is a concern. social media has impacted communication. video calls is a feature. Twitter provides_platform underrepresented communities. social networking features is a feature. user-generated content is a content. social media has impacted behaviors. Twitter is a platform. social media promotes shallow communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media promotes shallow communication forms like likes and emojis.",
+    "retrieved_context": "likes is a form of communication. social media promotes inclusion. Instagram is a platform. social media has impacted perceptions. Snapchat is a platform. instant messaging is a feature. social media promotes superficial communication. shares is a form of communication. social media promotes diversity. social media promotes social activism. news spreads_via social networking sites. social media has impacted relationships. Facebook is a platform. social media promotes others. social media has impacted communication. video calls is a feature. Twitter provides_platform underrepresented communities. social networking features is a feature. emojis is a form of communication. social media has impacted behaviors. Twitter is a platform. social media promotes shallow communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Superficial communication on social media can lead to a lack of genuine connections.",
+    "retrieved_context": "social media promotes inclusion. Instagram is a platform. social media has impacted perceptions. Snapchat is a platform. instant messaging is a feature. social media promotes superficial communication. social media promotes diversity. social media promotes social activism. news spreads_via social networking sites. social media has impacted relationships. Facebook is a platform. social media promotes others. social media has impacted communication. video calls is a feature. Twitter provides_platform underrepresented communities. social networking features is a feature. social media has impacted behaviors. Twitter is a platform. social media promotes shallow communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Validation through likes and comments can impact mental health and self-esteem.",
+    "retrieved_context": "likes is a form of communication. social media promotes inclusion. Instagram is a platform. social media has impacted perceptions. Snapchat is a platform. instant messaging is a feature. social media promotes superficial communication. shares is a form of communication. social media promotes diversity. social media promotes social activism. news spreads_via social networking sites. social media has impacted relationships. Facebook is a platform. social media promotes others. social media has impacted communication. video calls is a feature. social networking features is a feature. emojis is a form of communication. social media has impacted behaviors. Twitter is a platform. social media promotes shallow communication.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Social media shapes connectivity, information sharing, and interactions in society.",
+    "retrieved_context": "social media promotes inclusion. Instagram is a platform. social media has impacted perceptions. Snapchat is a platform. instant messaging is a feature. social media promotes superficial communication. social media promotes diversity. social media promotes social activism. news spreads_via social networking sites. social media has impacted relationships. Facebook is a platform. social media promotes others. social media has impacted communication. video calls is a feature. Twitter provides_platform underrepresented communities. social networking features is a feature. social media has impacted behaviors. Twitter is a platform. social media promotes shallow communication.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

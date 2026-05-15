@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Butterflies undergo a remarkable transformation throughout their life cycle.",
+    "retrieved_context": "second stage of butterfly's life cycle is larva stage. adult butterflies lifespan of a few days to a few weeks. butterflies undergo transformation. metamorphosis transforms into butterfly. caterpillar molts through molting. female butterflies lay eggs on host plants. newly emerged butterfly feed on nectar from flowers. caterpillar feed on leaves. butterfly eggs vary in size, shape, and color. second stage of butterfly's life cycle is pupa stage. second stage of butterfly's life cycle starts with egg stage. adult butterflies use proboscis to feed on nectar. butterflies play role in pollination. female butterflies lay eggs on specific host plants. caterpillar forms chrysalis. inside chrysalis undergo metamorphosis. caterpillar vary in various shapes, sizes, and colors. second stage of butterfly's life cycle is adult stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Female butterflies lay their eggs on specific host plants.",
+    "retrieved_context": "adult butterflies lifespan of a few days to a few weeks. butterflies undergo transformation. second stage of butterfly's life cycle is larva stage. female butterflies lay eggs on host plants. newly emerged butterfly feed on nectar from flowers. butterfly eggs vary in size, shape, and color. second stage of butterfly's life cycle is pupa stage. adult butterflies use proboscis to feed on nectar. butterflies play role in pollination. female butterflies lay eggs on specific host plants. second stage of butterfly's life cycle starts with egg stage. second stage of butterfly's life cycle is adult stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Butterfly eggs are usually laid on the underside of leaves.",
+    "retrieved_context": "butterflies undergo transformation. adult butterflies lifespan of a few days to a few weeks. second stage of butterfly's life cycle is larva stage. female butterflies lay eggs on host plants. newly emerged butterfly feed on nectar from flowers. butterfly eggs vary in size, shape, and color. second stage of butterfly's life cycle is pupa stage. butterflies play role in pollination. adult butterflies use proboscis to feed on nectar. female butterflies lay eggs on specific host plants. second stage of butterfly's life cycle starts with egg stage. eggs lay eggs on underside of leaves. second stage of butterfly's life cycle is adult stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The size, shape, and color of butterfly eggs vary depending on the species.",
+    "retrieved_context": "adult butterflies lifespan of a few days to a few weeks. butterflies undergo transformation. second stage of butterfly's life cycle is larva stage. metamorphosis transforms into butterfly. female butterflies lay eggs on host plants. newly emerged butterfly feed on nectar from flowers. butterfly eggs vary in size, shape, and color. second stage of butterfly's life cycle is pupa stage. adult butterflies use proboscis to feed on nectar. butterflies play role in pollination. female butterflies lay eggs on specific host plants. second stage of butterfly's life cycle starts with egg stage. inside chrysalis undergo metamorphosis. eggs lay eggs on underside of leaves. second stage of butterfly's life cycle is adult stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "After hatching, a tiny larva, known as a caterpillar, emerges.",
+    "retrieved_context": "second stage of butterfly's life cycle is larva stage. adult butterflies lifespan of a few days to a few weeks. metamorphosis transforms into butterfly. caterpillar molts through molting. caterpillar feed on leaves. newly emerged butterfly feed on nectar from flowers. butterfly eggs vary in size, shape, and color. second stage of butterfly's life cycle is pupa stage. second stage of butterfly's life cycle starts with egg stage. adult butterflies use proboscis to feed on nectar. egg hatches into larva (caterpillar). caterpillar forms chrysalis. inside chrysalis undergo metamorphosis. caterpillar vary in various shapes, sizes, and colors. second stage of butterfly's life cycle is adult stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Caterpillars are voracious eaters and spend most of their time feeding on leaves.",
+    "retrieved_context": "butterflies undergo transformation. adult butterflies lifespan of a few days to a few weeks. metamorphosis transforms into butterfly. caterpillar molts through molting. caterpillar feed on leaves. female butterflies lay eggs on host plants. butterfly eggs vary in size, shape, and color. butterflies play role in pollination. adult butterflies use proboscis to feed on nectar. female butterflies lay eggs on specific host plants. egg hatches into larva (caterpillar). caterpillar forms chrysalis. inside chrysalis undergo metamorphosis. caterpillar vary in various shapes, sizes, and colors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Caterpillars shed their skin several times as they grow.",
+    "retrieved_context": "adult butterflies lifespan of a few days to a few weeks. butterflies undergo transformation. second stage of butterfly's life cycle is larva stage. caterpillar molts through molting. metamorphosis transforms into butterfly. caterpillar feed on leaves. newly emerged butterfly feed on nectar from flowers. second stage of butterfly's life cycle is pupa stage. adult butterflies use proboscis to feed on nectar. butterflies play role in pollination. second stage of butterfly's life cycle starts with egg stage. egg hatches into larva (caterpillar). caterpillar forms chrysalis. inside chrysalis undergo metamorphosis. caterpillar vary in various shapes, sizes, and colors. second stage of butterfly's life cycle is adult stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Caterpillars come in a variety of shapes, sizes, and colors.",
+    "retrieved_context": "adult butterflies lifespan of a few days to a few weeks. butterflies undergo transformation. caterpillar molts through molting. caterpillar feed on leaves. female butterflies lay eggs on host plants. butterfly eggs vary in size, shape, and color. adult butterflies use proboscis to feed on nectar. butterflies play role in pollination. female butterflies lay eggs on specific host plants. egg hatches into larva (caterpillar). caterpillar forms chrysalis. caterpillar vary in various shapes, sizes, and colors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Caterpillars play a crucial role in pollination and maintaining plant populations.",
+    "retrieved_context": "butterflies undergo transformation. second stage of butterfly's life cycle is larva stage. adult butterflies lifespan of a few days to a few weeks. caterpillar molts through molting. caterpillar feed on leaves. female butterflies lay eggs on host plants. butterfly eggs vary in size, shape, and color. second stage of butterfly's life cycle is pupa stage. butterflies play role in pollination. second stage of butterfly's life cycle starts with egg stage. female butterflies lay eggs on specific host plants. egg hatches into larva (caterpillar). caterpillar forms chrysalis. adult butterflies use proboscis to feed on nectar. caterpillar vary in various shapes, sizes, and colors. second stage of butterfly's life cycle is adult stage.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The caterpillar attaches itself to a leaf or stem and forms a chrysalis.",
+    "retrieved_context": "second stage of butterfly's life cycle is larva stage. butterflies undergo transformation. metamorphosis transforms into butterfly. caterpillar molts through molting. adult butterflies lifespan of a few days to a few weeks. caterpillar feed on leaves. newly emerged butterfly feed on nectar from flowers. second stage of butterfly's life cycle is pupa stage. second stage of butterfly's life cycle starts with egg stage. butterflies play role in pollination. adult butterflies use proboscis to feed on nectar. egg hatches into larva (caterpillar). caterpillar forms chrysalis. inside chrysalis undergo metamorphosis. caterpillar vary in various shapes, sizes, and colors. second stage of butterfly's life cycle is adult stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Inside the chrysalis, the caterpillar undergoes metamorphosis.",
+    "retrieved_context": "second stage of butterfly's life cycle is larva stage. metamorphosis transforms into butterfly. caterpillar molts through molting. caterpillar feed on leaves. newly emerged butterfly feed on nectar from flowers. second stage of butterfly's life cycle is pupa stage. second stage of butterfly's life cycle starts with egg stage. egg hatches into larva (caterpillar). caterpillar forms chrysalis. inside chrysalis undergo metamorphosis. caterpillar vary in various shapes, sizes, and colors. second stage of butterfly's life cycle is adult stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "During metamorphosis, the caterpillar's body undergoes significant changes.",
+    "retrieved_context": "second stage of butterfly's life cycle is larva stage. adult butterflies lifespan of a few days to a few weeks. metamorphosis transforms into butterfly. caterpillar molts through molting. butterflies undergo transformation. caterpillar feed on leaves. newly emerged butterfly feed on nectar from flowers. second stage of butterfly's life cycle is pupa stage. second stage of butterfly's life cycle starts with egg stage. adult butterflies use proboscis to feed on nectar. butterflies play role in pollination. caterpillar forms chrysalis. egg hatches into larva (caterpillar). inside chrysalis undergo metamorphosis. caterpillar vary in various shapes, sizes, and colors. second stage of butterfly's life cycle is adult stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The adult butterfly emerges from the chrysalis after metamorphosis is complete.",
+    "retrieved_context": "second stage of butterfly's life cycle is larva stage. adult butterflies lifespan of a few days to a few weeks. metamorphosis transforms into butterfly. butterflies undergo transformation. caterpillar molts through molting. female butterflies lay eggs on host plants. newly emerged butterfly feed on nectar from flowers. caterpillar feed on leaves. second stage of butterfly's life cycle is pupa stage. second stage of butterfly's life cycle starts with egg stage. adult butterflies use proboscis to feed on nectar. female butterflies lay eggs on specific host plants. butterflies play role in pollination. caterpillar forms chrysalis. inside chrysalis undergo metamorphosis. caterpillar vary in various shapes, sizes, and colors. second stage of butterfly's life cycle is adult stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Adult butterflies feed on nectar from flowers using their proboscis.",
+    "retrieved_context": "adult butterflies lifespan of a few days to a few weeks. butterflies undergo transformation. metamorphosis transforms into butterfly. female butterflies lay eggs on host plants. newly emerged butterfly feed on nectar from flowers. butterfly eggs vary in size, shape, and color. butterflies play role in pollination. adult butterflies use proboscis to feed on nectar. female butterflies lay eggs on specific host plants. inside chrysalis undergo metamorphosis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Butterflies play a crucial role in pollination and serve as a food source for other animals.",
+    "retrieved_context": "butterflies undergo transformation. adult butterflies lifespan of a few days to a few weeks. second stage of butterfly's life cycle is larva stage. metamorphosis transforms into butterfly. female butterflies lay eggs on host plants. newly emerged butterfly feed on nectar from flowers. butterfly eggs vary in size, shape, and color. second stage of butterfly's life cycle is pupa stage. adult butterflies use proboscis to feed on nectar. butterflies play role in pollination. female butterflies lay eggs on specific host plants. second stage of butterfly's life cycle starts with egg stage. inside chrysalis undergo metamorphosis. second stage of butterfly's life cycle is adult stage.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

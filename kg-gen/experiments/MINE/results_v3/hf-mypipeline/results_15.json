@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Cooking is a complex chemical reaction.",
+    "retrieved_context": "chemistry of cooking plays a role in texture. Fermentation plays a role in alcohol. Fermentation decomposes sugars. chemistry of cooking plays a role in taste. Fermentation plays a role in acids. Fermentation plays a role in carbon dioxide. Temperature control plays a role in chemical reactions. Maillard reaction plays a role in browning of food. Maillard reaction plays a role in formation of new flavor compounds. chemistry of cooking plays a role in nutritional value. Maillard reaction plays a role in aromas of roasted meats. Cooking is complex chemical reaction. Maillard reaction plays a role in rich flavors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Chemistry of cooking determines taste, texture, and nutritional value of food.",
+    "retrieved_context": "chemistry of cooking plays a role in texture. chemistry of cooking plays a role in taste. salt enhances natural flavors. salt balances sweetness. salt tenderizes proteins. Maillard reaction plays a role in browning of food. Maillard reaction plays a role in formation of new flavor compounds. chemistry of cooking plays a role in nutritional value. Maillard reaction plays a role in aromas of roasted meats. Cooking is complex chemical reaction. Maillard reaction plays a role in rich flavors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Maillard reaction is a key chemical reaction during cooking.",
+    "retrieved_context": "chemistry of cooking plays a role in texture. Fermentation plays a role in alcohol. Fermentation decomposes sugars. chemistry of cooking plays a role in taste. Fermentation plays a role in acids. Fermentation plays a role in carbon dioxide. Temperature control plays a role in chemical reactions. Maillard reaction plays a role in browning of food. Maillard reaction plays a role in formation of new flavor compounds. chemistry of cooking plays a role in nutritional value. Maillard reaction plays a role in aromas of roasted meats. Cooking is complex chemical reaction. Maillard reaction plays a role in rich flavors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Maillard reaction results in browning of food and formation of flavor compounds.",
+    "retrieved_context": "chemistry of cooking plays a role in texture. chemistry of cooking plays a role in taste. salt enhances natural flavors. Cooking is complex chemical reaction. salt balances sweetness. salt tenderizes proteins. Maillard reaction plays a role in browning of food. Maillard reaction plays a role in formation of new flavor compounds. chemistry of cooking plays a role in nutritional value. Maillard reaction plays a role in aromas of roasted meats. lemon juice prevents browning of fruits. Maillard reaction plays a role in rich flavors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Emulsification is an important chemical process in cooking.",
+    "retrieved_context": "chemistry of cooking plays a role in texture. Fermentation plays a role in alcohol. Fermentation decomposes sugars. emulsification plays a role in creamy sauces. emulsification is process of mixing liquids. chemistry of cooking plays a role in taste. Cooking is complex chemical reaction. Fermentation plays a role in acids. Fermentation plays a role in carbon dioxide. Maillard reaction plays a role in browning of food. emulsification plays a role in dressings. chemistry of cooking plays a role in nutritional value. Maillard reaction plays a role in formation of new flavor compounds. Maillard reaction plays a role in aromas of roasted meats. emulsification plays a role in mayonnaise. Maillard reaction plays a role in rich flavors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Emulsification involves mixing immiscible liquids to form a stable emulsion.",
+    "retrieved_context": "Fermentation plays a role in alcohol. Fermentation decomposes sugars. emulsification plays a role in creamy sauces. emulsification is process of mixing liquids. Fermentation plays a role in acids. Fermentation plays a role in carbon dioxide. salt balances sweetness. Acids plays a role in tenderize meat. Maillard reaction plays a role in browning of food. emulsification plays a role in dressings. Maillard reaction plays a role in formation of new flavor compounds. Acids balances sweetness. Maillard reaction plays a role in aromas of roasted meats. emulsification plays a role in mayonnaise. Maillard reaction plays a role in rich flavors.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Acids influence flavor, texture, and structure of food in cooking.",
+    "retrieved_context": "chemistry of cooking plays a role in texture. Fermentation decomposes sugars. chemistry of cooking plays a role in taste. salt enhances natural flavors. Fermentation plays a role in acids. Fermentation plays a role in carbon dioxide. salt balances sweetness. Acids plays a role in tenderize meat. salt tenderizes proteins. Maillard reaction plays a role in browning of food. Maillard reaction plays a role in aromas of roasted meats. Acids balances sweetness. chemistry of cooking plays a role in nutritional value. Maillard reaction plays a role in formation of new flavor compounds. Fermentation plays a role in alcohol. Cooking is complex chemical reaction. Maillard reaction plays a role in rich flavors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Salt enhances flavor and regulates enzymatic reactions in cooking.",
+    "retrieved_context": "chemistry of cooking plays a role in texture. chemistry of cooking plays a role in taste. salt enhances natural flavors. salt balances sweetness. salt tenderizes proteins. Maillard reaction plays a role in browning of food. Acids balances sweetness. chemistry of cooking plays a role in nutritional value. Maillard reaction plays a role in formation of new flavor compounds. Maillard reaction plays a role in aromas of roasted meats. proteins coagulates_at specific temperatures. Cooking is complex chemical reaction. Maillard reaction plays a role in rich flavors.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Temperature control affects texture, color, and flavor of food.",
+    "retrieved_context": "chemistry of cooking plays a role in texture. chemistry of cooking plays a role in taste. salt enhances natural flavors. salt balances sweetness. Temperature control plays a role in chemical reactions. Acids plays a role in tenderize meat. salt tenderizes proteins. Maillard reaction plays a role in browning of food. Maillard reaction plays a role in formation of new flavor compounds. chemistry of cooking plays a role in nutritional value. Acids balances sweetness. Maillard reaction plays a role in aromas of roasted meats. proteins coagulates_at specific temperatures. lemon juice prevents browning of fruits. Maillard reaction plays a role in rich flavors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proteins denature and coagulate at specific temperatures.",
+    "retrieved_context": "salt enhances natural flavors. Fermentation plays a role in carbon dioxide. salt balances sweetness. emulsification plays a role in creamy sauces. emulsification is process of mixing liquids. Fermentation plays a role in acids. Temperature control plays a role in chemical reactions. Acids plays a role in tenderize meat. emulsification plays a role in dressings. Fermentation plays a role in alcohol. emulsification plays a role in mayonnaise. salt tenderizes proteins. Maillard reaction plays a role in browning of food. Maillard reaction plays a role in formation of new flavor compounds. proteins coagulates_at specific temperatures. Maillard reaction plays a role in rich flavors. Fermentation decomposes sugars. Acids balances sweetness. Maillard reaction plays a role in aromas of roasted meats.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fermentation is a food preservation technique involving microorganisms.",
+    "retrieved_context": "chemistry of cooking plays a role in texture. Fermentation decomposes sugars. emulsification plays a role in creamy sauces. emulsification plays a role in mayonnaise. chemistry of cooking plays a role in taste. emulsification is process of mixing liquids. Fermentation plays a role in acids. Fermentation plays a role in carbon dioxide. Maillard reaction plays a role in browning of food. Maillard reaction plays a role in aromas of roasted meats. Maillard reaction plays a role in formation of new flavor compounds. chemistry of cooking plays a role in nutritional value. emulsification plays a role in dressings. Fermentation plays a role in alcohol. Cooking is complex chemical reaction. Maillard reaction plays a role in rich flavors.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fermentation enhances flavor and nutritional value of food.",
+    "retrieved_context": "chemistry of cooking plays a role in texture. Fermentation decomposes sugars. chemistry of cooking plays a role in taste. salt enhances natural flavors. Fermentation plays a role in acids. Fermentation plays a role in carbon dioxide. salt balances sweetness. salt tenderizes proteins. Maillard reaction plays a role in browning of food. Maillard reaction plays a role in aromas of roasted meats. Maillard reaction plays a role in formation of new flavor compounds. chemistry of cooking plays a role in nutritional value. Fermentation plays a role in alcohol. Maillard reaction plays a role in rich flavors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pickling involves preserving food in a brine solution.",
+    "retrieved_context": "chemistry of cooking plays a role in texture. Fermentation plays a role in alcohol. Fermentation decomposes sugars. lemon juice prevents browning of fruits. Pickling preserves_in brine solution. chemistry of cooking plays a role in taste. Fermentation plays a role in acids. Fermentation plays a role in carbon dioxide. Maillard reaction plays a role in browning of food. Maillard reaction plays a role in formation of new flavor compounds. chemistry of cooking plays a role in nutritional value. Maillard reaction plays a role in aromas of roasted meats. Cooking is complex chemical reaction. Maillard reaction plays a role in rich flavors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Chemistry of cooking is essential in culinary arts.",
+    "retrieved_context": "chemistry of cooking plays a role in texture. Fermentation decomposes sugars. chemistry of cooking plays a role in taste. Fermentation plays a role in acids. Fermentation plays a role in carbon dioxide. Temperature control plays a role in chemical reactions. Maillard reaction plays a role in browning of food. Maillard reaction plays a role in aromas of roasted meats. Maillard reaction plays a role in formation of new flavor compounds. chemistry of cooking plays a role in nutritional value. Fermentation plays a role in alcohol. Cooking is complex chemical reaction. Maillard reaction plays a role in rich flavors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding chemical reactions in cooking helps create delicious dishes.",
+    "retrieved_context": "chemistry of cooking plays a role in texture. Fermentation plays a role in alcohol. Fermentation decomposes sugars. chemistry of cooking plays a role in taste. Fermentation plays a role in acids. Fermentation plays a role in carbon dioxide. Temperature control plays a role in chemical reactions. Maillard reaction plays a role in browning of food. Maillard reaction plays a role in formation of new flavor compounds. chemistry of cooking plays a role in nutritional value. Maillard reaction plays a role in aromas of roasted meats. Cooking is complex chemical reaction. Maillard reaction plays a role in rich flavors.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Ancient Egyptian burial practices reflect Egyptians' beliefs about the afterlife.",
+    "retrieved_context": "mummification included preventing decay. burial practices is essential part of Egyptian culture. mummification is important aspect of burial practices. mummification included preserving body for afterlife. tombs designed to protect Giza. burial requires_expertise priests. burial practices known_for elaborate burial practices. burial practices reflect Egyptians' beliefs about the afterlife. mummification included preserving the body. burial requires_expertise embalmers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Elaborate tombs were constructed to house pharaohs and important individuals.",
+    "retrieved_context": "Book of the Dead guide deceased navigate afterlife. pyramids designed to protect pharaohs. Book of the Dead is collection of prayers. tombs designed to protect Giza. Book of the Dead is collection of spells. Book of the Dead placed in tomb. pyramids is monumental structures. Egyptians believed items would provide sustenance. religious texts guide deceased. Egyptians believed in existence of a soul. Egyptians believed items would provide comfort. Egyptians included amulets. burial practices reflect Egyptians' beliefs about the afterlife. pyramids designed to protect important individuals. burial practices is essential part of Egyptian culture. pyramids designed to protect deceased's possessions. Egyptians included religious texts. burial practices known_for elaborate burial practices. Book of the Dead is religious text. pyramids designed to protect deceased's body.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pyramids at Giza were designed to protect the deceased's body and possessions.",
+    "retrieved_context": "mummification included preventing decay. burial practices is essential part of Egyptian culture. mummification is important aspect of burial practices. mummification included preserving body for afterlife. pyramids designed to protect deceased's possessions. pyramids is monumental structures. burial practices known_for elaborate burial practices. burial practices reflect Egyptians' beliefs about the afterlife. pyramids designed to protect pharaohs. tombs designed to protect Giza. pyramids designed to protect deceased's body. mummification included preserving the body. pyramids designed to protect important individuals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Items like food, clothing, and jewelry were buried with the deceased.",
+    "retrieved_context": "mummification included preventing decay. burial practices is essential part of Egyptian culture. mummification is important aspect of burial practices. mummification included preserving body for afterlife. tombs designed to protect Giza. pyramids designed to protect deceased's possessions. pyramids is monumental structures. burial practices known_for elaborate burial practices. burial practices reflect Egyptians' beliefs about the afterlife. deceased's family hired professional mourners. pyramids designed to protect pharaohs. burial requires_expertise priests. pyramids designed to protect deceased's body. burial requires_expertise embalmers. mummification included preserving the body. pyramids designed to protect important individuals.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Mummification was used to preserve the body for the afterlife.",
+    "retrieved_context": "mummification included preventing decay. burial practices is essential part of Egyptian culture. mummification is important aspect of burial practices. mummification included preserving body for afterlife. pyramids designed to protect deceased's possessions. pyramids is monumental structures. burial practices known_for elaborate burial practices. burial practices reflect Egyptians' beliefs about the afterlife. pyramids designed to protect pharaohs. mummification included preserving the body. pyramids designed to protect deceased's body. pyramids designed to protect important individuals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mummification involved removing internal organs and drying out the body.",
+    "retrieved_context": "mummification included preventing decay. burial practices is essential part of Egyptian culture. mummification is important aspect of burial practices. mummification included preserving body for afterlife. pyramids designed to protect deceased's possessions. pyramids is monumental structures. burial requires_expertise priests. burial practices known_for elaborate burial practices. burial practices reflect Egyptians' beliefs about the afterlife. pyramids designed to protect pharaohs. mummification included preserving the body. pyramids designed to protect deceased's body. burial requires_expertise embalmers. pyramids designed to protect important individuals.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Religious texts and amulets were included in the burial chamber.",
+    "retrieved_context": "Book of the Dead guide deceased navigate afterlife. Book of the Dead is collection of prayers. tombs designed to protect Giza. Book of the Dead is collection of spells. deceased buried_with jewelry. mummification included preventing decay. Book of the Dead placed in tomb. mummification is important aspect of burial practices. mummification included preserving body for afterlife. Egyptians believed items would provide sustenance. religious texts guide deceased. Egyptians believed in existence of a soul. deceased buried_with personal belongings. mummification included preserving the body. Egyptians believed items would provide comfort. burial requires_expertise embalmers. Egyptians included amulets. burial practices reflect Egyptians' beliefs about the afterlife. burial requires_expertise priests. deceased buried_with clothing. burial practices is essential part of Egyptian culture. deceased buried_with food. Egyptians included religious texts. burial practices known_for elaborate burial practices. Book of the Dead is religious text.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Book of the Dead helped the deceased navigate the afterlife.",
+    "retrieved_context": "Book of the Dead guide deceased navigate afterlife. pyramids designed to protect pharaohs. Book of the Dead is collection of prayers. Book of the Dead is collection of spells. deceased buried_with jewelry. mummification included preventing decay. Book of the Dead placed in tomb. mummification included preserving body for afterlife. mummification is important aspect of burial practices. pyramids is monumental structures. religious texts guide deceased. deceased buried_with personal belongings. mummification included preserving the body. burial practices reflect Egyptians' beliefs about the afterlife. deceased buried_with clothing. pyramids designed to protect important individuals. common people buried_with personal belongings. burial practices is essential part of Egyptian culture. pyramids designed to protect deceased's possessions. deceased buried_with food. common people buried_with food. Egyptians included religious texts. burial practices known_for elaborate burial practices. Book of the Dead is religious text. pyramids designed to protect deceased's body. deceased's family hired professional mourners.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Burial process required priests, embalmers, and skilled individuals.",
+    "retrieved_context": "mummification included preventing decay. burial practices is essential part of Egyptian culture. mummification is important aspect of burial practices. mummification included preserving body for afterlife. tombs designed to protect Giza. pyramids designed to protect deceased's possessions. pyramids is monumental structures. burial requires_expertise priests. burial practices known_for elaborate burial practices. burial practices reflect Egyptians' beliefs about the afterlife. pyramids designed to protect pharaohs. mummification included preserving the body. pyramids designed to protect deceased's body. burial requires_expertise embalmers. pyramids designed to protect important individuals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Professional mourners were hired to lead funeral processions.",
+    "retrieved_context": "mummification included preventing decay. burial practices is essential part of Egyptian culture. mummification is important aspect of burial practices. mummification included preserving body for afterlife. pyramids designed to protect important individuals. pyramids designed to protect deceased's possessions. pyramids is monumental structures. burial practices known_for elaborate burial practices. burial practices reflect Egyptians' beliefs about the afterlife. pyramids designed to protect pharaohs. burial requires_expertise priests. pyramids designed to protect deceased's body. burial requires_expertise embalmers. mummification included preserving the body. deceased's family hired professional mourners.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Common people in ancient Egypt were buried with care and respect.",
+    "retrieved_context": "mummification included preventing decay. burial practices is essential part of Egyptian culture. mummification is important aspect of burial practices. mummification included preserving body for afterlife. tombs designed to protect Giza. Egyptians included amulets. Egyptians included religious texts. burial requires_expertise priests. burial practices known_for elaborate burial practices. Egyptians believed items would provide sustenance. burial practices reflect Egyptians' beliefs about the afterlife. religious texts guide deceased. Egyptians believed in existence of a soul. mummification included preserving the body. Egyptians believed items would provide comfort. burial requires_expertise embalmers.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Ordinary Egyptians were buried with items they would need in the afterlife.",
+    "retrieved_context": "mummification included preventing decay. burial practices is essential part of Egyptian culture. mummification is important aspect of burial practices. mummification included preserving body for afterlife. tombs designed to protect Giza. Egyptians included amulets. Egyptians included religious texts. burial practices known_for elaborate burial practices. Egyptians believed items would provide sustenance. burial practices reflect Egyptians' beliefs about the afterlife. religious texts guide deceased. Egyptians believed in existence of a soul. burial requires_expertise priests. Egyptians believed items would provide comfort. mummification included preserving the body. burial requires_expertise embalmers.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Burial practices ensured the deceased's safe passage into the afterlife.",
+    "retrieved_context": "Book of the Dead guide deceased navigate afterlife. pyramids designed to protect pharaohs. Book of the Dead is collection of prayers. tombs designed to protect Giza. Book of the Dead is collection of spells. mummification included preventing decay. Book of the Dead placed in tomb. mummification is important aspect of burial practices. mummification included preserving body for afterlife. pyramids is monumental structures. mummification included preserving the body. burial requires_expertise embalmers. burial practices reflect Egyptians' beliefs about the afterlife. burial requires_expertise priests. pyramids designed to protect important individuals. burial practices is essential part of Egyptian culture. pyramids designed to protect deceased's possessions. burial practices known_for elaborate burial practices. Book of the Dead is religious text. pyramids designed to protect deceased's body.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ancient Egyptians believed in the existence of a soul.",
+    "retrieved_context": "pyramids designed to protect pharaohs. tombs designed to protect Giza. mummification included preventing decay. mummification included preserving body for afterlife. mummification is important aspect of burial practices. pyramids is monumental structures. Egyptians believed items would provide sustenance. religious texts guide deceased. Egyptians believed in existence of a soul. mummification included preserving the body. Egyptians believed items would provide comfort. Egyptians included amulets. burial practices reflect Egyptians' beliefs about the afterlife. pyramids designed to protect important individuals. burial practices is essential part of Egyptian culture. pyramids designed to protect deceased's possessions. Egyptians included religious texts. burial practices known_for elaborate burial practices. pyramids designed to protect deceased's body.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ancient Egyptian burial practices were a vital part of Egyptian culture.",
+    "retrieved_context": "mummification included preventing decay. burial practices is essential part of Egyptian culture. mummification is important aspect of burial practices. mummification included preserving body for afterlife. tombs designed to protect Giza. Egyptians included amulets. Egyptians included religious texts. burial requires_expertise priests. burial practices known_for elaborate burial practices. Egyptians believed items would provide sustenance. burial practices reflect Egyptians' beliefs about the afterlife. religious texts guide deceased. Egyptians believed in existence of a soul. mummification included preserving the body. Egyptians believed items would provide comfort. burial requires_expertise embalmers.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

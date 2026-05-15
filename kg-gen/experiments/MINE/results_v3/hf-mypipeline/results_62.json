@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Protests challenge oppressive regimes.",
+    "retrieved_context": "civil rights movement demanded discrimination. Tiananmen Square massacre occurred in China. Black Lives Matter movement emerged in response to systemic racism. protests are a tool for social change. civil rights movement led by Rosa Parks. civil rights movement demanded racial segregation. protests inspired shaping the course of history. protests are a tool for political change. Arab Spring occurred in 2010. civil rights movement led by Martin Luther King Jr.. Black Lives Matter movement emerged in response to police brutality. Arab Spring occurred in Tunisia. protests are catalysts for change. Arab Spring brought an end to overthrow of dictators. protests occurred in ancient Egypt.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests demand political rights.",
+    "retrieved_context": "civil rights movement demanded discrimination. Tiananmen Square massacre occurred in China. Black Lives Matter movement emerged in response to systemic racism. protests are a tool for social change. civil rights movement led by Rosa Parks. civil rights movement demanded racial segregation. Declaration of Independence demanded all men are created equal. protests inspired shaping the course of history. protests are a tool for political change. Declaration of Independence demanded unalienable rights. civil rights movement led by Martin Luther King Jr.. Black Lives Matter movement emerged in response to police brutality. protests are catalysts for change. protests occurred in ancient Egypt.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests fight for social justice.",
+    "retrieved_context": "civil rights movement demanded discrimination. Black Lives Matter movement emerged in response to systemic racism. protests are a tool for social change. civil rights movement led by Rosa Parks. workers demanded better working conditions. workers initiated strike. civil rights movement demanded racial segregation. protests inspired shaping the course of history. protests are a tool for political change. Black Lives Matter movement emerged in response to police brutality. civil rights movement led by Martin Luther King Jr.. workers demanded wages. protests are catalysts for change. protests occurred in ancient Egypt.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests can be peaceful demonstrations.",
+    "retrieved_context": "civil rights movement demanded discrimination. Black Lives Matter movement emerged in response to systemic racism. workers demanded better working conditions. workers initiated strike. Declaration of Independence demanded unalienable rights. Arab Spring occurred in 2010. Tiananmen Square massacre occurred in China. protests are a tool for social change. protests are catalysts for change. Arab Spring brought an end to overthrow of dictators. civil rights movement led by Martin Luther King Jr.. protests occurred in ancient Egypt. civil rights movement led by Rosa Parks. civil rights movement demanded racial segregation. Declaration of Independence demanded all men are created equal. protests inspired shaping the course of history. protests are a tool for political change. Black Lives Matter movement emerged in response to police brutality. workers demanded wages. Arab Spring occurred in Tunisia.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Protests can be violent uprisings.",
+    "retrieved_context": "civil rights movement demanded discrimination. Tiananmen Square massacre occurred in China. Black Lives Matter movement emerged in response to systemic racism. protests are a tool for social change. civil rights movement led by Rosa Parks. workers demanded better working conditions. workers initiated strike. civil rights movement demanded racial segregation. protests inspired shaping the course of history. protests are a tool for political change. Black Lives Matter movement emerged in response to police brutality. civil rights movement led by Martin Luther King Jr.. Arab Spring occurred in 2010. workers demanded wages. Arab Spring occurred in Tunisia. protests are catalysts for change. Arab Spring brought an end to overthrow of dictators. protests occurred in ancient Egypt.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "American Revolution inspired global fight for freedom.",
+    "retrieved_context": "civil rights movement demanded discrimination. American Revolution occurred in 1776. American Revolution inspired people around the world. civil rights movement led by Rosa Parks. Declaration of Independence demanded all men are created equal. French Revolution established republic. civil rights movement demanded racial segregation. French Revolution occurred in 1789. Arab Spring brought an end to overthrow of dictators. Russian Revolution led by Vladimir Lenin. Declaration of Independence demanded unalienable rights. Arab Spring occurred in 2010. French Revolution overthrew monarchy. Russian Revolution occurred in 1917. Russian Revolution brought an end to Romanov dynasty. Arab Spring occurred in Tunisia. civil rights movement led by Martin Luther King Jr..",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "French Revolution established a republic based on liberty.",
+    "retrieved_context": "American Revolution occurred in 1776. American Revolution inspired people around the world. Declaration of Independence demanded all men are created equal. French Revolution established republic. French Revolution occurred in 1789. Russian Revolution led by Vladimir Lenin. Declaration of Independence demanded unalienable rights. French Revolution overthrew monarchy. Russian Revolution occurred in 1917. Russian Revolution brought an end to Romanov dynasty.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Russian Revolution led to the world's first communist state.",
+    "retrieved_context": "American Revolution occurred in 1776. American Revolution inspired people around the world. French Revolution established republic. French Revolution occurred in 1789. Arab Spring brought an end to overthrow of dictators. Russian Revolution led by Vladimir Lenin. Arab Spring occurred in 2010. French Revolution overthrew monarchy. Russian Revolution occurred in 1917. Russian Revolution brought an end to Romanov dynasty. Arab Spring occurred in Tunisia.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Civil rights movement challenged racial segregation.",
+    "retrieved_context": "civil rights movement demanded discrimination. Black Lives Matter movement emerged in response to systemic racism. protests are a tool for social change. protests occurred in ancient Egypt. civil rights movement led by Rosa Parks. civil rights movement demanded racial segregation. protests inspired shaping the course of history. protests are a tool for political change. Black Lives Matter movement emerged in response to police brutality. protests are catalysts for change. civil rights movement led by Martin Luther King Jr..",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Arab Spring led to the overthrow of dictators.",
+    "retrieved_context": "American Revolution occurred in 1776. Tiananmen Square massacre occurred in China. American Revolution inspired people around the world. French Revolution established republic. French Revolution overthrew monarchy. French Revolution occurred in 1789. Russian Revolution led by Vladimir Lenin. Arab Spring occurred in 2010. Arab Spring occurred in Tunisia. Russian Revolution occurred in 1917. Russian Revolution brought an end to Romanov dynasty. Arab Spring brought an end to overthrow of dictators.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black Lives Matter demands racial justice.",
+    "retrieved_context": "civil rights movement demanded discrimination. Black Lives Matter movement emerged in response to systemic racism. protests are a tool for social change. protests occurred in ancient Egypt. civil rights movement led by Rosa Parks. workers demanded better working conditions. workers initiated strike. civil rights movement demanded racial segregation. protests inspired shaping the course of history. protests are a tool for political change. Black Lives Matter movement emerged in response to police brutality. workers demanded wages. protests are catalysts for change. civil rights movement led by Martin Luther King Jr..",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Governments use force to suppress protests.",
+    "retrieved_context": "civil rights movement demanded discrimination. Tiananmen Square massacre occurred in China. Black Lives Matter movement emerged in response to systemic racism. protests are a tool for social change. civil rights movement led by Rosa Parks. workers demanded better working conditions. workers initiated strike. civil rights movement demanded racial segregation. protests inspired shaping the course of history. protests are a tool for political change. Black Lives Matter movement emerged in response to police brutality. civil rights movement led by Martin Luther King Jr.. Arab Spring occurred in 2010. workers demanded wages. Arab Spring occurred in Tunisia. protests are catalysts for change. Arab Spring brought an end to overthrow of dictators. protests occurred in ancient Egypt.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Protests are a tool for social and political change.",
+    "retrieved_context": "civil rights movement demanded discrimination. American Revolution occurred in 1776. Black Lives Matter movement emerged in response to systemic racism. protests are a tool for social change. American Revolution inspired people around the world. civil rights movement led by Rosa Parks. workers demanded better working conditions. workers initiated strike. civil rights movement demanded racial segregation. protests inspired shaping the course of history. protests are a tool for political change. Black Lives Matter movement emerged in response to police brutality. civil rights movement led by Martin Luther King Jr.. workers demanded wages. protests are catalysts for change. protests occurred in ancient Egypt.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests inspire movements for democracy.",
+    "retrieved_context": "French Revolution overthrew monarchy. civil rights movement demanded discrimination. American Revolution occurred in 1776. Black Lives Matter movement emerged in response to systemic racism. Arab Spring occurred in 2010. Declaration of Independence demanded unalienable rights. protests are a tool for social change. American Revolution inspired people around the world. French Revolution occurred in 1789. protests are catalysts for change. Arab Spring brought an end to overthrow of dictators. civil rights movement led by Martin Luther King Jr.. protests occurred in ancient Egypt. civil rights movement led by Rosa Parks. civil rights movement demanded racial segregation. French Revolution established republic. Declaration of Independence demanded all men are created equal. protests inspired shaping the course of history. protests are a tool for political change. Black Lives Matter movement emerged in response to police brutality. Arab Spring occurred in Tunisia.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Protests remind of the power of the human spirit.",
+    "retrieved_context": "civil rights movement demanded discrimination. American Revolution occurred in 1776. Black Lives Matter movement emerged in response to systemic racism. protests are a tool for social change. American Revolution inspired people around the world. civil rights movement led by Rosa Parks. workers demanded better working conditions. workers initiated strike. civil rights movement demanded racial segregation. Declaration of Independence demanded all men are created equal. protests inspired shaping the course of history. protests are a tool for political change. Black Lives Matter movement emerged in response to police brutality. civil rights movement led by Martin Luther King Jr.. Declaration of Independence demanded unalienable rights. workers demanded wages. protests are catalysts for change. protests occurred in ancient Egypt.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

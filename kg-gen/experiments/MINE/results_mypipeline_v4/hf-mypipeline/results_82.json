@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Fast fashion is driven by the desire for quick turnover of trendy clothing at affordable prices.",
+    "retrieved_context": "garment production relies_on_cheap_labor_in developing countries. textiles account for 5% of all landfill space in the United States. fashion industry responsible for 10% of global carbon emissions. fast fashion notorious_for high levels of textile waste. fast fashion has significant impact on environment. fast fashion is a dominant force in the fashion industry. fast fashion revolutionized the way we consume clothing. production of fast fashion garments relies heavily on synthetic materials such as polyester and nylon.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fast fashion brands have revolutionized the way we consume clothing.",
+    "retrieved_context": "garment production relies_on_cheap_labor_in developing countries. textiles account for 5% of all landfill space in the United States. fashion industry responsible for 10% of global carbon emissions. fast fashion notorious_for high levels of textile waste. fast fashion has significant impact on environment. fast fashion is a dominant force in the fashion industry. fast fashion revolutionized the way we consume clothing. production of fast fashion garments relies heavily on synthetic materials such as polyester and nylon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The environmental impact of fast fashion is significant and alarming.",
+    "retrieved_context": "garment production relies_on_cheap_labor_in developing countries. textiles account for 5% of all landfill space in the United States. fashion industry responsible for 10% of global carbon emissions. fast fashion notorious_for high levels of textile waste. fast fashion has significant impact on environment. fast fashion is a dominant force in the fashion industry. fast fashion revolutionized the way we consume clothing. production of fast fashion garments relies heavily on synthetic materials such as polyester and nylon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fast fashion garments rely heavily on synthetic materials like polyester and nylon.",
+    "retrieved_context": "garment production relies_on_cheap_labor_in developing countries. textiles account for 5% of all landfill space in the United States. synthetic materials derived_from petrochemicals. fashion industry responsible for 10% of global carbon emissions. fast fashion notorious_for high levels of textile waste. fast fashion has significant impact on environment. fast fashion is a dominant force in the fashion industry. fast fashion revolutionized the way we consume clothing. production of fast fashion garments relies heavily on synthetic materials such as polyester and nylon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Synthetic materials used in fast fashion contribute to air and water pollution.",
+    "retrieved_context": "transportation of raw materials and finished products results in high levels of greenhouse gas emissions. textiles account for 5% of all landfill space in the United States. synthetic materials derived_from petrochemicals. extraction and processing of synthetic materials contribute to air and water pollution. fast fashion notorious_for high levels of textile waste. fast fashion has significant impact on environment. fast fashion is a dominant force in the fashion industry. fast fashion revolutionized the way we consume clothing. production of fast fashion garments relies heavily on synthetic materials such as polyester and nylon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The production of cotton in fast fashion has been linked to deforestation and water scarcity.",
+    "retrieved_context": "production of cotton contribute to deforestation, water scarcity, and extensive use of pesticides and fertilizers. garment production relies_on_cheap_labor_in developing countries. textiles account for 5% of all landfill space in the United States. fast fashion notorious_for high levels of textile waste. fast fashion has significant impact on environment. fast fashion is a dominant force in the fashion industry. fast fashion revolutionized the way we consume clothing. production of fast fashion garments relies heavily on synthetic materials such as polyester and nylon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fast fashion brands produce massive quantities of clothing, leading to high levels of textile waste.",
+    "retrieved_context": "garment production relies_on_cheap_labor_in developing countries. textiles account for 5% of all landfill space in the United States. fashion industry responsible for 10% of global carbon emissions. fast fashion notorious_for high levels of textile waste. fast fashion has significant impact on environment. fast fashion is a dominant force in the fashion industry. fast fashion revolutionized the way we consume clothing. production of fast fashion garments relies heavily on synthetic materials such as polyester and nylon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Textiles account for 5% of all landfill space in the United States.",
+    "retrieved_context": "transportation of raw materials and finished products results in high levels of greenhouse gas emissions. production of cotton contribute to deforestation, water scarcity, and extensive use of pesticides and fertilizers. garment production relies_on_cheap_labor_in developing countries. textiles account for 5% of all landfill space in the United States. fashion industry responsible for 10% of global carbon emissions. fast fashion notorious_for high levels of textile waste. fast fashion has significant impact on environment. fast fashion is a dominant force in the fashion industry. fast fashion revolutionized the way we consume clothing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fast fashion trends encourage consumers to discard clothing after only a few wears.",
+    "retrieved_context": "garment production relies_on_cheap_labor_in developing countries. textiles account for 5% of all landfill space in the United States. fashion industry responsible for 10% of global carbon emissions. fast fashion notorious_for high levels of textile waste. fast fashion has significant impact on environment. fast fashion is a dominant force in the fashion industry. fast fashion revolutionized the way we consume clothing. production of fast fashion garments relies heavily on synthetic materials such as polyester and nylon.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Synthetic fibers in fast fashion garments can take hundreds of years to decompose.",
+    "retrieved_context": "garment production relies_on_cheap_labor_in developing countries. textiles account for 5% of all landfill space in the United States. synthetic materials derived_from petrochemicals. fashion industry responsible for 10% of global carbon emissions. fast fashion notorious_for high levels of textile waste. fast fashion has significant impact on environment. fast fashion is a dominant force in the fashion industry. fast fashion revolutionized the way we consume clothing. production of fast fashion garments relies heavily on synthetic materials such as polyester and nylon.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The fashion industry is responsible for 10% of global carbon emissions.",
+    "retrieved_context": "transportation of raw materials and finished products results in high levels of greenhouse gas emissions. garment production relies_on_cheap_labor_in developing countries. fashion industry responsible for 10% of global carbon emissions. fast fashion notorious_for high levels of textile waste. fast fashion has significant impact on environment. fast fashion is a dominant force in the fashion industry. fast fashion revolutionized the way we consume clothing. production of fast fashion garments relies heavily on synthetic materials such as polyester and nylon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fast fashion contributes significantly to the fashion industry's carbon footprint.",
+    "retrieved_context": "garment production relies_on_cheap_labor_in developing countries. fashion industry responsible for 10% of global carbon emissions. fast fashion notorious_for high levels of textile waste. fast fashion has significant impact on environment. fast fashion is a dominant force in the fashion industry. fast fashion revolutionized the way we consume clothing. production of fast fashion garments relies heavily on synthetic materials such as polyester and nylon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The transportation of raw materials and finished products in fast fashion results in high greenhouse gas emissions.",
+    "retrieved_context": "transportation of raw materials and finished products results in high levels of greenhouse gas emissions. garment production relies_on_cheap_labor_in developing countries. synthetic materials derived_from petrochemicals. extraction and processing of synthetic materials contribute to air and water pollution. fashion industry responsible for 10% of global carbon emissions. fast fashion notorious_for high levels of textile waste. fast fashion has significant impact on environment. fast fashion is a dominant force in the fashion industry. fast fashion revolutionized the way we consume clothing. production of fast fashion garments relies heavily on synthetic materials such as polyester and nylon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "One strategy to address the environmental impact of fast fashion is promoting sustainable fashion practices.",
+    "retrieved_context": "garment production relies_on_cheap_labor_in developing countries. textiles account for 5% of all landfill space in the United States. fashion industry responsible for 10% of global carbon emissions. fast fashion notorious_for high levels of textile waste. fast fashion has significant impact on environment. fast fashion is a dominant force in the fashion industry. fast fashion revolutionized the way we consume clothing. production of fast fashion garments relies heavily on synthetic materials such as polyester and nylon.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Consumers can play a crucial role in driving change by supporting ethical and sustainable fashion brands.",
+    "retrieved_context": "garment production relies_on_cheap_labor_in developing countries. textiles account for 5% of all landfill space in the United States. fashion industry responsible for 10% of global carbon emissions. fast fashion notorious_for high levels of textile waste. fast fashion has significant impact on environment. fast fashion is a dominant force in the fashion industry. fast fashion revolutionized the way we consume clothing. production of fast fashion garments relies heavily on synthetic materials such as polyester and nylon.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

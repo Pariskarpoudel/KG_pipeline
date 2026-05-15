@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The bicycle is a two-wheeled vehicle propelled by human power.",
+    "retrieved_context": "Baron Karl von Drais propelled by rider pushing off the ground. penny-farthing offer large front wheel. cycling is a competitive sport. electric bikes offer motorized assistance. safety bicycle offer chain drive system. bicycle propelled by human power. Baron Karl von Drais created Baron Karl von Drais. bicycles is a popular mode of transportation. penny-farthing is a high-wheel bicycle. bicycle is a two-wheeled vehicle. safety bicycle offer pneumatic tires. Baron Karl von Drais is a German inventor. Baron Karl von Drais is a two-wheeled vehicle. penny-farthing offer smaller rear wheel. safety bicycle offer two wheels of equal size.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The earliest known prototype of the bicycle was called the 'draisine'.",
+    "retrieved_context": "earliest prototype dates back to early 19th century. bicycle propelled by human power. Baron Karl von Drais created Baron Karl von Drais. bicycle is a two-wheeled vehicle. steel became primary material bicycle frames. velocipede emerged as alternative to improvement over the draisine. steel offer strength. safety bicycle offer pneumatic tires. Baron Karl von Drais propelled by rider pushing off the ground. velocipede is also known as velocipede. safety bicycle offer chain drive system. bicycles is a popular mode of transportation. penny-farthing offer large front wheel. safety bicycle offer two wheels of equal size. aluminum emerged as alternative to steel. velocipede offer pedals attached to the front wheel. steel offer durability. titanium emerged as alternative to steel. penny-farthing is a high-wheel bicycle. Baron Karl von Drais is a German inventor. Baron Karl von Drais is a two-wheeled vehicle. penny-farthing offer smaller rear wheel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The draisine had no pedals and was propelled by the rider pushing off the ground with their feet.",
+    "retrieved_context": "Baron Karl von Drais propelled by rider pushing off the ground. velocipede emerged as alternative to improvement over the draisine. cycling is a competitive sport. electric bikes offer motorized assistance. velocipede is also known as velocipede. safety bicycle offer chain drive system. Baron Karl von Drais created Baron Karl von Drais. bicycle propelled by human power. bicycles is a popular mode of transportation. velocipede offer pedals attached to the front wheel. bicycle is a two-wheeled vehicle. safety bicycle offer pneumatic tires. Baron Karl von Drais is a German inventor. Baron Karl von Drais is a two-wheeled vehicle. safety bicycle offer two wheels of equal size.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The velocipede, also known as the 'boneshaker', featured pedals attached directly to the front wheel.",
+    "retrieved_context": "Baron Karl von Drais propelled by rider pushing off the ground. penny-farthing offer large front wheel. velocipede is also known as velocipede. Baron Karl von Drais is a German inventor. bicycle propelled by human power. Baron Karl von Drais created Baron Karl von Drais. Baron Karl von Drais is a two-wheeled vehicle. bicycles is a popular mode of transportation. penny-farthing is a high-wheel bicycle. bicycle is a two-wheeled vehicle. velocipede offer pedals attached to the front wheel. velocipede emerged as alternative to improvement over the draisine. penny-farthing offer smaller rear wheel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The boneshaker offered a smoother ride and greater speed compared to the draisine.",
+    "retrieved_context": "Tour de France showcases endurance. Baron Karl von Drais created Baron Karl von Drais. bicycle propelled by human power. bicycle is a two-wheeled vehicle. steel became primary material bicycle frames. velocipede emerged as alternative to improvement over the draisine. steel offer strength. safety bicycle offer pneumatic tires. Baron Karl von Drais propelled by rider pushing off the ground. Tour de France showcases skill. velocipede is also known as velocipede. safety bicycle offer chain drive system. bicycles is a popular mode of transportation. safety bicycle offer two wheels of equal size. Tour de France showcases speed. aluminum emerged as alternative to steel. velocipede offer pedals attached to the front wheel. cycling is a competitive sport. steel offer durability. titanium emerged as alternative to steel. Baron Karl von Drais is a German inventor. Baron Karl von Drais is a two-wheeled vehicle.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The high-wheel bicycle, or penny-farthing, had a large front wheel and a smaller rear wheel.",
+    "retrieved_context": "Baron Karl von Drais propelled by rider pushing off the ground. bicycle is a two-wheeled vehicle. velocipede emerged as alternative to improvement over the draisine. velocipede is also known as velocipede. safety bicycle offer chain drive system. bicycle propelled by human power. Baron Karl von Drais created Baron Karl von Drais. penny-farthing is a high-wheel bicycle. velocipede offer pedals attached to the front wheel. penny-farthing offer large front wheel. safety bicycle offer pneumatic tires. Baron Karl von Drais is a German inventor. Baron Karl von Drais is a two-wheeled vehicle. penny-farthing offer smaller rear wheel. safety bicycle offer two wheels of equal size.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The safety bicycle featured two wheels of equal size, a chain drive system, and pneumatic tires.",
+    "retrieved_context": "Baron Karl von Drais propelled by rider pushing off the ground. bicycle is a two-wheeled vehicle. penny-farthing offer large front wheel. safety bicycle offer chain drive system. Baron Karl von Drais created Baron Karl von Drais. bicycle propelled by human power. bicycles is a popular mode of transportation. penny-farthing is a high-wheel bicycle. safety bicycle offer two wheels of equal size. safety bicycle offer pneumatic tires. Baron Karl von Drais is a German inventor. Baron Karl von Drais is a two-wheeled vehicle. penny-farthing offer smaller rear wheel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The safety bicycle was more stable, comfortable, and efficient than its predecessors.",
+    "retrieved_context": "bicycle propelled by human power. Baron Karl von Drais created Baron Karl von Drais. bicycle is a two-wheeled vehicle. steel became primary material bicycle frames. steel offer strength. safety bicycle offer pneumatic tires. Baron Karl von Drais propelled by rider pushing off the ground. safety bicycle offer chain drive system. bicycles is a popular mode of transportation. safety bicycle offer two wheels of equal size. penny-farthing offer large front wheel. aluminum emerged as alternative to steel. cycling is a competitive sport. steel offer durability. electric bikes offer motorized assistance. titanium emerged as alternative to steel. penny-farthing is a high-wheel bicycle. Baron Karl von Drais is a German inventor. Baron Karl von Drais is a two-wheeled vehicle. penny-farthing offer smaller rear wheel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Steel became the primary material used in bicycle frames in the early 1900s.",
+    "retrieved_context": "bicycle is a two-wheeled vehicle. steel offer durability. carbon fiber frames is a aerodynamic. safety bicycle offer chain drive system. carbon fiber frames is a strong. steel offer strength. titanium emerged as alternative to steel. bicycle propelled by human power. bicycles is a popular mode of transportation. carbon fiber frames is a lightweight. penny-farthing offer smaller rear wheel. penny-farthing is a high-wheel bicycle. safety bicycle offer two wheels of equal size. safety bicycle offer pneumatic tires. aluminum emerged as alternative to steel. penny-farthing offer large front wheel. Baron Karl von Drais is a two-wheeled vehicle. steel became primary material bicycle frames.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Aluminum and titanium emerged as popular alternatives to steel in the mid-20th century.",
+    "retrieved_context": "Baron Karl von Drais propelled by rider pushing off the ground. steel offer durability. earliest prototype dates back to early 19th century. carbon fiber is a revolutionary material. steel offer strength. titanium emerged as alternative to steel. Baron Karl von Drais created Baron Karl von Drais. bicycles is a popular mode of transportation. aluminum emerged as alternative to steel. Baron Karl von Drais is a German inventor. Baron Karl von Drais is a two-wheeled vehicle. steel became primary material bicycle frames.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Carbon fiber frames are lightweight, strong, and aerodynamic.",
+    "retrieved_context": "aluminum emerged as alternative to steel. steel offer durability. electric bikes offer motorized assistance. carbon fiber is a revolutionary material. carbon fiber frames is a strong. steel offer strength. titanium emerged as alternative to steel. bicycles is a popular mode of transportation. carbon fiber frames is a aerodynamic. carbon fiber frames is a lightweight. steel became primary material bicycle frames.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Carbon fiber frames are ideal for competitive racing and high-performance cycling.",
+    "retrieved_context": "Tour de France showcases skill. aluminum emerged as alternative to steel. cycling is a competitive sport. steel offer durability. electric bikes offer motorized assistance. Tour de France showcases endurance. carbon fiber is a revolutionary material. carbon fiber frames is a strong. steel offer strength. titanium emerged as alternative to steel. bicycles is a popular mode of transportation. Tour de France showcases speed. carbon fiber frames is a aerodynamic. carbon fiber frames is a lightweight. steel became primary material bicycle frames.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electric bikes offer motorized assistance for easier riding and longer distances.",
+    "retrieved_context": "Baron Karl von Drais propelled by rider pushing off the ground. cycling is a competitive sport. electric bikes offer motorized assistance. steel offer durability. Baron Karl von Drais is a German inventor. bicycle propelled by human power. steel offer strength. titanium emerged as alternative to steel. bicycles is a popular mode of transportation. Baron Karl von Drais created Baron Karl von Drais. penny-farthing is a high-wheel bicycle. bicycle is a two-wheeled vehicle. aluminum emerged as alternative to steel. penny-farthing offer large front wheel. Baron Karl von Drais is a two-wheeled vehicle. penny-farthing offer smaller rear wheel. steel became primary material bicycle frames.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bicycles have become a popular mode of transportation for commuting, exercise, and leisure.",
+    "retrieved_context": "cycling is a competitive sport. electric bikes offer motorized assistance. steel offer durability. safety bicycle offer chain drive system. bicycle propelled by human power. steel offer strength. titanium emerged as alternative to steel. bicycles is a popular mode of transportation. penny-farthing offer smaller rear wheel. penny-farthing is a high-wheel bicycle. bicycle is a two-wheeled vehicle. safety bicycle offer pneumatic tires. aluminum emerged as alternative to steel. penny-farthing offer large front wheel. Baron Karl von Drais is a two-wheeled vehicle. steel became primary material bicycle frames. safety bicycle offer two wheels of equal size.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cycling has become a competitive sport enjoyed by millions of people around the world.",
+    "retrieved_context": "Tour de France showcases skill. Tour de France showcases speed. cycling is a competitive sport. electric bikes offer motorized assistance. Tour de France showcases endurance. safety bicycle offer chain drive system. bicycle propelled by human power. bicycles is a popular mode of transportation. bicycle is a two-wheeled vehicle. safety bicycle offer pneumatic tires. Baron Karl von Drais is a two-wheeled vehicle. safety bicycle offer two wheels of equal size.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

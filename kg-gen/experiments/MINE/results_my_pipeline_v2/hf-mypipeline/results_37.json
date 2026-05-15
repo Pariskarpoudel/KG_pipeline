@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Pirates captured the imagination of people for centuries.",
+    "retrieved_context": "legacy of pirates has left folklore. decline of Spanish Empire cracked down on rise of piracy. Blackbeard was legendary pirate. Golden Age of Piracy dates back to late 17th century. pirates plundered coastal settlements. pirates were seen as freedom. Captain Kidd was legendary pirate. Pirates captured imagination of people. origins of piracy dates back to ancient times. decline of piracy dates back to early 18th century. pirates were seen as rebels. pirates plundered Spanish treasure ships. pirates operated with relative impunity. Calico Jack was legendary pirate. Golden Age of Piracy spanned to early 18th century. legacy of pirates has left popular culture. history of pirates was complex and multifaceted one. pirates were seen as heroes by common people. pirates terrorized waters of the Caribbean. pirates terrorized Atlantic Ocean.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pirate activity dates back to the 14th century BC.",
+    "retrieved_context": "Golden Age of Piracy spanned to early 18th century. anti-piracy laws cracked down on scourge of piracy. legacy of pirates has left popular culture. Britain cracked down on pirate activity. origins of piracy dates back to ancient times. history of pirates was complex and multifaceted one. legacy of pirates has left folklore. decline of piracy dates back to early 18th century. decline of Spanish Empire cracked down on rise of piracy. pirate activity dates back to 14th century BC. Golden Age of Piracy dates back to late 17th century.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Sea Peoples were among the earliest known pirates.",
+    "retrieved_context": "Pirate Code governed division of spoils. Barbary pirates sponsored_by governments. legacy of pirates has left folklore. Sea Peoples were seen as swift attacks on merchant ships. pirates plundered coastal settlements. pirates were seen as freedom. Sea Peoples dates back to late Bronze Age. Sea Peoples terrorized Mediterranean region. Pirates captured imagination of people. origins of piracy dates back to ancient times. Barbary pirates operated out of North Africa. Pirate Code governed resolution of disputes. Barbary pirates were seen as raids on European ships. pirates were seen as rebels. pirates operated with relative impunity. pirates plundered Spanish treasure ships. legacy of pirates has left popular culture. history of pirates was complex and multifaceted one. Pirate Code cracked down on order aboard pirate ships. pirates were seen as heroes by common people. pirates terrorized waters of the Caribbean. pirates terrorized Atlantic Ocean. Sea Peoples was group of seafaring raiders. Barbary pirates sponsored_by local rulers.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Barbary pirates operated out of North Africa.",
+    "retrieved_context": "Pirate Code governed division of spoils. Barbary pirates sponsored_by governments. legacy of pirates has left folklore. Golden Age of Piracy dates back to late 17th century. pirates plundered coastal settlements. pirates were seen as freedom. Pirates captured imagination of people. Barbary pirates operated out of North Africa. origins of piracy dates back to ancient times. Pirate Code governed resolution of disputes. Barbary pirates were seen as raids on European ships. decline of piracy dates back to early 18th century. pirates were seen as rebels. pirates operated with relative impunity. pirates plundered Spanish treasure ships. Golden Age of Piracy spanned to early 18th century. legacy of pirates has left popular culture. history of pirates was complex and multifaceted one. Pirate Code cracked down on order aboard pirate ships. pirates were seen as heroes by common people. pirates terrorized waters of the Caribbean. pirates terrorized Atlantic Ocean. Barbary pirates sponsored_by local rulers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Golden Age of Piracy spanned the late 17th to early 18th centuries.",
+    "retrieved_context": "Golden Age of Piracy spanned to early 18th century. anti-piracy laws cracked down on scourge of piracy. legacy of pirates has left popular culture. history of pirates was complex and multifaceted one. origins of piracy dates back to ancient times. legacy of pirates has left folklore. decline of piracy dates back to early 18th century. decline of Spanish Empire cracked down on rise of piracy. piracy has left indelible mark on history. Golden Age of Piracy dates back to late 17th century.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blackbeard, Captain Kidd, and Calico Jack were legendary pirates.",
+    "retrieved_context": "Barbary pirates sponsored_by governments. legacy of pirates has left folklore. Blackbeard was legendary pirate. Golden Age of Piracy dates back to late 17th century. pirates plundered coastal settlements. pirates were seen as freedom. Captain Kidd was legendary pirate. Pirates captured imagination of people. Barbary pirates operated out of North Africa. Barbary pirates were seen as raids on European ships. decline of piracy dates back to early 18th century. pirates were seen as rebels. pirates operated with relative impunity. pirates plundered Spanish treasure ships. Calico Jack was legendary pirate. Golden Age of Piracy spanned to early 18th century. legacy of pirates has left popular culture. history of pirates was complex and multifaceted one. pirates were seen as heroes by common people. pirates terrorized waters of the Caribbean. pirates terrorized Atlantic Ocean. Barbary pirates sponsored_by local rulers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pirates preyed on Spanish treasure ships during the decline of the Spanish Empire.",
+    "retrieved_context": "Golden Age of Piracy spanned to early 18th century. legacy of pirates has left popular culture. history of pirates was complex and multifaceted one. legacy of pirates has left folklore. decline of piracy dates back to early 18th century. pirates plundered coastal settlements. pirates were seen as freedom. pirates were seen as rebels. decline of Spanish Empire cracked down on rise of piracy. pirates were seen as heroes by common people. pirates terrorized waters of the Caribbean. pirates terrorized Atlantic Ocean. pirates operated with relative impunity. Pirates captured imagination of people. Golden Age of Piracy dates back to late 17th century. pirates plundered Spanish treasure ships.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The lure of gold and silver attracted men to the pirate life.",
+    "retrieved_context": "Barbary pirates sponsored_by governments. legacy of pirates has left folklore. Blackbeard was legendary pirate. Golden Age of Piracy dates back to late 17th century. pirates plundered coastal settlements. pirates were seen as freedom. Captain Kidd was legendary pirate. Pirates captured imagination of people. origins of piracy dates back to ancient times. Barbary pirates operated out of North Africa. decline of piracy dates back to early 18th century. Barbary pirates were seen as raids on European ships. pirates were seen as rebels. pirates plundered Spanish treasure ships. pirates operated with relative impunity. Calico Jack was legendary pirate. Golden Age of Piracy spanned to early 18th century. legacy of pirates has left popular culture. history of pirates was complex and multifaceted one. pirates were seen as heroes by common people. pirates terrorized waters of the Caribbean. pirates terrorized Atlantic Ocean. Barbary pirates sponsored_by local rulers.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pirate crews operated under a strict code of conduct known as the Pirate Code.",
+    "retrieved_context": "Pirate Code governed division of spoils. anti-piracy laws cracked down on scourge of piracy. legacy of pirates has left popular culture. Britain cracked down on pirate activity. history of pirates was complex and multifaceted one. legacy of pirates has left folklore. Pirate Code governed resolution of disputes. Pirate Code cracked down on order aboard pirate ships. pirates plundered coastal settlements. pirates were seen as freedom. pirates were seen as rebels. pirates were seen as heroes by common people. pirate activity dates back to 14th century BC. pirates terrorized waters of the Caribbean. pirates terrorized Atlantic Ocean. pirates operated with relative impunity. Pirates captured imagination of people. pirates plundered Spanish treasure ships.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pirates were often viewed as heroes by common people.",
+    "retrieved_context": "Barbary pirates sponsored_by governments. legacy of pirates has left folklore. Blackbeard was legendary pirate. Golden Age of Piracy dates back to late 17th century. pirates plundered coastal settlements. pirates were seen as freedom. Captain Kidd was legendary pirate. Pirates captured imagination of people. Barbary pirates operated out of North Africa. origins of piracy dates back to ancient times. decline of piracy dates back to early 18th century. Barbary pirates were seen as raids on European ships. pirates were seen as rebels. pirates operated with relative impunity. pirates plundered Spanish treasure ships. Calico Jack was legendary pirate. Golden Age of Piracy spanned to early 18th century. legacy of pirates has left popular culture. history of pirates was complex and multifaceted one. pirates were seen as heroes by common people. pirates terrorized waters of the Caribbean. pirates terrorized Atlantic Ocean. Barbary pirates sponsored_by local rulers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "European powers cracked down on pirate activity in the early 18th century.",
+    "retrieved_context": "Golden Age of Piracy spanned to early 18th century. anti-piracy laws cracked down on scourge of piracy. legacy of pirates has left popular culture. Britain cracked down on pirate activity. origins of piracy dates back to ancient times. history of pirates was complex and multifaceted one. legacy of pirates has left folklore. decline of piracy dates back to early 18th century. decline of Spanish Empire cracked down on rise of piracy. pirate activity dates back to 14th century BC. Golden Age of Piracy dates back to late 17th century.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Naval patrols and anti-piracy laws helped curb piracy.",
+    "retrieved_context": "Golden Age of Piracy spanned to early 18th century. anti-piracy laws cracked down on scourge of piracy. history of pirates was complex and multifaceted one. origins of piracy dates back to ancient times. Britain cracked down on pirate activity. decline of piracy dates back to early 18th century. decline of Spanish Empire cracked down on rise of piracy. pirate activity dates back to 14th century BC. piracy has left indelible mark on history. Golden Age of Piracy dates back to late 17th century.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The legacy of pirates endures in popular culture and folklore.",
+    "retrieved_context": "Barbary pirates sponsored_by governments. legacy of pirates has left folklore. decline of Spanish Empire cracked down on rise of piracy. Blackbeard was legendary pirate. Golden Age of Piracy dates back to late 17th century. pirates plundered coastal settlements. pirates were seen as freedom. Captain Kidd was legendary pirate. Pirates captured imagination of people. Barbary pirates operated out of North Africa. decline of piracy dates back to early 18th century. Barbary pirates were seen as raids on European ships. pirates were seen as rebels. pirates plundered Spanish treasure ships. pirates operated with relative impunity. Calico Jack was legendary pirate. Golden Age of Piracy spanned to early 18th century. legacy of pirates has left popular culture. history of pirates was complex and multifaceted one. pirates were seen as heroes by common people. pirates terrorized waters of the Caribbean. pirates terrorized Atlantic Ocean. Barbary pirates sponsored_by local rulers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pirates have been immortalized in books, movies, and television shows.",
+    "retrieved_context": "Barbary pirates sponsored_by governments. legacy of pirates has left folklore. decline of Spanish Empire cracked down on rise of piracy. Golden Age of Piracy dates back to late 17th century. pirates plundered coastal settlements. pirates were seen as freedom. Pirates captured imagination of people. origins of piracy dates back to ancient times. Barbary pirates operated out of North Africa. decline of piracy dates back to early 18th century. Barbary pirates were seen as raids on European ships. pirates were seen as rebels. pirates plundered Spanish treasure ships. pirates operated with relative impunity. Golden Age of Piracy spanned to early 18th century. legacy of pirates has left popular culture. history of pirates was complex and multifaceted one. pirates were seen as heroes by common people. pirates terrorized waters of the Caribbean. pirates terrorized Atlantic Ocean. Barbary pirates sponsored_by local rulers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The history of pirates spans centuries and continents.",
+    "retrieved_context": "Golden Age of Piracy spanned to early 18th century. pirates plundered Spanish treasure ships. legacy of pirates has left folklore. legacy of pirates has left popular culture. origins of piracy dates back to ancient times. history of pirates was complex and multifaceted one. decline of piracy dates back to early 18th century. pirates plundered coastal settlements. pirates were seen as freedom. pirates were seen as rebels. decline of Spanish Empire cracked down on rise of piracy. pirates were seen as heroes by common people. pirates terrorized waters of the Caribbean. pirates terrorized Atlantic Ocean. pirates operated with relative impunity. Pirates captured imagination of people. Golden Age of Piracy dates back to late 17th century.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

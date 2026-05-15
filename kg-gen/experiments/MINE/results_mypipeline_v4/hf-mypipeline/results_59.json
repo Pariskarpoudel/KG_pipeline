@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Languages are an integral part of human culture and identity.",
+    "retrieved_context": "Language extinction results in loss of linguistic diversity. Dominant languages spreads_worldwide English, Spanish, Mandarin. Language extinction results in erosion of traditional ecological knowledge. Smaller minority languages marginalized due to dominant languages. Linguists, language activists, community members work together to preserve endangered languages. Languages serves_as means of communication. Languages serves_as expression for communities. Linguists, language activists, community members aim to empower speakers to reclaim their linguistic heritage. Younger generations abandon ancestral languages. Language extinction occurs when a language ceases to be spoken by a community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Languages serve as a means of communication and expression for communities.",
+    "retrieved_context": "Language extinction results in loss of linguistic diversity. Language extinction results in erosion of traditional ecological knowledge. Smaller minority languages marginalized due to dominant languages. Language revitalization programs focus on language teaching and learning. Linguists, language activists, community members work together to preserve endangered languages. Languages serves_as means of communication. Languages serves_as expression for communities. Linguists, language activists, community members aim to empower speakers to reclaim their linguistic heritage. Language extinction occurs when a language ceases to be spoken by a community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language death occurs when a language ceases to be spoken by a community.",
+    "retrieved_context": "Language extinction results in loss of linguistic diversity. Language extinction results in erosion of traditional ecological knowledge. Environmental factors contribute to language death. Linguists, language activists, community members work together to preserve endangered languages. Loss of a language impacts identity, self-esteem, and well-being of speakers. Natural disasters, wars, forced migration displaces_communities leading to language loss. Linguists, language activists, community members aim to empower speakers to reclaim their linguistic heritage. Cultural assimilation and globalization contribute to language death. Language extinction occurs when a language ceases to be spoken by a community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cultural assimilation and globalization are primary reasons for language death.",
+    "retrieved_context": "Language extinction results in loss of linguistic diversity. Language extinction results in erosion of traditional ecological knowledge. Smaller minority languages marginalized due to dominant languages. Environmental factors contribute to language death. Loss of a language impacts identity, self-esteem, and well-being of speakers. Natural disasters, wars, forced migration displaces_communities leading to language loss. Cultural assimilation and globalization contribute to language death. Language extinction occurs when a language ceases to be spoken by a community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Globalization leads to the marginalization of smaller, minority languages.",
+    "retrieved_context": "Language extinction results in loss of linguistic diversity. Dominant languages spreads_worldwide English, Spanish, Mandarin. Language extinction results in erosion of traditional ecological knowledge. Smaller minority languages marginalized due to dominant languages. Environmental factors contribute to language death. Natural disasters, wars, forced migration displaces_communities leading to language loss. Languages serves_as means of communication. Languages serves_as expression for communities. Cultural assimilation and globalization contribute to language death. Language extinction occurs when a language ceases to be spoken by a community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The decline in intergenerational transmission of languages contributes to language death.",
+    "retrieved_context": "Language extinction results in loss of linguistic diversity. Language extinction results in erosion of traditional ecological knowledge. Smaller minority languages marginalized due to dominant languages. Environmental factors contribute to language death. Loss of a language impacts identity, self-esteem, and well-being of speakers. Natural disasters, wars, forced migration displaces_communities leading to language loss. Younger generations abandon ancestral languages. Cultural assimilation and globalization contribute to language death. Language extinction occurs when a language ceases to be spoken by a community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Younger generations may not learn ancestral languages due to social pressures.",
+    "retrieved_context": "Language extinction results in loss of linguistic diversity. Language extinction results in erosion of traditional ecological knowledge. Smaller minority languages marginalized due to dominant languages. Linguists, language activists, community members work together to preserve endangered languages. Natural disasters, wars, forced migration displaces_communities leading to language loss. Linguists, language activists, community members aim to empower speakers to reclaim their linguistic heritage. Younger generations abandon ancestral languages. Language extinction occurs when a language ceases to be spoken by a community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Breakdown in language transmission often occurs in urbanized settings.",
+    "retrieved_context": "Language extinction results in loss of linguistic diversity. Intergenerational transmission breakdown occurs in urbanized settings. Language extinction results in erosion of traditional ecological knowledge. Smaller minority languages marginalized due to dominant languages. Environmental factors contribute to language death. Loss of a language impacts identity, self-esteem, and well-being of speakers. Natural disasters, wars, forced migration displaces_communities leading to language loss. Cultural assimilation and globalization contribute to language death. Language extinction occurs when a language ceases to be spoken by a community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Environmental factors like natural disasters can contribute to language death.",
+    "retrieved_context": "Language extinction results in loss of linguistic diversity. Language extinction results in erosion of traditional ecological knowledge. Smaller minority languages marginalized due to dominant languages. Environmental factors contribute to language death. Linguists, language activists, community members work together to preserve endangered languages. Loss of a language impacts identity, self-esteem, and well-being of speakers. Natural disasters, wars, forced migration displaces_communities leading to language loss. Linguists, language activists, community members aim to empower speakers to reclaim their linguistic heritage. Cultural assimilation and globalization contribute to language death. Language extinction occurs when a language ceases to be spoken by a community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The consequences of language death include the loss of unique ways of understanding the world.",
+    "retrieved_context": "Language extinction results in loss of linguistic diversity. Language extinction results in erosion of traditional ecological knowledge. Environmental factors contribute to language death. Linguists, language activists, community members work together to preserve endangered languages. Loss of a language impacts identity, self-esteem, and well-being of speakers. Natural disasters, wars, forced migration displaces_communities leading to language loss. Linguists, language activists, community members aim to empower speakers to reclaim their linguistic heritage. Cultural assimilation and globalization contribute to language death. Language extinction occurs when a language ceases to be spoken by a community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language extinction leads to the erosion of traditional ecological knowledge.",
+    "retrieved_context": "Language extinction results in loss of linguistic diversity. Language extinction results in erosion of traditional ecological knowledge. Linguists, language activists, community members work together to preserve endangered languages. Loss of a language impacts identity, self-esteem, and well-being of speakers. Natural disasters, wars, forced migration displaces_communities leading to language loss. Linguists, language activists, community members aim to empower speakers to reclaim their linguistic heritage. Language extinction occurs when a language ceases to be spoken by a community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Efforts to preserve endangered languages involve language teaching and learning.",
+    "retrieved_context": "Language extinction results in loss of linguistic diversity. Language extinction results in erosion of traditional ecological knowledge. Language revitalization programs focus on language teaching and learning. Linguists, language activists, community members work together to preserve endangered languages. Loss of a language impacts identity, self-esteem, and well-being of speakers. Languages serves_as means of communication. Natural disasters, wars, forced migration displaces_communities leading to language loss. Languages serves_as expression for communities. Linguists, language activists, community members aim to empower speakers to reclaim their linguistic heritage. Language extinction occurs when a language ceases to be spoken by a community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language revitalization programs aim to empower speakers to reclaim their linguistic heritage.",
+    "retrieved_context": "Language extinction results in loss of linguistic diversity. Language extinction results in erosion of traditional ecological knowledge. Language revitalization programs focus on language teaching and learning. Linguists, language activists, community members work together to preserve endangered languages. Loss of a language impacts identity, self-esteem, and well-being of speakers. Linguists, language activists, community members aim to empower speakers to reclaim their linguistic heritage. Language extinction occurs when a language ceases to be spoken by a community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding the reasons for language death is essential for addressing the issue.",
+    "retrieved_context": "Language extinction results in loss of linguistic diversity. Language extinction results in erosion of traditional ecological knowledge. Smaller minority languages marginalized due to dominant languages. Environmental factors contribute to language death. Linguists, language activists, community members work together to preserve endangered languages. Loss of a language impacts identity, self-esteem, and well-being of speakers. Natural disasters, wars, forced migration displaces_communities leading to language loss. Linguists, language activists, community members aim to empower speakers to reclaim their linguistic heritage. Cultural assimilation and globalization contribute to language death. Language extinction occurs when a language ceases to be spoken by a community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Valuing and supporting linguistic diversity is crucial for the preservation of human languages.",
+    "retrieved_context": "Language extinction results in loss of linguistic diversity. Dominant languages spreads_worldwide English, Spanish, Mandarin. Language extinction results in erosion of traditional ecological knowledge. Smaller minority languages marginalized due to dominant languages. Linguists, language activists, community members work together to preserve endangered languages. Languages serves_as means of communication. Languages serves_as expression for communities. Linguists, language activists, community members aim to empower speakers to reclaim their linguistic heritage. Language extinction occurs when a language ceases to be spoken by a community.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "100.00%"
+  }
+]

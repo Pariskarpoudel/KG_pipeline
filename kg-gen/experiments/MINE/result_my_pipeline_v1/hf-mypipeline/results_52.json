@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Tornadoes are powerful and destructive natural phenomena on Earth.",
+    "retrieved_context": "tornadoes threatens communities. Tornadoes are classified using Enhanced Fujita scale. cumulonimbus clouds is breeding grounds for tornadoes. EF0 tornadoes have wind speeds of 65-85 mph. Tornadoes is natural phenomena. instability cause cumulonimbus clouds. condensation funnel cause thunderstorm. Tornadoes cause severe thunderstorms. EF5 tornadoes have wind speeds of 200 mph. tornado enters mature stage. Tornadoes cause immense damage. tornado weakens_in dissipating stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tornadoes can cause immense damage to buildings, trees, and anything in their path.",
+    "retrieved_context": "tornadoes threatens communities. Tornadoes are classified using Enhanced Fujita scale. cumulonimbus clouds is breeding grounds for tornadoes. EF0 tornadoes have wind speeds of 65-85 mph. Tornadoes is natural phenomena. instability cause cumulonimbus clouds. condensation funnel cause thunderstorm. Tornadoes cause severe thunderstorms. EF5 tornadoes have wind speeds of 200 mph. tornado enters mature stage. Tornadoes cause immense damage. tornado weakens_in dissipating stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tornadoes form in severe thunderstorms when specific atmospheric conditions are present.",
+    "retrieved_context": "tornadoes threatens communities. Tornadoes are classified using Enhanced Fujita scale. condensation funnel cause thunderstorm. Tornadoes is natural phenomena. instability cause cumulonimbus clouds. EF0 tornadoes have wind speeds of 65-85 mph. Tornadoes cause severe thunderstorms. EF5 tornadoes have wind speeds of 200 mph. tornado enters mature stage. tornado weakens_in dissipating stage. Tornadoes cause immense damage. cumulonimbus clouds is breeding grounds for tornadoes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wind shear is a key ingredient for tornado formation.",
+    "retrieved_context": "tornadoes threatens communities. mesocyclone is rotating column of air. Tornadoes are classified using Enhanced Fujita scale. cumulonimbus clouds is breeding grounds for tornadoes. EF0 tornadoes have wind speeds of 65-85 mph. Tornadoes is natural phenomena. instability cause cumulonimbus clouds. Tornadoes cause severe thunderstorms. wind shear cause mesocyclone. tornado enters mature stage. EF5 tornadoes have wind speeds of 200 mph. Tornadoes cause immense damage. tornado weakens_in dissipating stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wind shear creates a rotating column of air known as a mesocyclone within a thunderstorm.",
+    "retrieved_context": "tornadoes threatens communities. mesocyclone is rotating column of air. Tornadoes are classified using Enhanced Fujita scale. condensation funnel cause thunderstorm. Tornadoes is natural phenomena. Tornadoes cause severe thunderstorms. wind shear cause mesocyclone. tornado enters mature stage. Tornadoes cause immense damage. tornado weakens_in dissipating stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Instability in the atmosphere is another important factor in tornado formation.",
+    "retrieved_context": "tornadoes threatens communities. mesocyclone is rotating column of air. Tornadoes are classified using Enhanced Fujita scale. cumulonimbus clouds is breeding grounds for tornadoes. EF0 tornadoes have wind speeds of 65-85 mph. Tornadoes is natural phenomena. instability cause cumulonimbus clouds. Tornadoes cause severe thunderstorms. EF5 tornadoes have wind speeds of 200 mph. tornado enters mature stage. wind shear cause mesocyclone. instability cause warm air is overlaid. Tornadoes cause immense damage. tornado weakens_in dissipating stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Instability occurs when warm, moist air near the surface is overlaid by cooler, drier air aloft.",
+    "retrieved_context": "dry line is trigger mechanism. mesocyclone is rotating column of air. dust whirl stage is initial stage. condensation funnel cause thunderstorm. instability cause cumulonimbus clouds. outflow boundary is trigger mechanism. cold front is trigger mechanism. tornado weakens_in dissipating stage. wind shear cause mesocyclone. tornado enters mature stage. instability cause warm air is overlaid. cumulonimbus clouds is breeding grounds for tornadoes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A trigger mechanism, such as a cold front, dry line, or outflow boundary, is needed for tornado formation.",
+    "retrieved_context": "dry line is trigger mechanism. tornadoes threatens communities. Tornadoes are classified using Enhanced Fujita scale. EF0 tornadoes have wind speeds of 65-85 mph. Tornadoes is natural phenomena. instability cause cumulonimbus clouds. outflow boundary is trigger mechanism. cold front is trigger mechanism. Tornadoes cause severe thunderstorms. EF5 tornadoes have wind speeds of 200 mph. tornado enters mature stage. tornado weakens_in dissipating stage. Tornadoes cause immense damage. cumulonimbus clouds is breeding grounds for tornadoes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tornadoes go through stages of development: dust whirl stage, mature stage, and dissipating stage.",
+    "retrieved_context": "tornadoes threatens communities. dust whirl stage is initial stage. Tornadoes are classified using Enhanced Fujita scale. cumulonimbus clouds is breeding grounds for tornadoes. EF0 tornadoes have wind speeds of 65-85 mph. Tornadoes is natural phenomena. instability cause cumulonimbus clouds. Tornadoes cause severe thunderstorms. EF5 tornadoes have wind speeds of 200 mph. tornado enters mature stage. Tornadoes cause immense damage. tornado weakens_in dissipating stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tornadoes are classified using the Enhanced Fujita (EF) scale.",
+    "retrieved_context": "tornadoes threatens communities. EF scale ranges EF0 to EF5. Tornadoes are classified using Enhanced Fujita scale. cumulonimbus clouds is breeding grounds for tornadoes. EF0 tornadoes have wind speeds of 65-85 mph. Tornadoes is natural phenomena. instability cause cumulonimbus clouds. Tornadoes cause severe thunderstorms. EF5 tornadoes have wind speeds of 200 mph. tornado enters mature stage. Tornadoes cause immense damage. tornado weakens_in dissipating stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The EF scale ranges from EF0 (weakest) to EF5 (strongest).",
+    "retrieved_context": "EF scale ranges EF0 to EF5. dust whirl stage is initial stage. Tornadoes are classified using Enhanced Fujita scale. EF0 tornadoes have wind speeds of 65-85 mph. Tornadoes is natural phenomena. Tornadoes cause severe thunderstorms. EF5 tornadoes have wind speeds of 200 mph. tornado enters mature stage. Tornadoes cause immense damage. tornado weakens_in dissipating stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forecasting tornadoes is complex due to their rapid and unpredictable nature.",
+    "retrieved_context": "tornadoes threatens communities. Tornadoes are classified using Enhanced Fujita scale. cumulonimbus clouds is breeding grounds for tornadoes. EF0 tornadoes have wind speeds of 65-85 mph. Tornadoes is natural phenomena. instability cause cumulonimbus clouds. condensation funnel cause thunderstorm. Tornadoes cause severe thunderstorms. EF5 tornadoes have wind speeds of 200 mph. tornado enters mature stage. Tornadoes cause immense damage. tornado weakens_in dissipating stage.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Meteorologists use weather radar, satellite imagery, and ground observations to monitor atmospheric conditions for tornado development.",
+    "retrieved_context": "tornadoes threatens communities. meteorologists use satellite imagery. meteorologists use weather radar. Tornadoes are classified using Enhanced Fujita scale. cumulonimbus clouds is breeding grounds for tornadoes. Tornadoes is natural phenomena. instability cause cumulonimbus clouds. Tornadoes cause severe thunderstorms. meteorologists use ground observations. tornado enters mature stage. Tornadoes cause immense damage. tornado weakens_in dissipating stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Doppler radar is instrumental in detecting rotation within thunderstorms and issuing tornado warnings.",
+    "retrieved_context": "tornadoes threatens communities. meteorologists use satellite imagery. meteorologists use weather radar. Tornadoes are classified using Enhanced Fujita scale. condensation funnel cause thunderstorm. Tornadoes is natural phenomena. Tornadoes cause severe thunderstorms. Doppler radar use detecting rotation. meteorologists use ground observations. tornado enters mature stage. Tornadoes cause immense damage. tornado weakens_in dissipating stage.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Despite advances in technology, tornadoes continue to pose a significant threat to communities.",
+    "retrieved_context": "tornadoes threatens communities. Tornadoes are classified using Enhanced Fujita scale. EF0 tornadoes have wind speeds of 65-85 mph. Tornadoes is natural phenomena. instability cause cumulonimbus clouds. condensation funnel cause thunderstorm. Tornadoes cause severe thunderstorms. EF5 tornadoes have wind speeds of 200 mph. tornado enters mature stage. tornado weakens_in dissipating stage. Tornadoes cause immense damage. cumulonimbus clouds is breeding grounds for tornadoes.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

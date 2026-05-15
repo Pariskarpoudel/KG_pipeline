@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Black holes captivate scientists and the general public.",
+    "retrieved_context": "black holes provide testing ground for theories of gravity. black holes causes remnants of massive stars. holographic principle suggests information is encoded on event horizon. black holes is immense gravitational pull. black holes captivates scientists. study of black holes causes holographic principle. Hawking radiation predicted by Stephen Hawking. Hawking radiation causes black holes to lose mass. black holes warps spacetime. Schwarzschild radius measures size of black holes. black holes captivates general public. discovery of gravitational waves resulted from merger of two black holes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black holes have immense gravitational pull.",
+    "retrieved_context": "singularity is point of infinite density. singularity is zero volume. black holes provide testing ground for theories of gravity. black holes causes remnants of massive stars. holographic principle suggests information is encoded on event horizon. black holes is immense gravitational pull. black holes captivates scientists. Hawking radiation predicted by Stephen Hawking. study of black holes causes holographic principle. Hawking radiation causes black holes to lose mass. black holes warps spacetime. singularity collapses own gravity. Schwarzschild radius measures size of black holes. black holes captivates general public. singularity is point of infinite curvature. singularity surrounded by event horizon. discovery of gravitational waves resulted from merger of two black holes. singularity causes singularity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Light cannot escape from black holes.",
+    "retrieved_context": "escape velocity is speed of light. black holes provide testing ground for theories of gravity. black holes causes remnants of massive stars. holographic principle suggests information is encoded on event horizon. black holes is immense gravitational pull. black holes captivates scientists. Hawking radiation predicted by Stephen Hawking. study of black holes causes holographic principle. Hawking radiation causes black holes to lose mass. black holes warps spacetime. Schwarzschild radius measures size of black holes. black holes captivates general public. discovery of gravitational waves resulted from merger of two black holes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronomers and physicists are puzzled by black holes.",
+    "retrieved_context": "black holes provide testing ground for theories of gravity. black holes causes remnants of massive stars. holographic principle suggests information is encoded on event horizon. black holes is immense gravitational pull. black holes captivates scientists. study of black holes causes holographic principle. Hawking radiation predicted by Stephen Hawking. Hawking radiation causes black holes to lose mass. black holes warps spacetime. Schwarzschild radius measures size of black holes. black holes captivates general public. discovery of gravitational waves resulted from merger of two black holes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Black holes are born from massive stars' remnants.",
+    "retrieved_context": "black holes causes remnants of massive stars. black holes provide testing ground for theories of gravity. holographic principle suggests information is encoded on event horizon. black holes is immense gravitational pull. black holes captivates scientists. study of black holes causes holographic principle. Hawking radiation predicted by Stephen Hawking. Hawking radiation causes black holes to lose mass. black holes warps spacetime. massive stars undergoes supernova explosion. Schwarzschild radius measures size of black holes. black holes captivates general public. discovery of gravitational waves resulted from merger of two black holes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Stars collapse under gravity to form black holes.",
+    "retrieved_context": "black holes provide testing ground for theories of gravity. black holes causes remnants of massive stars. massive stars undergoes supernova explosion. black holes is immense gravitational pull. black holes captivates scientists. Hawking radiation predicted by Stephen Hawking. study of black holes causes holographic principle. Hawking radiation causes black holes to lose mass. black holes warps spacetime. holographic principle suggests information is encoded on event horizon. Schwarzschild radius measures size of black holes. black holes captivates general public. discovery of gravitational waves resulted from merger of two black holes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Black holes have a singularity at their center.",
+    "retrieved_context": "singularity surrounded by event horizon. holographic principle suggests information is encoded on event horizon. black holes captivates scientists. Hawking radiation causes black holes to lose mass. Schwarzschild radius measures size of black holes. singularity is point of infinite curvature. discovery of gravitational waves resulted from merger of two black holes. singularity causes singularity. singularity is point of infinite density. black holes provide testing ground for theories of gravity. black holes causes remnants of massive stars. black holes warps spacetime. event horizon is point of no return. study of black holes causes holographic principle. Hawking radiation predicted by Stephen Hawking. black holes captivates general public. singularity is zero volume. singularity collapses own gravity. black holes is immense gravitational pull.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "An event horizon surrounds the singularity of a black hole.",
+    "retrieved_context": "singularity surrounded by event horizon. holographic principle suggests information is encoded on event horizon. black holes captivates scientists. Hawking radiation causes black holes to lose mass. Schwarzschild radius measures size of black holes. singularity is point of infinite curvature. discovery of gravitational waves resulted from merger of two black holes. singularity causes singularity. singularity is point of infinite density. black holes causes remnants of massive stars. black holes provide testing ground for theories of gravity. black holes warps spacetime. event horizon is point of no return. study of black holes causes holographic principle. Hawking radiation predicted by Stephen Hawking. black holes captivates general public. singularity is zero volume. singularity collapses own gravity. black holes is immense gravitational pull.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black holes warp spacetime due to their gravitational pull.",
+    "retrieved_context": "black holes provide testing ground for theories of gravity. black holes causes remnants of massive stars. holographic principle suggests information is encoded on event horizon. black holes is immense gravitational pull. black holes captivates scientists. Hawking radiation predicted by Stephen Hawking. study of black holes causes holographic principle. Hawking radiation causes black holes to lose mass. black holes warps spacetime. gravitational time dilation causes time to slow down. Schwarzschild radius measures size of black holes. black holes captivates general public. discovery of gravitational waves resulted from merger of two black holes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gravitational time dilation occurs near black holes.",
+    "retrieved_context": "black holes provide testing ground for theories of gravity. black holes causes remnants of massive stars. holographic principle suggests information is encoded on event horizon. black holes is immense gravitational pull. black holes captivates scientists. study of black holes causes holographic principle. Hawking radiation predicted by Stephen Hawking. Hawking radiation causes black holes to lose mass. gravitational time dilation causes time to slow down. black holes warps spacetime. LIGO observatory discovered gravitational waves. Schwarzschild radius measures size of black holes. black holes captivates general public. discovery of gravitational waves resulted from merger of two black holes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black holes are measured by their Schwarzschild radius.",
+    "retrieved_context": "holographic principle suggests information is encoded on event horizon. singularity surrounded by event horizon. black holes captivates scientists. Hawking radiation causes black holes to lose mass. Schwarzschild radius measures size of black holes. singularity is point of infinite curvature. discovery of gravitational waves resulted from merger of two black holes. singularity causes singularity. singularity is point of infinite density. black holes causes remnants of massive stars. black holes provide testing ground for theories of gravity. black holes warps spacetime. event horizon is point of no return. study of black holes causes holographic principle. Hawking radiation predicted by Stephen Hawking. black holes captivates general public. singularity is zero volume. singularity collapses own gravity. black holes is immense gravitational pull.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The holographic principle is related to black holes.",
+    "retrieved_context": "holographic principle suggests information is encoded on event horizon. singularity surrounded by event horizon. black holes captivates scientists. Hawking radiation causes black holes to lose mass. Schwarzschild radius measures size of black holes. singularity is point of infinite curvature. discovery of gravitational waves resulted from merger of two black holes. singularity causes singularity. singularity is point of infinite density. black holes provide testing ground for theories of gravity. black holes causes remnants of massive stars. black holes warps spacetime. event horizon is point of no return. study of black holes causes holographic principle. Hawking radiation predicted by Stephen Hawking. black holes captivates general public. singularity is zero volume. singularity collapses own gravity. black holes is immense gravitational pull.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The information paradox is associated with black holes.",
+    "retrieved_context": "holographic principle suggests information is encoded on event horizon. singularity surrounded by event horizon. black holes captivates scientists. Hawking radiation causes black holes to lose mass. Schwarzschild radius measures size of black holes. singularity is point of infinite curvature. singularity causes singularity. information paradox questions fate of information. singularity is point of infinite density. black holes provide testing ground for theories of gravity. black holes causes remnants of massive stars. black holes warps spacetime. event horizon is point of no return. study of black holes causes holographic principle. Hawking radiation predicted by Stephen Hawking. black holes captivates general public. singularity is zero volume. singularity collapses own gravity. black holes is immense gravitational pull.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black holes test theories of gravity and inspire new ideas.",
+    "retrieved_context": "black holes provide testing ground for theories of gravity. black holes causes remnants of massive stars. holographic principle suggests information is encoded on event horizon. black holes is immense gravitational pull. study of black holes causes holographic principle. black holes captivates scientists. Hawking radiation predicted by Stephen Hawking. Hawking radiation causes black holes to lose mass. black holes warps spacetime. LIGO observatory discovered gravitational waves. Schwarzschild radius measures size of black holes. black holes captivates general public. discovery of gravitational waves resulted from merger of two black holes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gravitational waves from black hole mergers were detected in 2015.",
+    "retrieved_context": "black holes causes remnants of massive stars. holographic principle suggests information is encoded on event horizon. black holes provide testing ground for theories of gravity. black holes is immense gravitational pull. study of black holes causes holographic principle. black holes captivates scientists. Hawking radiation predicted by Stephen Hawking. Hawking radiation causes black holes to lose mass. black holes warps spacetime. LIGO observatory discovered gravitational waves. Schwarzschild radius measures size of black holes. black holes captivates general public. discovery of gravitational waves resulted from merger of two black holes.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

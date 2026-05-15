@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Language processing is a function of the human brain.",
+    "retrieved_context": "fourth stage of language processing is acquisition. language processing is a function of the human brain. Broca's area plays a crucial role in language production and grammatical processing. Wernicke's area plays a crucial role in language comprehension and semantic processing. Wernicke's area processes comprehension of language. language processing involves perception, comprehension, production, and acquisition. Broca's area located in the left frontal lobe. language processing involves multiple regions. language acquisition involves learning new words, grammatical rules, and language structures. Wernicke's area located in the left temporal lobe. ability to understand and produce language is a key aspect of communication and cognition. brain's plasticity processes language acquisition. language processing involves intricate neural pathways. Broca's area controls movements of the speech muscles. third stage of language processing is production.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language processing involves multiple regions in the brain.",
+    "retrieved_context": "fourth stage of language processing is acquisition. language processing is a function of the human brain. Broca's area plays a crucial role in language production and grammatical processing. Wernicke's area plays a crucial role in language comprehension and semantic processing. Wernicke's area processes comprehension of language. Broca's area located in the left frontal lobe. Wernicke's area located in the left temporal lobe. language acquisition involves learning new words, grammatical rules, and language structures. language processing involves perception, comprehension, production, and acquisition. language processing involves multiple regions. brain's plasticity processes language acquisition. language processing involves intricate neural pathways. Broca's area controls movements of the speech muscles. third stage of language processing is production. auditory cortex processes spoken language.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language processing involves intricate neural pathways.",
+    "retrieved_context": "fourth stage of language processing is acquisition. language processing is a function of the human brain. comprehension is comprehension. Broca's area plays a crucial role in language production and grammatical processing. Wernicke's area plays a crucial role in language comprehension and semantic processing. Wernicke's area processes comprehension of language. language processing involves perception, comprehension, production, and acquisition. Broca's area located in the left frontal lobe. language processing involves multiple regions. Wernicke's area located in the left temporal lobe. language acquisition involves learning new words, grammatical rules, and language structures. brain's plasticity processes language acquisition. language processing involves intricate neural pathways. Broca's area controls movements of the speech muscles. third stage of language processing is production. comprehension involves integration of phonological, syntactic, and semantic information.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding and producing language is key for communication.",
+    "retrieved_context": "language processing is a function of the human brain. visual cortex processes written language. Wernicke's area plays a crucial role in language comprehension and semantic processing. Broca's area plays a crucial role in language production and grammatical processing. ability to understand and produce language is a key aspect of communication and cognition. Wernicke's area processes comprehension of language. Wernicke's area located in the left temporal lobe. language acquisition involves learning new words, grammatical rules, and language structures. Broca's area located in the left frontal lobe. language processing involves perception, comprehension, production, and acquisition. language processing involves multiple regions. brain's plasticity processes language acquisition. language processing involves intricate neural pathways. Broca's area controls movements of the speech muscles. auditory cortex processes spoken language.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Researchers have made significant strides in understanding language processing.",
+    "retrieved_context": "fourth stage of language processing is acquisition. language processing is a function of the human brain. comprehension is comprehension. Broca's area plays a crucial role in language production and grammatical processing. Wernicke's area plays a crucial role in language comprehension and semantic processing. Wernicke's area processes comprehension of language. language processing involves perception, comprehension, production, and acquisition. Broca's area located in the left frontal lobe. language processing involves multiple regions. Wernicke's area located in the left temporal lobe. language acquisition involves learning new words, grammatical rules, and language structures. brain's plasticity processes language acquisition. language processing involves intricate neural pathways. Broca's area controls movements of the speech muscles. third stage of language processing is production. comprehension involves integration of phonological, syntactic, and semantic information.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Language processing involves stages like perception, comprehension, production, and acquisition.",
+    "retrieved_context": "fourth stage of language processing is acquisition. language processing is a function of the human brain. Broca's area plays a crucial role in language production and grammatical processing. Wernicke's area plays a crucial role in language comprehension and semantic processing. Wernicke's area processes comprehension of language. Broca's area located in the left frontal lobe. Wernicke's area located in the left temporal lobe. language acquisition involves learning new words, grammatical rules, and language structures. language processing involves perception, comprehension, production, and acquisition. language processing involves multiple regions. brain's plasticity processes language acquisition. language processing involves intricate neural pathways. Broca's area controls movements of the speech muscles. third stage of language processing is production.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Perception stage involves recognition and decoding of speech sounds or written symbols.",
+    "retrieved_context": "fourth stage of language processing is acquisition. language processing is a function of the human brain. perception involves recognition and decoding of speech sounds or written symbols. ability to understand and produce language is a key aspect of communication and cognition. language processing involves perception, comprehension, production, and acquisition. perception is perception. language processing involves multiple regions. language processing involves intricate neural pathways. angular gyrus integrates visual and auditory information to support reading and writing. third stage of language processing is production. auditory cortex processes spoken language.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Perception stage begins in the auditory cortex for spoken language.",
+    "retrieved_context": "language processing is a function of the human brain. perception involves recognition and decoding of speech sounds or written symbols. visual cortex processes written language. ability to understand and produce language is a key aspect of communication and cognition. language processing involves perception, comprehension, production, and acquisition. perception is perception. language acquisition involves learning new words, grammatical rules, and language structures. language processing involves multiple regions. brain's plasticity processes language acquisition. language processing involves intricate neural pathways. third stage of language processing is production. auditory cortex processes spoken language.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comprehension involves making sense of linguistic input and extracting meaning.",
+    "retrieved_context": "language processing is a function of the human brain. Wernicke's area plays a crucial role in language comprehension and semantic processing. Wernicke's area processes comprehension of language. Wernicke's area located in the left temporal lobe. language processing involves perception, comprehension, production, and acquisition. language processing involves multiple regions. ability to understand and produce language is a key aspect of communication and cognition. language acquisition involves learning new words, grammatical rules, and language structures. brain's plasticity processes language acquisition. language processing involves intricate neural pathways. comprehension is comprehension. comprehension involves integration of phonological, syntactic, and semantic information.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comprehension integrates phonological, syntactic, and semantic information.",
+    "retrieved_context": "language processing is a function of the human brain. left hemisphere of the brain plays a crucial role in processing grammatical rules and linking words to their meanings. Wernicke's area plays a crucial role in language comprehension and semantic processing. Wernicke's area processes comprehension of language. Wernicke's area located in the left temporal lobe. language processing involves perception, comprehension, production, and acquisition. language processing involves multiple regions. ability to understand and produce language is a key aspect of communication and cognition. language acquisition involves learning new words, grammatical rules, and language structures. brain's plasticity processes language acquisition. language processing involves intricate neural pathways. comprehension is comprehension. comprehension involves integration of phonological, syntactic, and semantic information.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Production stage involves generating a response in spoken or written language.",
+    "retrieved_context": "fourth stage of language processing is acquisition. language processing is a function of the human brain. visual cortex processes written language. Broca's area plays a crucial role in language production and grammatical processing. Broca's area located in the left frontal lobe. language processing involves perception, comprehension, production, and acquisition. language processing involves multiple regions. language acquisition involves learning new words, grammatical rules, and language structures. brain's plasticity processes language acquisition. language processing involves intricate neural pathways. Broca's area controls movements of the speech muscles. third stage of language processing is production. auditory cortex processes spoken language.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Production stage activates motor areas in the frontal lobe.",
+    "retrieved_context": "language processing is a function of the human brain. left hemisphere of the brain plays a crucial role in processing grammatical rules and linking words to their meanings. visual cortex processes written language. Broca's area plays a crucial role in language production and grammatical processing. Wernicke's area plays a crucial role in language comprehension and semantic processing. Wernicke's area located in the left temporal lobe. Broca's area located in the left frontal lobe. Wernicke's area processes comprehension of language. language processing involves perception, comprehension, production, and acquisition. language processing involves multiple regions. language acquisition involves learning new words, grammatical rules, and language structures. brain's plasticity processes language acquisition. language processing involves intricate neural pathways. Broca's area controls movements of the speech muscles. premotor cortex controls movements of the speech muscles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language acquisition involves learning new words and grammatical rules.",
+    "retrieved_context": "language processing is a function of the human brain. left hemisphere of the brain plays a crucial role in processing grammatical rules and linking words to their meanings. Broca's area plays a crucial role in language production and grammatical processing. Wernicke's area plays a crucial role in language comprehension and semantic processing. ability to understand and produce language is a key aspect of communication and cognition. Broca's area located in the left frontal lobe. Wernicke's area processes comprehension of language. language acquisition involves learning new words, grammatical rules, and language structures. Wernicke's area located in the left temporal lobe. language processing involves perception, comprehension, production, and acquisition. language processing involves multiple regions. brain's plasticity processes language acquisition. language processing involves intricate neural pathways. Broca's area controls movements of the speech muscles. third stage of language processing is production.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Broca's area is crucial for language production and grammatical processing.",
+    "retrieved_context": "fourth stage of language processing is acquisition. language processing is a function of the human brain. Broca's area plays a crucial role in language production and grammatical processing. Broca's area located in the left frontal lobe. language processing involves perception, comprehension, production, and acquisition. language acquisition involves learning new words, grammatical rules, and language structures. language processing involves multiple regions. arcuate fasciculus connects Broca's area and Wernicke's areas. brain's plasticity processes language acquisition. language processing involves intricate neural pathways. Broca's area controls movements of the speech muscles. damage to Broca's area can result in expressive aphasia. third stage of language processing is production. premotor cortex controls movements of the speech muscles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wernicke's area is responsible for language comprehension and semantic processing.",
+    "retrieved_context": "language processing is a function of the human brain. Wernicke's area plays a crucial role in language comprehension and semantic processing. Broca's area plays a crucial role in language production and grammatical processing. Wernicke's area processes comprehension of language. Wernicke's area located in the left temporal lobe. language processing involves perception, comprehension, production, and acquisition. language acquisition involves learning new words, grammatical rules, and language structures. language processing involves multiple regions. Broca's area located in the left frontal lobe. brain's plasticity processes language acquisition. language processing involves intricate neural pathways. Broca's area controls movements of the speech muscles. comprehension is comprehension. comprehension involves integration of phonological, syntactic, and semantic information. damage to Wernicke's area can result in receptive aphasia.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

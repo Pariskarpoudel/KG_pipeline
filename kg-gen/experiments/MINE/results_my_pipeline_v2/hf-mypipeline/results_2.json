@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "AI has rapidly advanced in recent years.",
+    "retrieved_context": "ethical dilemmas stem from concerns about privacy. biased algorithms based on race. Artificial Intelligence advanced in recent years. AI technologies stem from improved productivity. AI technologies concerns inequality. AI technologies concerns job displacement. AI systems trained_on data. ethical dilemmas stem from concerns about transparency. ethical dilemmas stem from potential impact of AI on society. biased algorithms stem from biased algorithms. ethical dilemmas stem from concerns about accountability. AI technologies stem from improved efficiency. biased algorithms based on gender. ethical dilemmas stem from concerns about bias.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI has revolutionized various industries and aspects of daily lives.",
+    "retrieved_context": "ethical dilemmas stem from concerns about privacy. Artificial Intelligence advanced in recent years. AI technologies concerns inequality. AI technologies stem from improved productivity. AI technologies concerns job displacement. AI systems trained_on data. ethical dilemmas stem from concerns about transparency. AI technologies stem from improved efficiency. ethical dilemmas stem from concerns about accountability. ethical dilemmas stem from potential impact of AI on society. ethical dilemmas stem from concerns about bias.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Ethical dilemmas need to be addressed in the development and deployment of AI technologies.",
+    "retrieved_context": "ethical guidelines is essential to ensuring ethical deployment. ethical dilemmas stem from concerns about privacy. Artificial Intelligence advanced in recent years. AI technologies concerns inequality. AI technologies stem from improved productivity. AI technologies concerns job displacement. AI systems trained_on data. ethical dilemmas stem from concerns about transparency. AI technologies stem from improved efficiency. ethical guidelines is essential to ensuring responsible development. ethical dilemmas stem from concerns about accountability. ethical dilemmas stem from potential impact of AI on society. ethical dilemmas stem from concerns about bias.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ethical dilemmas stem from concerns about privacy, bias, accountability, transparency, and societal impact.",
+    "retrieved_context": "ethical guidelines is essential to ensuring ethical deployment. ethical dilemmas stem from concerns about privacy. accountability is essential to ensuring clear lines. accountability is essential to ensuring accountability. ethical dilemmas stem from concerns about transparency. accountability is essential to ensuring trust. ethical guidelines is essential to ensuring responsible development. ethical dilemmas stem from concerns about accountability. ethical dilemmas stem from potential impact of AI on society. ethical dilemmas stem from concerns about bias.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Privacy is a key ethical dilemma in AI development.",
+    "retrieved_context": "ethical guidelines is essential to ensuring ethical deployment. ethical dilemmas stem from concerns about privacy. AI technologies concerns inequality. AI technologies stem from improved productivity. AI technologies concerns job displacement. ethical dilemmas stem from concerns about transparency. AI technologies stem from improved efficiency. ethical guidelines is essential to ensuring responsible development. ethical dilemmas stem from concerns about accountability. ethical dilemmas stem from potential impact of AI on society. ethical dilemmas stem from concerns about bias.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Concerns arise about the use of data and potential privacy violations.",
+    "retrieved_context": "ethical guidelines is essential to ensuring ethical deployment. ethical dilemmas stem from concerns about privacy. accountability is essential to ensuring clear lines. AI systems trained_on data. accountability is essential to ensuring accountability. ethical dilemmas stem from concerns about transparency. accountability is essential to ensuring trust. ethical guidelines is essential to ensuring responsible development. ethical dilemmas stem from concerns about accountability. ethical dilemmas stem from potential impact of AI on society. facial recognition technology stem from surveillance purposes. ethical dilemmas stem from concerns about bias.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Facial recognition technology raises questions about privacy and abuse of power.",
+    "retrieved_context": "ethical guidelines is essential to ensuring ethical deployment. ethical dilemmas stem from concerns about privacy. ethical dilemmas stem from concerns about transparency. ethical guidelines is essential to ensuring responsible development. ethical dilemmas stem from concerns about accountability. ethical dilemmas stem from potential impact of AI on society. facial recognition technology stem from surveillance purposes. ethical dilemmas stem from concerns about bias.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Bias is another ethical dilemma in AI development.",
+    "retrieved_context": "ethical guidelines is essential to ensuring ethical deployment. ethical dilemmas stem from concerns about privacy. biased algorithms based on race. Artificial Intelligence advanced in recent years. AI technologies concerns inequality. AI technologies stem from improved productivity. AI technologies concerns job displacement. AI systems trained_on data. ethical dilemmas stem from concerns about transparency. AI technologies stem from improved efficiency. ethical guidelines is essential to ensuring responsible development. biased algorithms stem from biased algorithms. ethical dilemmas stem from concerns about accountability. ethical dilemmas stem from potential impact of AI on society. biased algorithms based on gender. ethical dilemmas stem from concerns about bias.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Biased data can lead to discriminatory outcomes in AI systems.",
+    "retrieved_context": "ethical dilemmas stem from concerns about privacy. biased algorithms based on race. Artificial Intelligence advanced in recent years. AI technologies concerns inequality. AI technologies stem from improved productivity. AI systems trained_on data. AI technologies concerns job displacement. ethical dilemmas stem from concerns about transparency. AI technologies stem from improved efficiency. biased algorithms stem from biased algorithms. ethical dilemmas stem from concerns about accountability. ethical dilemmas stem from potential impact of AI on society. biased algorithms based on gender. ethical dilemmas stem from concerns about bias.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Addressing bias is crucial for fairness and equity in decision-making.",
+    "retrieved_context": "ethical guidelines is essential to ensuring ethical deployment. ethical dilemmas stem from concerns about privacy. biased algorithms based on race. accountability is essential to ensuring clear lines. accountability is essential to ensuring accountability. ethical dilemmas stem from concerns about transparency. accountability is essential to ensuring trust. ethical guidelines is essential to ensuring responsible development. biased algorithms stem from biased algorithms. ethical dilemmas stem from concerns about accountability. ethical dilemmas stem from potential impact of AI on society. biased algorithms based on gender. ethical dilemmas stem from concerns about bias.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Accountability is an ethical dilemma in AI development.",
+    "retrieved_context": "ethical guidelines is essential to ensuring responsible development. ethical guidelines is essential to ensuring ethical deployment. ethical dilemmas stem from concerns about privacy. AI technologies concerns inequality. AI technologies stem from improved productivity. AI technologies concerns job displacement. accountability is essential to ensuring accountability. ethical dilemmas stem from concerns about transparency. accountability is essential to ensuring trust. ethical dilemmas stem from potential impact of AI on society. AI technologies stem from improved efficiency. ethical dilemmas stem from concerns about accountability. accountability is essential to ensuring clear lines. AI systems trained_on data. ethical dilemmas stem from concerns about bias.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Establishing clear lines of accountability is crucial as AI systems become more autonomous.",
+    "retrieved_context": "ethical guidelines is essential to ensuring responsible development. ethical guidelines is essential to ensuring ethical deployment. ethical dilemmas stem from concerns about privacy. Artificial Intelligence advanced in recent years. AI technologies concerns inequality. AI technologies stem from improved productivity. AI systems trained_on data. accountability is essential to ensuring accountability. ethical dilemmas stem from concerns about transparency. accountability is essential to ensuring trust. ethical dilemmas stem from potential impact of AI on society. AI technologies stem from improved efficiency. ethical dilemmas stem from concerns about accountability. accountability is essential to ensuring clear lines. AI technologies concerns job displacement. ethical dilemmas stem from concerns about bias.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Transparency is a significant ethical dilemma in AI development.",
+    "retrieved_context": "ethical guidelines is essential to ensuring ethical deployment. ethical dilemmas stem from concerns about privacy. accountability is essential to ensuring trust. AI technologies concerns inequality. AI technologies stem from improved productivity. accountability is essential to ensuring clear lines. AI technologies concerns job displacement. accountability is essential to ensuring accountability. ethical dilemmas stem from concerns about transparency. AI technologies stem from improved efficiency. ethical guidelines is essential to ensuring responsible development. ethical dilemmas stem from concerns about accountability. ethical dilemmas stem from potential impact of AI on society. ethical dilemmas stem from concerns about bias.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Lack of transparency can lead to distrust in AI systems.",
+    "retrieved_context": "ethical dilemmas stem from concerns about privacy. biased algorithms based on race. accountability is essential to ensuring trust. Artificial Intelligence advanced in recent years. AI technologies concerns inequality. AI technologies stem from improved productivity. accountability is essential to ensuring clear lines. AI systems trained_on data. AI technologies concerns job displacement. ethical dilemmas stem from concerns about transparency. AI technologies stem from improved efficiency. accountability is essential to ensuring accountability. biased algorithms stem from biased algorithms. ethical dilemmas stem from concerns about accountability. ethical dilemmas stem from potential impact of AI on society. biased algorithms based on gender. ethical dilemmas stem from concerns about bias.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ensuring transparency is essential for building trust and accountability.",
+    "retrieved_context": "ethical guidelines is essential to ensuring ethical deployment. ethical dilemmas stem from concerns about privacy. accountability is essential to ensuring clear lines. accountability is essential to ensuring accountability. ethical dilemmas stem from concerns about transparency. accountability is essential to ensuring trust. ethical guidelines is essential to ensuring responsible development. ethical dilemmas stem from concerns about accountability. ethical dilemmas stem from potential impact of AI on society. facial recognition technology stem from surveillance purposes. ethical dilemmas stem from concerns about bias.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

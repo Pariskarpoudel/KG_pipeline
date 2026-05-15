@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "AI revolutionized the way we live and work.",
+    "retrieved_context": "AI are capable of new jobs. AI-powered machines are capable of performing tasks. AI are capable of job insecurity. AI are capable of income inequality. AI improves productivity. AI-powered machines improves processes. automation led to automation of jobs. AI improves workplace safety. automation will replace human workers. AI are capable of social unrest. AI concerns employment. AI-powered machines help doctors. Artificial intelligence led to way we live and work. technological advancements led to creation of new industries. AI-powered machines improves human skills. AI led to job market. AI-powered machines help lawyers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI brings significant changes in various industries.",
+    "retrieved_context": "AI are capable of new jobs. AI-powered machines are capable of performing tasks. AI are capable of job insecurity. AI are capable of income inequality. AI improves productivity. AI-powered machines improves processes. automation led to automation of jobs. AI improves workplace safety. automation will replace human workers. AI are capable of social unrest. AI concerns employment. AI-powered machines help doctors. technological advancements led to creation of new industries. Artificial intelligence led to way we live and work. AI-powered machines improves human skills. AI led to job market. AI-powered machines help lawyers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "There is a concern about AI's impact on employment.",
+    "retrieved_context": "AI are capable of new jobs. AI-powered machines are capable of performing tasks. AI are capable of job insecurity. AI are capable of income inequality. AI improves productivity. automation led to automation of jobs. AI-powered machines improves processes. AI improves workplace safety. automation will replace human workers. AI are capable of social unrest. AI concerns employment. AI-powered machines help doctors. Artificial intelligence led to way we live and work. AI-powered machines improves human skills. AI led to job market. AI-powered machines help lawyers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI technologies advance rapidly.",
+    "retrieved_context": "AI are capable of new jobs. AI-powered machines are capable of performing tasks. AI are capable of job insecurity. AI are capable of income inequality. AI improves productivity. AI-powered machines improves processes. automation led to automation of jobs. AI improves workplace safety. automation will replace human workers. AI are capable of social unrest. AI concerns employment. AI-powered machines help doctors. technological advancements led to creation of new industries. Artificial intelligence led to way we live and work. chatbots will replace customer service representatives. AI-powered machines improves human skills. AI led to job market. AI-powered machines help lawyers.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "There is fear of automation replacing human workers.",
+    "retrieved_context": "AI are capable of new jobs. AI-powered machines are capable of performing tasks. AI are capable of job insecurity. AI improves productivity. AI are capable of income inequality. automation led to automation of jobs. AI-powered machines improves processes. automation will replace human workers. AI improves workplace safety. AI are capable of social unrest. AI concerns employment. AI-powered machines help doctors. AI-powered machines improves human skills. AI led to job market. AI-powered machines help lawyers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI automates repetitive and routine jobs.",
+    "retrieved_context": "AI are capable of new jobs. AI-powered machines are capable of performing tasks. AI are capable of job insecurity. AI improves productivity. AI are capable of income inequality. automation led to automation of jobs. AI-powered machines improves processes. automation will replace human workers. AI improves workplace safety. AI are capable of social unrest. AI concerns employment. AI-powered machines help doctors. Artificial intelligence led to way we live and work. AI-powered machines improves human skills. autonomous vehicles will replace truck drivers. AI led to job market. AI-powered machines help lawyers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Low-skilled workers are at risk of displacement by AI.",
+    "retrieved_context": "AI are capable of new jobs. AI-powered machines are capable of performing tasks. AI are capable of job insecurity. AI are capable of income inequality. AI improves productivity. automation led to automation of jobs. AI-powered machines improves processes. AI improves workplace safety. automation will replace human workers. AI are capable of social unrest. AI concerns employment. AI-powered machines help doctors. Artificial intelligence led to way we live and work. AI-powered machines improves human skills. AI led to job market. AI-powered machines help lawyers.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Automation has historical precedence.",
+    "retrieved_context": "AI are capable of new jobs. AI-powered machines are capable of performing tasks. AI are capable of job insecurity. AI improves productivity. AI are capable of income inequality. automation led to automation of jobs. AI-powered machines improves processes. automation will replace human workers. AI improves workplace safety. AI are capable of social unrest. AI concerns employment. AI-powered machines help doctors. Artificial intelligence led to way we live and work. technological advancements led to creation of new industries. AI-powered machines improves human skills. autonomous vehicles will replace truck drivers. AI led to job market. AI-powered machines help lawyers.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "AI can create new jobs in emerging fields.",
+    "retrieved_context": "AI are capable of new jobs. AI-powered machines are capable of performing tasks. AI are capable of job insecurity. AI are capable of income inequality. AI improves productivity. automation led to automation of jobs. AI-powered machines improves processes. AI improves workplace safety. automation will replace human workers. AI are capable of social unrest. AI concerns employment. AI-powered machines help doctors. technological advancements led to creation of new industries. Artificial intelligence led to way we live and work. AI-powered machines improves human skills. AI led to job market. AI-powered machines help lawyers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI enhances productivity and efficiency in the workplace.",
+    "retrieved_context": "AI are capable of new jobs. AI-powered machines are capable of performing tasks. AI are capable of job insecurity. AI are capable of income inequality. AI improves productivity. AI-powered machines improves processes. automation led to automation of jobs. AI improves workplace safety. automation will replace human workers. AI are capable of social unrest. AI concerns employment. AI-powered machines help doctors. Artificial intelligence led to way we live and work. AI-powered machines improves human skills. AI led to job market. AI-powered machines help lawyers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI-powered tools can streamline processes.",
+    "retrieved_context": "AI are capable of new jobs. AI-powered machines are capable of performing tasks. AI are capable of job insecurity. AI improves productivity. AI are capable of income inequality. AI-powered machines improves processes. automation led to automation of jobs. AI improves workplace safety. automation will replace human workers. AI are capable of social unrest. AI concerns employment. AI-powered machines help doctors. Artificial intelligence led to way we live and work. chatbots will replace customer service representatives. AI-powered machines improves human skills. AI led to job market. AI-powered machines help lawyers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI can improve workplace safety.",
+    "retrieved_context": "AI are capable of new jobs. AI-powered machines are capable of performing tasks. AI are capable of job insecurity. AI are capable of income inequality. AI improves productivity. automation led to automation of jobs. AI-powered machines improves processes. AI improves workplace safety. automation will replace human workers. AI are capable of social unrest. AI concerns employment. AI-powered machines help doctors. Artificial intelligence led to way we live and work. AI-powered machines improves human skills. AI led to job market. AI-powered machines help lawyers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI augments human capabilities.",
+    "retrieved_context": "AI are capable of new jobs. AI-powered machines are capable of performing tasks. AI are capable of job insecurity. AI are capable of income inequality. AI improves productivity. AI-powered machines improves processes. automation led to automation of jobs. AI improves workplace safety. automation will replace human workers. AI are capable of social unrest. AI concerns employment. AI-powered machines help doctors. Artificial intelligence led to way we live and work. technological advancements led to creation of new industries. AI-powered machines improves human skills. AI led to job market. AI-powered machines help lawyers.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "AI technologies complement human skills.",
+    "retrieved_context": "AI are capable of new jobs. AI-powered machines are capable of performing tasks. AI are capable of job insecurity. AI improves productivity. AI are capable of income inequality. AI-powered machines improves processes. automation led to automation of jobs. AI improves workplace safety. automation will replace human workers. AI are capable of social unrest. AI concerns employment. AI-powered machines help doctors. Artificial intelligence led to way we live and work. technological advancements led to creation of new industries. chatbots will replace customer service representatives. AI-powered machines improves human skills. AI led to job market. AI-powered machines help lawyers.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "There are concerns about social and economic implications of automation.",
+    "retrieved_context": "AI are capable of new jobs. AI-powered machines are capable of performing tasks. AI are capable of job insecurity. AI improves productivity. AI are capable of income inequality. automation led to automation of jobs. AI-powered machines improves processes. automation will replace human workers. AI improves workplace safety. AI are capable of social unrest. AI concerns employment. AI-powered machines help doctors. technological advancements led to creation of new industries. AI-powered machines improves human skills. autonomous vehicles will replace truck drivers. AI led to job market. AI-powered machines help lawyers.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

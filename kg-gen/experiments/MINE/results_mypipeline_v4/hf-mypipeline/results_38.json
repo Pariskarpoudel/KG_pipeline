@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Bread is a staple food in many cultures.",
+    "retrieved_context": "oven temperature affects bread rising and baking evenness. development of gluten structure occurs in baking bread. fermentation of yeast produces carbon dioxide gas. baking bread involves fermentation of yeast. understanding the science behind baking bread appreciates skill and knowledge of bakers. yeast feeds_on sugars in flour. heat activates yeast. fermentation of yeast produces alcohol. scientific principles apply_to baking bread. development of gluten structure develops gluten in the dough. bread is a staple food. yeast is a fungus. baking bread is a blend of art and science. fermentation of yeast occurs in baking bread. baking bread involves interaction of heat with ingredients.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Baking bread is both an art and a science.",
+    "retrieved_context": "oven temperature affects bread rising and baking evenness. development of gluten structure occurs in baking bread. fermentation of yeast produces carbon dioxide gas. baking bread involves fermentation of yeast. understanding the science behind baking bread appreciates skill and knowledge of bakers. Maillard reaction produces complex flavors. bread is a staple food. chemical reactions occurs in baking process. fermentation of yeast produces alcohol. scientific principles apply_to baking bread. development of gluten structure develops gluten in the dough. Maillard reaction occurs in baking. baking bread is a blend of art and science. fermentation of yeast occurs in baking bread. baking bread involves interaction of heat with ingredients.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bread is made from flour, water, yeast, and salt.",
+    "retrieved_context": "oven temperature affects bread rising and baking evenness. development of gluten structure occurs in baking bread. fermentation of yeast produces carbon dioxide gas. baking bread involves fermentation of yeast. understanding the science behind baking bread appreciates skill and knowledge of bakers. yeast feeds_on sugars in flour. flour involves gluten proteins. heat activates yeast. fermentation of yeast produces alcohol. scientific principles apply_to baking bread. development of gluten structure develops gluten in the dough. bread is a staple food. yeast is a fungus. baking bread is a blend of art and science. fermentation of yeast occurs in baking bread. baking bread involves interaction of heat with ingredients.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yeast plays a key role in the fermentation process of bread.",
+    "retrieved_context": "oven temperature affects bread rising and baking evenness. development of gluten structure occurs in baking bread. fermentation of yeast produces carbon dioxide gas. development of gluten structure develops gluten in the dough. baking bread involves fermentation of yeast. understanding the science behind baking bread appreciates skill and knowledge of bakers. yeast feeds_on sugars in flour. chemical reactions occurs in baking process. fermentation of yeast produces alcohol. scientific principles apply_to baking bread. heat activates yeast. bread is a staple food. yeast is a fungus. baking bread is a blend of art and science. fermentation of yeast occurs in baking bread. longer fermentation time develops complex flavor. baking bread involves interaction of heat with ingredients.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yeast feeds on sugars in flour, producing carbon dioxide gas.",
+    "retrieved_context": "development of gluten structure occurs in baking bread. fermentation of yeast produces carbon dioxide gas. starches in flour gelatinizes due to heat. baking bread involves fermentation of yeast. understanding the science behind baking bread appreciates skill and knowledge of bakers. yeast feeds_on sugars in flour. flour involves gluten proteins. fermentation of yeast produces alcohol. scientific principles apply_to baking bread. heat activates yeast. bread is a staple food. yeast is a fungus. baking bread is a blend of art and science. fermentation of yeast occurs in baking bread. baking bread involves interaction of heat with ingredients.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Carbon dioxide gas causes the dough to rise.",
+    "retrieved_context": "oven temperature affects bread rising and baking evenness. development of gluten structure occurs in baking bread. fermentation of yeast produces carbon dioxide gas. baking bread involves fermentation of yeast. understanding the science behind baking bread appreciates skill and knowledge of bakers. yeast feeds_on sugars in flour. flour involves gluten proteins. heat activates yeast. fermentation of yeast produces alcohol. scientific principles apply_to baking bread. development of gluten structure develops gluten in the dough. bread is a staple food. yeast is a fungus. baking bread is a blend of art and science. fermentation of yeast occurs in baking bread. baking bread involves interaction of heat with ingredients.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fermentation process produces alcohol, contributing to bread flavor.",
+    "retrieved_context": "oven temperature affects bread rising and baking evenness. development of gluten structure occurs in baking bread. fermentation of yeast produces carbon dioxide gas. development of gluten structure develops gluten in the dough. baking bread involves fermentation of yeast. understanding the science behind baking bread appreciates skill and knowledge of bakers. yeast feeds_on sugars in flour. fermentation of yeast produces alcohol. scientific principles apply_to baking bread. heat activates yeast. bread is a staple food. yeast is a fungus. baking bread is a blend of art and science. fermentation of yeast occurs in baking bread. longer fermentation time develops complex flavor. baking bread involves interaction of heat with ingredients.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Longer fermentation time leads to more complex flavor in bread.",
+    "retrieved_context": "oven temperature affects bread rising and baking evenness. development of gluten structure occurs in baking bread. fermentation of yeast produces carbon dioxide gas. understanding the science behind baking bread appreciates skill and knowledge of bakers. baking bread involves fermentation of yeast. yeast feeds_on sugars in flour. Maillard reaction produces complex flavors. heat activates yeast. fermentation of yeast produces alcohol. Maillard reaction occurs in baking. scientific principles apply_to baking bread. development of gluten structure develops gluten in the dough. bread is a staple food. yeast is a fungus. baking bread is a blend of art and science. fermentation of yeast occurs in baking bread. longer fermentation time develops complex flavor. baking bread involves interaction of heat with ingredients.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Flour contains proteins called gluten, giving bread structure.",
+    "retrieved_context": "development of gluten structure occurs in baking bread. baking bread involves fermentation of yeast. yeast feeds_on sugars in flour. flour involves gluten proteins. heat activates yeast. bread is a staple food. gluten provides structure and elasticity. scientific principles apply_to baking bread. development of gluten structure develops gluten in the dough. starches in flour gelatinizes due to heat. yeast is a fungus. baking bread is a blend of art and science. fermentation of yeast occurs in baking bread. baking bread involves interaction of heat with ingredients.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gluten network traps carbon dioxide gas, allowing dough to rise.",
+    "retrieved_context": "oven temperature affects bread rising and baking evenness. development of gluten structure occurs in baking bread. baking bread involves fermentation of yeast. understanding the science behind baking bread appreciates skill and knowledge of bakers. yeast feeds_on sugars in flour. flour involves gluten proteins. heat activates yeast. gluten provides structure and elasticity. scientific principles apply_to baking bread. development of gluten structure develops gluten in the dough. yeast is a fungus. baking bread is a blend of art and science. fermentation of yeast occurs in baking bread. baking bread involves interaction of heat with ingredients.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Kneading strengthens gluten strands, giving bread structure.",
+    "retrieved_context": "development of gluten structure occurs in baking bread. fermentation of yeast produces carbon dioxide gas. proper kneading develops good crumb structure. baking bread involves fermentation of yeast. understanding the science behind baking bread appreciates skill and knowledge of bakers. flour involves gluten proteins. gluten provides structure and elasticity. fermentation of yeast produces alcohol. scientific principles apply_to baking bread. development of gluten structure develops gluten in the dough. bread is a staple food. baking bread is a blend of art and science. fermentation of yeast occurs in baking bread. baking bread involves interaction of heat with ingredients.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proper kneading is crucial for bread to rise properly.",
+    "retrieved_context": "oven temperature affects bread rising and baking evenness. humidity in oven develops crisp crust. development of gluten structure occurs in baking bread. fermentation of yeast produces carbon dioxide gas. development of gluten structure develops gluten in the dough. understanding the science behind baking bread appreciates skill and knowledge of bakers. baking bread involves fermentation of yeast. Maillard reaction produces complex flavors. fermentation of yeast produces alcohol. scientific principles apply_to baking bread. proper kneading develops good crumb structure. bread is a staple food. Maillard reaction occurs in baking. baking bread is a blend of art and science. fermentation of yeast occurs in baking bread. baking bread involves interaction of heat with ingredients.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Baking bread involves the interaction of heat with dough ingredients.",
+    "retrieved_context": "oven temperature affects bread rising and baking evenness. development of gluten structure occurs in baking bread. fermentation of yeast produces carbon dioxide gas. baking bread involves fermentation of yeast. understanding the science behind baking bread appreciates skill and knowledge of bakers. chemical reactions occurs in baking process. Maillard reaction produces complex flavors. bread is a staple food. fermentation of yeast produces alcohol. scientific principles apply_to baking bread. development of gluten structure develops gluten in the dough. Maillard reaction occurs in baking. baking bread is a blend of art and science. fermentation of yeast occurs in baking bread. baking bread involves interaction of heat with ingredients.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Heat in the oven causes yeast to become more active.",
+    "retrieved_context": "oven temperature affects bread rising and baking evenness. development of gluten structure occurs in baking bread. fermentation of yeast produces carbon dioxide gas. development of gluten structure develops gluten in the dough. baking bread involves fermentation of yeast. understanding the science behind baking bread appreciates skill and knowledge of bakers. yeast feeds_on sugars in flour. Maillard reaction produces complex flavors. chemical reactions occurs in baking process. fermentation of yeast produces alcohol. scientific principles apply_to baking bread. heat activates yeast. Maillard reaction occurs in baking. yeast is a fungus. baking bread is a blend of art and science. fermentation of yeast occurs in baking bread. baking bread involves interaction of heat with ingredients.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Maillard reaction is responsible for browning the crust.",
+    "retrieved_context": "humidity in oven develops crisp crust. oven temperature affects bread rising and baking evenness. starches in flour gelatinizes due to heat. understanding the science behind baking bread appreciates skill and knowledge of bakers. chemical reactions occurs in baking process. Maillard reaction produces complex flavors. Maillard reaction occurs in baking.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

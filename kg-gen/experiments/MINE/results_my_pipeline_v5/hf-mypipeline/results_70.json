@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The concept of home has evolved significantly over the centuries.",
+    "retrieved_context": "homes in ancient civilizations served as centers of social life. modern home designs include passive solar design. Industrial Revolution brought changes to home construction. modern home include smart technology. suburban homes include central heating. suburban homes include indoor plumbing. homes in ancient civilizations served as centers of religious life. 20th century witnessed revolution in home design and architecture. suburban homes include electrical appliances. modern home designs include green roofs. modern home designs include rainwater harvesting. smart homes are equipped with interconnected devices and systems. homes in ancient civilizations served as centers of political life. concept of home has evolved over centuries.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The modern home has undergone a remarkable transformation.",
+    "retrieved_context": "modern home designs include passive solar design. homes in ancient civilizations served as centers of social life. Industrial Revolution brought changes to home construction. modern home include smart technology. suburban homes include central heating. suburban homes include indoor plumbing. homes in ancient civilizations served as centers of religious life. manor house symbolized wealth and status. suburban homes include electrical appliances. Middle Ages has evolved manor house. concept of home has evolved over centuries. modern home designs include green roofs. modern home designs include rainwater harvesting. homes in ancient civilizations served as centers of political life. 20th century witnessed revolution in home design and architecture. manor house was a large estate.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Early humans lived in caves, tents, and rudimentary structures.",
+    "retrieved_context": "homes in ancient civilizations served as centers of social life. early humans inhabited caves. modern home designs include passive solar design. early humans inhabited tents. homes in ancient civilizations served as centers of religious life. manor house symbolized wealth and status. ancient civilizations include Mesopotamia. ancient civilizations include Greece. Middle Ages has evolved manor house. ancient civilizations include Egypt. modern home designs include green roofs. modern home designs include rainwater harvesting. homes in ancient civilizations served as centers of political life. manor house was a large estate.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Homes in ancient civilizations served as centers of social, political, and religious life.",
+    "retrieved_context": "homes in ancient civilizations served as centers of social life. homes in ancient civilizations served as centers of religious life. 20th century witnessed revolution in home design and architecture. ancient civilizations include Mesopotamia. ancient civilizations include Greece. ancient civilizations include Egypt. homes in ancient civilizations served as centers of political life. concept of home has evolved over centuries.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The manor house in the Middle Ages was a symbol of power and authority.",
+    "retrieved_context": "homes in ancient civilizations served as centers of social life. modern home designs include passive solar design. modern home include smart technology. manor house symbolized wealth and status. homes in ancient civilizations served as centers of religious life. Middle Ages has evolved manor house. concept of home has evolved over centuries. modern home designs include green roofs. modern home designs include rainwater harvesting. homes in ancient civilizations served as centers of political life. 20th century witnessed revolution in home design and architecture. manor house was a large estate.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution led to standardized and affordable housing for the middle class.",
+    "retrieved_context": "modern home designs include passive solar design. Industrial Revolution brought changes to home construction. modern home include smart technology. suburban homes include central heating. post-World War II period has evolved suburban home. suburban homes include indoor plumbing. manor house symbolized wealth and status. suburban homes include electrical appliances. Middle Ages has evolved manor house. concept of home has evolved over centuries. modern home designs include green roofs. modern home designs include rainwater harvesting. Levittown was the first planned suburban community. manor house was a large estate.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "New building materials like steel and concrete allowed for larger structures.",
+    "retrieved_context": "modern home designs include passive solar design. Industrial Revolution brought changes to home construction. new building materials include steel. modern home designs include green roofs. new building materials include concrete. sustainable design practices include energy-efficient materials. modern home designs include rainwater harvesting. 20th century witnessed revolution in home design and architecture. sustainable design practices include renewable energy sources.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The modernist movement influenced home design with simplicity and functionality.",
+    "retrieved_context": "modern home designs include passive solar design. Industrial Revolution brought changes to home construction. modern home include smart technology. modernist movement include functionality. concept of home has evolved over centuries. modern home designs include green roofs. modern home designs include rainwater harvesting. sustainable design practices include energy-efficient materials. modernist movement include simplicity. 20th century witnessed revolution in home design and architecture. sustainable design practices include renewable energy sources.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The post-World War II period saw the rise of suburban homes.",
+    "retrieved_context": "homes in ancient civilizations served as centers of social life. Industrial Revolution brought changes to home construction. modern home designs include passive solar design. suburban homes include central heating. modern home include smart technology. post-World War II period has evolved suburban home. suburban homes include indoor plumbing. homes in ancient civilizations served as centers of religious life. suburban homes include electrical appliances. modern home designs include green roofs. modern home designs include rainwater harvesting. homes in ancient civilizations served as centers of political life. Levittown was the first planned suburban community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Suburban homes featured modern amenities like central heating and indoor plumbing.",
+    "retrieved_context": "modern home designs include passive solar design. suburban homes include central heating. modern home include smart technology. post-World War II period has evolved suburban home. suburban homes include indoor plumbing. 20th century witnessed revolution in home design and architecture. suburban homes include electrical appliances. modern home designs include green roofs. modern home designs include rainwater harvesting. Levittown was the first planned suburban community.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smart homes have interconnected devices for remote control and monitoring.",
+    "retrieved_context": "modern home designs include passive solar design. Industrial Revolution brought changes to home construction. modern home include smart technology. suburban homes include central heating. suburban homes include indoor plumbing. 20th century witnessed revolution in home design and architecture. suburban homes include electrical appliances. smart homes are equipped with interconnected devices and systems. modern home designs include green roofs. modern home designs include rainwater harvesting. concept of home has evolved over centuries.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sustainable design practices aim to reduce the environmental impact of modern homes.",
+    "retrieved_context": "modern home designs include passive solar design. Industrial Revolution brought changes to home construction. homes in ancient civilizations served as centers of social life. modern home include smart technology. homes in ancient civilizations served as centers of religious life. concept of home has evolved over centuries. modern home designs include green roofs. modern home designs include rainwater harvesting. smart homes are equipped with interconnected devices and systems. sustainable design practices include energy-efficient materials. homes in ancient civilizations served as centers of political life. 20th century witnessed revolution in home design and architecture. sustainable design practices include renewable energy sources.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Energy-efficient materials are being used in modern home construction.",
+    "retrieved_context": "modern home designs include passive solar design. Industrial Revolution brought changes to home construction. modern home include smart technology. suburban homes include central heating. suburban homes include indoor plumbing. suburban homes include electrical appliances. new building materials include steel. modern home designs include green roofs. new building materials include concrete. sustainable design practices include energy-efficient materials. modern home designs include rainwater harvesting. 20th century witnessed revolution in home design and architecture. sustainable design practices include renewable energy sources.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern homes incorporate concepts like passive solar design and green roofs.",
+    "retrieved_context": "modern home designs include passive solar design. modern home include smart technology. concept of home has evolved over centuries. modern home designs include green roofs. modern home designs include rainwater harvesting. smart homes are equipped with interconnected devices and systems. sustainable design practices include energy-efficient materials. 20th century witnessed revolution in home design and architecture. sustainable design practices include renewable energy sources.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The evolution of the modern home reflects changing societal norms and cultural influences.",
+    "retrieved_context": "modern home designs include passive solar design. homes in ancient civilizations served as centers of social life. modern home include smart technology. suburban homes include central heating. suburban homes include indoor plumbing. homes in ancient civilizations served as centers of religious life. manor house symbolized wealth and status. 20th century witnessed revolution in home design and architecture. suburban homes include electrical appliances. Middle Ages has evolved manor house. modern home designs include rainwater harvesting. modern home designs include green roofs. homes in ancient civilizations served as centers of political life. concept of home has evolved over centuries. manor house was a large estate.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

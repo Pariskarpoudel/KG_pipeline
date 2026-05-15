@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Rocket requires careful planning",
+    "retrieved_context": "goals of the rocket will help determine power. rocket body made of aluminum. Rockets are instrumental in advancing our exploration of space. rocket requires precise engineering. test flights tests rocket's stability. goals of the rocket will help determine design specifications. modern rockets rely on sophisticated electronics. rocket requires deep understanding of science. rocket body made of fiberglass. rocket requires understanding of materials science. rocket is an educational experience. rocket requires careful planning. goals of the rocket will help determine size. modern rockets rely on guidance systems. rocket requires deep understanding of engineering principles. test flights tests rocket's performance. rocket requires understanding of physics. rocket is a rewarding experience. rocket body made of carbon fiber.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket requires precise engineering",
+    "retrieved_context": "goals of the rocket will help determine power. rocket body made of aluminum. Rockets are instrumental in advancing our exploration of space. rocket requires precise engineering. test flights tests rocket's stability. goals of the rocket will help determine design specifications. modern rockets rely on sophisticated electronics. rocket requires deep understanding of science. rocket body made of fiberglass. rocket requires understanding of materials science. rocket is an educational experience. rocket requires careful planning. modern rockets rely on guidance systems. goals of the rocket will help determine size. rocket requires deep understanding of engineering principles. test flights tests rocket's performance. rocket requires understanding of physics. rocket is a rewarding experience. rocket body made of carbon fiber.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket requires understanding of physics",
+    "retrieved_context": "rocket is a rewarding experience. modern rockets rely on sophisticated electronics. rocket body made of carbon fiber. rocket requires careful planning. rocket requires deep understanding of science. goals of the rocket will help determine size. goals of the rocket will help determine power. modern rockets rely on guidance systems. rocket body made of aluminum. rocket requires precise engineering. rocket body made of fiberglass. rocket requires understanding of materials science. rocket requires deep understanding of engineering principles. test flights tests rocket's stability. goals of the rocket will help determine design specifications. rocket is an educational experience. test flights tests rocket's performance. rocket requires understanding of physics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket requires understanding of materials science",
+    "retrieved_context": "rocket is a rewarding experience. modern rockets rely on sophisticated electronics. rocket requires careful planning. rocket requires deep understanding of science. goals of the rocket will help determine size. goals of the rocket will help determine power. modern rockets rely on guidance systems. rocket requires precise engineering. rocket requires understanding of materials science. rocket requires deep understanding of engineering principles. test flights tests rocket's stability. goals of the rocket will help determine design specifications. rocket is an educational experience. test flights tests rocket's performance. rocket requires understanding of physics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rockets have been instrumental in space exploration",
+    "retrieved_context": "goals of the rocket will help determine power. rocket body made of aluminum. Rockets are instrumental in advancing our exploration of space. rocket requires precise engineering. test flights tests rocket's stability. goals of the rocket will help determine design specifications. modern rockets rely on sophisticated electronics. rocket requires deep understanding of science. rocket body made of fiberglass. rocket requires understanding of materials science. rocket is an educational experience. rocket requires careful planning. modern rockets rely on guidance systems. goals of the rocket will help determine size. rocket requires deep understanding of engineering principles. test flights tests rocket's performance. rocket requires understanding of physics. rocket is a rewarding experience. rocket body made of carbon fiber.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Building a rocket can be rewarding",
+    "retrieved_context": "goals of the rocket will help determine power. rocket body made of aluminum. Rockets are instrumental in advancing our exploration of space. rocket requires precise engineering. test flights tests rocket's stability. goals of the rocket will help determine design specifications. modern rockets rely on sophisticated electronics. rocket requires deep understanding of science. rocket body made of fiberglass. rocket requires understanding of materials science. rocket is an educational experience. rocket requires careful planning. goals of the rocket will help determine size. modern rockets rely on guidance systems. rocket requires deep understanding of engineering principles. test flights tests rocket's performance. rocket requires understanding of physics. rocket is a rewarding experience. rocket body made of carbon fiber.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Building a rocket can be educational",
+    "retrieved_context": "goals of the rocket will help determine power. rocket body made of aluminum. Rockets are instrumental in advancing our exploration of space. rocket requires precise engineering. test flights tests rocket's stability. goals of the rocket will help determine design specifications. modern rockets rely on sophisticated electronics. rocket requires deep understanding of science. rocket body made of fiberglass. rocket requires understanding of materials science. rocket is an educational experience. rocket requires careful planning. goals of the rocket will help determine size. modern rockets rely on guidance systems. rocket requires deep understanding of engineering principles. test flights tests rocket's performance. rocket requires understanding of physics. rocket is a rewarding experience. rocket body made of carbon fiber.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket building involves defining purpose and requirements",
+    "retrieved_context": "goals of the rocket will help determine power. rocket body made of aluminum. Rockets are instrumental in advancing our exploration of space. rocket requires precise engineering. test flights tests rocket's stability. goals of the rocket will help determine design specifications. modern rockets rely on sophisticated electronics. rocket requires deep understanding of science. rocket body made of fiberglass. rocket requires understanding of materials science. rocket is an educational experience. first step is to define the purpose. rocket requires careful planning. goals of the rocket will help determine size. modern rockets rely on guidance systems. rocket requires deep understanding of engineering principles. first step is to define the requirements. test flights tests rocket's performance. rocket requires understanding of physics. rocket is a rewarding experience. rocket body made of carbon fiber.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket building involves designing the rocket",
+    "retrieved_context": "goals of the rocket will help determine power. rocket body made of aluminum. Rockets are instrumental in advancing our exploration of space. rocket requires precise engineering. test flights tests rocket's stability. goals of the rocket will help determine design specifications. modern rockets rely on sophisticated electronics. rocket requires deep understanding of science. design requires weight distribution. rocket body made of fiberglass. rocket requires understanding of materials science. design requires stability. rocket is an educational experience. rocket requires careful planning. goals of the rocket will help determine size. modern rockets rely on guidance systems. rocket requires deep understanding of engineering principles. test flights tests rocket's performance. rocket requires understanding of physics. rocket is a rewarding experience. rocket body made of carbon fiber. design requires aerodynamics. design requires detailed drawings. design requires detailed plans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket building involves gathering materials and components",
+    "retrieved_context": "goals of the rocket will help determine power. rocket body made of aluminum. Rockets are instrumental in advancing our exploration of space. rocket requires precise engineering. test flights tests rocket's stability. goals of the rocket will help determine design specifications. modern rockets rely on sophisticated electronics. rocket requires deep understanding of science. rocket body made of fiberglass. rocket requires understanding of materials science. rocket is an educational experience. rocket requires careful planning. goals of the rocket will help determine size. modern rockets rely on guidance systems. rocket requires deep understanding of engineering principles. test flights tests rocket's performance. rocket requires understanding of physics. rocket is a rewarding experience. rocket body made of carbon fiber.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Rocket body is typically constructed from lightweight materials",
+    "retrieved_context": "propulsion system are instrumental in thrust. goals of the rocket will help determine power. rocket body made of aluminum. Rockets are instrumental in advancing our exploration of space. rocket requires precise engineering. test flights tests rocket's stability. goals of the rocket will help determine design specifications. modern rockets rely on sophisticated electronics. rocket requires deep understanding of science. rocket body made of fiberglass. rocket requires understanding of materials science. rocket is an educational experience. rocket requires careful planning. modern rockets rely on guidance systems. goals of the rocket will help determine size. rocket requires deep understanding of engineering principles. test flights tests rocket's performance. rocket requires understanding of physics. rocket is a rewarding experience. rocket body made of carbon fiber.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Propulsion system provides thrust to the rocket",
+    "retrieved_context": "propulsion system are instrumental in thrust. goals of the rocket will help determine power. rocket body made of aluminum. rocket requires precise engineering. test flights tests rocket's stability. goals of the rocket will help determine design specifications. modern rockets rely on sophisticated electronics. rocket requires deep understanding of science. rocket body made of fiberglass. rocket requires understanding of materials science. rocket is an educational experience. rocket requires careful planning. goals of the rocket will help determine size. modern rockets rely on guidance systems. rocket requires deep understanding of engineering principles. test flights tests rocket's performance. rocket requires understanding of physics. rocket is a rewarding experience. rocket body made of carbon fiber.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern rockets use sophisticated electronics and guidance systems",
+    "retrieved_context": "modern rockets rely on sophisticated electronics. rocket is a rewarding experience. rocket requires deep understanding of science. rocket requires careful planning. modern rockets rely on guidance systems. goals of the rocket will help determine size. goals of the rocket will help determine power. Rockets are instrumental in advancing our exploration of space. rocket requires precise engineering. rocket requires understanding of materials science. rocket requires deep understanding of engineering principles. test flights tests rocket's stability. goals of the rocket will help determine design specifications. rocket is an educational experience. test flights tests rocket's performance. rocket requires understanding of physics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Testing is essential before launching the rocket",
+    "retrieved_context": "goals of the rocket will help determine power. rocket body made of aluminum. Rockets are instrumental in advancing our exploration of space. rocket requires precise engineering. test flights tests rocket's stability. goals of the rocket will help determine design specifications. modern rockets rely on sophisticated electronics. rocket requires deep understanding of science. rocket body made of fiberglass. rocket requires understanding of materials science. rocket is an educational experience. rocket requires careful planning. goals of the rocket will help determine size. modern rockets rely on guidance systems. rocket requires deep understanding of engineering principles. test flights tests rocket's performance. rocket requires understanding of physics. rocket is a rewarding experience. rocket body made of carbon fiber.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Building a rocket requires a deep understanding of science and engineering principles",
+    "retrieved_context": "rocket is a rewarding experience. modern rockets rely on sophisticated electronics. rocket requires deep understanding of science. rocket requires careful planning. goals of the rocket will help determine size. goals of the rocket will help determine power. modern rockets rely on guidance systems. rocket requires precise engineering. rocket requires deep understanding of engineering principles. rocket requires understanding of materials science. test flights tests rocket's stability. goals of the rocket will help determine design specifications. rocket is an educational experience. test flights tests rocket's performance. rocket requires understanding of physics.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

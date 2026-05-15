@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Old English was spoken in England from the 5th to the 11th century.",
+    "retrieved_context": "Early Modern English period occurred in late 15th century. William Shakespeare wrote works exemplifying Early Modern English. Great Vowel Shift occurred in Early Modern English period. history of the English language can be traced back to arrival of the Anglo-Saxons in Britain. William Caxton invented printing press in late 15th century. Old English spoken from 5th to 11th century. Old English was a highly inflected language with complex grammar system. Middle English spoken from 11th to 15th century. Normans spoken from Old Norman, a dialect of Old French. Old English also known as Anglo-Saxon. Middle English can be traced back to mixing of Old English and Old Norman. Old English can be traced back to language brought by the Anglo-Saxons.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Norman Conquest of England led to the mixing of Old English and Old Norman.",
+    "retrieved_context": "Early Modern English period occurred in late 15th century. Great Vowel Shift occurred in Early Modern English period. history of the English language can be traced back to arrival of the Anglo-Saxons in Britain. William Caxton invented printing press in late 15th century. Anglo-Saxons brought words like \"house,\" \"mother,\" and \"earth\". Old English spoken from 5th to 11th century. Norman Conquest of England occurred in late 11th century. Middle English spoken from 11th to 15th century. Old English was a highly inflected language with complex grammar system. Normans spoken from Old Norman, a dialect of Old French. Anglo-Saxons arrived in Britain in the 5th century. Old English also known as Anglo-Saxon. Middle English can be traced back to mixing of Old English and Old Norman. Old English can be traced back to language brought by the Anglo-Saxons.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Middle English was spoken from the 11th to the 15th century.",
+    "retrieved_context": "Early Modern English period occurred in late 15th century. William Shakespeare wrote works exemplifying Early Modern English. Great Vowel Shift occurred in Early Modern English period. history of the English language can be traced back to arrival of the Anglo-Saxons in Britain. William Caxton invented printing press in late 15th century. Old English spoken from 5th to 11th century. Norman Conquest of England occurred in late 11th century. Middle English spoken from 11th to 15th century. Old English was a highly inflected language with complex grammar system. Old English also known as Anglo-Saxon. Middle English can be traced back to mixing of Old English and Old Norman. Old English can be traced back to language brought by the Anglo-Saxons.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Geoffrey Chaucer's works are prime examples of Middle English literature.",
+    "retrieved_context": "Early Modern English period occurred in late 15th century. Great Vowel Shift occurred in Early Modern English period. history of the English language can be traced back to arrival of the Anglo-Saxons in Britain. William Caxton invented printing press in late 15th century. Caxton's printing press helped spread use of English across England. Middle English spoken from 11th to 15th century. Geoffrey Chaucer wrote \"The Canterbury Tales\" in Middle English. William Shakespeare wrote works exemplifying Early Modern English. Middle English can be traced back to mixing of Old English and Old Norman.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "William Caxton invented the printing press in the late 15th century.",
+    "retrieved_context": "Early Modern English period occurred in late 15th century. Great Vowel Shift occurred in Early Modern English period. British Empire rose in the 18th and 19th centuries. William Caxton invented printing press in late 15th century. Caxton's printing press helped spread use of English across England. Old English spoken from 5th to 11th century. Norman Conquest of England occurred in late 11th century. Middle English spoken from 11th to 15th century. Old English was a highly inflected language with complex grammar system. Old English also known as Anglo-Saxon. Middle English can be traced back to mixing of Old English and Old Norman. Old English can be traced back to language brought by the Anglo-Saxons.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Caxton's printing press helped spread the use of English across England.",
+    "retrieved_context": "Early Modern English period occurred in late 15th century. Old English also known as Anglo-Saxon. Great Vowel Shift occurred in Early Modern English period. history of the English language can be traced back to arrival of the Anglo-Saxons in Britain. William Caxton invented printing press in late 15th century. Caxton's printing press helped spread use of English across England. British Empire's global influence brought words like different English dialects and variations. Old English spoken from 5th to 11th century. Old English was a highly inflected language with complex grammar system. Middle English spoken from 11th to 15th century. William Shakespeare wrote works exemplifying Early Modern English. Middle English can be traced back to mixing of Old English and Old Norman. Old English can be traced back to language brought by the Anglo-Saxons.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Early Modern English period began in the late 15th century.",
+    "retrieved_context": "Early Modern English period occurred in late 15th century. Great Vowel Shift occurred in Early Modern English period. history of the English language can be traced back to arrival of the Anglo-Saxons in Britain. William Caxton invented printing press in late 15th century. British Empire rose in the 18th and 19th centuries. Anglo-Saxons brought words like \"house,\" \"mother,\" and \"earth\". Norman Conquest of England occurred in late 11th century. Middle English spoken from 11th to 15th century. Anglo-Saxons arrived in Britain in the 5th century. William Shakespeare wrote works exemplifying Early Modern English. Middle English can be traced back to mixing of Old English and Old Norman.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "William Shakespeare's works exemplify Early Modern English.",
+    "retrieved_context": "Early Modern English period occurred in late 15th century. Old English also known as Anglo-Saxon. Great Vowel Shift occurred in Early Modern English period. history of the English language can be traced back to arrival of the Anglo-Saxons in Britain. William Caxton invented printing press in late 15th century. Old English spoken from 5th to 11th century. Old English was a highly inflected language with complex grammar system. Middle English spoken from 11th to 15th century. Geoffrey Chaucer wrote \"The Canterbury Tales\" in Middle English. William Shakespeare wrote works exemplifying Early Modern English. Middle English can be traced back to mixing of Old English and Old Norman. Old English can be traced back to language brought by the Anglo-Saxons.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The British Empire's rise led to the spread of English to various parts of the world.",
+    "retrieved_context": "Early Modern English period occurred in late 15th century. Great Vowel Shift occurred in Early Modern English period. history of the English language can be traced back to arrival of the Anglo-Saxons in Britain. British Empire rose in the 18th and 19th centuries. William Caxton invented printing press in late 15th century. Anglo-Saxons brought words like \"house,\" \"mother,\" and \"earth\". Caxton's printing press helped spread use of English across England. British Empire's global influence brought words like different English dialects and variations. Old English spoken from 5th to 11th century. Old English was a highly inflected language with complex grammar system. Anglo-Saxons arrived in Britain in the 5th century. Old English also known as Anglo-Saxon. Old English can be traced back to language brought by the Anglo-Saxons.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The British Empire's global influence contributed to the development of different English dialects.",
+    "retrieved_context": "English is spoken by over 1.5 billion people worldwide today. English spans history of thousands of years. British Empire rose in the 18th and 19th centuries. history of the English language can be traced back to arrival of the Anglo-Saxons in Britain. Caxton's printing press helped spread use of English across England. British Empire's global influence brought words like different English dialects and variations. Old English spoken from 5th to 11th century. Old English was a highly inflected language with complex grammar system. English can be traced back to global language in the 20th century. Old English also known as Anglo-Saxon. Old English can be traced back to language brought by the Anglo-Saxons.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "English solidified its status as a global language in the 20th century.",
+    "retrieved_context": "English is spoken by over 1.5 billion people worldwide today. William Shakespeare wrote works exemplifying Early Modern English. Early Modern English period occurred in late 15th century. English spans history of thousands of years. Great Vowel Shift occurred in Early Modern English period. history of the English language can be traced back to arrival of the Anglo-Saxons in Britain. William Caxton invented printing press in late 15th century. Caxton's printing press helped spread use of English across England. Old English spoken from 5th to 11th century. Old English was a highly inflected language with complex grammar system. English can be traced back to global language in the 20th century. Old English also known as Anglo-Saxon. Old English can be traced back to language brought by the Anglo-Saxons.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "English became the lingua franca of international communication, business, and diplomacy.",
+    "retrieved_context": "English is spoken by over 1.5 billion people worldwide today. William Shakespeare wrote works exemplifying Early Modern English. Early Modern English period occurred in late 15th century. English spans history of thousands of years. Great Vowel Shift occurred in Early Modern English period. history of the English language can be traced back to arrival of the Anglo-Saxons in Britain. William Caxton invented printing press in late 15th century. Caxton's printing press helped spread use of English across England. Old English spoken from 5th to 11th century. Old English was a highly inflected language with complex grammar system. English can be traced back to global language in the 20th century. Old English also known as Anglo-Saxon. Old English can be traced back to language brought by the Anglo-Saxons.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "English is spoken by over 1.5 billion people worldwide today.",
+    "retrieved_context": "English is spoken by over 1.5 billion people worldwide today. English spans history of thousands of years. history of the English language can be traced back to arrival of the Anglo-Saxons in Britain. Caxton's printing press helped spread use of English across England. British Empire's global influence brought words like different English dialects and variations. Old English spoken from 5th to 11th century. Old English was a highly inflected language with complex grammar system. Middle English spoken from 11th to 15th century. English can be traced back to global language in the 20th century. Old English also known as Anglo-Saxon. Middle English can be traced back to mixing of Old English and Old Norman. Old English can be traced back to language brought by the Anglo-Saxons.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "English continues to evolve with the influence of technology and globalization.",
+    "retrieved_context": "English is spoken by over 1.5 billion people worldwide today. William Shakespeare wrote works exemplifying Early Modern English. English spans history of thousands of years. history of the English language can be traced back to arrival of the Anglo-Saxons in Britain. Caxton's printing press helped spread use of English across England. British Empire's global influence brought words like different English dialects and variations. Old English spoken from 5th to 11th century. Old English was a highly inflected language with complex grammar system. English can be traced back to global language in the 20th century. Old English also known as Anglo-Saxon. Old English can be traced back to language brought by the Anglo-Saxons.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The history of the English language reflects diverse cultures and peoples.",
+    "retrieved_context": "English is spoken by over 1.5 billion people worldwide today. William Shakespeare wrote works exemplifying Early Modern English. English spans history of thousands of years. history of the English language can be traced back to arrival of the Anglo-Saxons in Britain. Anglo-Saxons brought words like \"house,\" \"mother,\" and \"earth\". Caxton's printing press helped spread use of English across England. British Empire's global influence brought words like different English dialects and variations. Old English spoken from 5th to 11th century. Old English was a highly inflected language with complex grammar system. Anglo-Saxons arrived in Britain in the 5th century. English can be traced back to global language in the 20th century. Old English also known as Anglo-Saxon. Old English can be traced back to language brought by the Anglo-Saxons.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

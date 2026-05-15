@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Body language is a form of communication.",
+    "retrieved_context": "direct eye contact indicates authority. posture indicates thoughts and feelings. facial expressions is part of body language. body language in professional settings indicates confidence and authority. individuals use body language. facial expressions indicates emotions. proxemics indicates cultural and personal cues. posture is part of body language. gestures indicates messages without words. gestures is part of body language. body language is a form of communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Individuals use body language daily.",
+    "retrieved_context": "posture indicates thoughts and feelings. facial expressions is part of body language. body language in professional settings indicates confidence and authority. individuals use body language. facial expressions indicates emotions. proxemics indicates cultural and personal cues. posture is part of body language. gestures indicates messages without words. gestures is part of body language. body language is a form of communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Facial expressions convey emotions.",
+    "retrieved_context": "maintaining eye contact indicates attentiveness and engagement. posture indicates thoughts and feelings. facial expressions is part of body language. body language in professional settings indicates confidence and authority. individuals use body language. facial expressions indicates emotions. proxemics indicates cultural and personal cues. posture is part of body language. smile indicates happiness or friendliness. gestures indicates messages without words. gestures is part of body language. body language is a form of communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smiling is associated with happiness.",
+    "retrieved_context": "furrowed brow indicates confusion or concern. maintaining eye contact indicates attentiveness and engagement. posture indicates thoughts and feelings. facial expressions is part of body language. slouching indicates insecurity or disinterest. individuals use body language. facial expressions indicates emotions. posture is part of body language. smile indicates happiness or friendliness. gestures is part of body language. body language is a form of communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Furrowed brow may indicate confusion.",
+    "retrieved_context": "furrowed brow indicates confusion or concern. direct eye contact indicates authority. crossing arms indicates defensiveness or discomfort. facial expressions is part of body language. avoiding eye contact indicates discomfort or dishonesty. individuals use body language. facial expressions indicates emotions. posture is part of body language. smile indicates happiness or friendliness. gestures is part of body language. body language is a form of communication. nodding indicates agreement or understanding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gestures convey messages without words.",
+    "retrieved_context": "direct eye contact indicates authority. posture indicates thoughts and feelings. facial expressions is part of body language. body language in professional settings indicates confidence and authority. individuals use body language. facial expressions indicates emotions. proxemics indicates cultural and personal cues. posture is part of body language. gestures indicates messages without words. gestures is part of body language. body language is a form of communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Crossing arms may signal defensiveness.",
+    "retrieved_context": "furrowed brow indicates confusion or concern. crossing arms indicates defensiveness or discomfort. posture indicates thoughts and feelings. standing up straight with shoulders back indicates confidence and assertiveness. facial expressions is part of body language. mirroring posture helps to establish rapport. slouching indicates insecurity or disinterest. individuals use body language. facial expressions indicates emotions. proxemics indicates cultural and personal cues. posture is part of body language. gestures indicates messages without words. gestures is part of body language. body language is a form of communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Nodding can indicate agreement.",
+    "retrieved_context": "furrowed brow indicates confusion or concern. maintaining eye contact indicates attentiveness and engagement. posture indicates thoughts and feelings. facial expressions is part of body language. individuals use body language. facial expressions indicates emotions. proxemics indicates cultural and personal cues. posture is part of body language. smile indicates happiness or friendliness. gestures indicates messages without words. gestures is part of body language. body language is a form of communication. nodding indicates agreement or understanding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Posture reveals thoughts and feelings.",
+    "retrieved_context": "gestures indicates messages without words. posture indicates thoughts and feelings. facial expressions is part of body language. mirroring posture helps to establish rapport. slouching indicates insecurity or disinterest. individuals use body language. facial expressions indicates emotions. posture is part of body language. good posture indicates confidence. gestures is part of body language. body language is a form of communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Standing up straight signals confidence.",
+    "retrieved_context": "gestures indicates messages without words. standing up straight with shoulders back indicates confidence and assertiveness. posture indicates thoughts and feelings. facial expressions is part of body language. body language in professional settings indicates confidence and authority. proxemics indicates cultural and personal cues. individuals use body language. facial expressions indicates emotions. posture is part of body language. good posture indicates confidence. gestures is part of body language. body language is a form of communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Slouching may suggest insecurity.",
+    "retrieved_context": "crossing arms indicates defensiveness or discomfort. posture indicates thoughts and feelings. standing up straight with shoulders back indicates confidence and assertiveness. avoiding eye contact indicates discomfort or dishonesty. facial expressions is part of body language. slouching indicates insecurity or disinterest. individuals use body language. facial expressions indicates emotions. posture is part of body language. smile indicates happiness or friendliness. gestures indicates messages without words. gestures is part of body language. body language is a form of communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Maintaining eye contact signals attentiveness.",
+    "retrieved_context": "maintaining eye contact indicates attentiveness and engagement. direct eye contact indicates authority. posture indicates thoughts and feelings. avoiding eye contact indicates discomfort or dishonesty. facial expressions is part of body language. individuals use body language. facial expressions indicates emotions. proxemics indicates cultural and personal cues. posture is part of body language. gestures indicates messages without words. gestures is part of body language. body language is a form of communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Avoiding eye contact may suggest discomfort.",
+    "retrieved_context": "furrowed brow indicates confusion or concern. maintaining eye contact indicates attentiveness and engagement. direct eye contact indicates authority. crossing arms indicates defensiveness or discomfort. avoiding eye contact indicates discomfort or dishonesty. facial expressions is part of body language. slouching indicates insecurity or disinterest. individuals use body language. facial expressions indicates emotions. posture is part of body language. gestures is part of body language. body language is a form of communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proxemics conveys cultural and personal cues.",
+    "retrieved_context": "maintaining eye contact indicates attentiveness and engagement. direct eye contact indicates authority. posture indicates thoughts and feelings. facial expressions is part of body language. body language in professional settings indicates confidence and authority. individuals use body language. proxemics indicates cultural and personal cues. facial expressions indicates emotions. posture is part of body language. gestures indicates messages without words. gestures is part of body language. body language is a form of communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Body language can help navigate social situations.",
+    "retrieved_context": "maintaining eye contact indicates attentiveness and engagement. direct eye contact indicates authority. posture indicates thoughts and feelings. facial expressions is part of body language. body language in professional settings indicates confidence and authority. individuals use body language. facial expressions indicates emotions. proxemics indicates cultural and personal cues. posture is part of body language. gestures indicates messages without words. gestures is part of body language. body language is a form of communication.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "100.00%"
+  }
+]

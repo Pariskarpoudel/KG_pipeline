@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Fashion trends reflect the values, beliefs, and attitudes of different eras.",
+    "retrieved_context": "Great Depression of the 1930s allowed for more conservative approach to fashion. fashion trends reflect beliefs. 21st century fashion trends brought about more eclectic and individualistic approach to sustainability, diversity, and body positivity. fashion influenced by politics. fashion trends reflect values. department stores and fashion magazines democratized fashion. Middle Ages fashion trends influenced by religion and social hierarchy. fashion trends reflect attitudes of different eras. social media platforms like Instagram and TikTok democratized fashion. fashion influenced by culture. printing press allowed for widespread dissemination of fashion trends. turn of the millennium brought about more eclectic and individualistic approach to fashion. fashion influenced by technology. 20th century saw rapid changes in fashion trends driven by social, cultural, and political movements. fashion influenced by economics. post-World War II era allowed for period of prosperity and optimism leading to resurgence of glamour and luxury in fashion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fashion has been influenced by culture, technology, politics, and economics.",
+    "retrieved_context": "Industrial Revolution influenced by the fashion industry. fashion trends reflect beliefs. 21st century fashion trends brought about more eclectic and individualistic approach to sustainability, diversity, and body positivity. fashion influenced by politics. fashion trends reflect values. department stores and fashion magazines democratized fashion. fashion trends reflect attitudes of different eras. social media platforms like Instagram and TikTok democratized fashion. fashion influenced by culture. Renaissance period saw resurgence of interest in art, culture, and fashion. printing press allowed for widespread dissemination of fashion trends. turn of the millennium brought about more eclectic and individualistic approach to fashion. fashion influenced by technology. 20th century saw rapid changes in fashion trends driven by social, cultural, and political movements. fashion influenced by economics. Great Depression of the 1930s allowed for more conservative approach to fashion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Clothing in ancient civilizations symbolized status and identity.",
+    "retrieved_context": "sumptuary laws dictated what different classes of society could wear. Middle Ages fashion trends influenced by religion and social hierarchy. mass production techniques allowed for creation of ready-to-wear clothing. ancient civilizations include Greece. ancient civilizations include Rome. ancient civilizations include Egypt. common people wears simpler, more practical clothing made from materials like linen and wool. Roaring Twenties influenced by more relaxed and liberating clothing styles. clothing in ancient civilizations symbolizes status and identity. Catholic Church dictated appropriate attire.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wealthy individuals in ancient times wore elaborate garments made from luxurious fabrics.",
+    "retrieved_context": "nobles and royalty wears garments made from expensive fabrics like silk and velvet. nobles and royalty wears elaborate garments made from luxurious fabrics. wealthy elite in Europe commissioned elaborate garments from talented designers and tailors. Middle Ages fashion trends influenced by religion and social hierarchy. common people wears simpler, more practical clothing made from materials like linen and wool. peasants wears humble clothing made from rougher materials. clothing in ancient civilizations symbolizes status and identity. post-World War II era allowed for period of prosperity and optimism leading to resurgence of glamour and luxury in fashion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Common people in ancient times wore simpler clothing made from materials like linen and wool.",
+    "retrieved_context": "nobles and royalty wears garments made from expensive fabrics like silk and velvet. sumptuary laws dictated what different classes of society could wear. nobles and royalty wears elaborate garments made from luxurious fabrics. Middle Ages fashion trends influenced by religion and social hierarchy. mass production techniques allowed for creation of ready-to-wear clothing. common people wears simpler, more practical clothing made from materials like linen and wool. peasants wears humble clothing made from rougher materials. clothing in ancient civilizations symbolizes status and identity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fashion trends in the Middle Ages were influenced by religion and social hierarchy.",
+    "retrieved_context": "sumptuary laws dictated what different classes of society could wear. fashion trends reflect beliefs. 21st century fashion trends brought about more eclectic and individualistic approach to sustainability, diversity, and body positivity. fashion trends reflect values. Middle Ages fashion trends influenced by religion and social hierarchy. fashion trends reflect attitudes of different eras. printing press allowed for widespread dissemination of fashion trends. clothing in ancient civilizations symbolizes status and identity. 20th century saw rapid changes in fashion trends driven by social, cultural, and political movements. Great Depression of the 1930s allowed for more conservative approach to fashion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Nobles and royalty in the Middle Ages wore garments made from expensive fabrics like silk and velvet.",
+    "retrieved_context": "nobles and royalty wears garments made from expensive fabrics like silk and velvet. nobles and royalty wears elaborate garments made from luxurious fabrics. wealthy elite in Europe commissioned elaborate garments from talented designers and tailors. Middle Ages fashion trends influenced by religion and social hierarchy. common people wears simpler, more practical clothing made from materials like linen and wool. clothing in ancient civilizations symbolizes status and identity. post-World War II era allowed for period of prosperity and optimism leading to resurgence of glamour and luxury in fashion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Peasants in the Middle Ages wore humble clothing made from rougher materials.",
+    "retrieved_context": "sumptuary laws dictated what different classes of society could wear. nobles and royalty wears garments made from expensive fabrics like silk and velvet. nobles and royalty wears elaborate garments made from luxurious fabrics. Middle Ages fashion trends influenced by religion and social hierarchy. common people wears simpler, more practical clothing made from materials like linen and wool. peasants wears humble clothing made from rougher materials. clothing in ancient civilizations symbolizes status and identity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Renaissance period saw a resurgence of interest in art, culture, and fashion.",
+    "retrieved_context": "fashion trends reflect beliefs. 21st century fashion trends brought about more eclectic and individualistic approach to sustainability, diversity, and body positivity. fashion trends reflect values. Middle Ages fashion trends influenced by religion and social hierarchy. Renaissance period saw resurgence of interest in art, culture, and fashion. fashion trends reflect attitudes of different eras. printing press allowed for widespread dissemination of fashion trends. 20th century saw rapid changes in fashion trends driven by social, cultural, and political movements. post-World War II era allowed for period of prosperity and optimism leading to resurgence of glamour and luxury in fashion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution brought about mass production of ready-to-wear clothing.",
+    "retrieved_context": "Industrial Revolution influenced by the fashion industry. 21st century fashion trends brought about more eclectic and individualistic approach to sustainability, diversity, and body positivity. mass production techniques allowed for creation of ready-to-wear clothing. printing press allowed for widespread dissemination of fashion trends. clothing in ancient civilizations symbolizes status and identity. 20th century saw rapid changes in fashion trends driven by social, cultural, and political movements. sustainable fashion practices include upcycling, recycling, and ethical sourcing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Department stores and fashion magazines democratized fashion in the 18th and 19th centuries.",
+    "retrieved_context": "Industrial Revolution influenced by the fashion industry. fashion influenced by politics. 21st century fashion trends brought about more eclectic and individualistic approach to sustainability, diversity, and body positivity. department stores and fashion magazines democratized fashion. Middle Ages fashion trends influenced by religion and social hierarchy. social media platforms like Instagram and TikTok democratized fashion. fashion influenced by culture. printing press allowed for widespread dissemination of fashion trends. turn of the millennium brought about more eclectic and individualistic approach to fashion. fashion influenced by technology. 20th century saw rapid changes in fashion trends driven by social, cultural, and political movements. fashion influenced by economics. Great Depression of the 1930s allowed for more conservative approach to fashion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Roaring Twenties marked a shift towards more relaxed and liberating clothing styles.",
+    "retrieved_context": "fashion trends reflect beliefs. 21st century fashion trends brought about more eclectic and individualistic approach to sustainability, diversity, and body positivity. fashion trends reflect values. Middle Ages fashion trends influenced by religion and social hierarchy. fashion trends reflect attitudes of different eras. Roaring Twenties influenced by more relaxed and liberating clothing styles. printing press allowed for widespread dissemination of fashion trends. 20th century saw rapid changes in fashion trends driven by social, cultural, and political movements. post-World War II era allowed for period of prosperity and optimism leading to resurgence of glamour and luxury in fashion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Great Depression of the 1930s led to a more conservative approach to fashion.",
+    "retrieved_context": "Great Depression of the 1930s allowed for more conservative approach to fashion. Industrial Revolution influenced by the fashion industry. fashion trends reflect beliefs. 21st century fashion trends brought about more eclectic and individualistic approach to sustainability, diversity, and body positivity. fashion trends reflect values. fashion trends reflect attitudes of different eras. printing press allowed for widespread dissemination of fashion trends. 20th century saw rapid changes in fashion trends driven by social, cultural, and political movements. post-World War II era allowed for period of prosperity and optimism leading to resurgence of glamour and luxury in fashion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The post-World War II era saw a resurgence of glamour and luxury in fashion.",
+    "retrieved_context": "Industrial Revolution influenced by the fashion industry. Great Depression of the 1930s allowed for more conservative approach to fashion. fashion trends reflect beliefs. 21st century fashion trends brought about more eclectic and individualistic approach to sustainability, diversity, and body positivity. fashion trends reflect values. Middle Ages fashion trends influenced by religion and social hierarchy. fashion trends reflect attitudes of different eras. printing press allowed for widespread dissemination of fashion trends. 20th century saw rapid changes in fashion trends driven by social, cultural, and political movements. post-World War II era allowed for period of prosperity and optimism leading to resurgence of glamour and luxury in fashion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The 1950s saw the rise of iconic fashion figures like Audrey Hepburn and Marilyn Monroe.",
+    "retrieved_context": "fashion trends reflect beliefs. 21st century fashion trends brought about more eclectic and individualistic approach to sustainability, diversity, and body positivity. 1950s saw rise of iconic fashion figures like Audrey Hepburn and Marilyn Monroe. fashion trends reflect values. Middle Ages fashion trends influenced by religion and social hierarchy. fashion trends reflect attitudes of different eras. printing press allowed for widespread dissemination of fashion trends. 20th century saw rapid changes in fashion trends driven by social, cultural, and political movements. post-World War II era allowed for period of prosperity and optimism leading to resurgence of glamour and luxury in fashion.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

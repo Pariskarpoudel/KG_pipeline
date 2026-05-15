@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Color plays a crucial role in branding and marketing strategies.",
+    "retrieved_context": "Color create emotions. Color create messages. red associated with passion. blue associated with reliability. blue associated with trust. Color associated with marketing strategies. Color create consumer behavior. warm colors create sense of urgency. Coca-Cola's logo is iconic red. blue associated with calmness. red associated with excitement. cool colors create reliability. warm colors promotes impulse purchases. red associated with energy. Color associated with branding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors have the power to evoke emotions.",
+    "retrieved_context": "Color create emotions. Color create messages. red associated with passion. blue associated with reliability. blue associated with trust. Color associated with marketing strategies. Color create consumer behavior. warm colors create sense of urgency. Coca-Cola's logo is iconic red. blue associated with calmness. red associated with excitement. cool colors create reliability. warm colors promotes impulse purchases. red associated with energy. cool colors create sense of trust. Color associated with branding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors can convey messages.",
+    "retrieved_context": "Color create emotions. Color create messages. McDonald's arches is bright yellow. red associated with passion. blue associated with reliability. blue associated with trust. Color associated with marketing strategies. Color create consumer behavior. warm colors create sense of urgency. red associated with excitement. blue associated with calmness. Coca-Cola's logo is iconic red. cool colors create reliability. warm colors promotes impulse purchases. red associated with energy. cool colors create sense of trust. Color associated with branding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors influence consumer behavior.",
+    "retrieved_context": "Color create emotions. Color create messages. red associated with passion. blue associated with reliability. blue associated with trust. Color associated with marketing strategies. Color create consumer behavior. warm colors create sense of urgency. red associated with excitement. blue associated with calmness. cool colors create reliability. warm colors promotes impulse purchases. red associated with energy. cool colors create sense of trust. Color associated with branding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding color psychology helps create a strong brand identity.",
+    "retrieved_context": "Color create emotions. Color create messages. white associated with death. white associated with purity. white associated with mourning. blue associated with reliability. blue associated with trust. Color associated with marketing strategies. Color create consumer behavior. warm colors create sense of urgency. blue associated with calmness. white associated with cleanliness. cool colors create reliability. warm colors promotes impulse purchases. cool colors create sense of trust. Color associated with branding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different colors evoke specific emotions and associations.",
+    "retrieved_context": "Color create emotions. Color create messages. McDonald's arches is bright yellow. red associated with passion. blue associated with reliability. blue associated with trust. Color associated with marketing strategies. Color create consumer behavior. warm colors create sense of urgency. Coca-Cola's logo is iconic red. blue associated with calmness. red associated with excitement. cool colors create reliability. warm colors promotes impulse purchases. red associated with energy. cool colors create sense of trust. Color associated with branding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Red is associated with passion, energy, and excitement.",
+    "retrieved_context": "Color create emotions. Color create messages. red associated with passion. blue associated with reliability. blue associated with trust. Color associated with marketing strategies. red associated with excitement. Coca-Cola's logo is iconic red. warm colors create sense of urgency. Color create consumer behavior. blue associated with calmness. cool colors create reliability. warm colors promotes impulse purchases. red associated with energy. Color associated with branding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blue is associated with trust, reliability, and calmness.",
+    "retrieved_context": "Color create emotions. Color create messages. blue associated with reliability. blue associated with trust. Color associated with marketing strategies. Color create consumer behavior. warm colors create sense of urgency. blue associated with calmness. cool colors create reliability. warm colors promotes impulse purchases. cool colors create sense of trust. Color associated with branding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors affect how consumers perceive a brand's personality, quality, and value.",
+    "retrieved_context": "Color create emotions. Color create messages. red associated with passion. blue associated with reliability. blue associated with trust. Color associated with marketing strategies. Color create consumer behavior. warm colors create sense of urgency. Coca-Cola's logo is iconic red. blue associated with calmness. red associated with excitement. cool colors create reliability. warm colors promotes impulse purchases. red associated with energy. cool colors create sense of trust. Color associated with branding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warm colors like red and orange create a sense of urgency.",
+    "retrieved_context": "Color create emotions. Color create messages. McDonald's arches is bright yellow. red associated with passion. blue associated with reliability. Color associated with marketing strategies. warm colors create sense of urgency. red associated with excitement. Coca-Cola's logo is iconic red. Color create consumer behavior. cool colors create reliability. warm colors promotes impulse purchases. red associated with energy. cool colors create sense of trust. Color associated with branding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cool colors like blue and green create a sense of trust.",
+    "retrieved_context": "Color create emotions. Color create messages. McDonald's arches is bright yellow. red associated with passion. blue associated with reliability. blue associated with trust. Color associated with marketing strategies. warm colors create sense of urgency. Color create consumer behavior. red associated with excitement. blue associated with calmness. cool colors create reliability. warm colors promotes impulse purchases. red associated with energy. cool colors create sense of trust. Color associated with branding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors help differentiate a brand from competitors.",
+    "retrieved_context": "Color create emotions. Color create messages. red associated with passion. blue associated with reliability. blue associated with trust. Color associated with marketing strategies. Color create consumer behavior. warm colors create sense of urgency. red associated with excitement. blue associated with calmness. Coca-Cola's logo is iconic red. cool colors create reliability. warm colors promotes impulse purchases. red associated with energy. cool colors create sense of trust. Color associated with branding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cultural associations of colors should be considered in branding.",
+    "retrieved_context": "Color create emotions. Color create messages. red associated with passion. blue associated with reliability. blue associated with trust. Color associated with marketing strategies. Color create consumer behavior. warm colors create sense of urgency. Coca-Cola's logo is iconic red. blue associated with calmness. red associated with excitement. cool colors create reliability. warm colors promotes impulse purchases. red associated with energy. Color associated with branding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Context influences the meaning and effects of colors in branding.",
+    "retrieved_context": "Color create emotions. Color create messages. blue associated with reliability. blue associated with trust. Color associated with marketing strategies. Color create consumer behavior. Coca-Cola's logo is iconic red. warm colors create sense of urgency. blue associated with calmness. cool colors create reliability. warm colors promotes impulse purchases. cool colors create sense of trust. Color associated with branding.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Youth-oriented brands may use bright and bold colors.",
+    "retrieved_context": "Color create emotions. Color create messages. McDonald's arches is bright yellow. red associated with passion. blue associated with reliability. blue associated with trust. Color associated with marketing strategies. warm colors create sense of urgency. Color create consumer behavior. Coca-Cola's logo is iconic red. red associated with excitement. blue associated with calmness. cool colors create reliability. warm colors promotes impulse purchases. red associated with energy. cool colors create sense of trust. Color associated with branding.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

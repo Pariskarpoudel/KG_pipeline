@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Music is an integral part of human culture.",
+    "retrieved_context": "Music is part of human culture. Music therapy serves as tool for memory-related disorders. Experiencing emotions through music enhances emotional intelligence and empathy. Music serves as entertainment. Music serves as expression. Music influences language skills. Music enhances problem-solving skills. Music serves as communication. Children exposed to music enhances language development. Researchers explore impact of music on cognitive development. Listening to music evokes emotional responses. Music involves processing of sound patterns and rhythms. Music enhances emotional intelligence. Music influences memory. Listening to music enhances memory retention and recall. Music influences problem-solving abilities. Engaging with music enhances language skills. Playing an instrument or listening attentively to music requires critical thinking and analytical skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music serves as a form of entertainment.",
+    "retrieved_context": "Active engagement with music has greater cognitive benefits than passive listening. Music is part of human culture. Music therapy serves as tool for memory-related disorders. Experiencing emotions through music enhances emotional intelligence and empathy. Music serves as entertainment. Music serves as expression. Music influences language skills. Music enhances problem-solving skills. Music serves as communication. Researchers explore impact of music on cognitive development. Listening to music evokes emotional responses. Music involves processing of sound patterns and rhythms. Music enhances emotional intelligence. Music influences memory. Listening to music enhances memory retention and recall. Music influences problem-solving abilities. Engaging with music enhances language skills. Playing an instrument or listening attentively to music requires critical thinking and analytical skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music serves as a means of communication.",
+    "retrieved_context": "Music is part of human culture. Experiencing emotions through music enhances emotional intelligence and empathy. Music therapy serves as tool for memory-related disorders. Music serves as entertainment. Music serves as expression. Music influences language skills. Music enhances problem-solving skills. Music serves as communication. Researchers explore impact of music on cognitive development. Listening to music evokes emotional responses. Music involves processing of sound patterns and rhythms. Music enhances emotional intelligence. Music influences memory. Listening to music enhances memory retention and recall. Music influences problem-solving abilities. Engaging with music enhances language skills. Playing an instrument or listening attentively to music requires critical thinking and analytical skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music serves as a means of expression.",
+    "retrieved_context": "Active engagement with music has greater cognitive benefits than passive listening. Music is part of human culture. Experiencing emotions through music enhances emotional intelligence and empathy. Music therapy serves as tool for memory-related disorders. Music serves as entertainment. Music serves as expression. Music influences language skills. Music enhances problem-solving skills. Music serves as communication. Researchers explore impact of music on cognitive development. Listening to music evokes emotional responses. Music involves processing of sound patterns and rhythms. Music enhances emotional intelligence. Music influences memory. Listening to music enhances memory retention and recall. Music influences problem-solving abilities. Engaging with music enhances language skills. Playing an instrument or listening attentively to music requires critical thinking and analytical skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can enhance memory.",
+    "retrieved_context": "Music influences memory. Music is part of human culture. Music therapy serves as tool for memory-related disorders. Experiencing emotions through music enhances emotional intelligence and empathy. Music serves as entertainment. Music serves as expression. Music influences language skills. Music enhances problem-solving skills. Music serves as communication. Researchers explore impact of music on cognitive development. Listening to music evokes emotional responses. Music involves processing of sound patterns and rhythms. Listening to music enhances memory retention and recall. Music enhances emotional intelligence. Playing an instrument or listening attentively to music requires critical thinking and analytical skills. Music influences problem-solving abilities. Engaging with music enhances language skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Listening to music can improve memory retention.",
+    "retrieved_context": "Music influences memory. Music is part of human culture. Music therapy serves as tool for memory-related disorders. Experiencing emotions through music enhances emotional intelligence and empathy. Music serves as entertainment. Music influences language skills. Music serves as expression. Music enhances problem-solving skills. Music serves as communication. Researchers explore impact of music on cognitive development. Listening to music evokes emotional responses. Playing an instrument or listening attentively to music requires critical thinking and analytical skills. Listening to music enhances memory retention and recall. Music involves processing of sound patterns and rhythms. Music enhances emotional intelligence. Music influences problem-solving abilities. Engaging with music enhances language skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Listening to music can improve memory recall.",
+    "retrieved_context": "Learning to play an instrument requires coordination, concentration, and discipline. Music influences memory. Music is part of human culture. Music therapy serves as tool for memory-related disorders. Experiencing emotions through music enhances emotional intelligence and empathy. Music serves as entertainment. Music serves as expression. Music influences language skills. Music enhances problem-solving skills. Music serves as communication. Researchers explore impact of music on cognitive development. Listening to music evokes emotional responses. Playing an instrument or listening attentively to music requires critical thinking and analytical skills. Listening to music enhances memory retention and recall. Music involves processing of sound patterns and rhythms. Music enhances emotional intelligence. Music influences problem-solving abilities. Engaging with music enhances language skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music stimulates multiple areas of the brain.",
+    "retrieved_context": "Music influences memory. Active engagement with music has greater cognitive benefits than passive listening. Music is part of human culture. Music therapy serves as tool for memory-related disorders. Experiencing emotions through music enhances emotional intelligence and empathy. Music serves as entertainment. Music influences language skills. Music serves as expression. Music enhances problem-solving skills. Music serves as communication. Researchers explore impact of music on cognitive development. Listening to music evokes emotional responses. Music involves processing of sound patterns and rhythms. Listening to music enhances memory retention and recall. Music enhances emotional intelligence. Playing an instrument or listening attentively to music requires critical thinking and analytical skills. Music influences problem-solving abilities. Engaging with music enhances language skills.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Music can enhance language skills.",
+    "retrieved_context": "Learning to play an instrument requires coordination, concentration, and discipline. Music is part of human culture. Music therapy serves as tool for memory-related disorders. Experiencing emotions through music enhances emotional intelligence and empathy. Music serves as entertainment. Music influences language skills. Music serves as expression. Music enhances problem-solving skills. Music serves as communication. Researchers explore impact of music on cognitive development. Music involves processing of sound patterns and rhythms. Music enhances emotional intelligence. Music influences memory. Playing an instrument or listening attentively to music requires critical thinking and analytical skills. Music influences problem-solving abilities. Engaging with music enhances language skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Exposure to music from a young age can improve language development.",
+    "retrieved_context": "Learning to play an instrument requires coordination, concentration, and discipline. Music is part of human culture. Music therapy serves as tool for memory-related disorders. Music serves as entertainment. Music influences language skills. Music serves as expression. Music enhances problem-solving skills. Music serves as communication. Children exposed to music enhances language development. Researchers explore impact of music on cognitive development. Music involves processing of sound patterns and rhythms. Music enhances emotional intelligence. Music influences memory. Playing an instrument or listening attentively to music requires critical thinking and analytical skills. Music influences problem-solving abilities. Engaging with music enhances language skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music involves processing sound patterns and rhythms.",
+    "retrieved_context": "Music is part of human culture. Experiencing emotions through music enhances emotional intelligence and empathy. Music therapy serves as tool for memory-related disorders. Music serves as entertainment. Music serves as expression. Music influences language skills. Decoding musical patterns enhances cognitive functions related to problem-solving. Music serves as communication. Researchers explore impact of music on cognitive development. Engaging with music enhances language skills. Listening to music evokes emotional responses. Music involves processing of sound patterns and rhythms. Music enhances emotional intelligence. Music influences memory. Listening to music enhances memory retention and recall. Music influences problem-solving abilities. Music enhances problem-solving skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can enhance problem-solving skills.",
+    "retrieved_context": "Learning to play an instrument requires coordination, concentration, and discipline. Music is part of human culture. Music therapy serves as tool for memory-related disorders. Experiencing emotions through music enhances emotional intelligence and empathy. Music serves as entertainment. Music serves as expression. Music influences language skills. Music serves as communication. Researchers explore impact of music on cognitive development. Engaging with music enhances language skills. Music involves processing of sound patterns and rhythms. Music enhances emotional intelligence. Music influences memory. Playing an instrument or listening attentively to music requires critical thinking and analytical skills. Music influences problem-solving abilities. Music enhances problem-solving skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Engaging with music requires critical thinking.",
+    "retrieved_context": "Music influences memory. Active engagement with music has greater cognitive benefits than passive listening. Music is part of human culture. Music therapy serves as tool for memory-related disorders. Experiencing emotions through music enhances emotional intelligence and empathy. Music serves as entertainment. Music influences language skills. Music serves as expression. Music enhances problem-solving skills. Music serves as communication. Researchers explore impact of music on cognitive development. Playing an instrument or listening attentively to music requires critical thinking and analytical skills. Music involves processing of sound patterns and rhythms. Music enhances emotional intelligence. Music influences problem-solving abilities. Engaging with music enhances language skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Engaging with music requires analytical skills.",
+    "retrieved_context": "Learning to play an instrument requires coordination, concentration, and discipline. Music influences memory. Active engagement with music has greater cognitive benefits than passive listening. Music is part of human culture. Music therapy serves as tool for memory-related disorders. Experiencing emotions through music enhances emotional intelligence and empathy. Music serves as entertainment. Music influences language skills. Music serves as expression. Music enhances problem-solving skills. Music serves as communication. Researchers explore impact of music on cognitive development. Playing an instrument or listening attentively to music requires critical thinking and analytical skills. Music involves processing of sound patterns and rhythms. Music enhances emotional intelligence. Music influences problem-solving abilities. Engaging with music enhances language skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can evoke strong emotional responses.",
+    "retrieved_context": "Music influences memory. Active engagement with music has greater cognitive benefits than passive listening. Music is part of human culture. Music therapy serves as tool for memory-related disorders. Experiencing emotions through music enhances emotional intelligence and empathy. Music serves as entertainment. Music influences language skills. Music serves as expression. Music enhances problem-solving skills. Music serves as communication. Researchers explore impact of music on cognitive development. Listening to music evokes emotional responses. Music involves processing of sound patterns and rhythms. Listening to music enhances memory retention and recall. Music enhances emotional intelligence. Music influences problem-solving abilities. Engaging with music enhances language skills.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Colors impact psychological well-being",
+    "retrieved_context": "color psychology explores mood. color white associated with purity. warm colors associated with passion. color psychology is study of color influence. cool colors associated with relaxation. color blue increases mind. color white associated with death. color yellow increases serotonin levels. color yellow associated with happiness. cool colors associated with tranquility. color white associated with innocence. color psychology increases perceptions. cool colors associated with calmness. warm colors associated with warmth. color blue increases body. color yellow associated with positivity. warm colors associated with energy. color psychology increases psychological well-being. color psychology increases behavior. color psychology increases emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors evoke emotions and feelings",
+    "retrieved_context": "color psychology explores mood. color white associated with purity. warm colors associated with passion. color psychology is study of color influence. cool colors associated with relaxation. color blue increases mind. color white associated with death. color red increases heart rate. color red increases blood pressure. cool colors associated with tranquility. color white associated with innocence. color psychology increases perceptions. cool colors associated with calmness. warm colors associated with warmth. color blue increases body. warm colors associated with energy. color psychology increases psychological well-being. color psychology increases behavior. color psychology increases emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Study of colors and human behavior is color psychology",
+    "retrieved_context": "color psychology explores mood. color psychology increases perceptions. color red increases heart rate. color white associated with innocence. color psychology increases behavior. color white associated with purity. warm colors associated with passion. warm colors associated with warmth. color psychology is study of color influence. color blue increases body. color red increases blood pressure. color psychology increases emotions. color blue increases mind. color psychology increases psychological well-being. warm colors associated with energy. color white associated with death.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different colors affect mood, behavior, and physical reactions",
+    "retrieved_context": "color psychology explores mood. color white associated with purity. warm colors associated with passion. color psychology is study of color influence. color blue increases mind. color white associated with death. color red increases heart rate. color yellow increases serotonin levels. color yellow associated with happiness. color red increases blood pressure. color white associated with innocence. color psychology increases perceptions. warm colors associated with warmth. color blue increases body. color yellow associated with positivity. warm colors associated with energy. color psychology increases psychological well-being. color psychology increases behavior. color psychology increases emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warm colors like red evoke energy and passion",
+    "retrieved_context": "color psychology explores mood. color psychology increases perceptions. color red increases heart rate. color psychology increases behavior. warm colors associated with passion. cool colors associated with calmness. warm colors associated with warmth. color psychology is study of color influence. color red increases blood pressure. color psychology increases emotions. cool colors associated with tranquility. cool colors associated with relaxation. warm colors associated with energy. color psychology increases psychological well-being.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cool colors like blue evoke calmness and tranquility",
+    "retrieved_context": "color psychology explores mood. color psychology increases perceptions. color white associated with innocence. color psychology increases behavior. color white associated with purity. warm colors associated with passion. cool colors associated with calmness. warm colors associated with warmth. color psychology is study of color influence. color blue increases body. color psychology increases emotions. cool colors associated with tranquility. cool colors associated with relaxation. color blue increases mind. color psychology increases psychological well-being. warm colors associated with energy. color white associated with death.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Red can increase heart rate and blood pressure",
+    "retrieved_context": "color psychology explores mood. color red increases heart rate. color psychology increases perceptions. color yellow increases serotonin levels. color yellow associated with positivity. color psychology increases behavior. warm colors associated with passion. warm colors associated with warmth. color psychology is study of color influence. color yellow associated with happiness. color blue increases body. color blue increases mind. color red increases blood pressure. color psychology increases emotions. warm colors associated with energy. color psychology increases psychological well-being.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blue has a calming effect on the mind and body",
+    "retrieved_context": "color psychology increases perceptions. color psychology explores mood. color psychology increases behavior. warm colors associated with passion. cool colors associated with calmness. warm colors associated with warmth. color psychology is study of color influence. color blue increases body. color psychology increases emotions. cool colors associated with tranquility. cool colors associated with relaxation. color blue increases mind. color psychology increases psychological well-being. warm colors associated with energy.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yellow is associated with happiness and positivity",
+    "retrieved_context": "color psychology increases perceptions. color yellow increases serotonin levels. color psychology explores mood. color white associated with innocence. color psychology increases behavior. color white associated with purity. warm colors associated with passion. warm colors associated with warmth. color psychology is study of color influence. color yellow associated with happiness. color blue increases body. color blue increases mind. color psychology increases emotions. color yellow associated with positivity. color psychology increases psychological well-being. warm colors associated with energy. color white associated with death.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yellow increases serotonin levels in the brain",
+    "retrieved_context": "color psychology explores mood. color white associated with purity. warm colors associated with passion. color psychology is study of color influence. color blue increases mind. color white associated with death. color yellow increases serotonin levels. color red increases heart rate. color yellow associated with happiness. color red increases blood pressure. color white associated with innocence. color psychology increases perceptions. warm colors associated with warmth. color blue increases body. color yellow associated with positivity. warm colors associated with energy. color psychology increases psychological well-being. color psychology increases behavior. color psychology increases emotions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black is associated with power and sophistication",
+    "retrieved_context": "color psychology explores mood. color psychology increases perceptions. color white associated with innocence. color psychology increases behavior. color white associated with purity. warm colors associated with passion. warm colors associated with warmth. color black associated with power. color psychology is study of color influence. color black associated with sophistication. color psychology increases emotions. warm colors associated with energy. color psychology increases psychological well-being. color black associated with authority. color white associated with death.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black can evoke feelings of sadness or mystery",
+    "retrieved_context": "color psychology explores mood. color psychology increases perceptions. color yellow increases serotonin levels. color psychology increases behavior. warm colors associated with energy. warm colors associated with passion. warm colors associated with warmth. color black associated with power. color psychology is study of color influence. color yellow associated with happiness. color black associated with sophistication. color psychology increases emotions. color yellow associated with positivity. color psychology increases psychological well-being. color black associated with authority.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Individual experiences and cultural backgrounds influence color perception",
+    "retrieved_context": "color psychology explores mood. color white associated with purity. warm colors associated with passion. color psychology is study of color influence. color blue increases mind. color white associated with death. color red increases heart rate. color red increases blood pressure. color white associated with innocence. color black associated with authority. color psychology increases perceptions. warm colors associated with warmth. color black associated with power. color blue increases body. color black associated with sophistication. warm colors associated with energy. color psychology increases psychological well-being. color psychology increases behavior. color psychology increases emotions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Colors have universal associations but meanings can vary culturally",
+    "retrieved_context": "color psychology explores mood. color white associated with purity. warm colors associated with passion. color psychology is study of color influence. cool colors associated with relaxation. color blue increases mind. color white associated with death. color red increases heart rate. color yellow increases serotonin levels. color yellow associated with happiness. color red increases blood pressure. cool colors associated with tranquility. color white associated with innocence. color psychology increases perceptions. cool colors associated with calmness. warm colors associated with warmth. color blue increases body. warm colors associated with energy. color yellow associated with positivity. color psychology increases psychological well-being. color psychology increases behavior. color psychology increases emotions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Colors can be used to create environments that promote well-being and productivity",
+    "retrieved_context": "color psychology explores mood. color psychology increases perceptions. color yellow increases serotonin levels. color yellow associated with positivity. color psychology increases behavior. warm colors associated with passion. cool colors associated with calmness. warm colors associated with warmth. color psychology is study of color influence. color blue increases body. color yellow associated with happiness. color blue increases mind. color psychology increases emotions. cool colors associated with tranquility. cool colors associated with relaxation. warm colors associated with energy. color psychology increases psychological well-being.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

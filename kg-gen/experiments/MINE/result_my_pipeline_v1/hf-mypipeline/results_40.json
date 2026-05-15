@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "A zombie apocalypse is a terrifying scenario.",
+    "retrieved_context": "zombie apocalypse imagines imagination of people. adaptability is essential survival. survival kit includes batteries. zombie apocalypse is terrifying scenario. survival kit includes first aid kit. headshots are effective neutralizing zombies. survival kit includes flashlight. survival kit includes multi-tool. mental resilience is essential surviving a zombie apocalypse. teamwork is essential survival.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A zombie outbreak is often portrayed in movies, TV shows, and literature.",
+    "retrieved_context": "zombie apocalypse imagines imagination of people. adaptability is essential survival. survival kit includes batteries. zombie apocalypse is terrifying scenario. survival kit includes first aid kit. headshots are effective neutralizing zombies. survival kit includes flashlight. survival kit includes multi-tool. mental resilience is essential surviving a zombie apocalypse. teamwork is essential survival.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Preparation is key to surviving a zombie apocalypse.",
+    "retrieved_context": "adaptability is essential survival. survival kit includes batteries. zombie apocalypse is terrifying scenario. survival kit includes first aid kit. nutrition is essential keeping body strong. exercise is essential keeping body strong. mental resilience is essential surviving a zombie apocalypse. headshots are effective neutralizing zombies. rest is essential keeping body strong. survival kit includes flashlight. survival kit includes multi-tool. zombie apocalypse imagines imagination of people. teamwork is essential survival.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Stocking up on essential supplies like food, water, medical supplies, and weapons is crucial.",
+    "retrieved_context": "supplies includes supplies. plan should identify safe location. supplies is essential clean. survival kit includes batteries. survival kit includes first aid kit. supplies includes weapons. nutrition is essential keeping body strong. exercise is essential keeping body strong. safe location is essential visibility of surroundings. safe location is essential ease of defense. supplies is essential non-perishable. survival kit includes flashlight. safe location is essential access to water. rest is essential keeping body strong. safe location is essential access to food. survival kit includes multi-tool. supplies includes medical supplies.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Having a well-equipped survival kit is important.",
+    "retrieved_context": "supplies includes supplies. supplies is essential clean. adaptability is essential survival. survival kit includes batteries. survival kit includes first aid kit. supplies includes weapons. nutrition is essential keeping body strong. exercise is essential keeping body strong. mental resilience is essential surviving a zombie apocalypse. supplies is essential non-perishable. rest is essential keeping body strong. survival kit includes flashlight. survival kit includes multi-tool. supplies includes medical supplies. teamwork is essential survival.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A reliable source of clean water and non-perishable food is essential.",
+    "retrieved_context": "supplies includes supplies. plan should identify safe location. individuals is essential trustworthy. supplies is essential clean. individuals is essential reliable. supplies includes weapons. nutrition is essential keeping body strong. exercise is essential keeping body strong. safe location is essential visibility of surroundings. safe location is essential ease of defense. supplies is essential non-perishable. safe location is essential access to water. rest is essential keeping body strong. safe location is essential access to food. supplies includes medical supplies.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Identifying a safe location for shelter is important.",
+    "retrieved_context": "plan should identify safe location. survival kit includes batteries. adaptability is essential survival. survival kit includes first aid kit. safe location is essential ease of defense. safe location is essential visibility of surroundings. survival kit includes flashlight. safe location is essential access to water. safe location is essential access to food. survival kit includes multi-tool. mental resilience is essential surviving a zombie apocalypse. teamwork is essential survival.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fortifying the safe location to keep zombies out is crucial.",
+    "retrieved_context": "plan should identify safe location. adaptability is essential survival. survival kit includes batteries. zombie apocalypse is terrifying scenario. survival kit includes first aid kit. nutrition is essential keeping body strong. exercise is essential keeping body strong. mental resilience is essential surviving a zombie apocalypse. safe location is essential visibility of surroundings. safe location is essential ease of defense. headshots are effective neutralizing zombies. survival kit includes flashlight. safe location is essential access to water. rest is essential keeping body strong. safe location is essential access to food. survival kit includes multi-tool. zombie apocalypse imagines imagination of people. teamwork is essential survival.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Teamwork is essential for survival in a zombie apocalypse.",
+    "retrieved_context": "plan should identify safe location. zombie apocalypse imagines imagination of people. adaptability is essential survival. survival kit includes batteries. zombie apocalypse is terrifying scenario. survival kit includes first aid kit. nutrition is essential keeping body strong. exercise is essential keeping body strong. safe location is essential visibility of surroundings. safe location is essential ease of defense. headshots are effective neutralizing zombies. safe location is essential access to water. safe location is essential access to food. rest is essential keeping body strong. survival kit includes flashlight. survival kit includes multi-tool. mental resilience is essential surviving a zombie apocalypse. teamwork is essential survival.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Assigning roles and responsibilities based on skills and abilities is important for group survival.",
+    "retrieved_context": "individuals is essential trustworthy. adaptability is essential survival. survival kit includes batteries. individuals is essential reliable. survival kit includes first aid kit. nutrition is essential keeping body strong. exercise is essential keeping body strong. knowledge is power. rest is essential keeping body strong. survival kit includes flashlight. survival kit includes multi-tool. mental resilience is essential surviving a zombie apocalypse. teamwork is essential survival.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Knowledge about zombies' characteristics and behaviors is crucial.",
+    "retrieved_context": "adaptability is essential survival. knowledge is power. zombie apocalypse is terrifying scenario. survival kit includes first aid kit. survival kit includes batteries. mental resilience is essential surviving a zombie apocalypse. headshots are effective neutralizing zombies. survival kit includes flashlight. survival kit includes multi-tool. zombie apocalypse imagines imagination of people. teamwork is essential survival.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Aiming for headshots when attacking zombies is effective.",
+    "retrieved_context": "supplies is essential clean. survival kit includes first aid kit. supplies is essential non-perishable. survival kit includes multi-tool. plan should identify safe location. zombie apocalypse is terrifying scenario. nutrition is essential keeping body strong. safe location is essential ease of defense. rest is essential keeping body strong. survival kit includes flashlight. supplies includes medical supplies. supplies includes supplies. survival kit includes batteries. safe location is essential access to water. safe location is essential access to food. mental resilience is essential surviving a zombie apocalypse. zombie apocalypse imagines imagination of people. supplies includes weapons. exercise is essential keeping body strong. safe location is essential visibility of surroundings. headshots are effective neutralizing zombies.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Staying physically fit and maintaining good health is crucial.",
+    "retrieved_context": "plan should identify safe location. adaptability is essential survival. nutrition is essential keeping body strong. exercise is essential keeping body strong. safe location is essential ease of defense. safe location is essential visibility of surroundings. safe location is essential access to water. rest is essential keeping body strong. safe location is essential access to food. mental resilience is essential surviving a zombie apocalypse. teamwork is essential survival.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mental resilience is important for surviving a zombie apocalypse.",
+    "retrieved_context": "adaptability is essential survival. survival kit includes batteries. zombie apocalypse is terrifying scenario. survival kit includes first aid kit. nutrition is essential keeping body strong. exercise is essential keeping body strong. mental resilience is essential surviving a zombie apocalypse. headshots are effective neutralizing zombies. rest is essential keeping body strong. survival kit includes flashlight. survival kit includes multi-tool. zombie apocalypse imagines imagination of people. teamwork is essential survival.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Adaptability is key to increasing chances of survival during a zombie apocalypse.",
+    "retrieved_context": "adaptability is essential survival. survival kit includes batteries. zombie apocalypse is terrifying scenario. survival kit includes first aid kit. nutrition is essential keeping body strong. exercise is essential keeping body strong. mental resilience is essential surviving a zombie apocalypse. headshots are effective neutralizing zombies. rest is essential keeping body strong. survival kit includes flashlight. survival kit includes multi-tool. zombie apocalypse imagines imagination of people. teamwork is essential survival.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

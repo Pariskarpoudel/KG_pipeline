@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sleep is a fundamental biological process.",
+    "retrieved_context": "Circadian rhythm determines timing of sleep and wakefulness. Adenosine helps promote sleep. Sleep deprivation increases risk of obesity, diabetes, cardiovascular disease, and mental health disorders. Sleep cycle divided into REM sleep and non-REM sleep. Sleep cycle progresses through multiple cycles of non-REM and REM sleep. Sleep is a fundamental biological process. Cooler temperatures helps promote sleep. Each sleep cycle lasts about 90 minutes. Non-REM sleep divided into N1, N2, and N3 stages. Sleep essential for human health and well-being. Serotonin and dopamine regulate sleep. Melatonin helps promote sleep.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sleep is essential for human health and well-being.",
+    "retrieved_context": "Circadian rhythm determines timing of sleep and wakefulness. Adenosine helps promote sleep. Sleep deprivation increases risk of obesity, diabetes, cardiovascular disease, and mental health disorders. Sleep cycle divided into REM sleep and non-REM sleep. Sleep cycle progresses through multiple cycles of non-REM and REM sleep. Sleep is a fundamental biological process. Cooler temperatures helps promote sleep. Each sleep cycle lasts about 90 minutes. Serotonin and dopamine regulate sleep. Sleep essential for human health and well-being. Non-REM sleep divided into N1, N2, and N3 stages. Melatonin helps promote sleep.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sleep involves various physiological and neurological mechanisms.",
+    "retrieved_context": "Disruptions to neurotransmitter systems leads to sleep disorders such as insomnia, narcolepsy, and sleep apnea. Circadian rhythm determines timing of sleep and wakefulness. Adenosine helps promote sleep. Sleep deprivation increases risk of obesity, diabetes, cardiovascular disease, and mental health disorders. Sleep cycle divided into REM sleep and non-REM sleep. Sleep cycle progresses through multiple cycles of non-REM and REM sleep. Sleep is a fundamental biological process. Cooler temperatures helps promote sleep. Each sleep cycle lasts about 90 minutes. Sleep essential for human health and well-being. Serotonin and dopamine regulate sleep. Melatonin helps promote sleep.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sleep is divided into rapid eye movement (REM) sleep and non-REM sleep.",
+    "retrieved_context": "REM sleep thought to play a crucial role in memory consolidation and emotional processing. REM sleep characterized by rapid eye movements, increased brain activity, and muscle paralysis. Circadian rhythm determines timing of sleep and wakefulness. N3 stage characterized by restorative processes. N3 stage known as slow-wave sleep. Sleep cycle divided into REM sleep and non-REM sleep. Sleep cycle progresses through multiple cycles of non-REM and REM sleep. Each sleep cycle lasts about 90 minutes. Non-REM sleep divided into N1, N2, and N3 stages.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Non-REM sleep consists of three stages: N1, N2, and N3.",
+    "retrieved_context": "REM sleep thought to play a crucial role in memory consolidation and emotional processing. REM sleep characterized by rapid eye movements, increased brain activity, and muscle paralysis. Circadian rhythm determines timing of sleep and wakefulness. Sleep cycle progresses through multiple cycles of non-REM and REM sleep. Sleep cycle divided into REM sleep and non-REM sleep. Each sleep cycle lasts about 90 minutes. Non-REM sleep divided into N1, N2, and N3 stages.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "N1 stage is the lightest stage of sleep.",
+    "retrieved_context": "N1 stage characterized by drifting in and out of consciousness. N3 stage characterized by restorative processes. N3 stage known as slow-wave sleep. Sleep cycle progresses through multiple cycles of non-REM and REM sleep. Sleep cycle divided into REM sleep and non-REM sleep. Sleep deprivation increases risk of obesity, diabetes, cardiovascular disease, and mental health disorders. N2 stage introduces sleep spindles and K-complexes. Each sleep cycle lasts about 90 minutes. N2 stage characterized by decrease in body temperature and heart rate. Non-REM sleep divided into N1, N2, and N3 stages.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "N2 stage is characterized by a decrease in body temperature and heart rate.",
+    "retrieved_context": "Suprachiasmatic nucleus acts as the body's master clock. Bright light exposure interferes with melatonin production. Circadian rhythm determines timing of sleep and wakefulness. N1 stage characterized by drifting in and out of consciousness. N3 stage characterized by restorative processes. N3 stage known as slow-wave sleep. N2 stage introduces sleep spindles and K-complexes. N2 stage characterized by decrease in body temperature and heart rate. Non-REM sleep divided into N1, N2, and N3 stages.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "N3 stage is the deepest stage of sleep.",
+    "retrieved_context": "N1 stage characterized by drifting in and out of consciousness. N3 stage characterized by restorative processes. N3 stage known as slow-wave sleep. Sleep cycle progresses through multiple cycles of non-REM and REM sleep. Sleep cycle divided into REM sleep and non-REM sleep. Sleep deprivation increases risk of obesity, diabetes, cardiovascular disease, and mental health disorders. N2 stage introduces sleep spindles and K-complexes. Each sleep cycle lasts about 90 minutes. N2 stage characterized by decrease in body temperature and heart rate. Non-REM sleep divided into N1, N2, and N3 stages.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "REM sleep is the stage where most dreaming occurs.",
+    "retrieved_context": "REM sleep thought to play a crucial role in memory consolidation and emotional processing. REM sleep characterized by rapid eye movements, increased brain activity, and muscle paralysis. Circadian rhythm determines timing of sleep and wakefulness. Adenosine helps promote sleep. Sleep cycle divided into REM sleep and non-REM sleep. Sleep cycle progresses through multiple cycles of non-REM and REM sleep. Cooler temperatures helps promote sleep. Each sleep cycle lasts about 90 minutes. Serotonin and dopamine regulate sleep. Non-REM sleep divided into N1, N2, and N3 stages. Melatonin helps promote sleep.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "REM sleep is characterized by rapid eye movements and muscle paralysis.",
+    "retrieved_context": "REM sleep thought to play a crucial role in memory consolidation and emotional processing. REM sleep characterized by rapid eye movements, increased brain activity, and muscle paralysis. Disruptions to neurotransmitter systems leads to sleep disorders such as insomnia, narcolepsy, and sleep apnea. Circadian rhythm determines timing of sleep and wakefulness. Sleep deprivation increases risk of obesity, diabetes, cardiovascular disease, and mental health disorders. Sleep cycle divided into REM sleep and non-REM sleep. Sleep cycle progresses through multiple cycles of non-REM and REM sleep. Non-REM sleep divided into N1, N2, and N3 stages.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Circadian rhythm plays a significant role in determining sleep timing.",
+    "retrieved_context": "Bright light exposure interferes with melatonin production. Circadian rhythm determines timing of sleep and wakefulness. N3 stage characterized by restorative processes. N3 stage known as slow-wave sleep. Sleep cycle divided into REM sleep and non-REM sleep. Sleep cycle progresses through multiple cycles of non-REM and REM sleep. Each sleep cycle lasts about 90 minutes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The suprachiasmatic nucleus in the brain regulates the release of melatonin.",
+    "retrieved_context": "Bright light exposure interferes with melatonin production. Suprachiasmatic nucleus acts as the body's master clock. Adenosine helps promote sleep. Circadian rhythm determines timing of sleep and wakefulness. Sleep deprivation increases risk of obesity, diabetes, cardiovascular disease, and mental health disorders. Sleep cycle progresses through multiple cycles of non-REM and REM sleep. Sleep cycle divided into REM sleep and non-REM sleep. Cooler temperatures helps promote sleep. Each sleep cycle lasts about 90 minutes. Serotonin and dopamine regulate sleep. Melatonin helps promote sleep.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Adenosine is a neurotransmitter that promotes sleep.",
+    "retrieved_context": "Disruptions to neurotransmitter systems leads to sleep disorders such as insomnia, narcolepsy, and sleep apnea. Sleep deprivation increases risk of obesity, diabetes, cardiovascular disease, and mental health disorders. Sleep cycle progresses through multiple cycles of non-REM and REM sleep. Sleep cycle divided into REM sleep and non-REM sleep. Cooler temperatures helps promote sleep. Melatonin helps promote sleep. Non-REM sleep divided into N1, N2, and N3 stages. Serotonin and dopamine regulate sleep. Adenosine helps promote sleep.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Serotonin and dopamine also play a role in sleep regulation.",
+    "retrieved_context": "Disruptions to neurotransmitter systems leads to sleep disorders such as insomnia, narcolepsy, and sleep apnea. Circadian rhythm determines timing of sleep and wakefulness. Sleep deprivation increases risk of obesity, diabetes, cardiovascular disease, and mental health disorders. Sleep cycle progresses through multiple cycles of non-REM and REM sleep. Sleep cycle divided into REM sleep and non-REM sleep. Cooler temperatures helps promote sleep. Each sleep cycle lasts about 90 minutes. Melatonin helps promote sleep. Serotonin and dopamine regulate sleep. Adenosine helps promote sleep.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "External factors like light exposure, noise, and temperature can impact sleep quality.",
+    "retrieved_context": "Disruptions to neurotransmitter systems leads to sleep disorders such as insomnia, narcolepsy, and sleep apnea. Circadian rhythm determines timing of sleep and wakefulness. Sleep deprivation increases risk of obesity, diabetes, cardiovascular disease, and mental health disorders. N3 stage characterized by restorative processes. N3 stage known as slow-wave sleep. Sleep cycle divided into REM sleep and non-REM sleep. Sleep cycle progresses through multiple cycles of non-REM and REM sleep. Each sleep cycle lasts about 90 minutes. Non-REM sleep divided into N1, N2, and N3 stages.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

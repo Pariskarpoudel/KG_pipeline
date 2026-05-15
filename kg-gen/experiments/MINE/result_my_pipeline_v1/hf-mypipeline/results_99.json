@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Water is crucial for the development of civilization.",
+    "retrieved_context": "Water essential for agriculture. Harnessing of water power plays a role in mechanization of production processes. Early human settlements established near lakes. Maritime trade routes plays a role in distant civilizations. Waterways plays a role in military campaigns. Early human settlements established near oceans. Water plays a role in development of civilization. Early human settlements established near rivers. Watermills plays a role in grind grain. Water essential for human survival. Water essential for survival of settlements. Water plays a role in generating hydroelectric power. Water essential for industry. Irrigation plays a role in crops. Water essential for transportation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is essential for human survival.",
+    "retrieved_context": "Water essential for agriculture. Harnessing of water power plays a role in mechanization of production processes. Early human settlements established near lakes. Waterways plays a role in military campaigns. Early human settlements established near oceans. Water plays a role in development of civilization. Watermills plays a role in grind grain. Early human settlements established near rivers. Water essential for human survival. Water essential for survival of settlements. Water plays a role in generating hydroelectric power. Waterwheels plays a role in saw wood. Water essential for industry. Irrigation plays a role in crops. Water essential for transportation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is important for drinking.",
+    "retrieved_context": "Water essential for agriculture. Harnessing of water power plays a role in mechanization of production processes. Early human settlements established near lakes. Waterways plays a role in military campaigns. Seas plays a role in natural highways. Early human settlements established near oceans. Water plays a role in development of civilization. Watermills plays a role in grind grain. Rivers plays a role in natural highways. Water essential for human survival. Water essential for survival of settlements. Water plays a role in generating hydroelectric power. Early human settlements established near rivers. Water essential for industry. Irrigation plays a role in crops. Water essential for transportation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is important for cooking.",
+    "retrieved_context": "Water essential for agriculture. Harnessing of water power plays a role in mechanization of production processes. Surplus food plays a role in growth of population centers. Waterways plays a role in military campaigns. Surplus food plays a role in development of trade networks. Water plays a role in development of civilization. Watermills plays a role in grind grain. Waterwheels plays a role in saw wood. Water essential for human survival. Water essential for survival of settlements. Water plays a role in generating hydroelectric power. Water essential for industry. Irrigation plays a role in crops. Water essential for transportation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Water is important for sanitation.",
+    "retrieved_context": "Water essential for agriculture. Harnessing of water power plays a role in mechanization of production processes. Canals located in ancient Mesopotamia. Waterways plays a role in military campaigns. Seas plays a role in natural highways. Water plays a role in development of civilization. Watermills plays a role in grind grain. Waterwheels plays a role in saw wood. Water essential for human survival. Water essential for survival of settlements. Water plays a role in generating hydroelectric power. Rivers plays a role in natural highways. Water essential for industry. Irrigation plays a role in crops. Water essential for transportation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Early human settlements were established near sources of water.",
+    "retrieved_context": "Water essential for agriculture. Canals located in ancient Mesopotamia. Early human settlements established near lakes. Maritime trade routes plays a role in distant civilizations. Waterways plays a role in military campaigns. Early human settlements established near oceans. Water plays a role in development of civilization. Early human settlements established near rivers. Water essential for human survival. Water essential for survival of settlements. Water plays a role in generating hydroelectric power. Water essential for industry. Irrigation plays a role in crops. Water essential for transportation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Access to water was crucial for the survival of early civilizations.",
+    "retrieved_context": "Water essential for agriculture. Harnessing of water power plays a role in mechanization of production processes. Canals located in ancient Mesopotamia. Early human settlements established near lakes. Maritime trade routes plays a role in distant civilizations. Waterways plays a role in military campaigns. Early human settlements established near oceans. Water plays a role in development of civilization. Early human settlements established near rivers. Water essential for human survival. Water essential for survival of settlements. Water plays a role in generating hydroelectric power. Water essential for industry. Irrigation plays a role in crops. Water essential for transportation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The availability of water determined the success of settlements.",
+    "retrieved_context": "Water essential for agriculture. Harnessing of water power plays a role in mechanization of production processes. Early human settlements established near lakes. Surplus food plays a role in growth of population centers. Waterways plays a role in military campaigns. Early human settlements established near oceans. Surplus food plays a role in development of trade networks. Water plays a role in development of civilization. Early human settlements established near rivers. Water essential for human survival. Water essential for survival of settlements. Water plays a role in generating hydroelectric power. Water essential for industry. Irrigation plays a role in crops. Water essential for transportation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is vital for agriculture.",
+    "retrieved_context": "Water essential for agriculture. Harnessing of water power plays a role in mechanization of production processes. Waterways plays a role in military campaigns. Seas plays a role in natural highways. Water plays a role in development of civilization. Watermills plays a role in grind grain. Rivers plays a role in natural highways. Water essential for human survival. Water essential for survival of settlements. Water plays a role in generating hydroelectric power. Water essential for industry. Irrigation plays a role in crops. Water essential for transportation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water is used to irrigate crops.",
+    "retrieved_context": "Water essential for agriculture. Harnessing of water power plays a role in mechanization of production processes. Waterways plays a role in military campaigns. Water plays a role in development of civilization. Watermills plays a role in grind grain. Waterwheels plays a role in saw wood. Water essential for human survival. Water essential for survival of settlements. Water plays a role in generating hydroelectric power. Water essential for industry. Irrigation plays a role in crops. Water essential for transportation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water allows societies to cultivate larger areas of land.",
+    "retrieved_context": "Water essential for agriculture. Harnessing of water power plays a role in mechanization of production processes. Early human settlements established near lakes. Waterways plays a role in military campaigns. Early human settlements established near oceans. Water plays a role in development of civilization. Early human settlements established near rivers. Watermills plays a role in grind grain. Water essential for human survival. Water essential for survival of settlements. Water plays a role in generating hydroelectric power. Water essential for industry. Irrigation plays a role in crops. Water essential for transportation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water has been essential for transportation and trade.",
+    "retrieved_context": "Water essential for agriculture. Harnessing of water power plays a role in mechanization of production processes. Maritime trade routes plays a role in distant civilizations. Waterways plays a role in military campaigns. Seas plays a role in natural highways. Water plays a role in development of civilization. Rivers plays a role in natural highways. Watermills plays a role in grind grain. Water essential for human survival. Water essential for survival of settlements. Water plays a role in generating hydroelectric power. Water essential for industry. Irrigation plays a role in crops. Water essential for transportation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rivers and seas have served as natural highways for trade.",
+    "retrieved_context": "Canals located in ancient Mesopotamia. Early human settlements established near lakes. Surplus food plays a role in growth of population centers. Waterways plays a role in military campaigns. Seas plays a role in natural highways. Early human settlements established near oceans. Surplus food plays a role in development of trade networks. Early human settlements established near rivers. Rivers plays a role in natural highways. Maritime trade routes plays a role in distant civilizations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water has been a source of power for industry and innovation.",
+    "retrieved_context": "Water essential for agriculture. Early human settlements established near lakes. Waterways plays a role in military campaigns. Water plays a role in generating hydroelectric power. Early human settlements established near oceans. Water plays a role in development of civilization. Watermills plays a role in grind grain. Early human settlements established near rivers. Water essential for human survival. Water essential for survival of settlements. Harnessing of water power plays a role in mechanization of production processes. Water essential for industry. Irrigation plays a role in crops. Water essential for transportation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Watermills and waterwheels were used in ancient times for various purposes.",
+    "retrieved_context": "Water essential for agriculture. Canals located in ancient Mesopotamia. Water essential for survival of settlements. Water plays a role in generating hydroelectric power. Watermills plays a role in grind grain. Water plays a role in development of civilization. Water essential for human survival. Waterwheels plays a role in saw wood. Harnessing of water power plays a role in mechanization of production processes. Water essential for industry. Irrigation plays a role in crops. Water essential for transportation.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

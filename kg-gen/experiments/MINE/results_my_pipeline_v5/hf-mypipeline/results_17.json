@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sleep is a fundamental biological process.",
+    "retrieved_context": "non-REM sleep divided into three stages: N1, N2, and N3. REM sleep characterized by rapid eye movements, increased brain activity, and muscle paralysis. sleep cycle divided into two main categories: rapid eye movement (REM) sleep and non-REM sleep. REM sleep thought to play a crucial role in memory consolidation and emotional processing. serotonin and dopamine thought to play a crucial role in the regulation of sleep. N3 stage characterized by restorative processes. REM sleep during which stage most dreaming occurs. sleep is a fundamental biological process. N3 stage also known as slow-wave sleep. sleep essential for human health and well-being. sleep cycle cycles through non-REM and REM sleep. each sleep cycle duration 90 minutes. sleep deprivation can lead to obesity, diabetes, cardiovascular disease, and mental health disorders.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sleep is essential for human health and well-being.",
+    "retrieved_context": "non-REM sleep divided into three stages: N1, N2, and N3. REM sleep characterized by rapid eye movements, increased brain activity, and muscle paralysis. sleep cycle divided into two main categories: rapid eye movement (REM) sleep and non-REM sleep. REM sleep thought to play a crucial role in memory consolidation and emotional processing. serotonin and dopamine thought to play a crucial role in the regulation of sleep. REM sleep during which stage most dreaming occurs. sleep is a fundamental biological process. sleep essential for human health and well-being. sleep cycle cycles through non-REM and REM sleep. each sleep cycle duration 90 minutes. sleep deprivation can lead to obesity, diabetes, cardiovascular disease, and mental health disorders.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sleep involves various physiological and neurological mechanisms.",
+    "retrieved_context": "non-REM sleep divided into three stages: N1, N2, and N3. sleep cycle divided into two main categories: rapid eye movement (REM) sleep and non-REM sleep. serotonin and dopamine thought to play a crucial role in the regulation of sleep. sleep is a fundamental biological process. disruptions to neurotransmitter systems can lead to sleep disorders such as insomnia, narcolepsy, and sleep apnea. sleep essential for human health and well-being. sleep cycle cycles through non-REM and REM sleep. each sleep cycle duration 90 minutes. sleep deprivation can lead to obesity, diabetes, cardiovascular disease, and mental health disorders.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sleep is divided into rapid eye movement (REM) sleep and non-REM sleep.",
+    "retrieved_context": "non-REM sleep divided into three stages: N1, N2, and N3. REM sleep characterized by rapid eye movements, increased brain activity, and muscle paralysis. sleep cycle divided into two main categories: rapid eye movement (REM) sleep and non-REM sleep. REM sleep thought to play a crucial role in memory consolidation and emotional processing. serotonin and dopamine thought to play a crucial role in the regulation of sleep. each sleep cycle duration 90 minutes. REM sleep during which stage most dreaming occurs. N3 stage also known as slow-wave sleep. sleep cycle cycles through non-REM and REM sleep. N3 stage characterized by restorative processes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Non-REM sleep consists of three stages: N1, N2, and N3.",
+    "retrieved_context": "non-REM sleep divided into three stages: N1, N2, and N3. REM sleep characterized by rapid eye movements, increased brain activity, and muscle paralysis. sleep cycle divided into two main categories: rapid eye movement (REM) sleep and non-REM sleep. REM sleep thought to play a crucial role in memory consolidation and emotional processing. serotonin and dopamine thought to play a crucial role in the regulation of sleep. REM sleep during which stage most dreaming occurs. sleep cycle cycles through non-REM and REM sleep. each sleep cycle duration 90 minutes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "N1 stage is the lightest stage of sleep.",
+    "retrieved_context": "non-REM sleep divided into three stages: N1, N2, and N3. sleep cycle divided into two main categories: rapid eye movement (REM) sleep and non-REM sleep. N1 stage characterized by drifting in and out of consciousness. N2 stage characterized by decrease in body temperature and heart rate. each sleep cycle duration 90 minutes. N2 stage onset of sleep spindles and K-complexes. N3 stage also known as slow-wave sleep. sleep cycle cycles through non-REM and REM sleep. N3 stage characterized by restorative processes. sleep deprivation can lead to obesity, diabetes, cardiovascular disease, and mental health disorders.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "N2 stage is characterized by a decrease in body temperature and heart rate.",
+    "retrieved_context": "non-REM sleep divided into three stages: N1, N2, and N3. suprachiasmatic nucleus regulates release of melatonin. circadian rhythm also known as the body's internal clock. N1 stage characterized by drifting in and out of consciousness. N2 stage characterized by decrease in body temperature and heart rate. N2 stage onset of sleep spindles and K-complexes. bright light exposure disrupts production of melatonin. N3 stage also known as slow-wave sleep. N3 stage characterized by restorative processes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "N3 stage is the deepest stage of sleep.",
+    "retrieved_context": "non-REM sleep divided into three stages: N1, N2, and N3. sleep cycle divided into two main categories: rapid eye movement (REM) sleep and non-REM sleep. N1 stage characterized by drifting in and out of consciousness. serotonin and dopamine thought to play a crucial role in the regulation of sleep. N2 stage characterized by decrease in body temperature and heart rate. each sleep cycle duration 90 minutes. N2 stage onset of sleep spindles and K-complexes. N3 stage also known as slow-wave sleep. sleep cycle cycles through non-REM and REM sleep. N3 stage characterized by restorative processes. sleep deprivation can lead to obesity, diabetes, cardiovascular disease, and mental health disorders.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "REM sleep is the stage where most dreaming occurs.",
+    "retrieved_context": "non-REM sleep divided into three stages: N1, N2, and N3. REM sleep characterized by rapid eye movements, increased brain activity, and muscle paralysis. sleep cycle divided into two main categories: rapid eye movement (REM) sleep and non-REM sleep. REM sleep thought to play a crucial role in memory consolidation and emotional processing. serotonin and dopamine thought to play a crucial role in the regulation of sleep. REM sleep during which stage most dreaming occurs. sleep cycle cycles through non-REM and REM sleep. each sleep cycle duration 90 minutes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "REM sleep is characterized by rapid eye movements and muscle paralysis.",
+    "retrieved_context": "non-REM sleep divided into three stages: N1, N2, and N3. REM sleep characterized by rapid eye movements, increased brain activity, and muscle paralysis. sleep cycle divided into two main categories: rapid eye movement (REM) sleep and non-REM sleep. REM sleep thought to play a crucial role in memory consolidation and emotional processing. serotonin and dopamine thought to play a crucial role in the regulation of sleep. REM sleep during which stage most dreaming occurs. disruptions to neurotransmitter systems can lead to sleep disorders such as insomnia, narcolepsy, and sleep apnea. sleep cycle cycles through non-REM and REM sleep. sleep deprivation can lead to obesity, diabetes, cardiovascular disease, and mental health disorders.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Circadian rhythm plays a significant role in determining sleep timing.",
+    "retrieved_context": "suprachiasmatic nucleus regulates release of melatonin. circadian rhythm also known as the body's internal clock. sleep cycle divided into two main categories: rapid eye movement (REM) sleep and non-REM sleep. serotonin and dopamine thought to play a crucial role in the regulation of sleep. N3 stage characterized by restorative processes. bright light exposure disrupts production of melatonin. sleep is a fundamental biological process. N3 stage also known as slow-wave sleep. sleep essential for human health and well-being. sleep cycle cycles through non-REM and REM sleep. each sleep cycle duration 90 minutes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The suprachiasmatic nucleus in the brain regulates the release of melatonin.",
+    "retrieved_context": "suprachiasmatic nucleus regulates release of melatonin. circadian rhythm also known as the body's internal clock. sleep cycle divided into two main categories: rapid eye movement (REM) sleep and non-REM sleep. serotonin and dopamine thought to play a crucial role in the regulation of sleep. bright light exposure disrupts production of melatonin. sleep cycle cycles through non-REM and REM sleep. sleep deprivation can lead to obesity, diabetes, cardiovascular disease, and mental health disorders.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Adenosine is a neurotransmitter that promotes sleep.",
+    "retrieved_context": "suprachiasmatic nucleus regulates release of melatonin. non-REM sleep divided into three stages: N1, N2, and N3. REM sleep characterized by rapid eye movements, increased brain activity, and muscle paralysis. sleep cycle divided into two main categories: rapid eye movement (REM) sleep and non-REM sleep. REM sleep thought to play a crucial role in memory consolidation and emotional processing. serotonin and dopamine thought to play a crucial role in the regulation of sleep. REM sleep during which stage most dreaming occurs. sleep is a fundamental biological process. bright light exposure disrupts production of melatonin. disruptions to neurotransmitter systems can lead to sleep disorders such as insomnia, narcolepsy, and sleep apnea. sleep essential for human health and well-being. sleep cycle cycles through non-REM and REM sleep. sleep deprivation can lead to obesity, diabetes, cardiovascular disease, and mental health disorders.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Serotonin and dopamine also play a role in sleep regulation.",
+    "retrieved_context": "non-REM sleep divided into three stages: N1, N2, and N3. sleep cycle divided into two main categories: rapid eye movement (REM) sleep and non-REM sleep. serotonin and dopamine thought to play a crucial role in the regulation of sleep. sleep is a fundamental biological process. disruptions to neurotransmitter systems can lead to sleep disorders such as insomnia, narcolepsy, and sleep apnea. sleep essential for human health and well-being. sleep cycle cycles through non-REM and REM sleep. each sleep cycle duration 90 minutes. sleep deprivation can lead to obesity, diabetes, cardiovascular disease, and mental health disorders.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "External factors like light exposure, noise, and temperature can impact sleep quality.",
+    "retrieved_context": "non-REM sleep divided into three stages: N1, N2, and N3. sleep cycle divided into two main categories: rapid eye movement (REM) sleep and non-REM sleep. serotonin and dopamine thought to play a crucial role in the regulation of sleep. each sleep cycle duration 90 minutes. N3 stage also known as slow-wave sleep. disruptions to neurotransmitter systems can lead to sleep disorders such as insomnia, narcolepsy, and sleep apnea. sleep cycle cycles through non-REM and REM sleep. N3 stage characterized by restorative processes. sleep deprivation can lead to obesity, diabetes, cardiovascular disease, and mental health disorders.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

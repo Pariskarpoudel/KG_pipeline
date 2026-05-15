@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Fashion trends reflect the values, beliefs, and attitudes of different eras.",
+    "retrieved_context": "social media platforms led to fashion discovery. department stores saw resurgence of fashion trends. sustainable fashion practices became traction. fashion trends is a social commentary. fashion trends influenced culture. fashion trends influenced social hierarchy. Great Depression led to conservative approach to fashion. fashion trends became more diverse. turn of the millennium led to eclectic approach to fashion. fashion trends influenced economics. fashion magazines saw resurgence of fashion trends. fashion trends is a cultural identity. fashion trends influenced society. fashion trends influenced religion. peasants wore humble clothing. printing press saw resurgence of fashion trends. Renaissance period saw resurgence of art. Roaring Twenties influenced relaxed clothing styles. fashion trends influenced politics. Renaissance period saw resurgence of culture. fashion trends is a form of self-expression. fashion trends became more inclusive. fashion trends influenced technology. Renaissance period saw resurgence of fashion trends. youth culture influenced fashion trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fashion has been influenced by culture, technology, politics, and economics.",
+    "retrieved_context": "social media platforms led to fashion discovery. department stores saw resurgence of fashion trends. sustainable fashion practices became traction. fashion trends is a social commentary. fashion trends influenced culture. fashion trends influenced social hierarchy. Great Depression led to conservative approach to fashion. fashion trends became more diverse. turn of the millennium led to eclectic approach to fashion. fashion trends influenced economics. fashion magazines saw resurgence of fashion trends. fashion trends is a cultural identity. fashion trends influenced society. fashion trends influenced religion. common people wore simpler clothing. printing press saw resurgence of fashion trends. Renaissance period saw resurgence of art. Roaring Twenties influenced relaxed clothing styles. fashion trends influenced politics. Renaissance period saw resurgence of culture. fashion trends is a form of self-expression. fashion trends became more inclusive. fashion trends influenced technology. Renaissance period saw resurgence of fashion trends. youth culture influenced fashion trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Clothing in ancient civilizations symbolized status and identity.",
+    "retrieved_context": "mass production techniques led to ready-to-wear clothing. department stores saw resurgence of fashion trends. Catholic Church influenced appropriate attire. fashion trends is a social commentary. fashion trends influenced culture. elite wore elaborate garments. fashion trends influenced social hierarchy. fashion trends became more diverse. clothing is a symbol of status. fashion trends influenced economics. fashion magazines saw resurgence of fashion trends. fashion trends is a cultural identity. fashion trends influenced society. fashion trends influenced religion. peasants wore humble clothing. elite commissioned garments. common people wore simpler clothing. printing press saw resurgence of fashion trends. clothing is a symbol of identity. fashion trends influenced politics. fashion trends is a form of self-expression. fashion trends became more inclusive. fashion trends influenced technology. Renaissance period saw resurgence of fashion trends. youth culture influenced fashion trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wealthy individuals in ancient times wore elaborate garments made from luxurious fabrics.",
+    "retrieved_context": "mass production techniques led to ready-to-wear clothing. Roaring Twenties influenced relaxed clothing styles. elite wore elaborate garments. royalty wore garments made from silk. peasants wore humble clothing. elite commissioned garments. royalty wore garments made from velvet. common people wore simpler clothing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Common people in ancient times wore simpler clothing made from materials like linen and wool.",
+    "retrieved_context": "clothing is a symbol of identity. mass production techniques led to ready-to-wear clothing. elite wore elaborate garments. royalty wore garments made from silk. clothing is a symbol of status. peasants wore humble clothing. elite commissioned garments. royalty wore garments made from velvet. common people wore simpler clothing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fashion trends in the Middle Ages were influenced by religion and social hierarchy.",
+    "retrieved_context": "social media platforms led to fashion discovery. department stores saw resurgence of fashion trends. sustainable fashion practices became traction. fashion trends is a social commentary. fashion trends influenced culture. fashion trends influenced social hierarchy. Great Depression led to conservative approach to fashion. fashion trends became more diverse. turn of the millennium led to eclectic approach to fashion. fashion trends influenced economics. fashion magazines saw resurgence of fashion trends. fashion trends is a cultural identity. fashion trends influenced society. fashion trends influenced religion. peasants wore humble clothing. common people wore simpler clothing. printing press saw resurgence of fashion trends. Renaissance period saw resurgence of art. Roaring Twenties influenced relaxed clothing styles. fashion trends influenced politics. Renaissance period saw resurgence of culture. fashion trends is a form of self-expression. fashion trends became more inclusive. fashion trends influenced technology. Renaissance period saw resurgence of fashion trends. youth culture influenced fashion trends.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Nobles and royalty in the Middle Ages wore garments made from expensive fabrics like silk and velvet.",
+    "retrieved_context": "mass production techniques led to ready-to-wear clothing. clothing is a symbol of identity. elite wore elaborate garments. royalty wore garments made from silk. clothing is a symbol of status. peasants wore humble clothing. elite commissioned garments. royalty wore garments made from velvet. common people wore simpler clothing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Peasants in the Middle Ages wore humble clothing made from rougher materials.",
+    "retrieved_context": "clothing is a symbol of identity. elite wore elaborate garments. royalty wore garments made from silk. clothing is a symbol of status. peasants wore humble clothing. elite commissioned garments. royalty wore garments made from velvet. common people wore simpler clothing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Renaissance period saw a resurgence of interest in art, culture, and fashion.",
+    "retrieved_context": "social media platforms led to fashion discovery. department stores saw resurgence of fashion trends. fashion trends is a social commentary. fashion trends influenced culture. fashion trends influenced social hierarchy. Great Depression led to conservative approach to fashion. fashion trends became more diverse. turn of the millennium led to eclectic approach to fashion. fashion trends influenced economics. fashion magazines saw resurgence of fashion trends. fashion trends is a cultural identity. fashion trends influenced society. fashion trends influenced religion. printing press saw resurgence of fashion trends. Renaissance period saw resurgence of art. fashion trends influenced politics. post-World War II era led to prosperity. Renaissance period saw resurgence of culture. fashion trends is a form of self-expression. fashion trends became more inclusive. Industrial Revolution led to changes. fashion trends influenced technology. Renaissance period saw resurgence of fashion trends. youth culture influenced fashion trends.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Industrial Revolution brought about mass production of ready-to-wear clothing.",
+    "retrieved_context": "mass production techniques led to ready-to-wear clothing. social media platforms led to fashion discovery. department stores saw resurgence of fashion trends. sustainable fashion practices became traction. fashion trends is a social commentary. fashion trends influenced culture. elite wore elaborate garments. fashion trends influenced social hierarchy. fashion trends became more diverse. fashion trends influenced economics. fashion magazines saw resurgence of fashion trends. fashion trends is a cultural identity. fashion trends influenced society. fashion trends influenced religion. elite commissioned garments. common people wore simpler clothing. printing press saw resurgence of fashion trends. Renaissance period saw resurgence of art. fashion trends influenced politics. Renaissance period saw resurgence of culture. fashion trends is a form of self-expression. fashion trends became more inclusive. Industrial Revolution led to changes. fashion trends influenced technology. Renaissance period saw resurgence of fashion trends. youth culture influenced fashion trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Department stores and fashion magazines democratized fashion in the 18th and 19th centuries.",
+    "retrieved_context": "social media platforms led to fashion discovery. department stores saw resurgence of fashion trends. sustainable fashion practices became traction. fashion trends is a social commentary. fashion trends influenced culture. fashion plates became popular. magazines became popular. fashion trends influenced social hierarchy. Great Depression led to conservative approach to fashion. fashion trends became more diverse. fashion trends influenced economics. fashion magazines saw resurgence of fashion trends. fashion trends is a cultural identity. fashion trends influenced society. fashion trends influenced religion. printing press saw resurgence of fashion trends. Renaissance period saw resurgence of art. Roaring Twenties influenced relaxed clothing styles. fashion trends influenced politics. Renaissance period saw resurgence of culture. fashion trends is a form of self-expression. fashion trends became more inclusive. fashion trends influenced technology. Renaissance period saw resurgence of fashion trends. youth culture influenced fashion trends.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Roaring Twenties marked a shift towards more relaxed and liberating clothing styles.",
+    "retrieved_context": "social media platforms led to fashion discovery. department stores saw resurgence of fashion trends. sustainable fashion practices became traction. fashion trends is a social commentary. fashion trends influenced culture. fashion trends influenced social hierarchy. Great Depression led to conservative approach to fashion. fashion trends became more diverse. turn of the millennium led to eclectic approach to fashion. fashion trends influenced economics. fashion magazines saw resurgence of fashion trends. fashion trends is a cultural identity. fashion trends influenced society. fashion trends influenced religion. common people wore simpler clothing. printing press saw resurgence of fashion trends. Roaring Twenties influenced relaxed clothing styles. Renaissance period saw resurgence of art. fashion trends influenced politics. Renaissance period saw resurgence of culture. fashion trends is a form of self-expression. fashion trends became more inclusive. fashion trends influenced technology. Renaissance period saw resurgence of fashion trends. youth culture influenced fashion trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Great Depression of the 1930s led to a more conservative approach to fashion.",
+    "retrieved_context": "department stores saw resurgence of fashion trends. sustainable fashion practices became traction. fashion trends is a social commentary. fashion trends influenced culture. fashion trends influenced social hierarchy. Great Depression led to conservative approach to fashion. fashion trends became more diverse. turn of the millennium led to eclectic approach to fashion. fashion trends influenced economics. fashion magazines saw resurgence of fashion trends. fashion trends is a cultural identity. fashion trends influenced society. fashion trends influenced religion. common people wore simpler clothing. printing press saw resurgence of fashion trends. Renaissance period saw resurgence of art. Roaring Twenties influenced relaxed clothing styles. fashion trends influenced politics. Renaissance period saw resurgence of culture. fashion trends is a form of self-expression. fashion trends became more inclusive. fashion trends influenced technology. Renaissance period saw resurgence of fashion trends. youth culture influenced fashion trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The post-World War II era saw a resurgence of glamour and luxury in fashion.",
+    "retrieved_context": "social media platforms led to fashion discovery. department stores saw resurgence of fashion trends. sustainable fashion practices became traction. fashion trends is a social commentary. fashion trends influenced culture. fashion trends influenced social hierarchy. Great Depression led to conservative approach to fashion. fashion trends became more diverse. turn of the millennium led to eclectic approach to fashion. fashion trends influenced economics. fashion magazines saw resurgence of fashion trends. fashion trends is a cultural identity. fashion trends influenced society. fashion trends influenced religion. printing press saw resurgence of fashion trends. Renaissance period saw resurgence of art. Roaring Twenties influenced relaxed clothing styles. fashion trends influenced politics. post-World War II era led to prosperity. Renaissance period saw resurgence of culture. fashion trends is a form of self-expression. fashion trends became more inclusive. fashion trends influenced technology. Renaissance period saw resurgence of fashion trends. youth culture influenced fashion trends.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The 1950s saw the rise of iconic fashion figures like Audrey Hepburn and Marilyn Monroe.",
+    "retrieved_context": "social media platforms led to fashion discovery. department stores saw resurgence of fashion trends. fashion trends is a social commentary. 1960s characterized by rebellion. fashion trends influenced culture. fashion trends influenced social hierarchy. fashion trends became more diverse. fashion trends influenced economics. fashion magazines saw resurgence of fashion trends. fashion trends is a cultural identity. Marilyn Monroe saw resurgence of elegant styles. fashion trends influenced society. Audrey Hepburn saw resurgence of feminine styles. fashion trends influenced religion. 1950s saw resurgence of Audrey Hepburn. printing press saw resurgence of fashion trends. Renaissance period saw resurgence of art. Roaring Twenties influenced relaxed clothing styles. fashion trends influenced politics. Renaissance period saw resurgence of culture. youth culture influenced fashion trends. fashion trends is a form of self-expression. fashion trends became more inclusive. fashion trends influenced technology. Renaissance period saw resurgence of fashion trends. 1950s saw resurgence of Marilyn Monroe.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

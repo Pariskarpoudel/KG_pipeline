@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Modern medicine has made significant advancements over the past few centuries.",
+    "retrieved_context": "modern medicine revolutionized healthcare practices. pharmaceutical companies developed new drugs and therapies to treat a wide range of medical conditions. Louis Pasteur and Robert Koch developed germ theory. modern medicine has made significant advancements. personalized medicine aims to tailor treatments to individual patients based on their genetic makeup. MRI and CT scans has made capabilities of medical professionals in diagnosing diseases. penicillin marked the beginning of the antibiotic era. Alexander Fleming discovered penicillin. modern medicine revolutionized the practice of healthcare. germ theory revolutionized the field of medicine. modern medicine has made quality of life for individuals worldwide.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern medicine has revolutionized healthcare practices.",
+    "retrieved_context": "modern medicine revolutionized healthcare practices. pharmaceutical companies developed new drugs and therapies to treat a wide range of medical conditions. Louis Pasteur and Robert Koch developed germ theory. modern medicine has made significant advancements. personalized medicine aims to tailor treatments to individual patients based on their genetic makeup. penicillin marked the beginning of the antibiotic era. Alexander Fleming discovered penicillin. electronic health records improved communication and coordination among healthcare providers. modern medicine revolutionized the practice of healthcare. germ theory revolutionized the field of medicine. modern medicine has made quality of life for individuals worldwide.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern medicine has improved the quality of life for individuals worldwide.",
+    "retrieved_context": "modern medicine revolutionized healthcare practices. pharmaceutical companies developed new drugs and therapies to treat a wide range of medical conditions. Louis Pasteur and Robert Koch developed germ theory. modern medicine has made significant advancements. personalized medicine aims to tailor treatments to individual patients based on their genetic makeup. penicillin marked the beginning of the antibiotic era. Alexander Fleming discovered penicillin. modern medicine revolutionized the practice of healthcare. germ theory revolutionized the field of medicine. modern medicine has made quality of life for individuals worldwide.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The evolution of medicine can be traced back to ancient civilizations.",
+    "retrieved_context": "modern medicine revolutionized healthcare practices. pharmaceutical companies developed new drugs and therapies to treat a wide range of medical conditions. Louis Pasteur and Robert Koch developed germ theory. modern medicine has made significant advancements. personalized medicine aims to tailor treatments to individual patients based on their genetic makeup. penicillin marked the beginning of the antibiotic era. Alexander Fleming discovered penicillin. modern medicine revolutionized the practice of healthcare. germ theory revolutionized the field of medicine. modern medicine has made quality of life for individuals worldwide.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Primitive forms of medical treatment were practiced in ancient civilizations.",
+    "retrieved_context": "modern medicine revolutionized healthcare practices. pharmaceutical companies developed new drugs and therapies to treat a wide range of medical conditions. Louis Pasteur and Robert Koch developed germ theory. modern medicine has made significant advancements. personalized medicine aims to tailor treatments to individual patients based on their genetic makeup. MRI and CT scans has made capabilities of medical professionals in diagnosing diseases. penicillin marked the beginning of the antibiotic era. Alexander Fleming discovered penicillin. modern medicine revolutionized the practice of healthcare. germ theory revolutionized the field of medicine. modern medicine has made quality of life for individuals worldwide.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Scientific discoveries and technological innovations have paved the way for sophisticated medical practices.",
+    "retrieved_context": "modern medicine revolutionized healthcare practices. Louis Pasteur and Robert Koch developed germ theory. modern medicine has made significant advancements. personalized medicine aims to tailor treatments to individual patients based on their genetic makeup. MRI and CT scans has made capabilities of medical professionals in diagnosing diseases. penicillin marked the beginning of the antibiotic era. Alexander Fleming discovered penicillin. modern medicine revolutionized the practice of healthcare. germ theory revolutionized the field of medicine. modern medicine has made quality of life for individuals worldwide.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "One key development in modern medicine is the understanding of human anatomy and physiology.",
+    "retrieved_context": "modern medicine revolutionized healthcare practices. pharmaceutical companies developed new drugs and therapies to treat a wide range of medical conditions. Wilhelm Roentgen developed X-ray. Louis Pasteur and Robert Koch developed germ theory. modern medicine has made significant advancements. personalized medicine aims to tailor treatments to individual patients based on their genetic makeup. MRI and CT scans has made capabilities of medical professionals in diagnosing diseases. X-ray revolutionized medical imaging. study of anatomy began to take shape during the Renaissance period. modern medicine revolutionized the practice of healthcare. germ theory revolutionized the field of medicine. modern medicine has made quality of life for individuals worldwide.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The study of anatomy began to take shape during the Renaissance period.",
+    "retrieved_context": "modern medicine revolutionized healthcare practices. Wilhelm Roentgen developed X-ray. Louis Pasteur and Robert Koch developed germ theory. modern medicine has made significant advancements. Andreas Vesalius conducted detailed dissections. minimally invasive procedures such as laparoscopy improved surgery safer and more effective. Alexander Fleming discovered penicillin. penicillin marked the beginning of the antibiotic era. X-ray revolutionized medical imaging. Andreas Vesalius challenged traditional beliefs. study of anatomy began to take shape during the Renaissance period. modern medicine revolutionized the practice of healthcare. germ theory revolutionized the field of medicine. modern medicine has made quality of life for individuals worldwide.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Andreas Vesalius challenged traditional beliefs and conducted detailed dissections to understand the human body.",
+    "retrieved_context": "modern medicine revolutionized healthcare practices. Wilhelm Roentgen developed X-ray. Louis Pasteur and Robert Koch developed germ theory. modern medicine has made significant advancements. Andreas Vesalius conducted detailed dissections. personalized medicine aims to tailor treatments to individual patients based on their genetic makeup. X-ray revolutionized medical imaging. Andreas Vesalius challenged traditional beliefs. study of anatomy began to take shape during the Renaissance period. modern medicine revolutionized the practice of healthcare. germ theory revolutionized the field of medicine. modern medicine has made quality of life for individuals worldwide.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The discovery of germs and the development of germ theory by Louis Pasteur and Robert Koch marked a milestone in medicine.",
+    "retrieved_context": "modern medicine revolutionized healthcare practices. Louis Pasteur and Robert Koch developed germ theory. modern medicine has made significant advancements. personalized medicine aims to tailor treatments to individual patients based on their genetic makeup. modern medicine has made quality of life for individuals worldwide. Alexander Fleming discovered penicillin. study of anatomy began to take shape during the Renaissance period. modern medicine revolutionized the practice of healthcare. germ theory revolutionized the field of medicine. penicillin marked the beginning of the antibiotic era.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The identification of specific microorganisms as the cause of diseases revolutionized medicine.",
+    "retrieved_context": "modern medicine revolutionized healthcare practices. pharmaceutical companies developed new drugs and therapies to treat a wide range of medical conditions. Louis Pasteur and Robert Koch developed germ theory. modern medicine has made significant advancements. personalized medicine aims to tailor treatments to individual patients based on their genetic makeup. MRI and CT scans has made capabilities of medical professionals in diagnosing diseases. modern medicine has made quality of life for individuals worldwide. Alexander Fleming discovered penicillin. modern medicine revolutionized the practice of healthcare. germ theory revolutionized the field of medicine. penicillin marked the beginning of the antibiotic era.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The 20th century witnessed rapid advancements in medical technology.",
+    "retrieved_context": "modern medicine revolutionized healthcare practices. pharmaceutical companies developed new drugs and therapies to treat a wide range of medical conditions. Wilhelm Roentgen developed X-ray. Louis Pasteur and Robert Koch developed germ theory. modern medicine has made significant advancements. MRI and CT scans has made capabilities of medical professionals in diagnosing diseases. penicillin marked the beginning of the antibiotic era. Alexander Fleming discovered penicillin. X-ray revolutionized medical imaging. modern medicine revolutionized the practice of healthcare. germ theory revolutionized the field of medicine. modern medicine has made quality of life for individuals worldwide.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The invention of the X-ray by Wilhelm Roentgen revolutionized medical imaging.",
+    "retrieved_context": "modern medicine revolutionized healthcare practices. Wilhelm Roentgen developed X-ray. Louis Pasteur and Robert Koch developed germ theory. modern medicine has made significant advancements. MRI and CT scans has made capabilities of medical professionals in diagnosing diseases. penicillin marked the beginning of the antibiotic era. Alexander Fleming discovered penicillin. X-ray revolutionized medical imaging. study of anatomy began to take shape during the Renaissance period. modern medicine revolutionized the practice of healthcare. germ theory revolutionized the field of medicine. modern medicine has made quality of life for individuals worldwide.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The pharmaceutical industry has played a crucial role in the development of modern medicine.",
+    "retrieved_context": "modern medicine revolutionized healthcare practices. pharmaceutical companies developed new drugs and therapies to treat a wide range of medical conditions. Louis Pasteur and Robert Koch developed germ theory. modern medicine has made significant advancements. personalized medicine aims to tailor treatments to individual patients based on their genetic makeup. MRI and CT scans has made capabilities of medical professionals in diagnosing diseases. penicillin marked the beginning of the antibiotic era. Alexander Fleming discovered penicillin. modern medicine revolutionized the practice of healthcare. germ theory revolutionized the field of medicine. modern medicine has made quality of life for individuals worldwide.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The discovery of penicillin by Alexander Fleming revolutionized the treatment of bacterial infections.",
+    "retrieved_context": "modern medicine revolutionized healthcare practices. pharmaceutical companies developed new drugs and therapies to treat a wide range of medical conditions. Louis Pasteur and Robert Koch developed germ theory. modern medicine has made significant advancements. personalized medicine aims to tailor treatments to individual patients based on their genetic makeup. modern medicine has made quality of life for individuals worldwide. Alexander Fleming discovered penicillin. modern medicine revolutionized the practice of healthcare. germ theory revolutionized the field of medicine. penicillin marked the beginning of the antibiotic era.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

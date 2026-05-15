@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Memory formation is essential for daily functioning and well-being.",
+    "retrieved_context": "Memory consolidation transfers_from hippocampus to neocortex. Procedural memories stored_in cerebellum and motor cortex. Memory formation is a complex process. Sensory information processed by hippocampus. Memory formation involves retrieval. Sensory information processed by prefrontal cortex. Memory formation involves encoding. Sensory information processed by amygdala. Memory formation involves storage. Episodic memories stored_in hippocampus. Sleep plays role in memory consolidation. Hippocampus plays role in memory processing and consolidation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Memory formation involves encoding, storing, and retrieving memories.",
+    "retrieved_context": "Memory consolidation transfers_from hippocampus to neocortex. Procedural memories stored_in cerebellum and motor cortex. Memory formation is a complex process. Sensory information processed by hippocampus. Memory formation involves retrieval. Attention plays role in memory encoding. Sensory information processed by prefrontal cortex. Memory formation involves encoding. Sensory information processed by amygdala. Memory formation involves storage. Episodic memories stored_in hippocampus. Sleep plays role in memory consolidation. Hippocampus plays role in memory processing and consolidation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Encoding converts sensory information into a form stored in the brain.",
+    "retrieved_context": "Encoding converts sensory information into stored form. Sensory information processed by hippocampus. Memory formation is a complex process. Attention plays role in memory encoding. Memory formation involves retrieval. Sensory information processed by prefrontal cortex. Memory formation involves encoding. Sensory information processed by amygdala. Memory formation involves storage. Episodic memories stored_in hippocampus. Neurons form connections through synapses. Retrieval activates neural networks in the brain. Neuroimaging techniques involves fMRI and EEG.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "External stimuli are perceived through senses like sight, sound, touch, taste, and smell.",
+    "retrieved_context": "Memory traces form connections through synaptic plasticity. Encoding converts sensory information into stored form. Sensory information processed by hippocampus. Sensory information processed by prefrontal cortex. Synapses strengthened by long-term potentiation. Sensory information processed by amygdala. Episodic memories stored_in hippocampus. Neurons form connections through synapses. Neuroimaging techniques involves fMRI and EEG.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The hippocampus, amygdala, and prefrontal cortex are involved in memory formation.",
+    "retrieved_context": "Memory consolidation transfers_from hippocampus to neocortex. Memory formation is a complex process. Sensory information processed by hippocampus. Memory formation involves retrieval. Sensory information processed by prefrontal cortex. Memory formation involves encoding. Sensory information processed by amygdala. Memory formation involves storage. Episodic memories stored_in hippocampus. Emotionally charged events better_remembered_due_to amygdala activation. Sleep plays role in memory consolidation. Hippocampus plays role in memory processing and consolidation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The hippocampus is a central hub for memory processing and consolidation.",
+    "retrieved_context": "Memory consolidation transfers_from hippocampus to neocortex. Procedural memories stored_in cerebellum and motor cortex. Sensory information processed by hippocampus. Memory formation is a complex process. Memory formation involves retrieval. Sensory information processed by prefrontal cortex. Memory formation involves encoding. Sensory information processed by amygdala. Memory formation involves storage. Episodic memories stored_in hippocampus. Sleep plays role in memory consolidation. Hippocampus plays role in memory processing and consolidation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Synapses are strengthened through long-term potentiation for memory formation.",
+    "retrieved_context": "Memory traces form connections through synaptic plasticity. Memory consolidation transfers_from hippocampus to neocortex. Memory formation is a complex process. Sensory information processed by hippocampus. Memory formation involves retrieval. Sensory information processed by prefrontal cortex. Memory formation involves encoding. Synapses strengthened by long-term potentiation. Sensory information processed by amygdala. Memory formation involves storage. Neurons form connections through synapses. Episodic memories stored_in hippocampus. Sleep plays role in memory consolidation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Memories can be stored in different brain regions based on memory type.",
+    "retrieved_context": "Memory consolidation transfers_from hippocampus to neocortex. Procedural memories stored_in cerebellum and motor cortex. Memory formation is a complex process. Sensory information processed by hippocampus. Memory formation involves retrieval. Attention plays role in memory encoding. Sensory information processed by prefrontal cortex. Memory formation involves encoding. Sensory information processed by amygdala. Memory formation involves storage. Episodic memories stored_in hippocampus. Sleep plays role in memory consolidation. Hippocampus plays role in memory processing and consolidation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Episodic memories are typically stored in the hippocampus.",
+    "retrieved_context": "Memory consolidation transfers_from hippocampus to neocortex. Procedural memories stored_in cerebellum and motor cortex. Sensory information processed by hippocampus. Memory formation is a complex process. Memory formation involves retrieval. Sensory information processed by prefrontal cortex. Memory formation involves encoding. Sensory information processed by amygdala. Memory formation involves storage. Episodic memories stored_in hippocampus. Sleep plays role in memory consolidation. Hippocampus plays role in memory processing and consolidation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Procedural memories are often stored in the cerebellum and motor cortex.",
+    "retrieved_context": "Memory consolidation transfers_from hippocampus to neocortex. Procedural memories stored_in cerebellum and motor cortex. Memory formation is a complex process. Sensory information processed by hippocampus. Memory formation involves retrieval. Sensory information processed by prefrontal cortex. Memory formation involves encoding. Sensory information processed by amygdala. Memory formation involves storage. Episodic memories stored_in hippocampus. Sleep plays role in memory consolidation. Hippocampus plays role in memory processing and consolidation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Memory traces represent stored information in the brain.",
+    "retrieved_context": "Memory traces form connections through synaptic plasticity. Procedural memories stored_in cerebellum and motor cortex. Memory formation is a complex process. Sensory information processed by hippocampus. Memory formation involves retrieval. Attention plays role in memory encoding. Sensory information processed by prefrontal cortex. Memory formation involves encoding. Sensory information processed by amygdala. Memory formation involves storage. Episodic memories stored_in hippocampus. Hippocampus plays role in memory processing and consolidation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Synaptic plasticity allows for modification of synaptic connections.",
+    "retrieved_context": "Memory traces form connections through synaptic plasticity. Memory consolidation transfers_from hippocampus to neocortex. Sensory information processed by hippocampus. Sensory information processed by prefrontal cortex. Synapses strengthened by long-term potentiation. Sensory information processed by amygdala. Episodic memories stored_in hippocampus. Neurons form connections through synapses. Hippocampus plays role in memory processing and consolidation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Memory retrieval involves activating neural networks to reconstruct memories.",
+    "retrieved_context": "Memory consolidation transfers_from hippocampus to neocortex. Procedural memories stored_in cerebellum and motor cortex. Memory formation is a complex process. Sensory information processed by hippocampus. Memory formation involves retrieval. Memory formation involves encoding. Memory formation involves storage. Retrieval activates neural networks in the brain. Episodic memories stored_in hippocampus. Sleep plays role in memory consolidation. Hippocampus plays role in memory processing and consolidation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Memory consolidation transfers memories from temporary to permanent storage.",
+    "retrieved_context": "Memory consolidation transfers_from hippocampus to neocortex. Memory traces form connections through synaptic plasticity. Procedural memories stored_in cerebellum and motor cortex. Memory formation is a complex process. Memory formation involves retrieval. Attention plays role in memory encoding. Memory formation involves encoding. Memory formation involves storage. Sleep plays role in memory consolidation. Hippocampus plays role in memory processing and consolidation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neuroimaging techniques like fMRI and EEG help study neural mechanisms in memory formation.",
+    "retrieved_context": "Memory consolidation transfers_from hippocampus to neocortex. Procedural memories stored_in cerebellum and motor cortex. Memory formation is a complex process. Sensory information processed by hippocampus. Memory formation involves retrieval. Sensory information processed by prefrontal cortex. Memory formation involves encoding. Sensory information processed by amygdala. Memory formation involves storage. Episodic memories stored_in hippocampus. Neuroimaging techniques involves fMRI and EEG. Sleep plays role in memory consolidation. Hippocampus plays role in memory processing and consolidation.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

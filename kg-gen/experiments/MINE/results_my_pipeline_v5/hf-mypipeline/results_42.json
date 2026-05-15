@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Electricity is a significant discovery in human history.",
+    "retrieved_context": "Electricity impacts the way we live, work, and interact with one another. Electricity boosts_production_efficiency_and_output in manufacturing plants. Electricity modernized society. Refrigerators powered_by electricity. Electrical engineering modernized telecommunications, transportation, and computing. Electric lighting reduces_crime_rates in cities. Internet invented with electricity. Washing machines powered_by electricity. Telegraph invented with electricity. Factories relies_on electricity to power machinery and equipment. Electricity eases_tasks washing clothes, cooking meals, lighting homes. Electricity is a significant discovery in human history. Medical technology powered_by electricity. Electric heating and cooling systems regulates_temperatures to reduce health risks. Stoves powered_by electricity. Telephone invented with electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity powers homes and businesses.",
+    "retrieved_context": "Electricity impacts the way we live, work, and interact with one another. Electricity boosts_production_efficiency_and_output in manufacturing plants. Electricity modernized society. Refrigerators powered_by electricity. Electrical engineering modernized telecommunications, transportation, and computing. Electric lighting reduces_crime_rates in cities. Internet invented with electricity. Washing machines powered_by electricity. Telegraph invented with electricity. Factories relies_on electricity to power machinery and equipment. Electricity eases_tasks washing clothes, cooking meals, lighting homes. Electricity is a significant discovery in human history. Medical technology powered_by electricity. Electric heating and cooling systems regulates_temperatures to reduce health risks. Stoves powered_by electricity. Telephone invented with electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity drives technological advancements.",
+    "retrieved_context": "Electricity impacts the way we live, work, and interact with one another. Electricity boosts_production_efficiency_and_output in manufacturing plants. Electricity modernized society. Refrigerators powered_by electricity. Electrical engineering modernized telecommunications, transportation, and computing. Electric lighting reduces_crime_rates in cities. Internet invented with electricity. Washing machines powered_by electricity. Telegraph invented with electricity. Factories relies_on electricity to power machinery and equipment. Electricity eases_tasks washing clothes, cooking meals, lighting homes. Electricity is a significant discovery in human history. Medical technology powered_by electricity. Electric heating and cooling systems regulates_temperatures to reduce health risks. Stoves powered_by electricity. Telephone invented with electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity revolutionized the way people live.",
+    "retrieved_context": "Electricity impacts the way we live, work, and interact with one another. Electricity boosts_production_efficiency_and_output in manufacturing plants. Electricity modernized society. Refrigerators powered_by electricity. Electrical engineering modernized telecommunications, transportation, and computing. Electric lighting reduces_crime_rates in cities. Internet invented with electricity. Washing machines powered_by electricity. Telegraph invented with electricity. Factories relies_on electricity to power machinery and equipment. Electricity eases_tasks washing clothes, cooking meals, lighting homes. Electricity is a significant discovery in human history. Medical technology powered_by electricity. Electric heating and cooling systems regulates_temperatures to reduce health risks. Stoves powered_by electricity. Telephone invented with electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity revolutionized the way people work.",
+    "retrieved_context": "Electricity impacts the way we live, work, and interact with one another. Electricity boosts_production_efficiency_and_output in manufacturing plants. Electricity modernized society. Refrigerators powered_by electricity. Electrical engineering modernized telecommunications, transportation, and computing. Electric lighting reduces_crime_rates in cities. Internet invented with electricity. Washing machines powered_by electricity. Telegraph invented with electricity. Factories relies_on electricity to power machinery and equipment. Electricity eases_tasks washing clothes, cooking meals, lighting homes. Electricity is a significant discovery in human history. Medical technology powered_by electricity. Stoves powered_by electricity. Telephone invented with electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity revolutionized the way people interact with each other.",
+    "retrieved_context": "Electricity impacts the way we live, work, and interact with one another. Electricity boosts_production_efficiency_and_output in manufacturing plants. Electricity modernized society. Refrigerators powered_by electricity. Electrical engineering modernized telecommunications, transportation, and computing. Electric lighting reduces_crime_rates in cities. Internet invented with electricity. Washing machines powered_by electricity. Telegraph invented with electricity. Factories relies_on electricity to power machinery and equipment. Electricity eases_tasks washing clothes, cooking meals, lighting homes. Electricity is a significant discovery in human history. Medical technology powered_by electricity. Stoves powered_by electricity. Telephone invented with electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity modernized society.",
+    "retrieved_context": "Electricity impacts the way we live, work, and interact with one another. Electricity boosts_production_efficiency_and_output in manufacturing plants. Electricity modernized society. Refrigerators powered_by electricity. Electrical engineering modernized telecommunications, transportation, and computing. Electric lighting reduces_crime_rates in cities. Internet invented with electricity. Washing machines powered_by electricity. Telegraph invented with electricity. Factories relies_on electricity to power machinery and equipment. Electricity eases_tasks washing clothes, cooking meals, lighting homes. Electricity is a significant discovery in human history. Medical technology powered_by electricity. Electric heating and cooling systems regulates_temperatures to reduce health risks. Stoves powered_by electricity. Telephone invented with electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity made daily tasks easier and faster.",
+    "retrieved_context": "Electricity impacts the way we live, work, and interact with one another. Electricity boosts_production_efficiency_and_output in manufacturing plants. Electricity modernized society. Refrigerators powered_by electricity. Electrical engineering modernized telecommunications, transportation, and computing. Electric lighting reduces_crime_rates in cities. Internet invented with electricity. Washing machines powered_by electricity. Telegraph invented with electricity. Factories relies_on electricity to power machinery and equipment. Electricity eases_tasks washing clothes, cooking meals, lighting homes. Electricity is a significant discovery in human history. Medical technology powered_by electricity. Electric heating and cooling systems regulates_temperatures to reduce health risks. Stoves powered_by electricity. Telephone invented with electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity freed up time and energy for other activities.",
+    "retrieved_context": "Electricity impacts the way we live, work, and interact with one another. Electricity boosts_production_efficiency_and_output in manufacturing plants. Electricity modernized society. Refrigerators powered_by electricity. Electrical engineering modernized telecommunications, transportation, and computing. Electric lighting reduces_crime_rates in cities. Internet invented with electricity. Washing machines powered_by electricity. Telegraph invented with electricity. Factories relies_on electricity to power machinery and equipment. Electricity eases_tasks washing clothes, cooking meals, lighting homes. Electricity is a significant discovery in human history. Medical technology powered_by electricity. Electric heating and cooling systems regulates_temperatures to reduce health risks. Stoves powered_by electricity. Telephone invented with electricity.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Electric lighting reduced crime rates in cities.",
+    "retrieved_context": "Electricity impacts the way we live, work, and interact with one another. Electricity boosts_production_efficiency_and_output in manufacturing plants. Electricity modernized society. Refrigerators powered_by electricity. Electrical engineering modernized telecommunications, transportation, and computing. Electric lighting reduces_crime_rates in cities. Internet invented with electricity. Washing machines powered_by electricity. Telegraph invented with electricity. Factories relies_on electricity to power machinery and equipment. Electricity is a significant discovery in human history. Electricity eases_tasks washing clothes, cooking meals, lighting homes. Medical technology powered_by electricity. Electric heating and cooling systems regulates_temperatures to reduce health risks. Stoves powered_by electricity. Telephone invented with electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electric heating and cooling systems regulate indoor temperatures.",
+    "retrieved_context": "Electricity impacts the way we live, work, and interact with one another. Electricity boosts_production_efficiency_and_output in manufacturing plants. Electricity modernized society. Refrigerators powered_by electricity. Electric lighting reduces_crime_rates in cities. Internet invented with electricity. Washing machines powered_by electricity. Telegraph invented with electricity. Factories relies_on electricity to power machinery and equipment. Electricity is a significant discovery in human history. Electricity eases_tasks washing clothes, cooking meals, lighting homes. Medical technology powered_by electricity. Electric heating and cooling systems regulates_temperatures to reduce health risks. Stoves powered_by electricity. Telephone invented with electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity powers factories and manufacturing plants.",
+    "retrieved_context": "Electricity impacts the way we live, work, and interact with one another. Electricity boosts_production_efficiency_and_output in manufacturing plants. Electricity modernized society. Refrigerators powered_by electricity. Electrical engineering modernized telecommunications, transportation, and computing. Electric lighting reduces_crime_rates in cities. Internet invented with electricity. Factories relies_on electricity to power machinery and equipment. Washing machines powered_by electricity. Telegraph invented with electricity. Electricity is a significant discovery in human history. Electricity eases_tasks washing clothes, cooking meals, lighting homes. Medical technology powered_by electricity. Electric heating and cooling systems regulates_temperatures to reduce health risks. Stoves powered_by electricity. Telephone invented with electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity increased production efficiency and output.",
+    "retrieved_context": "Electricity impacts the way we live, work, and interact with one another. Electricity boosts_production_efficiency_and_output in manufacturing plants. Electricity modernized society. Refrigerators powered_by electricity. Electrical engineering modernized telecommunications, transportation, and computing. Electric lighting reduces_crime_rates in cities. Internet invented with electricity. Washing machines powered_by electricity. Telegraph invented with electricity. Factories relies_on electricity to power machinery and equipment. Electricity eases_tasks washing clothes, cooking meals, lighting homes. Electricity is a significant discovery in human history. Medical technology powered_by electricity. Electric heating and cooling systems regulates_temperatures to reduce health risks. Stoves powered_by electricity. Telephone invented with electricity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electricity facilitated global trade and communication.",
+    "retrieved_context": "Electricity impacts the way we live, work, and interact with one another. Electricity boosts_production_efficiency_and_output in manufacturing plants. Electricity modernized society. Refrigerators powered_by electricity. Electrical engineering modernized telecommunications, transportation, and computing. Electric lighting reduces_crime_rates in cities. Internet invented with electricity. Washing machines powered_by electricity. Telegraph invented with electricity. Factories relies_on electricity to power machinery and equipment. Electricity eases_tasks washing clothes, cooking meals, lighting homes. Electricity is a significant discovery in human history. Medical technology powered_by electricity. Electric heating and cooling systems regulates_temperatures to reduce health risks. Stoves powered_by electricity. Telephone invented with electricity.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Electricity paved the way for innovations in telecommunications, transportation, and computing.",
+    "retrieved_context": "Electricity impacts the way we live, work, and interact with one another. Electricity boosts_production_efficiency_and_output in manufacturing plants. Electricity modernized society. Refrigerators powered_by electricity. Electrical engineering modernized telecommunications, transportation, and computing. Electric lighting reduces_crime_rates in cities. Internet invented with electricity. Washing machines powered_by electricity. Telegraph invented with electricity. Factories relies_on electricity to power machinery and equipment. Electricity is a significant discovery in human history. Electricity eases_tasks washing clothes, cooking meals, lighting homes. Medical technology powered_by electricity. Stoves powered_by electricity. Telephone invented with electricity.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

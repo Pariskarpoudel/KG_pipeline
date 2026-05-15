@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Film editing is an essential aspect of the filmmaking process.",
+    "retrieved_context": "rough cut involves filmmaking process. parallel editing are creative editing technique. rough cut transforms raw footage. rough cut transforms story. editor can evoke emotions. montages are creative editing techniques. rough cut involves foundation for film. rough cut involves selecting shots. editor enhance rough cut. non-linear editing are editing technique. rough cut involves arranging shots. rough cut is known as invisible art. rough cut decides duration of shots. flashbacks are editing techniques. flash-forwards are editing techniques. rough cut decides shots to include. Sound design are crucial aspect of film editing. jump cuts are creative editing techniques. rough cut decides order of shots. rough cut is known as rough cut.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Film editing involves selecting and arranging shots in a film.",
+    "retrieved_context": "rough cut involves filmmaking process. parallel editing are creative editing technique. rough cut transforms raw footage. rough cut transforms story. editor can evoke emotions. montages are creative editing techniques. rough cut involves foundation for film. rough cut involves selecting shots. editor enhance rough cut. non-linear editing are editing technique. rough cut involves arranging shots. rough cut is known as invisible art. rough cut decides duration of shots. flashbacks are editing techniques. flash-forwards are editing techniques. rough cut decides shots to include. Sound design are crucial aspect of film editing. jump cuts are creative editing techniques. rough cut decides order of shots. rough cut is known as rough cut.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Film editing creates a cohesive and engaging narrative.",
+    "retrieved_context": "rough cut involves filmmaking process. parallel editing are creative editing technique. rough cut transforms raw footage. rough cut transforms story. editor can evoke emotions. montages are creative editing techniques. rough cut involves foundation for film. rough cut involves selecting shots. editor enhance rough cut. non-linear editing are editing technique. rough cut involves arranging shots. rough cut is known as invisible art. rough cut decides duration of shots. flashbacks are editing techniques. flash-forwards are editing techniques. rough cut decides shots to include. Sound design are crucial aspect of film editing. shots create cohesive narrative. jump cuts are creative editing techniques. rough cut decides order of shots. rough cut is known as rough cut.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Film editing is often referred to as the 'invisible art'.",
+    "retrieved_context": "montages are creative editing techniques. rough cut decides shots to include. rough cut is known as invisible art. rough cut involves filmmaking process. rough cut decides duration of shots. parallel editing are creative editing technique. Sound design are crucial aspect of film editing. rough cut transforms raw footage. rough cut involves foundation for film. rough cut involves selecting shots. jump cuts are creative editing techniques. rough cut transforms story. editor enhance rough cut. non-linear editing are editing technique. editor can evoke emotions. rough cut decides order of shots. rough cut is known as rough cut. rough cut involves arranging shots.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Editing transforms raw footage into a compelling cinematic experience.",
+    "retrieved_context": "rough cut involves filmmaking process. parallel editing are creative editing technique. rough cut transforms raw footage. rough cut transforms story. editor can evoke emotions. montages are creative editing techniques. rough cut involves foundation for film. rough cut involves selecting shots. editor enhance rough cut. non-linear editing are editing technique. rough cut involves arranging shots. rough cut is known as invisible art. rough cut decides duration of shots. flashbacks are editing techniques. flash-forwards are editing techniques. rough cut decides shots to include. Sound design are crucial aspect of film editing. jump cuts are creative editing techniques. rough cut decides order of shots. rough cut is known as rough cut.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A film editor shapes the story by deciding what shots to include.",
+    "retrieved_context": "montages are creative editing techniques. rough cut decides shots to include. rough cut involves filmmaking process. rough cut is known as invisible art. rough cut decides duration of shots. parallel editing are creative editing technique. Sound design are crucial aspect of film editing. rough cut transforms raw footage. rough cut involves foundation for film. rough cut involves selecting shots. jump cuts are creative editing techniques. rough cut transforms story. editor enhance rough cut. editor can evoke emotions. rough cut decides order of shots. rough cut is known as rough cut. rough cut involves arranging shots.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A film editor decides the order in which shots appear.",
+    "retrieved_context": "rough cut decides shots to include. rough cut involves filmmaking process. rough cut is known as invisible art. rough cut decides duration of shots. parallel editing are creative editing technique. Sound design are crucial aspect of film editing. rough cut transforms raw footage. rough cut involves foundation for film. rough cut involves selecting shots. rough cut transforms story. editor enhance rough cut. non-linear editing are editing technique. editor can evoke emotions. rough cut decides order of shots. rough cut is known as rough cut. rough cut involves arranging shots.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A film editor manipulates timing, pace, and rhythm to evoke emotions.",
+    "retrieved_context": "rough cut involves filmmaking process. parallel editing are creative editing technique. rough cut transforms raw footage. rough cut transforms story. editor can evoke emotions. montages are creative editing techniques. rough cut involves foundation for film. rough cut involves selecting shots. editor enhance rough cut. non-linear editing are editing technique. rough cut involves arranging shots. rough cut is known as invisible art. rough cut decides duration of shots. rough cut decides shots to include. Sound design are crucial aspect of film editing. jump cuts are creative editing techniques. rough cut decides order of shots. sound effects enhance atmosphere. rough cut is known as rough cut.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The editing process starts with the assembly of raw footage.",
+    "retrieved_context": "rough cut involves filmmaking process. parallel editing are creative editing technique. rough cut transforms raw footage. rough cut transforms story. editor can evoke emotions. montages are creative editing techniques. rough cut involves foundation for film. rough cut involves selecting shots. editor enhance rough cut. non-linear editing are editing technique. rough cut involves arranging shots. rough cut is known as invisible art. rough cut decides duration of shots. flashbacks are editing techniques. flash-forwards are editing techniques. rough cut decides shots to include. Sound design are crucial aspect of film editing. jump cuts are creative editing techniques. rough cut decides order of shots. rough cut is known as rough cut.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The rough cut serves as the foundation for the final film.",
+    "retrieved_context": "rough cut involves filmmaking process. rough cut transforms raw footage. rough cut transforms story. editor can evoke emotions. montages are creative editing techniques. rough cut involves foundation for film. rough cut involves selecting shots. editor enhance rough cut. rough cut involves arranging shots. continuity editing maintains temporal coherence. rough cut is known as invisible art. rough cut decides duration of shots. continuity editing maintains spatial coherence. rough cut decides shots to include. Sound design are crucial aspect of film editing. shots create cohesive narrative. jump cuts are creative editing techniques. rough cut decides order of shots. rough cut is known as rough cut.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Film editors refine the rough cut by fine-tuning pacing and trimming footage.",
+    "retrieved_context": "rough cut involves filmmaking process. parallel editing are creative editing technique. rough cut transforms raw footage. rough cut transforms story. editor can evoke emotions. montages are creative editing techniques. rough cut involves foundation for film. rough cut involves selecting shots. editor enhance rough cut. non-linear editing are editing technique. rough cut involves arranging shots. rough cut is known as invisible art. rough cut decides duration of shots. flashbacks are editing techniques. flash-forwards are editing techniques. rough cut decides shots to include. Sound design are crucial aspect of film editing. jump cuts are creative editing techniques. rough cut decides order of shots. rough cut is known as rough cut.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Continuity editing techniques maintain spatial and temporal coherence.",
+    "retrieved_context": "continuity editing maintains temporal coherence. shot-reverse-shot sequences are continuity techniques. parallel editing are creative editing technique. flashbacks are editing techniques. flash-forwards are editing techniques. eyeline matches are continuity techniques. continuity editing maintains spatial coherence. non-linear editing are editing technique.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Creative editing techniques convey meaning and evoke emotions.",
+    "retrieved_context": "rough cut involves filmmaking process. parallel editing are creative editing technique. rough cut transforms raw footage. rough cut transforms story. editor can evoke emotions. montages are creative editing techniques. rough cut involves foundation for film. rough cut involves selecting shots. editor enhance rough cut. non-linear editing are editing technique. rough cut involves arranging shots. rough cut is known as invisible art. rough cut decides duration of shots. flashbacks are editing techniques. flash-forwards are editing techniques. rough cut decides shots to include. Sound design are crucial aspect of film editing. jump cuts are creative editing techniques. rough cut decides order of shots. rough cut is known as rough cut.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Film editors manipulate time and space using techniques like flashbacks.",
+    "retrieved_context": "rough cut decides shots to include. rough cut involves filmmaking process. rough cut is known as invisible art. rough cut decides duration of shots. parallel editing are creative editing technique. flashbacks are editing techniques. Sound design are crucial aspect of film editing. flash-forwards are editing techniques. rough cut transforms raw footage. rough cut involves foundation for film. rough cut involves selecting shots. rough cut transforms story. editor enhance rough cut. editor can evoke emotions. rough cut is known as rough cut. rough cut decides order of shots. non-linear editing are editing technique. rough cut involves arranging shots.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sound design impacts the emotional impact of a scene.",
+    "retrieved_context": "rough cut decides shots to include. music enhance mood. rough cut involves filmmaking process. rough cut is known as invisible art. dialogue enhance tension. rough cut decides duration of shots. Sound design are crucial aspect of film editing. rough cut transforms raw footage. rough cut involves foundation for film. rough cut involves selecting shots. editor enhance rough cut. rough cut transforms story. editor can evoke emotions. rough cut decides order of shots. sound effects enhance atmosphere. rough cut is known as rough cut. rough cut involves arranging shots.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

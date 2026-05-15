@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Climate change impacts global agriculture.",
+    "retrieved_context": "Climate change causes expansion of diseases. sustainable agricultural practices helps improve soil health. Climate change has impacts on global agriculture. sustainable agricultural practices helps protect biodiversity. precision agriculture techniques helps farmers mitigate impacts. droughts has impacts on crop production. development of drought-resistant crop varieties helps farmers mitigate impacts. Rising global temperatures causes more frequent weather events. organic farming is sustainable agricultural practice. droughts has impacts on food prices. Climate change is dependent on climate conditions. droughts devastates crops. Climate change causes shift in growing seasons. Climate change causes expansion of pests. heatwaves devastates crops. Climate change causes changing weather patterns. floods devastates crops. Climate change is one of the most pressing issues. agroecology is sustainable agricultural practice. Climate change challenges water availability. sustainable agricultural practices helps reduce greenhouse gas emissions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Agriculture is highly dependent on climate conditions.",
+    "retrieved_context": "Climate change causes expansion of diseases. sustainable agricultural practices helps improve soil health. Climate change has impacts on global agriculture. sustainable agricultural practices helps protect biodiversity. precision agriculture techniques helps farmers mitigate impacts. droughts has impacts on crop production. development of drought-resistant crop varieties helps farmers mitigate impacts. organic farming is sustainable agricultural practice. droughts has impacts on food prices. Climate change is dependent on climate conditions. droughts devastates crops. Climate change causes shift in growing seasons. Climate change causes expansion of pests. heatwaves devastates crops. Climate change causes changing weather patterns. floods devastates crops. Climate change is one of the most pressing issues. agroecology is sustainable agricultural practice. Climate change challenges water availability. sustainable agricultural practices helps reduce greenhouse gas emissions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Changes in climate affect crop production.",
+    "retrieved_context": "development of drought-resistant crop varieties helps farmers mitigate impacts. Climate change causes expansion of diseases. Climate change causes changing weather patterns. droughts has impacts on food prices. floods devastates crops. Climate change has impacts on global agriculture. Climate change is dependent on climate conditions. droughts devastates crops. Climate change causes shift in growing seasons. precision agriculture techniques helps farmers mitigate impacts. Climate change causes expansion of pests. heatwaves devastates crops. crop rotation helps build resilience. agroforestry helps build resilience. droughts has impacts on crop production. Climate change is one of the most pressing issues. Climate change challenges water availability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Climate change leads to more severe weather events.",
+    "retrieved_context": "Rising global temperatures causes more frequent weather events. Climate change causes expansion of diseases. Climate change causes changing weather patterns. droughts has impacts on food prices. increased evaporation rates causes water scarcity. Climate change has impacts on global agriculture. Climate change is dependent on climate conditions. floods devastates crops. droughts devastates crops. changes in precipitation patterns causes water scarcity. warmer temperatures causes spread of diseases. Climate change causes shift in growing seasons. Climate change causes expansion of pests. heatwaves devastates crops. warmer temperatures causes spread of pests. droughts has impacts on crop production. Climate change is one of the most pressing issues. Climate change challenges water availability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Extreme weather events can devastate crops.",
+    "retrieved_context": "development of drought-resistant crop varieties helps farmers mitigate impacts. Rising global temperatures causes more frequent weather events. Climate change causes changing weather patterns. Climate change causes expansion of diseases. droughts has impacts on food prices. floods devastates crops. Climate change has impacts on global agriculture. Climate change is dependent on climate conditions. droughts devastates crops. Climate change causes shift in growing seasons. precision agriculture techniques helps farmers mitigate impacts. Climate change causes expansion of pests. heatwaves devastates crops. droughts has impacts on crop production. Climate change is one of the most pressing issues. Climate change challenges water availability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rising temperatures affect planting and harvesting seasons.",
+    "retrieved_context": "Rising global temperatures causes more frequent weather events. Climate change causes expansion of diseases. Climate change causes changing weather patterns. droughts has impacts on food prices. floods devastates crops. Climate change has impacts on global agriculture. Climate change is dependent on climate conditions. warmer temperatures causes spread of diseases. droughts devastates crops. changes in precipitation patterns causes water scarcity. increased evaporation rates causes water scarcity. Climate change causes shift in growing seasons. Climate change causes expansion of pests. heatwaves devastates crops. warmer temperatures causes spread of pests. droughts has impacts on crop production. Climate change is one of the most pressing issues. Climate change challenges water availability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warmer temperatures lead to the spread of pests and diseases.",
+    "retrieved_context": "Rising global temperatures causes more frequent weather events. Climate change causes expansion of diseases. Climate change causes changing weather patterns. Climate change has impacts on global agriculture. Climate change is dependent on climate conditions. warmer temperatures causes spread of diseases. Climate change causes shift in growing seasons. Climate change causes expansion of pests. warmer temperatures causes spread of pests. Climate change is one of the most pressing issues. Climate change challenges water availability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Climate change challenges water availability for agriculture.",
+    "retrieved_context": "rainwater harvesting is sustainable water management practice. Climate change causes expansion of diseases. increased evaporation rates causes water scarcity. Climate change has impacts on global agriculture. precision agriculture techniques helps farmers mitigate impacts. droughts has impacts on crop production. development of drought-resistant crop varieties helps farmers mitigate impacts. droughts has impacts on food prices. Climate change is dependent on climate conditions. droughts devastates crops. Climate change causes shift in growing seasons. efficient irrigation systems is sustainable water management practice. Climate change causes expansion of pests. heatwaves devastates crops. Climate change causes changing weather patterns. floods devastates crops. changes in precipitation patterns causes water scarcity. Climate change is one of the most pressing issues. Climate change challenges water availability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water scarcity affects farmers' ability to irrigate crops.",
+    "retrieved_context": "development of drought-resistant crop varieties helps farmers mitigate impacts. rainwater harvesting is sustainable water management practice. droughts has impacts on food prices. sustainable agricultural practices helps improve soil health. increased evaporation rates causes water scarcity. floods devastates crops. droughts devastates crops. changes in precipitation patterns causes water scarcity. sustainable agricultural practices helps protect biodiversity. sustainable agricultural practices helps reduce greenhouse gas emissions. efficient irrigation systems is sustainable water management practice. precision agriculture techniques helps farmers mitigate impacts. heatwaves devastates crops. droughts has impacts on crop production.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sustainable water management practices are crucial for adaptation.",
+    "retrieved_context": "rainwater harvesting is sustainable water management practice. Climate change causes expansion of diseases. sustainable agricultural practices helps improve soil health. increased evaporation rates causes water scarcity. Climate change has impacts on global agriculture. sustainable agricultural practices helps protect biodiversity. droughts has impacts on crop production. droughts has impacts on food prices. organic farming is sustainable agricultural practice. Climate change is dependent on climate conditions. droughts devastates crops. Climate change causes shift in growing seasons. efficient irrigation systems is sustainable water management practice. Climate change causes expansion of pests. heatwaves devastates crops. Climate change causes changing weather patterns. floods devastates crops. changes in precipitation patterns causes water scarcity. Climate change is one of the most pressing issues. agroecology is sustainable agricultural practice. Climate change challenges water availability. sustainable agricultural practices helps reduce greenhouse gas emissions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Climate change presents opportunities for innovation in agriculture.",
+    "retrieved_context": "Climate change causes expansion of diseases. sustainable agricultural practices helps improve soil health. Climate change has impacts on global agriculture. sustainable agricultural practices helps protect biodiversity. precision agriculture techniques helps farmers mitigate impacts. droughts has impacts on crop production. development of drought-resistant crop varieties helps farmers mitigate impacts. organic farming is sustainable agricultural practice. droughts has impacts on food prices. Climate change is dependent on climate conditions. droughts devastates crops. Climate change causes shift in growing seasons. Climate change causes expansion of pests. heatwaves devastates crops. Climate change causes changing weather patterns. floods devastates crops. Climate change is one of the most pressing issues. agroecology is sustainable agricultural practice. Climate change challenges water availability. sustainable agricultural practices helps reduce greenhouse gas emissions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Drought-resistant crop varieties can mitigate climate change impacts.",
+    "retrieved_context": "development of drought-resistant crop varieties helps farmers mitigate impacts. Climate change causes changing weather patterns. Climate change causes expansion of diseases. droughts has impacts on food prices. floods devastates crops. Climate change has impacts on global agriculture. Climate change is dependent on climate conditions. droughts devastates crops. Climate change causes shift in growing seasons. precision agriculture techniques helps farmers mitigate impacts. Climate change causes expansion of pests. heatwaves devastates crops. droughts has impacts on crop production. Climate change is one of the most pressing issues. Climate change challenges water availability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sustainable farming practices can improve soil health.",
+    "retrieved_context": "Climate change causes expansion of diseases. sustainable agricultural practices helps improve soil health. Climate change has impacts on global agriculture. sustainable agricultural practices helps protect biodiversity. precision agriculture techniques helps farmers mitigate impacts. droughts has impacts on crop production. development of drought-resistant crop varieties helps farmers mitigate impacts. organic farming is sustainable agricultural practice. droughts has impacts on food prices. Climate change is dependent on climate conditions. droughts devastates crops. Climate change causes shift in growing seasons. Climate change causes expansion of pests. heatwaves devastates crops. Climate change causes changing weather patterns. floods devastates crops. Climate change is one of the most pressing issues. agroecology is sustainable agricultural practice. Climate change challenges water availability. sustainable agricultural practices helps reduce greenhouse gas emissions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Promoting sustainable agriculture can reduce greenhouse gas emissions.",
+    "retrieved_context": "development of drought-resistant crop varieties helps farmers mitigate impacts. Climate change causes changing weather patterns. Climate change causes expansion of diseases. sustainable agricultural practices helps improve soil health. organic farming is sustainable agricultural practice. droughts has impacts on food prices. Climate change has impacts on global agriculture. Climate change is dependent on climate conditions. sustainable agricultural practices helps reduce greenhouse gas emissions. sustainable agricultural practices helps protect biodiversity. droughts devastates crops. Climate change causes shift in growing seasons. precision agriculture techniques helps farmers mitigate impacts. Climate change causes expansion of pests. droughts has impacts on crop production. Climate change is one of the most pressing issues. agroecology is sustainable agricultural practice. Climate change challenges water availability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Investing in research and technology can address climate change challenges in agriculture.",
+    "retrieved_context": "development of drought-resistant crop varieties helps farmers mitigate impacts. Climate change causes expansion of diseases. Climate change causes changing weather patterns. sustainable agricultural practices helps improve soil health. organic farming is sustainable agricultural practice. droughts has impacts on food prices. Climate change has impacts on global agriculture. Climate change is dependent on climate conditions. sustainable agricultural practices helps reduce greenhouse gas emissions. sustainable agricultural practices helps protect biodiversity. droughts devastates crops. Climate change causes shift in growing seasons. precision agriculture techniques helps farmers mitigate impacts. Climate change causes expansion of pests. droughts has impacts on crop production. Climate change is one of the most pressing issues. agroecology is sustainable agricultural practice. Climate change challenges water availability.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

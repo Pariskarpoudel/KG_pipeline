@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Spiders build intricate webs.",
+    "retrieved_context": "spiders known for highly adaptive and resourceful. spider silk composed of protein molecules. spiders produce different types of silk for various purposes. spider immobilizes prey with a bite. spider tests strength of silk strands. spiral lines sticky due to special adhesive substance produced by spider. spinnerets located in rear of its abdomen. spiders known for building intricate webs. spiders catch prey efficiently. trap line is a thick strand of silk that serves as signal line for the spider. to build a web starts with anchoring a strand of silk to a surface. spider silk known for incredibly strong and elastic. spider uses anchor line for guide to build the rest of the web. spider lays spiral lines in a circular pattern. web-building process starts with selecting a suitable location. spiders produce silk from spinnerets. spider senses vibrations through trap line. spider wraps prey in silk for later consumption.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Webs serve as homes and hunting grounds for spiders.",
+    "retrieved_context": "spiders known for highly adaptive and resourceful. spider silk known for incredibly strong and elastic. webs serves as hunting grounds. spider senses vibrations through trap line. spiders catch prey efficiently. to build a web starts with anchoring a strand of silk to a surface. web-building process starts with selecting a suitable location. spiders produce different types of silk for various purposes. spiders produce silk from spinnerets. spider wraps prey in silk for later consumption. spider immobilizes prey with a bite. trap line is a thick strand of silk that serves as signal line for the spider. spider uses anchor line for guide to build the rest of the web. spider lays spiral lines in a circular pattern. webs serves as homes. spider silk composed of protein molecules. spider tests strength of silk strands. spinnerets located in rear of its abdomen. spiders known for building intricate webs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders catch prey efficiently using their webs.",
+    "retrieved_context": "spiders known for highly adaptive and resourceful. spider silk known for incredibly strong and elastic. webs serves as hunting grounds. spider senses vibrations through trap line. spiders catch prey efficiently. to build a web starts with anchoring a strand of silk to a surface. spiders produce different types of silk for various purposes. spiders produce silk from spinnerets. spider wraps prey in silk for later consumption. spider immobilizes prey with a bite. trap line is a thick strand of silk that serves as signal line for the spider. spider uses anchor line for guide to build the rest of the web. spider lays spiral lines in a circular pattern. webs serves as homes. spider silk composed of protein molecules. spider tests strength of silk strands. spiral lines sticky due to special adhesive substance produced by spider. spinnerets located in rear of its abdomen. spiders known for building intricate webs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders select suitable locations for web-building.",
+    "retrieved_context": "spiders known for highly adaptive and resourceful. spider immobilizes prey with a bite. spiders produce different types of silk for various purposes. spider tests strength of silk strands. spider silk composed of protein molecules. spinnerets located in rear of its abdomen. spiders known for building intricate webs. spiders catch prey efficiently. trap line is a thick strand of silk that serves as signal line for the spider. to build a web starts with anchoring a strand of silk to a surface. spider silk known for incredibly strong and elastic. spider uses anchor line for guide to build the rest of the web. spider lays spiral lines in a circular pattern. web-building process starts with selecting a suitable location. spiders produce silk from spinnerets. spider senses vibrations through trap line. spider wraps prey in silk for later consumption.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders produce silk from spinnerets.",
+    "retrieved_context": "spiders known for highly adaptive and resourceful. spider silk composed of protein molecules. spiders produce different types of silk for various purposes. spider immobilizes prey with a bite. spider tests strength of silk strands. spiral lines sticky due to special adhesive substance produced by spider. spinnerets located in rear of its abdomen. spiders known for building intricate webs. spiders catch prey efficiently. trap line is a thick strand of silk that serves as signal line for the spider. spider silk known for incredibly strong and elastic. spider uses anchor line for guide to build the rest of the web. spider lays spiral lines in a circular pattern. spiders produce silk from spinnerets. spider senses vibrations through trap line. spider wraps prey in silk for later consumption.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spider silk is strong and elastic.",
+    "retrieved_context": "spider immobilizes prey with a bite. spider silk composed of protein molecules. spider tests strength of silk strands. spiral lines sticky due to special adhesive substance produced by spider. spiders known for highly adaptive and resourceful. spiders produce different types of silk for various purposes. spinnerets located in rear of its abdomen. spiders known for building intricate webs. trap line is a thick strand of silk that serves as signal line for the spider. spiders catch prey efficiently. to build a web starts with anchoring a strand of silk to a surface. spider silk known for incredibly strong and elastic. spider uses anchor line for guide to build the rest of the web. spider lays spiral lines in a circular pattern. spiders produce silk from spinnerets. spider senses vibrations through trap line. spider wraps prey in silk for later consumption.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spider silk is composed of protein molecules.",
+    "retrieved_context": "spider immobilizes prey with a bite. spider silk composed of protein molecules. spider tests strength of silk strands. spiral lines sticky due to special adhesive substance produced by spider. spiders known for highly adaptive and resourceful. spiders produce different types of silk for various purposes. spinnerets located in rear of its abdomen. spiders known for building intricate webs. trap line is a thick strand of silk that serves as signal line for the spider. spiders catch prey efficiently. to build a web starts with anchoring a strand of silk to a surface. spider silk known for incredibly strong and elastic. spider uses anchor line for guide to build the rest of the web. spider lays spiral lines in a circular pattern. spiders produce silk from spinnerets. spider senses vibrations through trap line. spider wraps prey in silk for later consumption.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders can produce different types of silk.",
+    "retrieved_context": "spider immobilizes prey with a bite. spider silk composed of protein molecules. spider tests strength of silk strands. spiders known for highly adaptive and resourceful. spiders produce different types of silk for various purposes. spiral lines sticky due to special adhesive substance produced by spider. spinnerets located in rear of its abdomen. spiders known for building intricate webs. spiders catch prey efficiently. trap line is a thick strand of silk that serves as signal line for the spider. to build a web starts with anchoring a strand of silk to a surface. spider silk known for incredibly strong and elastic. spider uses anchor line for guide to build the rest of the web. spider lays spiral lines in a circular pattern. spiders produce silk from spinnerets. spider senses vibrations through trap line. spider wraps prey in silk for later consumption.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders anchor silk strands to surfaces to build webs.",
+    "retrieved_context": "spider immobilizes prey with a bite. spider silk composed of protein molecules. spider tests strength of silk strands. spiders known for highly adaptive and resourceful. spiders produce different types of silk for various purposes. spiral lines sticky due to special adhesive substance produced by spider. spinnerets located in rear of its abdomen. spiders known for building intricate webs. spiders catch prey efficiently. trap line is a thick strand of silk that serves as signal line for the spider. to build a web starts with anchoring a strand of silk to a surface. spider silk known for incredibly strong and elastic. spider uses anchor line for guide to build the rest of the web. spider lays spiral lines in a circular pattern. spiders produce silk from spinnerets. spider senses vibrations through trap line. spider wraps prey in silk for later consumption.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders construct radial lines as the framework of the web.",
+    "retrieved_context": "spiders known for highly adaptive and resourceful. spider silk known for incredibly strong and elastic. webs serves as hunting grounds. spider senses vibrations through trap line. spiders catch prey efficiently. to build a web starts with anchoring a strand of silk to a surface. spiders produce different types of silk for various purposes. radial lines serves as framework for the entire structure. spiders produce silk from spinnerets. spider wraps prey in silk for later consumption. spider immobilizes prey with a bite. trap line is a thick strand of silk that serves as signal line for the spider. spider uses anchor line for guide to build the rest of the web. spider lays spiral lines in a circular pattern. webs serves as homes. spider silk composed of protein molecules. spider tests strength of silk strands. spinnerets located in rear of its abdomen. spiders known for building intricate webs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders lay down sticky spiral lines on the web.",
+    "retrieved_context": "spiders known for highly adaptive and resourceful. spider immobilizes prey with a bite. spiders produce different types of silk for various purposes. spider tests strength of silk strands. spider silk composed of protein molecules. spiral lines sticky due to special adhesive substance produced by spider. spinnerets located in rear of its abdomen. spiders known for building intricate webs. spiders catch prey efficiently. trap line is a thick strand of silk that serves as signal line for the spider. to build a web starts with anchoring a strand of silk to a surface. spider silk known for incredibly strong and elastic. spider uses anchor line for guide to build the rest of the web. spider lays spiral lines in a circular pattern. spiders produce silk from spinnerets. spider senses vibrations through trap line. spider wraps prey in silk for later consumption.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders periodically test the tension of silk strands.",
+    "retrieved_context": "spider immobilizes prey with a bite. spider silk composed of protein molecules. spider tests strength of silk strands. spiders known for highly adaptive and resourceful. spiders produce different types of silk for various purposes. spiral lines sticky due to special adhesive substance produced by spider. spinnerets located in rear of its abdomen. spiders known for building intricate webs. spiders catch prey efficiently. trap line is a thick strand of silk that serves as signal line for the spider. to build a web starts with anchoring a strand of silk to a surface. spider silk known for incredibly strong and elastic. spider uses anchor line for guide to build the rest of the web. spider lays spiral lines in a circular pattern. spiders produce silk from spinnerets. spider senses vibrations through trap line. spider wraps prey in silk for later consumption.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders have an innate sense of how to build webs.",
+    "retrieved_context": "spiders known for highly adaptive and resourceful. spider immobilizes prey with a bite. spiders produce different types of silk for various purposes. spider tests strength of silk strands. spider silk composed of protein molecules. spiral lines sticky due to special adhesive substance produced by spider. spinnerets located in rear of its abdomen. spiders known for building intricate webs. spiders catch prey efficiently. trap line is a thick strand of silk that serves as signal line for the spider. to build a web starts with anchoring a strand of silk to a surface. spider silk known for incredibly strong and elastic. spider uses anchor line for guide to build the rest of the web. spider lays spiral lines in a circular pattern. web-building process starts with selecting a suitable location. spiders produce silk from spinnerets. spider senses vibrations through trap line. spider wraps prey in silk for later consumption.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders place a trap line in the web to signal prey.",
+    "retrieved_context": "spiders known for highly adaptive and resourceful. spider silk known for incredibly strong and elastic. webs serves as hunting grounds. spider senses vibrations through trap line. spiders catch prey efficiently. to build a web starts with anchoring a strand of silk to a surface. spiders produce different types of silk for various purposes. spiders produce silk from spinnerets. spider wraps prey in silk for later consumption. spider immobilizes prey with a bite. trap line is a thick strand of silk that serves as signal line for the spider. spider uses anchor line for guide to build the rest of the web. spider lays spiral lines in a circular pattern. webs serves as homes. spider silk composed of protein molecules. spider tests strength of silk strands. spiral lines sticky due to special adhesive substance produced by spider. spinnerets located in rear of its abdomen. spiders known for building intricate webs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders immobilize prey with a bite and wrap it in silk.",
+    "retrieved_context": "spiders known for highly adaptive and resourceful. spider silk composed of protein molecules. spiders produce different types of silk for various purposes. spider immobilizes prey with a bite. spider tests strength of silk strands. spiral lines sticky due to special adhesive substance produced by spider. spinnerets located in rear of its abdomen. spiders known for building intricate webs. spiders catch prey efficiently. trap line is a thick strand of silk that serves as signal line for the spider. to build a web starts with anchoring a strand of silk to a surface. spider silk known for incredibly strong and elastic. spider uses anchor line for guide to build the rest of the web. spider lays spiral lines in a circular pattern. spiders produce silk from spinnerets. spider senses vibrations through trap line. spider wraps prey in silk for later consumption.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

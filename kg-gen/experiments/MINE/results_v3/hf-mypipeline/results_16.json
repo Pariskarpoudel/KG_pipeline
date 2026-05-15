@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "axolotl is a type of salamander native to Mexico",
+    "retrieved_context": "axolotl is a type of salamander. common swift has unique wing shape. common swift is a bird. mantis shrimp is a colorful crustacean. pangolin scales made of keratin. mantis shrimp has powerful punch. aye-aye is a lemur. common swift has reduced muscle mass. axolotl regenerates tail. pangolin scales curls_into tight ball. axolotl has regenerate lost body parts. mantis shrimp breaks_with_punch shells of prey. common swift lives_in in the air. axolotl regenerates spinal cord. aye-aye has elongated middle finger. aye-aye eats tree bark. pangolin scales survived_for millions of years. aye-aye extracts_with_finger insects. axolotl native to Mexico. pangolin scales has protective scales. axolotl regenerates limbs. aye-aye native to Madagascar. mantis shrimp punch_force .22 caliber bullet. common swift feeds_on insects. mantis shrimp native to tropical waters. axolotl regenerates parts of its brain.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "axolotl can regenerate lost body parts, including limbs, tail, and parts of its brain and spinal cord",
+    "retrieved_context": "common swift feeds_on insects. axolotl is a type of salamander. barreleye fish is a deep-sea dweller. axolotl native to Mexico. common swift has unique wing shape. common swift has reduced muscle mass. barreleye fish has tubular eyes. axolotl regenerates tail. axolotl regenerates parts of its brain. axolotl has regenerate lost body parts. barreleye fish has transparent head. common swift is a bird. common swift lives_in in the air. axolotl regenerates limbs. axolotl regenerates spinal cord.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "mantis shrimp is a colorful crustacean found in tropical waters",
+    "retrieved_context": "axolotl is a type of salamander. common swift has unique wing shape. common swift is a bird. mantis shrimp is a colorful crustacean. mantis shrimp has powerful punch. aye-aye is a lemur. barreleye fish is a deep-sea dweller. common swift has reduced muscle mass. axolotl regenerates tail. axolotl has regenerate lost body parts. mantis shrimp breaks_with_punch shells of prey. common swift lives_in in the air. axolotl regenerates spinal cord. aye-aye has elongated middle finger. aye-aye eats tree bark. aye-aye extracts_with_finger insects. axolotl native to Mexico. barreleye fish has tubular eyes. axolotl regenerates limbs. aye-aye native to Madagascar. mantis shrimp punch_force .22 caliber bullet. common swift feeds_on insects. mantis shrimp native to tropical waters. axolotl regenerates parts of its brain. barreleye fish has transparent head.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "mantis shrimp has one of the most powerful punches in the animal kingdom",
+    "retrieved_context": "axolotl is a type of salamander. common swift has unique wing shape. common swift is a bird. mantis shrimp is a colorful crustacean. mantis shrimp has powerful punch. aye-aye is a lemur. barreleye fish is a deep-sea dweller. common swift has reduced muscle mass. axolotl regenerates tail. axolotl has regenerate lost body parts. mantis shrimp breaks_with_punch shells of prey. common swift lives_in in the air. axolotl regenerates spinal cord. aye-aye has elongated middle finger. aye-aye eats tree bark. aye-aye extracts_with_finger insects. axolotl native to Mexico. barreleye fish has tubular eyes. axolotl regenerates limbs. aye-aye native to Madagascar. mantis shrimp punch_force .22 caliber bullet. common swift feeds_on insects. mantis shrimp native to tropical waters. axolotl regenerates parts of its brain. barreleye fish has transparent head.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "pangolin has protective scales made of keratin",
+    "retrieved_context": "axolotl is a type of salamander. mantis shrimp is a colorful crustacean. pangolin scales made of keratin. mantis shrimp has powerful punch. barreleye fish is a deep-sea dweller. axolotl regenerates tail. pangolin scales curls_into tight ball. axolotl has regenerate lost body parts. mantis shrimp breaks_with_punch shells of prey. axolotl regenerates spinal cord. pangolin scales survived_for millions of years. axolotl native to Mexico. barreleye fish has tubular eyes. pangolin scales has protective scales. axolotl regenerates limbs. mantis shrimp punch_force .22 caliber bullet. mantis shrimp native to tropical waters. axolotl regenerates parts of its brain. barreleye fish has transparent head.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "pangolin curls into a tight ball with overlapping scales when threatened",
+    "retrieved_context": "axolotl is a type of salamander. common swift has unique wing shape. common swift is a bird. mantis shrimp is a colorful crustacean. pangolin scales made of keratin. mantis shrimp has powerful punch. aye-aye is a lemur. common swift has reduced muscle mass. axolotl regenerates tail. pangolin scales curls_into tight ball. axolotl has regenerate lost body parts. mantis shrimp breaks_with_punch shells of prey. common swift lives_in in the air. axolotl regenerates spinal cord. aye-aye has elongated middle finger. aye-aye eats tree bark. pangolin scales survived_for millions of years. aye-aye extracts_with_finger insects. axolotl native to Mexico. pangolin scales has protective scales. axolotl regenerates limbs. aye-aye native to Madagascar. mantis shrimp punch_force .22 caliber bullet. common swift feeds_on insects. mantis shrimp native to tropical waters. axolotl regenerates parts of its brain.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "common swift spends almost its entire life in the air",
+    "retrieved_context": "common swift has unique wing shape. common swift is a bird. mantis shrimp is a colorful crustacean. pangolin scales made of keratin. mantis shrimp has powerful punch. aye-aye is a lemur. barreleye fish is a deep-sea dweller. common swift has reduced muscle mass. pangolin scales curls_into tight ball. mantis shrimp breaks_with_punch shells of prey. common swift lives_in in the air. aye-aye has elongated middle finger. aye-aye eats tree bark. pangolin scales survived_for millions of years. aye-aye extracts_with_finger insects. barreleye fish has tubular eyes. pangolin scales has protective scales. aye-aye native to Madagascar. mantis shrimp punch_force .22 caliber bullet. common swift feeds_on insects. mantis shrimp native to tropical waters. barreleye fish has transparent head.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "common swift can stay aloft for months at a time",
+    "retrieved_context": "axolotl is a type of salamander. common swift has unique wing shape. common swift is a bird. pangolin scales made of keratin. aye-aye is a lemur. barreleye fish is a deep-sea dweller. common swift has reduced muscle mass. axolotl regenerates tail. pangolin scales curls_into tight ball. axolotl has regenerate lost body parts. common swift lives_in in the air. axolotl regenerates spinal cord. aye-aye has elongated middle finger. aye-aye eats tree bark. pangolin scales survived_for millions of years. aye-aye extracts_with_finger insects. axolotl native to Mexico. barreleye fish has tubular eyes. pangolin scales has protective scales. axolotl regenerates limbs. aye-aye native to Madagascar. common swift feeds_on insects. axolotl regenerates parts of its brain. barreleye fish has transparent head.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "barreleye fish is a deep-sea dweller with a transparent head and tubular eyes",
+    "retrieved_context": "mantis shrimp punch_force .22 caliber bullet. mantis shrimp is a colorful crustacean. axolotl is a type of salamander. mantis shrimp has powerful punch. barreleye fish is a deep-sea dweller. axolotl native to Mexico. barreleye fish has tubular eyes. axolotl regenerates tail. mantis shrimp native to tropical waters. axolotl regenerates parts of its brain. axolotl has regenerate lost body parts. barreleye fish has transparent head. mantis shrimp breaks_with_punch shells of prey. axolotl regenerates limbs. axolotl regenerates spinal cord.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "barreleye fish can see prey silhouetted against the darkness above",
+    "retrieved_context": "axolotl is a type of salamander. common swift has unique wing shape. common swift is a bird. mantis shrimp is a colorful crustacean. mantis shrimp has powerful punch. barreleye fish is a deep-sea dweller. common swift has reduced muscle mass. axolotl regenerates tail. axolotl has regenerate lost body parts. mantis shrimp breaks_with_punch shells of prey. common swift lives_in in the air. axolotl regenerates spinal cord. axolotl native to Mexico. barreleye fish has tubular eyes. axolotl regenerates limbs. mantis shrimp punch_force .22 caliber bullet. common swift feeds_on insects. mantis shrimp native to tropical waters. axolotl regenerates parts of its brain. barreleye fish has transparent head.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "aye-aye is a lemur native to Madagascar",
+    "retrieved_context": "axolotl is a type of salamander. common swift has unique wing shape. common swift is a bird. mantis shrimp is a colorful crustacean. mantis shrimp has powerful punch. aye-aye is a lemur. common swift has reduced muscle mass. axolotl regenerates tail. axolotl has regenerate lost body parts. mantis shrimp breaks_with_punch shells of prey. common swift lives_in in the air. axolotl regenerates spinal cord. aye-aye has elongated middle finger. aye-aye eats tree bark. aye-aye extracts_with_finger insects. axolotl native to Mexico. axolotl regenerates limbs. aye-aye native to Madagascar. mantis shrimp punch_force .22 caliber bullet. common swift feeds_on insects. mantis shrimp native to tropical waters. axolotl regenerates parts of its brain.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "aye-aye has an elongated middle finger used to extract insects from tree bark",
+    "retrieved_context": "axolotl is a type of salamander. common swift has unique wing shape. common swift is a bird. mantis shrimp is a colorful crustacean. mantis shrimp has powerful punch. aye-aye is a lemur. common swift has reduced muscle mass. axolotl regenerates tail. axolotl has regenerate lost body parts. mantis shrimp breaks_with_punch shells of prey. common swift lives_in in the air. axolotl regenerates spinal cord. aye-aye has elongated middle finger. aye-aye eats tree bark. aye-aye extracts_with_finger insects. axolotl native to Mexico. axolotl regenerates limbs. aye-aye native to Madagascar. mantis shrimp punch_force .22 caliber bullet. common swift feeds_on insects. mantis shrimp native to tropical waters. axolotl regenerates parts of its brain.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "animals have evolved an astonishing array of adaptations to ensure their survival",
+    "retrieved_context": "common swift has unique wing shape. common swift is a bird. mantis shrimp is a colorful crustacean. pangolin scales made of keratin. mantis shrimp has powerful punch. aye-aye is a lemur. barreleye fish is a deep-sea dweller. common swift has reduced muscle mass. pangolin scales curls_into tight ball. mantis shrimp breaks_with_punch shells of prey. common swift lives_in in the air. aye-aye has elongated middle finger. aye-aye eats tree bark. pangolin scales survived_for millions of years. aye-aye extracts_with_finger insects. barreleye fish has tubular eyes. pangolin scales has protective scales. aye-aye native to Madagascar. mantis shrimp punch_force .22 caliber bullet. common swift feeds_on insects. mantis shrimp native to tropical waters. barreleye fish has transparent head.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "studying unusual adaptations provides valuable insights into the complexities of evolution",
+    "retrieved_context": "axolotl is a type of salamander. common swift has unique wing shape. common swift is a bird. mantis shrimp is a colorful crustacean. pangolin scales made of keratin. mantis shrimp has powerful punch. aye-aye is a lemur. barreleye fish is a deep-sea dweller. common swift has reduced muscle mass. axolotl regenerates tail. pangolin scales curls_into tight ball. axolotl has regenerate lost body parts. mantis shrimp breaks_with_punch shells of prey. common swift lives_in in the air. axolotl regenerates spinal cord. aye-aye has elongated middle finger. aye-aye eats tree bark. pangolin scales survived_for millions of years. aye-aye extracts_with_finger insects. axolotl native to Mexico. barreleye fish has tubular eyes. pangolin scales has protective scales. axolotl regenerates limbs. aye-aye native to Madagascar. mantis shrimp punch_force .22 caliber bullet. common swift feeds_on insects. mantis shrimp native to tropical waters. axolotl regenerates parts of its brain. barreleye fish has transparent head.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "animal adaptations showcase the ingenuity and diversity of life on Earth",
+    "retrieved_context": "aye-aye has elongated middle finger. mantis shrimp is a colorful crustacean. common swift feeds_on insects. aye-aye eats tree bark. mantis shrimp punch_force .22 caliber bullet. mantis shrimp has powerful punch. aye-aye is a lemur. aye-aye extracts_with_finger insects. common swift has unique wing shape. common swift has reduced muscle mass. barreleye fish is a deep-sea dweller. barreleye fish has tubular eyes. mantis shrimp native to tropical waters. barreleye fish has transparent head. common swift is a bird. mantis shrimp breaks_with_punch shells of prey. common swift lives_in in the air. aye-aye native to Madagascar.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

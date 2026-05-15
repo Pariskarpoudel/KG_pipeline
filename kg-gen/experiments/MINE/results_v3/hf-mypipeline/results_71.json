@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Clouds are a natural phenomenon.",
+    "retrieved_context": "cirrus clouds composed of ice crystals. cumulus clouds involves fair weather. cumulonimbus clouds bring thunderstorms. stratus clouds form when uniform layer. stratus clouds is low-lying clouds. droplets form clouds. Clouds is a natural phenomenon. cirrus clouds is high, wispy clouds. cirrus clouds form when high altitudes. stratus clouds bring light rain. crystals form clouds. cumulus clouds is fluffy, white clouds. condensation crucial_to cloud formation. cumulus clouds form when warm air rises rapidly. cumulonimbus clouds bring heavy rain. water vapor condenses into ice crystals. stratus clouds bring overcast skies. Clouds form when complex process. air currents role_in cloud formation. process involves air currents.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Clouds can be observed in the sky.",
+    "retrieved_context": "cirrus clouds composed of ice crystals. cumulus clouds involves fair weather. cumulonimbus clouds bring thunderstorms. stratus clouds form when uniform layer. stratus clouds is low-lying clouds. droplets form clouds. Clouds is a natural phenomenon. cirrus clouds is high, wispy clouds. cirrus clouds form when high altitudes. stratus clouds bring light rain. crystals form clouds. cumulus clouds is fluffy, white clouds. condensation crucial_to cloud formation. cumulus clouds form when warm air rises rapidly. cumulonimbus clouds bring heavy rain. water vapor condenses into ice crystals. stratus clouds bring overcast skies. Clouds form when complex process. air currents role_in cloud formation. process involves air currents.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Clouds are formed through a complex process.",
+    "retrieved_context": "cirrus clouds composed of ice crystals. cumulus clouds involves fair weather. cumulonimbus clouds bring thunderstorms. stratus clouds form when uniform layer. stratus clouds is low-lying clouds. droplets form clouds. Clouds is a natural phenomenon. cirrus clouds is high, wispy clouds. cirrus clouds form when high altitudes. stratus clouds bring light rain. crystals form clouds. cumulus clouds is fluffy, white clouds. condensation crucial_to cloud formation. cumulus clouds form when warm air rises rapidly. cumulonimbus clouds bring heavy rain. water vapor condenses into ice crystals. stratus clouds bring overcast skies. Clouds form when complex process. air currents role_in cloud formation. process involves air currents.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloud formation begins with the warming of the Earth's surface.",
+    "retrieved_context": "Clouds form when complex process. Clouds is a natural phenomenon. droplets form clouds. air currents role_in cloud formation. process involves air currents. cumulus clouds involves fair weather. cumulonimbus clouds bring thunderstorms. stratus clouds form when uniform layer. cumulus clouds is fluffy, white clouds. condensation crucial_to cloud formation. stratus clouds bring light rain. stratus clouds is low-lying clouds. cumulus clouds form when warm air rises rapidly. cumulonimbus clouds bring heavy rain. crystals form clouds. stratus clouds bring overcast skies.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Warm air rises and cools as it moves higher into the atmosphere.",
+    "retrieved_context": "cirrus clouds composed of ice crystals. cumulus clouds involves fair weather. stratus clouds form when uniform layer. stratus clouds is low-lying clouds. process involves humidity. process involves temperature. air warmed by ground. cirrus clouds is high, wispy clouds. air saturates water vapor. cirrus clouds form when high altitudes. stratus clouds bring light rain. air reaches dew point. warm air rises atmosphere. cumulus clouds is fluffy, white clouds. condensation crucial_to cloud formation. cumulus clouds form when warm air rises rapidly. water vapor condenses into ice crystals. stratus clouds bring overcast skies. air currents role_in cloud formation. process involves air currents. water vapor condenses into water droplets. dew point is temperature.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Air reaches its dew point during cloud formation.",
+    "retrieved_context": "cirrus clouds composed of ice crystals. cumulus clouds involves fair weather. stratus clouds form when uniform layer. stratus clouds is low-lying clouds. droplets form clouds. Clouds is a natural phenomenon. process involves temperature. air warmed by ground. cirrus clouds is high, wispy clouds. air saturates water vapor. cirrus clouds form when high altitudes. stratus clouds bring light rain. air reaches dew point. crystals form clouds. cumulus clouds is fluffy, white clouds. condensation crucial_to cloud formation. cumulus clouds form when warm air rises rapidly. stratus clouds bring overcast skies. Clouds form when complex process. air currents role_in cloud formation. process involves air currents. dew point is temperature.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water vapor in the air condenses into tiny droplets or ice crystals.",
+    "retrieved_context": "droplets form clouds. process involves temperature. Clouds form when complex process. air currents role_in cloud formation. Clouds is a natural phenomenon. air warmed by ground. process involves air currents. cirrus clouds composed of ice crystals. air reaches dew point. cirrus clouds is high, wispy clouds. air saturates water vapor. cirrus clouds form when high altitudes. water vapor condenses into water droplets. process involves humidity. condensation crucial_to cloud formation. water vapor condenses into ice crystals. crystals form clouds.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tiny droplets or crystals come together to form clouds.",
+    "retrieved_context": "cumulonimbus clouds bring thunderstorms. cumulus clouds involves fair weather. stratus clouds form when uniform layer. stratus clouds is low-lying clouds. droplets form clouds. Clouds is a natural phenomenon. air saturates water vapor. stratus clouds bring light rain. crystals form clouds. cumulus clouds is fluffy, white clouds. condensation crucial_to cloud formation. cumulus clouds form when warm air rises rapidly. cumulonimbus clouds bring heavy rain. water vapor condenses into ice crystals. stratus clouds bring overcast skies. Clouds form when complex process. air currents role_in cloud formation. process involves air currents. water vapor condenses into water droplets.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Condensation is crucial to cloud formation.",
+    "retrieved_context": "cirrus clouds composed of ice crystals. cumulus clouds involves fair weather. cumulonimbus clouds bring thunderstorms. stratus clouds form when uniform layer. stratus clouds is low-lying clouds. droplets form clouds. Clouds is a natural phenomenon. cirrus clouds is high, wispy clouds. cirrus clouds form when high altitudes. stratus clouds bring light rain. crystals form clouds. cumulus clouds is fluffy, white clouds. condensation crucial_to cloud formation. cumulus clouds form when warm air rises rapidly. cumulonimbus clouds bring heavy rain. water vapor condenses into ice crystals. stratus clouds bring overcast skies. Clouds form when complex process. air currents role_in cloud formation. process involves air currents.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Temperature and humidity influence cloud formation.",
+    "retrieved_context": "cirrus clouds composed of ice crystals. cumulus clouds involves fair weather. cumulonimbus clouds bring thunderstorms. stratus clouds form when uniform layer. stratus clouds is low-lying clouds. droplets form clouds. Clouds is a natural phenomenon. cirrus clouds is high, wispy clouds. cirrus clouds form when high altitudes. stratus clouds bring light rain. crystals form clouds. cumulus clouds is fluffy, white clouds. condensation crucial_to cloud formation. cumulus clouds form when warm air rises rapidly. cumulonimbus clouds bring heavy rain. water vapor condenses into ice crystals. stratus clouds bring overcast skies. Clouds form when complex process. air currents role_in cloud formation. process involves air currents.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Air currents play a significant role in cloud formation.",
+    "retrieved_context": "cirrus clouds composed of ice crystals. cumulus clouds involves fair weather. stratus clouds form when uniform layer. stratus clouds is low-lying clouds. process involves humidity. process involves temperature. Clouds is a natural phenomenon. droplets form clouds. cirrus clouds is high, wispy clouds. cirrus clouds form when high altitudes. stratus clouds bring light rain. crystals form clouds. cumulus clouds is fluffy, white clouds. condensation crucial_to cloud formation. cumulus clouds form when warm air rises rapidly. stratus clouds bring overcast skies. Clouds form when complex process. air currents role_in cloud formation. process involves air currents.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different types of clouds can be observed in the sky.",
+    "retrieved_context": "cirrus clouds composed of ice crystals. cumulus clouds involves fair weather. cumulonimbus clouds bring thunderstorms. stratus clouds form when uniform layer. stratus clouds is low-lying clouds. droplets form clouds. Clouds is a natural phenomenon. cirrus clouds is high, wispy clouds. cirrus clouds form when high altitudes. stratus clouds bring light rain. crystals form clouds. cumulus clouds is fluffy, white clouds. condensation crucial_to cloud formation. cumulus clouds form when warm air rises rapidly. cumulonimbus clouds bring heavy rain. water vapor condenses into ice crystals. stratus clouds bring overcast skies. Clouds form when complex process. air currents role_in cloud formation. process involves air currents.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cumulus clouds form when warm air rises rapidly.",
+    "retrieved_context": "cirrus clouds composed of ice crystals. cumulonimbus clouds bring thunderstorms. cumulus clouds involves fair weather. stratus clouds form when uniform layer. stratus clouds is low-lying clouds. droplets form clouds. Clouds is a natural phenomenon. cirrus clouds is high, wispy clouds. cirrus clouds form when high altitudes. stratus clouds bring light rain. crystals form clouds. cumulus clouds is fluffy, white clouds. condensation crucial_to cloud formation. cumulus clouds form when warm air rises rapidly. water vapor condenses into ice crystals. cumulonimbus clouds bring heavy rain. stratus clouds bring overcast skies. Clouds form when complex process. air currents role_in cloud formation. process involves air currents.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Stratus clouds are low-lying clouds.",
+    "retrieved_context": "cirrus clouds composed of ice crystals. cumulonimbus clouds bring thunderstorms. cumulus clouds involves fair weather. stratus clouds form when uniform layer. stratus clouds is low-lying clouds. droplets form clouds. Clouds is a natural phenomenon. cirrus clouds is high, wispy clouds. cirrus clouds form when high altitudes. stratus clouds bring light rain. crystals form clouds. cumulus clouds is fluffy, white clouds. condensation crucial_to cloud formation. cumulus clouds form when warm air rises rapidly. cumulonimbus clouds bring heavy rain. water vapor condenses into ice crystals. stratus clouds bring overcast skies. Clouds form when complex process. air currents role_in cloud formation. process involves air currents.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cirrus clouds are high, wispy clouds.",
+    "retrieved_context": "Clouds form when complex process. Clouds is a natural phenomenon. droplets form clouds. cirrus clouds composed of ice crystals. cirrus clouds is high, wispy clouds. cumulonimbus clouds bring heavy rain. cirrus clouds form when high altitudes. cumulonimbus clouds bring thunderstorms. stratus clouds form when uniform layer. cumulus clouds involves fair weather. stratus clouds bring light rain. cumulus clouds is fluffy, white clouds. stratus clouds is low-lying clouds. cumulus clouds form when warm air rises rapidly. water vapor condenses into ice crystals. crystals form clouds. stratus clouds bring overcast skies.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

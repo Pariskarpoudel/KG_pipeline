@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Rocket requires careful planning",
+    "retrieved_context": "building a rocket is a rewarding experience. rocket requires understanding of physics. design considers weight distribution. design outlines propulsion system. design considers aerodynamics. Step 2 is designing the rocket. design outlines detailed drawings. rocket requires clear purpose. goals of the rocket determine design specifications. modern rockets requires sophisticated electronics. design considers stability. rocket requires careful planning. design outlines rocket's structure. design outlines payload capacity. rocket requires clear requirements. rocket requires precise engineering. Step 4 is building the rocket body. rocket requires understanding of materials science. building a rocket is an educational experience. goals of the rocket determine power. goals of the rocket determine size. modern rockets requires guidance systems. design outlines detailed plans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket requires precise engineering",
+    "retrieved_context": "building a rocket is a rewarding experience. rocket requires understanding of physics. design considers weight distribution. design outlines propulsion system. design considers aerodynamics. Step 2 is designing the rocket. design outlines detailed drawings. rocket requires clear purpose. goals of the rocket determine design specifications. modern rockets requires sophisticated electronics. design considers stability. rocket requires careful planning. design outlines rocket's structure. design outlines payload capacity. rocket requires clear requirements. rocket requires precise engineering. Step 4 is building the rocket body. rocket requires understanding of materials science. building a rocket is an educational experience. goals of the rocket determine power. modern rockets requires guidance systems. goals of the rocket determine size. design outlines detailed plans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket requires understanding of physics",
+    "retrieved_context": "building a rocket is a rewarding experience. rocket requires understanding of physics. design considers weight distribution. design outlines propulsion system. design considers aerodynamics. Step 2 is designing the rocket. design outlines detailed drawings. rocket requires clear purpose. goals of the rocket determine design specifications. modern rockets requires sophisticated electronics. design considers stability. rocket requires careful planning. design outlines rocket's structure. design outlines payload capacity. rocket requires clear requirements. rocket requires precise engineering. Step 4 is building the rocket body. rocket requires understanding of materials science. building a rocket is an educational experience. goals of the rocket determine power. goals of the rocket determine size. modern rockets requires guidance systems. design outlines detailed plans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket requires understanding of materials science",
+    "retrieved_context": "building a rocket is a rewarding experience. rocket requires understanding of physics. design considers weight distribution. design outlines propulsion system. design considers aerodynamics. Step 2 is designing the rocket. design outlines detailed drawings. rocket requires clear purpose. goals of the rocket determine design specifications. modern rockets requires sophisticated electronics. design considers stability. rocket requires careful planning. design outlines rocket's structure. design outlines payload capacity. rocket requires clear requirements. rocket requires precise engineering. Step 4 is building the rocket body. rocket requires understanding of materials science. building a rocket is an educational experience. goals of the rocket determine power. goals of the rocket determine size. modern rockets requires guidance systems. design outlines detailed plans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rockets have been instrumental in space exploration",
+    "retrieved_context": "building a rocket is a rewarding experience. rocket requires understanding of physics. design considers weight distribution. design outlines propulsion system. design considers aerodynamics. Step 2 is designing the rocket. design outlines detailed drawings. rocket requires clear purpose. goals of the rocket determine design specifications. modern rockets requires sophisticated electronics. design considers stability. rocket requires careful planning. design outlines rocket's structure. design outlines payload capacity. rocket requires clear requirements. rocket requires precise engineering. rocket requires understanding of materials science. Rockets are instrumental in advancing our exploration of space. building a rocket is an educational experience. goals of the rocket determine power. modern rockets requires guidance systems. goals of the rocket determine size. design outlines detailed plans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Building a rocket can be rewarding",
+    "retrieved_context": "building a rocket is a rewarding experience. rocket requires understanding of physics. design considers weight distribution. design outlines propulsion system. design considers aerodynamics. Step 2 is designing the rocket. design outlines detailed drawings. rocket requires clear purpose. goals of the rocket determine design specifications. modern rockets requires sophisticated electronics. design considers stability. rocket requires careful planning. design outlines rocket's structure. design outlines payload capacity. rocket requires clear requirements. rocket requires precise engineering. Step 4 is building the rocket body. rocket requires understanding of materials science. Rockets are instrumental in advancing our exploration of space. building a rocket is an educational experience. goals of the rocket determine power. goals of the rocket determine size. modern rockets requires guidance systems. design outlines detailed plans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Building a rocket can be educational",
+    "retrieved_context": "building a rocket is a rewarding experience. rocket requires understanding of physics. design considers weight distribution. design outlines propulsion system. rocket body constructed from composite materials. design considers aerodynamics. Step 2 is designing the rocket. design outlines detailed drawings. rocket requires clear purpose. goals of the rocket determine design specifications. modern rockets requires sophisticated electronics. design considers stability. rocket requires careful planning. design outlines rocket's structure. design outlines payload capacity. rocket requires clear requirements. rocket requires precise engineering. Step 4 is building the rocket body. rocket body constructed from metal. rocket requires understanding of materials science. building a rocket is an educational experience. goals of the rocket determine power. goals of the rocket determine size. modern rockets requires guidance systems. design outlines detailed plans. rocket body requires design plans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket building involves defining purpose and requirements",
+    "retrieved_context": "building a rocket is a rewarding experience. rocket requires understanding of physics. design considers weight distribution. Step 1 is defining the requirements. design outlines propulsion system. design considers aerodynamics. Step 2 is designing the rocket. design outlines detailed drawings. rocket requires clear purpose. goals of the rocket determine design specifications. modern rockets requires sophisticated electronics. design considers stability. rocket requires careful planning. design outlines rocket's structure. design outlines payload capacity. rocket requires clear requirements. rocket requires precise engineering. Step 4 is building the rocket body. rocket requires understanding of materials science. building a rocket is an educational experience. goals of the rocket determine power. goals of the rocket determine size. modern rockets requires guidance systems. design outlines detailed plans. Step 1 is defining the purpose.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket building involves designing the rocket",
+    "retrieved_context": "building a rocket is a rewarding experience. rocket requires understanding of physics. design considers weight distribution. design outlines propulsion system. rocket body constructed from composite materials. design considers aerodynamics. Step 2 is designing the rocket. design outlines detailed drawings. rocket requires clear purpose. goals of the rocket determine design specifications. modern rockets requires sophisticated electronics. design considers stability. rocket requires careful planning. design outlines rocket's structure. design outlines payload capacity. rocket requires clear requirements. rocket requires precise engineering. Step 4 is building the rocket body. rocket body constructed from metal. rocket requires understanding of materials science. building a rocket is an educational experience. goals of the rocket determine power. goals of the rocket determine size. modern rockets requires guidance systems. design outlines detailed plans. rocket body requires design plans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket building involves gathering materials and components",
+    "retrieved_context": "building a rocket is a rewarding experience. Step 3 is gathering components. rocket requires understanding of physics. design considers weight distribution. design outlines propulsion system. rocket body constructed from composite materials. design considers aerodynamics. Step 2 is designing the rocket. design outlines detailed drawings. rocket requires clear purpose. design considers stability. rocket requires careful planning. design outlines rocket's structure. design outlines payload capacity. rocket requires clear requirements. rocket requires precise engineering. Step 4 is building the rocket body. rocket body constructed from metal. rocket requires understanding of materials science. building a rocket is an educational experience. Step 3 is gathering materials. design outlines detailed plans. rocket body requires design plans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket body is typically constructed from lightweight materials",
+    "retrieved_context": "building a rocket is a rewarding experience. rocket requires understanding of physics. design considers weight distribution. design outlines propulsion system. rocket body constructed from composite materials. design considers aerodynamics. Step 2 is designing the rocket. design outlines detailed drawings. rocket requires clear purpose. modern rockets requires sophisticated electronics. design considers stability. rocket requires careful planning. design outlines rocket's structure. design outlines payload capacity. rocket requires clear requirements. rocket requires precise engineering. Step 4 is building the rocket body. rocket body constructed from metal. rocket requires understanding of materials science. building a rocket is an educational experience. modern rockets requires guidance systems. design outlines detailed plans. rocket body requires design plans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Propulsion system provides thrust to the rocket",
+    "retrieved_context": "building a rocket is a rewarding experience. rocket requires understanding of physics. design considers weight distribution. design outlines propulsion system. design considers aerodynamics. Step 2 is designing the rocket. design outlines detailed drawings. rocket requires clear purpose. goals of the rocket determine design specifications. design considers stability. rocket requires careful planning. design outlines rocket's structure. design outlines payload capacity. propulsion system provides thrust. rocket requires clear requirements. rocket requires precise engineering. Step 5 is installing the propulsion system. rocket requires understanding of materials science. propulsion system constructed from liquid fuel engines. building a rocket is an educational experience. goals of the rocket determine power. goals of the rocket determine size. propulsion system constructed from solid fuel engines. design outlines detailed plans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern rockets use sophisticated electronics and guidance systems",
+    "retrieved_context": "building a rocket is a rewarding experience. rocket requires understanding of physics. design considers weight distribution. design outlines propulsion system. design considers aerodynamics. Step 2 is designing the rocket. design outlines detailed drawings. rocket requires clear purpose. goals of the rocket determine design specifications. modern rockets requires sophisticated electronics. design considers stability. rocket requires careful planning. design outlines rocket's structure. design outlines payload capacity. rocket requires clear requirements. rocket requires precise engineering. rocket requires understanding of materials science. building a rocket is an educational experience. goals of the rocket determine power. modern rockets requires guidance systems. goals of the rocket determine size. design outlines detailed plans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Testing is essential before launching the rocket",
+    "retrieved_context": "building a rocket is a rewarding experience. rocket requires understanding of physics. design considers weight distribution. design outlines propulsion system. design considers aerodynamics. Step 2 is designing the rocket. design outlines detailed drawings. rocket requires clear purpose. goals of the rocket determine design specifications. modern rockets requires sophisticated electronics. design considers stability. rocket requires careful planning. design outlines rocket's structure. design outlines payload capacity. rocket requires clear requirements. rocket requires precise engineering. Step 4 is building the rocket body. rocket requires understanding of materials science. Step 7 is launching. building a rocket is an educational experience. goals of the rocket determine power. Step 7 is Step 7. goals of the rocket determine size. modern rockets requires guidance systems. design outlines detailed plans. Step 7 considers potential issues.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Building a rocket requires a deep understanding of science and engineering principles",
+    "retrieved_context": "building a rocket is a rewarding experience. rocket requires understanding of physics. design considers weight distribution. design outlines propulsion system. design considers aerodynamics. Step 2 is designing the rocket. design outlines detailed drawings. rocket requires clear purpose. goals of the rocket determine design specifications. modern rockets requires sophisticated electronics. design considers stability. rocket requires careful planning. design outlines rocket's structure. design outlines payload capacity. rocket requires clear requirements. rocket requires precise engineering. Step 4 is building the rocket body. rocket requires understanding of materials science. building a rocket is an educational experience. goals of the rocket determine power. goals of the rocket determine size. modern rockets requires guidance systems. design outlines detailed plans.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

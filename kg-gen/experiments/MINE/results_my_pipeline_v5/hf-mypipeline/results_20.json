@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Cryptocurrencies revolutionized the way we think about money and transactions.",
+    "retrieved_context": "Cryptocurrencies swept through financial world. Bitcoin created by Satoshi Nakamoto. Cryptocurrencies pose_risks due to volatility. Cryptocurrencies attracted investors seeking high returns. Bitcoin created in 2009. Cryptocurrencies operate_on peer-to-peer network. Governments is a contentious issue overseeing cryptocurrencies. Cryptocurrencies reshaping the way we think about money and finance. Cryptocurrencies offer financial inclusion. Regulation is a contentious issue in the cryptocurrency space. Cryptocurrencies have become significant player in the global economy. Blockchain is a distributed ledger technology. Blockchain ensures transparency and immutability of transactions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bitcoin was created in 2009 by an anonymous individual or group known as Satoshi Nakamoto.",
+    "retrieved_context": "Cryptocurrencies swept through financial world. Bitcoin created by Satoshi Nakamoto. Bitcoin created in 2009. Cryptocurrencies attracted investors seeking high returns. Cryptocurrencies pose_risks due to volatility. Cryptocurrencies operate_on peer-to-peer network. Governments is a contentious issue overseeing cryptocurrencies. Cryptocurrencies reshaping the way we think about money and finance. Cryptocurrencies offer financial inclusion. Regulation is a contentious issue in the cryptocurrency space. Cryptocurrencies have become significant player in the global economy. Blockchain is a distributed ledger technology. Blockchain ensures transparency and immutability of transactions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cryptocurrencies have become a significant player in the global economy.",
+    "retrieved_context": "Cryptocurrencies swept through financial world. Bitcoin created by Satoshi Nakamoto. Cryptocurrencies pose_risks due to volatility. Cryptocurrencies attracted investors seeking high returns. Bitcoin created in 2009. Cryptocurrencies operate_on peer-to-peer network. Governments is a contentious issue overseeing cryptocurrencies. Cryptocurrencies reshaping the way we think about money and finance. Cryptocurrencies offer financial inclusion. Regulation is a contentious issue in the cryptocurrency space. Cryptocurrencies have become significant player in the global economy. Blockchain is a distributed ledger technology. Blockchain ensures transparency and immutability of transactions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cryptocurrencies are decentralized digital assets.",
+    "retrieved_context": "Cryptocurrencies swept through financial world. Bitcoin created by Satoshi Nakamoto. Cryptocurrencies pose_risks due to volatility. Cryptocurrencies attracted investors seeking high returns. Bitcoin created in 2009. Cryptocurrencies operate_on peer-to-peer network. Governments is a contentious issue overseeing cryptocurrencies. Cryptocurrencies reshaping the way we think about money and finance. Cryptocurrencies offer financial inclusion. Regulation is a contentious issue in the cryptocurrency space. Cryptocurrencies have become significant player in the global economy. Blockchain is a distributed ledger technology. Blockchain ensures transparency and immutability of transactions. Smart contracts is a self-executing contracts.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cryptocurrencies operate on a peer-to-peer network.",
+    "retrieved_context": "Cryptocurrencies swept through financial world. Bitcoin created by Satoshi Nakamoto. Cryptocurrencies pose_risks due to volatility. Cryptocurrencies attracted investors seeking high returns. Bitcoin created in 2009. Cryptocurrencies operate_on peer-to-peer network. Governments is a contentious issue overseeing cryptocurrencies. Cryptocurrencies reshaping the way we think about money and finance. Cryptocurrencies offer financial inclusion. Regulation is a contentious issue in the cryptocurrency space. Cryptocurrencies have become significant player in the global economy. Blockchain is a distributed ledger technology. Blockchain ensures transparency and immutability of transactions. Smart contracts is a self-executing contracts.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Transactions occur directly between users without intermediaries in cryptocurrencies.",
+    "retrieved_context": "Cryptocurrencies swept through financial world. Bitcoin created by Satoshi Nakamoto. Cryptocurrencies pose_risks due to volatility. Cryptocurrencies attracted investors seeking high returns. Bitcoin created in 2009. Cryptocurrencies operate_on peer-to-peer network. Governments is a contentious issue overseeing cryptocurrencies. Cryptocurrencies reshaping the way we think about money and finance. Cryptocurrencies offer financial inclusion. Regulation is a contentious issue in the cryptocurrency space. Cryptocurrencies have become significant player in the global economy. Blockchain is a distributed ledger technology. Blockchain ensures transparency and immutability of transactions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Decentralization provides users with more control over their funds in cryptocurrencies.",
+    "retrieved_context": "Cryptocurrencies swept through financial world. Bitcoin created by Satoshi Nakamoto. Cryptocurrencies pose_risks due to volatility. Cryptocurrencies attracted investors seeking high returns. Bitcoin created in 2009. Cryptocurrencies operate_on peer-to-peer network. Governments is a contentious issue overseeing cryptocurrencies. Cryptocurrencies reshaping the way we think about money and finance. Cryptocurrencies offer financial inclusion. Regulation is a contentious issue in the cryptocurrency space. Cryptocurrencies have become significant player in the global economy. Blockchain is a distributed ledger technology. Blockchain ensures transparency and immutability of transactions. Smart contracts is a self-executing contracts.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Decentralization enhances security and privacy in cryptocurrencies.",
+    "retrieved_context": "Cryptocurrencies swept through financial world. Bitcoin created by Satoshi Nakamoto. Cryptocurrencies pose_risks due to volatility. Cryptocurrencies attracted investors seeking high returns. Bitcoin created in 2009. Cryptocurrencies operate_on peer-to-peer network. Governments is a contentious issue overseeing cryptocurrencies. Cryptocurrencies reshaping the way we think about money and finance. Cryptocurrencies offer financial inclusion. Regulation is a contentious issue in the cryptocurrency space. Cryptocurrencies have become significant player in the global economy. Blockchain is a distributed ledger technology. Blockchain ensures transparency and immutability of transactions. Smart contracts is a self-executing contracts.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Blockchain is the technology that underpins cryptocurrencies.",
+    "retrieved_context": "Cryptocurrencies swept through financial world. Bitcoin created by Satoshi Nakamoto. Cryptocurrencies pose_risks due to volatility. Cryptocurrencies attracted investors seeking high returns. Bitcoin created in 2009. Cryptocurrencies operate_on peer-to-peer network. Governments is a contentious issue overseeing cryptocurrencies. Cryptocurrencies reshaping the way we think about money and finance. Cryptocurrencies offer financial inclusion. Regulation is a contentious issue in the cryptocurrency space. Cryptocurrencies have become significant player in the global economy. Blockchain is a distributed ledger technology. Blockchain ensures transparency and immutability of transactions. Smart contracts is a self-executing contracts.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blockchain ensures transparency and immutability of transactions.",
+    "retrieved_context": "Cryptocurrencies swept through financial world. Bitcoin created by Satoshi Nakamoto. Cryptocurrencies attracted investors seeking high returns. Cryptocurrencies pose_risks due to volatility. Bitcoin created in 2009. Cryptocurrencies operate_on peer-to-peer network. Governments is a contentious issue overseeing cryptocurrencies. Cryptocurrencies reshaping the way we think about money and finance. Cryptocurrencies offer financial inclusion. Regulation is a contentious issue in the cryptocurrency space. Cryptocurrencies have become significant player in the global economy. Blockchain is a distributed ledger technology. Blockchain ensures transparency and immutability of transactions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Each transaction in blockchain is recorded in a block.",
+    "retrieved_context": "Cryptocurrencies swept through financial world. Bitcoin created in 2009. Bitcoin created by Satoshi Nakamoto. Cryptocurrencies attracted investors seeking high returns. Cryptocurrencies pose_risks due to volatility. Cryptocurrencies operate_on peer-to-peer network. Governments is a contentious issue overseeing cryptocurrencies. Cryptocurrencies reshaping the way we think about money and finance. Cryptocurrencies offer financial inclusion. Regulation is a contentious issue in the cryptocurrency space. Cryptocurrencies have become significant player in the global economy. Blockchain is a distributed ledger technology. Blockchain ensures transparency and immutability of transactions. Smart contracts is a self-executing contracts.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Blockchain forms a chain of blocks that cannot be altered once validated.",
+    "retrieved_context": "Cryptocurrencies swept through financial world. Bitcoin created by Satoshi Nakamoto. Bitcoin created in 2009. Cryptocurrencies attracted investors seeking high returns. Cryptocurrencies pose_risks due to volatility. Cryptocurrencies operate_on peer-to-peer network. Governments is a contentious issue overseeing cryptocurrencies. Cryptocurrencies reshaping the way we think about money and finance. Cryptocurrencies offer financial inclusion. Regulation is a contentious issue in the cryptocurrency space. Cryptocurrencies have become significant player in the global economy. Blockchain is a distributed ledger technology. Blockchain ensures transparency and immutability of transactions. Smart contracts is a self-executing contracts.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smart contracts are self-executing contracts with terms written into code.",
+    "retrieved_context": "Cryptocurrencies swept through financial world. Cryptocurrencies attracted investors seeking high returns. Cryptocurrencies pose_risks due to volatility. Cryptocurrencies operate_on peer-to-peer network. Governments is a contentious issue overseeing cryptocurrencies. Cryptocurrencies reshaping the way we think about money and finance. Cryptocurrencies offer financial inclusion. Regulation is a contentious issue in the cryptocurrency space. Cryptocurrencies have become significant player in the global economy. Blockchain is a distributed ledger technology. Blockchain ensures transparency and immutability of transactions. Smart contracts is a self-executing contracts.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smart contracts automatically enforce and execute themselves when conditions are met.",
+    "retrieved_context": "Governments is a contentious issue overseeing cryptocurrencies. Regulation is a contentious issue in the cryptocurrency space. Blockchain is a distributed ledger technology. Blockchain ensures transparency and immutability of transactions. Smart contracts is a self-executing contracts.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cryptocurrencies offer financial inclusion to individuals in underserved communities.",
+    "retrieved_context": "Cryptocurrencies swept through financial world. Bitcoin created by Satoshi Nakamoto. Cryptocurrencies pose_risks due to volatility. Cryptocurrencies attracted investors seeking high returns. Bitcoin created in 2009. Cryptocurrencies operate_on peer-to-peer network. Governments is a contentious issue overseeing cryptocurrencies. Cryptocurrencies reshaping the way we think about money and finance. Cryptocurrencies offer financial inclusion. Regulation is a contentious issue in the cryptocurrency space. Cryptocurrencies have become significant player in the global economy. Blockchain is a distributed ledger technology. Blockchain ensures transparency and immutability of transactions.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

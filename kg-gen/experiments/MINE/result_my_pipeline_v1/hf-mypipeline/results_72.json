@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Leonardo da Vinci painted the Mona Lisa in the early 16th century.",
+    "retrieved_context": "frescoes features Creation of Adam. Les Demoiselles d'Avignon is painting. Caravaggio is artist. Mona Lisa known for timeless beauty. paintings features water lilies. Mona Lisa is masterpiece. Michelangelo is artist. Leonardo da Vinci known for Mona Lisa. Leonardo da Vinci was inventor. Pablo Picasso is artist. Michelangelo created frescoes. Les Demoiselles d'Avignon challenged traditional notions of perspective. Claude Monet is artist. Leonardo da Vinci is artist. Mona Lisa painted in early 16th century. Claude Monet known for series of paintings. Mona Lisa showcases da Vinci's technical skill. paintings features gardens. Leonardo da Vinci was scientist. frescoes painted in 1508 and 1512. frescoes features Last Judgment. frescoes located on ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Mona Lisa is considered a masterpiece of the Renaissance period.",
+    "retrieved_context": "frescoes features Creation of Adam. artists was perception of the world. Caravaggio is artist. Mona Lisa known for timeless beauty. artists challenged conventional notions of art. paintings features water lilies. Michelangelo is artist. Mona Lisa is masterpiece. Leonardo da Vinci known for Mona Lisa. Leonardo da Vinci was inventor. Pablo Picasso is artist. Michelangelo created frescoes. Claude Monet is artist. Leonardo da Vinci is artist. Mona Lisa painted in early 16th century. artists was shaping art history. masterpieces serve as testament to the power of art. Claude Monet known for series of paintings. Mona Lisa showcases da Vinci's technical skill. paintings features gardens. artists extended boundaries of creativity. Leonardo da Vinci was scientist. frescoes painted in 1508 and 1512. frescoes features Last Judgment. frescoes located on ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Michelangelo painted the frescoes on the ceiling of the Sistine Chapel between 1508 and 1512.",
+    "retrieved_context": "frescoes features Creation of Adam. Les Demoiselles d'Avignon is painting. Caravaggio is artist. Mona Lisa known for timeless beauty. paintings features water lilies. Michelangelo is artist. Mona Lisa is masterpiece. Pablo Picasso is artist. Leonardo da Vinci known for Mona Lisa. Leonardo da Vinci was inventor. Michelangelo created frescoes. Les Demoiselles d'Avignon challenged traditional notions of perspective. Claude Monet is artist. Leonardo da Vinci is artist. Mona Lisa painted in early 16th century. Claude Monet known for series of paintings. Mona Lisa showcases da Vinci's technical skill. paintings features gardens. Leonardo da Vinci was scientist. frescoes painted in 1508 and 1512. frescoes features Last Judgment. frescoes located on ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The frescoes on the Sistine Chapel ceiling feature scenes from the Bible.",
+    "retrieved_context": "frescoes features Creation of Adam. Caravaggio known for use of light and shadow. Caravaggio is artist. Mona Lisa known for timeless beauty. paintings features water lilies. Michelangelo is artist. Mona Lisa is masterpiece. Pablo Picasso is artist. Leonardo da Vinci known for Mona Lisa. Leonardo da Vinci was inventor. Michelangelo created frescoes. Claude Monet is artist. Leonardo da Vinci is artist. Mona Lisa painted in early 16th century. Caravaggio created The Calling of Saint Matthew. masterpieces serve as testament to the power of art. Claude Monet known for series of paintings. Mona Lisa showcases da Vinci's technical skill. paintings features gardens. Leonardo da Vinci was scientist. frescoes painted in 1508 and 1512. frescoes features Last Judgment. frescoes located on ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Caravaggio was known for his dramatic use of light and shadow in his paintings.",
+    "retrieved_context": "Les Demoiselles d'Avignon is painting. frescoes features Creation of Adam. Caravaggio known for use of light and shadow. self-portraits created self-portraits. artists was perception of the world. Caravaggio is artist. artists challenged conventional notions of art. paintings features water lilies. Michelangelo is artist. Pablo Picasso is artist. Michelangelo created frescoes. Les Demoiselles d'Avignon challenged traditional notions of perspective. Claude Monet is artist. Leonardo da Vinci is artist. artists was shaping art history. Caravaggio created The Calling of Saint Matthew. Claude Monet known for series of paintings. self-portraits is powerful. paintings features gardens. artists extended boundaries of creativity. frescoes painted in 1508 and 1512. frescoes features Last Judgment. frescoes located on ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "One of Caravaggio's famous works is 'The Calling of Saint Matthew'.",
+    "retrieved_context": "frescoes features Creation of Adam. Caravaggio known for use of light and shadow. Caravaggio is artist. Mona Lisa known for timeless beauty. Mona Lisa is masterpiece. Michelangelo is artist. Pablo Picasso is artist. Leonardo da Vinci known for Mona Lisa. Leonardo da Vinci was inventor. Michelangelo created frescoes. Claude Monet is artist. Leonardo da Vinci is artist. Mona Lisa painted in early 16th century. Caravaggio created The Calling of Saint Matthew. masterpieces serve as testament to the power of art. Mona Lisa showcases da Vinci's technical skill. Leonardo da Vinci was scientist. frescoes painted in 1508 and 1512. frescoes features Last Judgment. frescoes located on ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Claude Monet is famous for his series of paintings of water lilies and gardens at Giverny.",
+    "retrieved_context": "Caravaggio is artist. Pablo Picasso is artist. landscapes is emotionally charged. Les Demoiselles d'Avignon is painting. Claude Monet known for series of paintings. paintings features water lilies. Vincent van Gogh created landscapes. Les Demoiselles d'Avignon challenged traditional notions of perspective. paintings features gardens. Claude Monet is artist. Leonardo da Vinci is artist. Michelangelo is artist.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Monet's paintings are known for their loose brushwork and vibrant colors.",
+    "retrieved_context": "Les Demoiselles d'Avignon is painting. frescoes features Creation of Adam. self-portraits created self-portraits. artists was perception of the world. Caravaggio is artist. artists challenged conventional notions of art. paintings features water lilies. Michelangelo is artist. Pablo Picasso is artist. Michelangelo created frescoes. Les Demoiselles d'Avignon challenged traditional notions of perspective. Claude Monet is artist. Leonardo da Vinci is artist. artists was shaping art history. Claude Monet known for series of paintings. self-portraits is powerful. paintings features gardens. artists extended boundaries of creativity. frescoes painted in 1508 and 1512. frescoes features Last Judgment. frescoes located on ceiling of the Sistine Chapel.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pablo Picasso was a pioneer of Cubism in the 20th century.",
+    "retrieved_context": "Caravaggio known for use of light and shadow. Pablo Picasso was revolutionary techniques. artists was perception of the world. works captivates audiences. Caravaggio is artist. artists challenged conventional notions of art. paintings features water lilies. Michelangelo is artist. Pablo Picasso is artist. landscapes is emotionally charged. Leonardo da Vinci known for Mona Lisa. Leonardo da Vinci was inventor. Michelangelo created frescoes. Claude Monet is artist. Leonardo da Vinci is artist. artists was shaping art history. works inspires new generations of artists. Caravaggio created The Calling of Saint Matthew. Claude Monet known for series of paintings. Pablo Picasso was pioneer of Cubism. Vincent van Gogh created landscapes. paintings features gardens. artists extended boundaries of creativity. Leonardo da Vinci was scientist.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Picasso's painting 'Les Demoiselles d'Avignon' shattered traditional notions of perspective.",
+    "retrieved_context": "Caravaggio is artist. Pablo Picasso is artist. Les Demoiselles d'Avignon is painting. Claude Monet known for series of paintings. Pablo Picasso was pioneer of Cubism. paintings features water lilies. Pablo Picasso was revolutionary techniques. Les Demoiselles d'Avignon challenged traditional notions of perspective. paintings features gardens. artists challenged conventional notions of art. artists was perception of the world. artists extended boundaries of creativity. Claude Monet is artist. Leonardo da Vinci is artist. Michelangelo is artist. artists was shaping art history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Vincent van Gogh created emotionally charged landscapes in his artworks.",
+    "retrieved_context": "Caravaggio is artist. landscapes is emotionally charged. Pablo Picasso is artist. Claude Monet known for series of paintings. Pablo Picasso was pioneer of Cubism. Pablo Picasso was revolutionary techniques. Vincent van Gogh created landscapes. Leonardo da Vinci is artist. paintings features gardens. artists challenged conventional notions of art. artists extended boundaries of creativity. artists was perception of the world. Claude Monet is artist. paintings features water lilies. Michelangelo is artist. artists was shaping art history.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Frida Kahlo is known for her powerful self-portraits.",
+    "retrieved_context": "frescoes features Creation of Adam. Pablo Picasso was revolutionary techniques. self-portraits created self-portraits. Caravaggio is artist. Mona Lisa known for timeless beauty. paintings features water lilies. Michelangelo is artist. Mona Lisa is masterpiece. Leonardo da Vinci known for Mona Lisa. Leonardo da Vinci was inventor. Pablo Picasso is artist. Michelangelo created frescoes. Claude Monet is artist. Leonardo da Vinci is artist. Mona Lisa painted in early 16th century. self-portraits is powerful. Pablo Picasso was pioneer of Cubism. masterpieces serve as testament to the power of art. Mona Lisa showcases da Vinci's technical skill. paintings features gardens. Leonardo da Vinci was scientist. frescoes painted in 1508 and 1512. frescoes features Last Judgment. frescoes located on ceiling of the Sistine Chapel.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Artists like Leonardo da Vinci embodied the Renaissance ideal of the 'Renaissance man'.",
+    "retrieved_context": "frescoes features Creation of Adam. artists was perception of the world. works captivates audiences. Caravaggio is artist. Mona Lisa known for timeless beauty. artists challenged conventional notions of art. paintings features water lilies. Mona Lisa is masterpiece. Michelangelo is artist. Leonardo da Vinci known for Mona Lisa. Leonardo da Vinci was inventor. Pablo Picasso is artist. Michelangelo created frescoes. Claude Monet is artist. Leonardo da Vinci is artist. Mona Lisa painted in early 16th century. artists was shaping art history. works inspires new generations of artists. masterpieces serve as testament to the power of art. Mona Lisa showcases da Vinci's technical skill. paintings features gardens. artists extended boundaries of creativity. Leonardo da Vinci was scientist. frescoes painted in 1508 and 1512. frescoes features Last Judgment. frescoes located on ceiling of the Sistine Chapel.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Michelangelo's work on the Sistine Chapel ceiling continues to inspire artists.",
+    "retrieved_context": "frescoes features Creation of Adam. artists was perception of the world. Caravaggio is artist. Mona Lisa known for timeless beauty. artists challenged conventional notions of art. paintings features water lilies. Mona Lisa is masterpiece. Michelangelo is artist. Pablo Picasso is artist. Leonardo da Vinci known for Mona Lisa. Leonardo da Vinci was inventor. Michelangelo created frescoes. Claude Monet is artist. Leonardo da Vinci is artist. Mona Lisa painted in early 16th century. artists was shaping art history. masterpieces serve as testament to the power of art. Mona Lisa showcases da Vinci's technical skill. paintings features gardens. artists extended boundaries of creativity. Leonardo da Vinci was scientist. frescoes painted in 1508 and 1512. frescoes features Last Judgment. frescoes located on ceiling of the Sistine Chapel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Impressionists aimed to capture the effects of light and color in their paintings.",
+    "retrieved_context": "Caravaggio created The Calling of Saint Matthew. Caravaggio is artist. landscapes is emotionally charged. Les Demoiselles d'Avignon is painting. Claude Monet known for series of paintings. Caravaggio known for use of light and shadow. Les Demoiselles d'Avignon challenged traditional notions of perspective. Vincent van Gogh created landscapes. paintings features gardens. artists challenged conventional notions of art. Claude Monet is artist. artists extended boundaries of creativity. artists was perception of the world. paintings features water lilies. artists was shaping art history.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Modern medicine has made significant advancements over the past few centuries.",
+    "retrieved_context": "wearable devices revolutionized healthcare delivery. telemedicine revolutionized healthcare delivery. penicillin marked antibiotic era. Robert Koch developed germ theory. germ theory marked milestone in history of medicine. germ theory paved the way for development of vaccines. Alexander Fleming discovered penicillin. Louis Pasteur developed germ theory. artificial intelligence revolutionized healthcare delivery. modern medicine improved significant advancements. germ theory paved the way for development of antibiotics. personalized medicine aims to tailor treatments. evolution of medicine originates_from ancient civilizations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern medicine has revolutionized healthcare practices.",
+    "retrieved_context": "wearable devices revolutionized healthcare delivery. telemedicine revolutionized healthcare delivery. penicillin marked antibiotic era. Robert Koch developed germ theory. germ theory marked milestone in history of medicine. germ theory paved the way for development of vaccines. electronic health records improved coordination among healthcare providers. Alexander Fleming discovered penicillin. Louis Pasteur developed germ theory. artificial intelligence revolutionized healthcare delivery. electronic health records improved communication. modern medicine improved significant advancements. germ theory paved the way for development of antibiotics. personalized medicine aims to tailor treatments. evolution of medicine originates_from ancient civilizations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern medicine has improved the quality of life for individuals worldwide.",
+    "retrieved_context": "wearable devices revolutionized healthcare delivery. telemedicine revolutionized healthcare delivery. penicillin marked antibiotic era. Robert Koch developed germ theory. germ theory marked milestone in history of medicine. germ theory paved the way for development of vaccines. electronic health records improved coordination among healthcare providers. Alexander Fleming discovered penicillin. Louis Pasteur developed germ theory. artificial intelligence revolutionized healthcare delivery. electronic health records improved communication. modern medicine improved significant advancements. germ theory paved the way for development of antibiotics. personalized medicine aims to tailor treatments. evolution of medicine originates_from ancient civilizations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The evolution of medicine can be traced back to ancient civilizations.",
+    "retrieved_context": "wearable devices revolutionized healthcare delivery. telemedicine revolutionized healthcare delivery. penicillin marked antibiotic era. Robert Koch developed germ theory. germ theory marked milestone in history of medicine. germ theory paved the way for development of vaccines. electronic health records improved coordination among healthcare providers. Alexander Fleming discovered penicillin. Louis Pasteur developed germ theory. artificial intelligence revolutionized healthcare delivery. electronic health records improved communication. modern medicine improved significant advancements. germ theory paved the way for development of antibiotics. personalized medicine aims to tailor treatments. evolution of medicine originates_from ancient civilizations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Primitive forms of medical treatment were practiced in ancient civilizations.",
+    "retrieved_context": "wearable devices revolutionized healthcare delivery. telemedicine revolutionized healthcare delivery. penicillin marked antibiotic era. Robert Koch developed germ theory. germ theory marked milestone in history of medicine. germ theory paved the way for development of vaccines. Alexander Fleming discovered penicillin. Louis Pasteur developed germ theory. artificial intelligence revolutionized healthcare delivery. modern medicine improved significant advancements. germ theory paved the way for development of antibiotics. personalized medicine aims to tailor treatments. evolution of medicine originates_from ancient civilizations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Scientific discoveries and technological innovations have paved the way for sophisticated medical practices.",
+    "retrieved_context": "wearable devices revolutionized healthcare delivery. telemedicine revolutionized healthcare delivery. penicillin marked antibiotic era. Robert Koch developed germ theory. germ theory marked milestone in history of medicine. germ theory paved the way for development of vaccines. electronic health records improved coordination among healthcare providers. Alexander Fleming discovered penicillin. Louis Pasteur developed germ theory. artificial intelligence revolutionized healthcare delivery. electronic health records improved communication. modern medicine improved significant advancements. germ theory paved the way for development of antibiotics. personalized medicine aims to tailor treatments. evolution of medicine originates_from ancient civilizations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "One key development in modern medicine is the understanding of human anatomy and physiology.",
+    "retrieved_context": "Robert Koch developed germ theory. germ theory marked milestone in history of medicine. germ theory paved the way for development of vaccines. detailed dissections used to understand structure of the human body. Wilhelm Roentgen developed Wilhelm Roentgen. detailed dissections performed detailed dissections. Wilhelm Roentgen revolutionized medical imaging. detailed dissections challenges traditional beliefs. Louis Pasteur developed germ theory. modern medicine improved significant advancements. germ theory paved the way for development of antibiotics. personalized medicine aims to tailor treatments. evolution of medicine originates_from ancient civilizations.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The study of anatomy began to take shape during the Renaissance period.",
+    "retrieved_context": "Robert Koch developed germ theory. germ theory marked milestone in history of medicine. germ theory paved the way for development of vaccines. detailed dissections used to understand structure of the human body. William Morton developed anesthesia. Wilhelm Roentgen developed Wilhelm Roentgen. detailed dissections performed detailed dissections. Wilhelm Roentgen revolutionized medical imaging. detailed dissections challenges traditional beliefs. Louis Pasteur developed germ theory. modern medicine improved significant advancements. germ theory paved the way for development of antibiotics. anesthesia revolutionized surgical procedures. evolution of medicine originates_from ancient civilizations.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Andreas Vesalius challenged traditional beliefs and conducted detailed dissections to understand the human body.",
+    "retrieved_context": "Robert Koch developed germ theory. germ theory marked milestone in history of medicine. germ theory paved the way for development of vaccines. detailed dissections used to understand structure of the human body. Wilhelm Roentgen developed Wilhelm Roentgen. detailed dissections performed detailed dissections. Wilhelm Roentgen revolutionized medical imaging. detailed dissections challenges traditional beliefs. Louis Pasteur developed germ theory. modern medicine improved significant advancements. germ theory paved the way for development of antibiotics. evolution of medicine originates_from ancient civilizations.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The discovery of germs and the development of germ theory by Louis Pasteur and Robert Koch marked a milestone in medicine.",
+    "retrieved_context": "penicillin marked antibiotic era. Robert Koch developed germ theory. germ theory marked milestone in history of medicine. germ theory paved the way for development of vaccines. Alexander Fleming discovered penicillin. Louis Pasteur developed germ theory. modern medicine improved significant advancements. germ theory paved the way for development of antibiotics. personalized medicine aims to tailor treatments. evolution of medicine originates_from ancient civilizations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The identification of specific microorganisms as the cause of diseases revolutionized medicine.",
+    "retrieved_context": "penicillin marked antibiotic era. Robert Koch developed germ theory. germ theory marked milestone in history of medicine. germ theory paved the way for development of vaccines. Alexander Fleming discovered penicillin. Louis Pasteur developed germ theory. modern medicine improved significant advancements. germ theory paved the way for development of antibiotics. personalized medicine aims to tailor treatments. evolution of medicine originates_from ancient civilizations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The 20th century witnessed rapid advancements in medical technology.",
+    "retrieved_context": "wearable devices revolutionized healthcare delivery. telemedicine revolutionized healthcare delivery. penicillin marked antibiotic era. Robert Koch developed germ theory. germ theory marked milestone in history of medicine. germ theory paved the way for development of vaccines. Alexander Fleming discovered penicillin. Wilhelm Roentgen developed Wilhelm Roentgen. Wilhelm Roentgen revolutionized medical imaging. Louis Pasteur developed germ theory. artificial intelligence revolutionized healthcare delivery. modern medicine improved significant advancements. germ theory paved the way for development of antibiotics. evolution of medicine originates_from ancient civilizations.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The invention of the X-ray by Wilhelm Roentgen revolutionized medical imaging.",
+    "retrieved_context": "penicillin marked antibiotic era. Robert Koch developed germ theory. germ theory marked milestone in history of medicine. germ theory paved the way for development of vaccines. Alexander Fleming discovered penicillin. Wilhelm Roentgen developed Wilhelm Roentgen. William Morton developed anesthesia. Wilhelm Roentgen revolutionized medical imaging. Louis Pasteur developed germ theory. modern medicine improved significant advancements. germ theory paved the way for development of antibiotics. anesthesia revolutionized surgical procedures. evolution of medicine originates_from ancient civilizations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The pharmaceutical industry has played a crucial role in the development of modern medicine.",
+    "retrieved_context": "wearable devices revolutionized healthcare delivery. telemedicine revolutionized healthcare delivery. penicillin marked antibiotic era. Robert Koch developed germ theory. germ theory marked milestone in history of medicine. germ theory paved the way for development of vaccines. Alexander Fleming discovered penicillin. Louis Pasteur developed germ theory. artificial intelligence revolutionized healthcare delivery. modern medicine improved significant advancements. germ theory paved the way for development of antibiotics. personalized medicine aims to tailor treatments. evolution of medicine originates_from ancient civilizations.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The discovery of penicillin by Alexander Fleming revolutionized the treatment of bacterial infections.",
+    "retrieved_context": "penicillin marked antibiotic era. Robert Koch developed germ theory. germ theory marked milestone in history of medicine. germ theory paved the way for development of vaccines. Alexander Fleming discovered penicillin. Louis Pasteur developed germ theory. modern medicine improved significant advancements. germ theory paved the way for development of antibiotics. personalized medicine aims to tailor treatments. evolution of medicine originates_from ancient civilizations.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

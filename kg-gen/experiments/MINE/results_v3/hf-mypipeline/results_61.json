@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The wheel was invented around 3500 BC in Mesopotamia.",
+    "retrieved_context": "internet invented in late 20th century. wheel invented in Mesopotamia. printing press invented by Johannes Gutenberg. light bulb invented in late 19th century. light bulb revolutionized illumination. ENIAC is first electronic digital computer. internet invented by Tim Berners-Lee. wheel invented around 3500 BC. wheel revolutionized transportation. printing press invented in 15th century. internet revolutionized information access. ENIAC invented around 1940s. printing press revolutionized information dissemination. light bulb invented by Thomas Edison.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The wheel revolutionized transportation and enabled the development of wheeled vehicles.",
+    "retrieved_context": "computer invented in 20th century. internet invented in late 20th century. steam engine revolutionized manufacturing processes. wheel invented in Mesopotamia. light bulb invented in late 19th century. steam engine powers machinery. steam engine invented in 18th century. steam engine invented by James Watt. light bulb revolutionized illumination. steam engine invented by Thomas Newcomen. internet invented by Tim Berners-Lee. wheel invented around 3500 BC. wheel revolutionized transportation. internet revolutionized information access. telephone invented in 19th century. telephone revolutionized communication. telephone invented by Alexander Graham Bell. light bulb invented by Thomas Edison.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The printing press was invented by Johannes Gutenberg in the 15th century.",
+    "retrieved_context": "internet invented in late 20th century. steam engine revolutionized manufacturing processes. light bulb invented in late 19th century. printing press invented by Johannes Gutenberg. light bulb revolutionized illumination. steam engine powers machinery. steam engine invented in 18th century. steam engine invented by James Watt. steam engine invented by Thomas Newcomen. telephone invented in 19th century. printing press invented in 15th century. internet invented by Tim Berners-Lee. internet revolutionized information access. printing press revolutionized information dissemination. telephone revolutionized communication. telephone invented by Alexander Graham Bell. light bulb invented by Thomas Edison.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The printing press revolutionized the dissemination of information.",
+    "retrieved_context": "computer invented in 20th century. internet invented in late 20th century. steam engine revolutionized manufacturing processes. printing press invented by Johannes Gutenberg. steam engine powers machinery. steam engine invented in 18th century. steam engine invented by James Watt. steam engine invented by Thomas Newcomen. internet invented by Tim Berners-Lee. printing press invented in 15th century. internet revolutionized information access. telephone invented in 19th century. ENIAC is first electronic digital computer. ENIAC invented around 1940s. printing press revolutionized information dissemination. telephone revolutionized communication. telephone invented by Alexander Graham Bell.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The steam engine was invented in the 18th century.",
+    "retrieved_context": "computer invented in 20th century. internet invented in late 20th century. steam engine revolutionized manufacturing processes. light bulb invented in late 19th century. steam engine powers machinery. steam engine invented by James Watt. steam engine invented in 18th century. light bulb revolutionized illumination. steam engine invented by Thomas Newcomen. telephone invented in 19th century. internet invented by Tim Berners-Lee. internet revolutionized information access. telephone revolutionized communication. telephone invented by Alexander Graham Bell. light bulb invented by Thomas Edison.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The steam engine powered machinery and revolutionized manufacturing processes.",
+    "retrieved_context": "internet invented in late 20th century. steam engine revolutionized manufacturing processes. printing press invented by Johannes Gutenberg. steam engine powers machinery. steam engine invented by James Watt. steam engine invented in 18th century. light bulb invented in late 19th century. light bulb revolutionized illumination. steam engine invented by Thomas Newcomen. telephone invented in 19th century. printing press invented in 15th century. internet invented by Tim Berners-Lee. internet revolutionized information access. printing press revolutionized information dissemination. telephone revolutionized communication. telephone invented by Alexander Graham Bell. light bulb invented by Thomas Edison.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The telephone was invented by Alexander Graham Bell in the 19th century.",
+    "retrieved_context": "computer invented in 20th century. internet invented in late 20th century. steam engine revolutionized manufacturing processes. light bulb invented in late 19th century. light bulb revolutionized illumination. steam engine powers machinery. steam engine invented in 18th century. steam engine invented by James Watt. steam engine invented by Thomas Newcomen. telephone invented in 19th century. internet invented by Tim Berners-Lee. internet revolutionized information access. telephone revolutionized communication. telephone invented by Alexander Graham Bell. light bulb invented by Thomas Edison.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The telephone transformed communication over long distances.",
+    "retrieved_context": "computer invented in 20th century. internet invented in late 20th century. ENIAC invented around 1940s. wheel invented in Mesopotamia. printing press invented by Johannes Gutenberg. ENIAC is first electronic digital computer. telephone invented in 19th century. printing press invented in 15th century. internet invented by Tim Berners-Lee. internet revolutionized information access. wheel invented around 3500 BC. wheel revolutionized transportation. printing press revolutionized information dissemination. telephone revolutionized communication. telephone invented by Alexander Graham Bell.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The light bulb was invented by Thomas Edison in the late 19th century.",
+    "retrieved_context": "computer invented in 20th century. internet invented in late 20th century. steam engine revolutionized manufacturing processes. light bulb invented in late 19th century. light bulb revolutionized illumination. steam engine powers machinery. steam engine invented in 18th century. steam engine invented by James Watt. steam engine invented by Thomas Newcomen. telephone invented in 19th century. internet invented by Tim Berners-Lee. internet revolutionized information access. telephone revolutionized communication. telephone invented by Alexander Graham Bell. light bulb invented by Thomas Edison.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The light bulb replaced gas lamps and candles as the primary source of lighting.",
+    "retrieved_context": "internet invented in late 20th century. steam engine revolutionized manufacturing processes. light bulb invented in late 19th century. light bulb revolutionized illumination. steam engine powers machinery. steam engine invented by James Watt. steam engine invented in 18th century. steam engine invented by Thomas Newcomen. telephone invented in 19th century. internet invented by Tim Berners-Lee. internet revolutionized information access. telephone revolutionized communication. telephone invented by Alexander Graham Bell. light bulb invented by Thomas Edison.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The computer was invented in the 20th century.",
+    "retrieved_context": "computer invented in 20th century. internet invented in late 20th century. light bulb invented in late 19th century. light bulb revolutionized illumination. ENIAC is first electronic digital computer. internet invented by Tim Berners-Lee. telephone invented in 19th century. internet revolutionized information access. ENIAC invented around 1940s. telephone revolutionized communication. telephone invented by Alexander Graham Bell. light bulb invented by Thomas Edison.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The computer ushered in the digital age and revolutionized various aspects of life.",
+    "retrieved_context": "computer invented in 20th century. internet invented in late 20th century. light bulb invented in late 19th century. light bulb revolutionized illumination. printing press invented by Johannes Gutenberg. ENIAC is first electronic digital computer. internet invented by Tim Berners-Lee. printing press invented in 15th century. internet revolutionized information access. ENIAC invented around 1940s. printing press revolutionized information dissemination. light bulb invented by Thomas Edison.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The internet was developed in the late 20th century.",
+    "retrieved_context": "computer invented in 20th century. internet invented in late 20th century. steam engine revolutionized manufacturing processes. light bulb invented in late 19th century. light bulb revolutionized illumination. steam engine powers machinery. steam engine invented in 18th century. steam engine invented by James Watt. ENIAC is first electronic digital computer. internet invented by Tim Berners-Lee. telephone invented in 19th century. internet revolutionized information access. steam engine invented by Thomas Newcomen. ENIAC invented around 1940s. telephone revolutionized communication. telephone invented by Alexander Graham Bell. light bulb invented by Thomas Edison.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The internet revolutionized access to information and communication.",
+    "retrieved_context": "computer invented in 20th century. internet invented in late 20th century. printing press invented by Johannes Gutenberg. ENIAC is first electronic digital computer. internet invented by Tim Berners-Lee. printing press invented in 15th century. internet revolutionized information access. telephone invented in 19th century. ENIAC invented around 1940s. printing press revolutionized information dissemination. telephone revolutionized communication. telephone invented by Alexander Graham Bell.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Inventions have played a crucial role in shaping human history and driving progress.",
+    "retrieved_context": "steam engine revolutionized manufacturing processes. wheel invented in Mesopotamia. steam engine invented in 18th century. steam engine invented by Thomas Newcomen. ENIAC is first electronic digital computer. telephone revolutionized communication. telephone invented by Alexander Graham Bell. light bulb revolutionized illumination. internet invented by Tim Berners-Lee. computer invented in 20th century. internet invented in late 20th century. steam engine powers machinery. steam engine invented by James Watt. wheel revolutionized transportation. light bulb invented by Thomas Edison. light bulb invented in late 19th century. telephone invented in 19th century. wheel invented around 3500 BC. internet revolutionized information access. ENIAC invented around 1940s.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

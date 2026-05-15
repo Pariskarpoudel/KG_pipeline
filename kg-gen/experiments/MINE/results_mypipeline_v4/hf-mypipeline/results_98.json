@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Pop culture refers to the mainstream lifestyle and ideas driven by mass media and entertainment.",
+    "retrieved_context": "pop culture brings people together through shared experiences and interests. pop culture influences technology. fashion trends driven by popular media. music artists shape popular culture through songs, music videos, and public personas. pop culture driven by mass media and entertainment. pop culture refers to mainstream lifestyle and ideas. pop culture representations influence public attitudes on gender, race, and sexuality. pop culture influences fashion. pop culture influence social values. social media platforms influence popular culture. K-pop influence Korean culture and fashion. pop culture influence music. pop culture influence shaping global trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pop culture influences global trends in fashion through celebrity endorsements and social media.",
+    "retrieved_context": "pop culture brings people together through shared experiences and interests. pop culture influences technology. fast fashion and online shopping influence globalized fashion landscape. fashion trends driven by popular media. pop culture driven by mass media and entertainment. celebrity endorsements influence global fashion trends. pop culture refers to mainstream lifestyle and ideas. pop culture representations influence public attitudes on gender, race, and sexuality. pop culture influences fashion. pop culture influence social values. K-pop influence Korean culture and fashion. social media influencers influence global fashion trends. pop culture influence music. pop culture influence shaping global trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fast fashion and online shopping have contributed to a more globalized fashion landscape.",
+    "retrieved_context": "pop culture brings people together through shared experiences and interests. fast fashion and online shopping influence globalized fashion landscape. pop culture influences technology. fashion trends driven by popular media. pop culture driven by mass media and entertainment. celebrity endorsements influence global fashion trends. pop culture refers to mainstream lifestyle and ideas. pop culture influences fashion. pop culture influence social values. K-pop influence Korean culture and fashion. social media platforms influence popular culture. social media influencers influence global fashion trends. pop culture influence music. pop culture influence shaping global trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music artists shape popular culture through songs, music videos, and public personas.",
+    "retrieved_context": "pop culture brings people together through shared experiences and interests. pop culture influences technology. fashion trends driven by popular media. music artists shape popular culture through songs, music videos, and public personas. pop culture driven by mass media and entertainment. pop culture refers to mainstream lifestyle and ideas. pop culture representations influence public attitudes on gender, race, and sexuality. pop culture influences fashion. pop culture influence social values. social media platforms influence popular culture. pop culture influence music. pop culture influence shaping global trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "K-pop has led to a surge in interest in Korean culture and fashion worldwide.",
+    "retrieved_context": "pop culture brings people together through shared experiences and interests. pop culture influences technology. fast fashion and online shopping influence globalized fashion landscape. fashion trends driven by popular media. pop culture driven by mass media and entertainment. pop culture refers to mainstream lifestyle and ideas. celebrity endorsements influence global fashion trends. pop culture representations influence public attitudes on gender, race, and sexuality. pop culture influences fashion. pop culture influence social values. K-pop influence Korean culture and fashion. social media platforms influence popular culture. social media influencers influence global fashion trends. pop culture influence music. pop culture influence shaping global trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Technology trends spread quickly across the globe with the help of social media platforms.",
+    "retrieved_context": "pop culture brings people together through shared experiences and interests. pop culture influences technology. fashion trends driven by popular media. pop culture driven by mass media and entertainment. pop culture refers to mainstream lifestyle and ideas. celebrity endorsements influence global fashion trends. pop culture influences fashion. social media platforms influence popular culture. pop culture influence social values. social media influencers influence global fashion trends. pop culture influence music. pop culture influence shaping global trends.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Social media is a powerful tool for spreading ideas and influencing behavior globally.",
+    "retrieved_context": "pop culture brings people together through shared experiences and interests. pop culture influences technology. fast fashion and online shopping influence globalized fashion landscape. fashion trends driven by popular media. pop culture driven by mass media and entertainment. celebrity endorsements influence global fashion trends. pop culture refers to mainstream lifestyle and ideas. pop culture influences fashion. social media platforms influence popular culture. pop culture influence social values. social media influencers influence global fashion trends. pop culture influence music. pop culture influence shaping global trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tech companies leverage pop culture trends to market their products and services.",
+    "retrieved_context": "pop culture brings people together through shared experiences and interests. pop culture influences technology. fashion trends driven by popular media. pop culture driven by mass media and entertainment. pop culture refers to mainstream lifestyle and ideas. pop culture representations influence public attitudes on gender, race, and sexuality. pop culture influences fashion. pop culture influence social values. social media platforms influence popular culture. tech companies leverage pop culture trends to market their products and services. pop culture influence music. pop culture influence shaping global trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pop culture influences societal norms and values, shaping perceptions of gender, race, and sexuality.",
+    "retrieved_context": "pop culture brings people together through shared experiences and interests. pop culture influences technology. fashion trends driven by popular media. pop culture driven by mass media and entertainment. pop culture refers to mainstream lifestyle and ideas. pop culture representations influence public attitudes on gender, race, and sexuality. pop culture influences fashion. pop culture influence social values. social media platforms influence popular culture. pop culture influence music. pop culture influence shaping global trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Increased visibility of LGBTQ+ characters in media promotes acceptance and inclusivity.",
+    "retrieved_context": "pop culture brings people together through shared experiences and interests. pop culture influences technology. fashion trends driven by popular media. music artists shape popular culture through songs, music videos, and public personas. pop culture refers to mainstream lifestyle and ideas. pop culture driven by mass media and entertainment. pop culture representations influence public attitudes on gender, race, and sexuality. pop culture influences fashion. pop culture influence social values. social media platforms influence popular culture. pop culture influence music. pop culture influence shaping global trends.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pop culture critics argue it promotes superficiality and consumerism.",
+    "retrieved_context": "pop culture brings people together through shared experiences and interests. pop culture influences technology. fashion trends driven by popular media. music artists shape popular culture through songs, music videos, and public personas. pop culture driven by mass media and entertainment. pop culture refers to mainstream lifestyle and ideas. pop culture representations influence public attitudes on gender, race, and sexuality. pop culture influences fashion. pop culture influence social values. social media platforms influence popular culture. pop culture influence music. pop culture influence shaping global trends.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Critics raise concerns about cultural appropriation and misrepresentation in popular media.",
+    "retrieved_context": "pop culture brings people together through shared experiences and interests. pop culture influences technology. fashion trends driven by popular media. music artists shape popular culture through songs, music videos, and public personas. pop culture driven by mass media and entertainment. pop culture refers to mainstream lifestyle and ideas. celebrity endorsements influence global fashion trends. pop culture representations influence public attitudes on gender, race, and sexuality. pop culture influences fashion. pop culture influence social values. social media platforms influence popular culture. K-pop influence Korean culture and fashion. social media influencers influence global fashion trends. pop culture influence music. pop culture influence shaping global trends.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pop culture brings people together, sparks creativity, and drives social change.",
+    "retrieved_context": "pop culture brings people together through shared experiences and interests. pop culture influences technology. fashion trends driven by popular media. pop culture driven by mass media and entertainment. pop culture refers to mainstream lifestyle and ideas. pop culture representations influence public attitudes on gender, race, and sexuality. pop culture influences fashion. pop culture influence social values. social media platforms influence popular culture. pop culture influence music. pop culture influence shaping global trends.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pop culture plays a crucial role in shaping global trends across various industries.",
+    "retrieved_context": "pop culture brings people together through shared experiences and interests. pop culture influences technology. fast fashion and online shopping influence globalized fashion landscape. fashion trends driven by popular media. pop culture driven by mass media and entertainment. pop culture refers to mainstream lifestyle and ideas. celebrity endorsements influence global fashion trends. pop culture representations influence public attitudes on gender, race, and sexuality. pop culture influences fashion. pop culture influence social values. social media platforms influence popular culture. social media influencers influence global fashion trends. pop culture influence music. pop culture influence shaping global trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding the influence of pop culture helps navigate the ever-changing landscape of popular culture.",
+    "retrieved_context": "pop culture brings people together through shared experiences and interests. pop culture influences technology. fast fashion and online shopping influence globalized fashion landscape. fashion trends driven by popular media. pop culture driven by mass media and entertainment. pop culture refers to mainstream lifestyle and ideas. celebrity endorsements influence global fashion trends. pop culture representations influence public attitudes on gender, race, and sexuality. pop culture influences fashion. pop culture influence social values. social media platforms influence popular culture. social media influencers influence global fashion trends. pop culture influence music. pop culture influence shaping global trends.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

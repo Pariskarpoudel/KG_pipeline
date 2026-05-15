@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Hoaxes have been a part of human history for centuries.",
+    "retrieved_context": "Hermann G\u00c3\u00b6ring bought fake Vermeer. Alan Sokal submitted fake paper. Piltdown Man discovery year 1912. Han van Meegeren created fake Vermeer paintings. Piltdown Man revealed to be missing link. War of the Worlds broadcast year 1938. Han van Meegeren active during 1930s. Piltdown Man consisted of orangutan jawbone. War of the Worlds adapted from H.G. Wells' novel. Piltdown Man discovered in England. fake paper published Social Text. Han van Meegeren active during 1940s. Piltdown Man revealed to be a forgery. War of the Worlds broadcast by Orson Welles. fake paper titled Transgressing the Boundaries. Piltdown Man consisted of human cranium.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Individuals and groups perpetrate elaborate deceptions for various purposes.",
+    "retrieved_context": "Hermann G\u00c3\u00b6ring bought fake Vermeer. Piltdown Man discovery year 1912. Alan Sokal submitted fake paper. Han van Meegeren created fake Vermeer paintings. Piltdown Man revealed to be missing link. War of the Worlds broadcast year 1938. Han van Meegeren active during 1930s. Piltdown Man consisted of orangutan jawbone. War of the Worlds adapted from H.G. Wells' novel. Piltdown Man discovered in England. fake paper published Social Text. Han van Meegeren active during 1940s. Piltdown Man revealed to be a forgery. Sokal Affair active during 1996. War of the Worlds broadcast by Orson Welles. fake paper titled Transgressing the Boundaries. Piltdown Man consisted of human cranium.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hoaxes often capture the public's imagination.",
+    "retrieved_context": "War of the Worlds adapted from H.G. Wells' novel. fake paper published Social Text. Piltdown Man revealed to be a forgery. Piltdown Man consisted of human cranium. Alan Sokal submitted fake paper. Piltdown Man discovery year 1912. Piltdown Man revealed to be missing link. Han van Meegeren active during 1930s. Piltdown Man discovered in England. War of the Worlds broadcast by Orson Welles. fake paper titled Transgressing the Boundaries. Hermann G\u00c3\u00b6ring bought fake Vermeer. War of the Worlds broadcast year 1938. Piltdown Man consisted of orangutan jawbone. Cardiff Giant revealed to be sculpture. Cardiff Giant discovery year 1869. Han van Meegeren created fake Vermeer paintings. Cardiff Giant discovered in Cardiff, New York. Cardiff Giant created George Hull. Han van Meegeren active during 1940s.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Hoaxes spark debate about the nature of truth and deception.",
+    "retrieved_context": "Hermann G\u00c3\u00b6ring bought fake Vermeer. Piltdown Man discovery year 1912. Alan Sokal submitted fake paper. Han van Meegeren created fake Vermeer paintings. Piltdown Man revealed to be missing link. War of the Worlds broadcast year 1938. Han van Meegeren active during 1930s. Piltdown Man consisted of orangutan jawbone. War of the Worlds adapted from H.G. Wells' novel. Piltdown Man discovered in England. fake paper published Social Text. Han van Meegeren active during 1940s. Piltdown Man revealed to be a forgery. Sokal Affair active during 1996. War of the Worlds broadcast by Orson Welles. fake paper titled Transgressing the Boundaries. Piltdown Man consisted of human cranium.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Piltdown Man hoax was discovered in England in 1912.",
+    "retrieved_context": "Cardiff Giant revealed to be sculpture. Cardiff Giant discovery year 1869. Hermann G\u00c3\u00b6ring bought fake Vermeer. Piltdown Man discovery year 1912. Alan Sokal submitted fake paper. Han van Meegeren created fake Vermeer paintings. Piltdown Man revealed to be missing link. Cardiff Giant discovered in Cardiff, New York. Piltdown Man consisted of orangutan jawbone. Cardiff Giant created George Hull. Han van Meegeren active during 1930s. Piltdown Man discovered in England. fake paper published Social Text. Han van Meegeren active during 1940s. Piltdown Man revealed to be a forgery. fake paper titled Transgressing the Boundaries. Piltdown Man consisted of human cranium.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Piltdown Man was a supposed missing link between humans and apes.",
+    "retrieved_context": "Hermann G\u00c3\u00b6ring bought fake Vermeer. Piltdown Man discovery year 1912. War of the Worlds broadcast year 1938. Piltdown Man revealed to be missing link. War of the Worlds adapted from H.G. Wells' novel. Piltdown Man consisted of orangutan jawbone. Piltdown Man discovered in England. Piltdown Man revealed to be a forgery. War of the Worlds broadcast by Orson Welles. Piltdown Man consisted of human cranium.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Piltdown Man was revealed to be a forgery in 1953.",
+    "retrieved_context": "Hermann G\u00c3\u00b6ring bought fake Vermeer. Piltdown Man discovery year 1912. Alan Sokal submitted fake paper. Han van Meegeren created fake Vermeer paintings. Piltdown Man revealed to be missing link. War of the Worlds broadcast year 1938. Han van Meegeren active during 1930s. Piltdown Man consisted of orangutan jawbone. War of the Worlds adapted from H.G. Wells' novel. Piltdown Man discovered in England. fake paper published Social Text. Han van Meegeren active during 1940s. Piltdown Man revealed to be a forgery. War of the Worlds broadcast by Orson Welles. fake paper titled Transgressing the Boundaries. Piltdown Man consisted of human cranium.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Cardiff Giant hoax was discovered in Cardiff, New York, in 1869.",
+    "retrieved_context": "Cardiff Giant revealed to be sculpture. Cardiff Giant discovery year 1869. Piltdown Man discovery year 1912. Han van Meegeren created fake Vermeer paintings. Piltdown Man revealed to be missing link. War of the Worlds broadcast year 1938. Cardiff Giant discovered in Cardiff, New York. Piltdown Man consisted of orangutan jawbone. Cardiff Giant created George Hull. Han van Meegeren active during 1930s. War of the Worlds adapted from H.G. Wells' novel. Piltdown Man discovered in England. Han van Meegeren active during 1940s. Piltdown Man revealed to be a forgery. War of the Worlds broadcast by Orson Welles. Piltdown Man consisted of human cranium.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Cardiff Giant was later revealed to be a sculpture created by George Hull.",
+    "retrieved_context": "Cardiff Giant revealed to be sculpture. Cardiff Giant discovery year 1869. Hermann G\u00c3\u00b6ring bought fake Vermeer. Piltdown Man discovery year 1912. Han van Meegeren created fake Vermeer paintings. Piltdown Man revealed to be missing link. Cardiff Giant discovered in Cardiff, New York. Han van Meegeren active during 1930s. Cardiff Giant created George Hull. Piltdown Man consisted of orangutan jawbone. Piltdown Man discovered in England. Han van Meegeren active during 1940s. Piltdown Man revealed to be a forgery. Piltdown Man consisted of human cranium.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The War of the Worlds radio broadcast by Orson Welles occurred in 1938.",
+    "retrieved_context": "Cardiff Giant revealed to be sculpture. Cardiff Giant discovery year 1869. Piltdown Man discovery year 1912. War of the Worlds broadcast year 1938. Han van Meegeren created fake Vermeer paintings. Piltdown Man revealed to be missing link. War of the Worlds adapted from H.G. Wells' novel. Han van Meegeren active during 1930s. Piltdown Man consisted of orangutan jawbone. Cardiff Giant created George Hull. Cardiff Giant discovered in Cardiff, New York. Piltdown Man discovered in England. Han van Meegeren active during 1940s. Piltdown Man revealed to be a forgery. War of the Worlds broadcast by Orson Welles. Piltdown Man consisted of human cranium.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The War of the Worlds broadcast led to panic and confusion.",
+    "retrieved_context": "Piltdown Man discovery year 1912. War of the Worlds broadcast year 1938. Han van Meegeren created fake Vermeer paintings. Piltdown Man revealed to be missing link. War of the Worlds adapted from H.G. Wells' novel. Han van Meegeren active during 1930s. Piltdown Man consisted of orangutan jawbone. Piltdown Man discovered in England. Han van Meegeren active during 1940s. Piltdown Man revealed to be a forgery. Sokal Affair active during 1996. War of the Worlds broadcast by Orson Welles. Piltdown Man consisted of human cranium.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Han van Meegeren created and sold fake Vermeer paintings during the 1930s and 1940s.",
+    "retrieved_context": "Cardiff Giant revealed to be sculpture. Cardiff Giant discovery year 1869. Hermann G\u00c3\u00b6ring bought fake Vermeer. Han van Meegeren created fake Vermeer paintings. War of the Worlds broadcast year 1938. Han van Meegeren active during 1930s. Cardiff Giant discovered in Cardiff, New York. Cardiff Giant created George Hull. War of the Worlds adapted from H.G. Wells' novel. Han van Meegeren active during 1940s. War of the Worlds broadcast by Orson Welles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Sokal Affair of 1996 exposed the shortcomings of postmodernist academic discourse.",
+    "retrieved_context": "Alan Sokal submitted fake paper. Piltdown Man discovery year 1912. War of the Worlds broadcast year 1938. Piltdown Man revealed to be missing link. War of the Worlds adapted from H.G. Wells' novel. Piltdown Man consisted of orangutan jawbone. Piltdown Man discovered in England. fake paper published Social Text. Piltdown Man revealed to be a forgery. Sokal Affair active during 1996. War of the Worlds broadcast by Orson Welles. fake paper titled Transgressing the Boundaries. Piltdown Man consisted of human cranium.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Alan Sokal submitted a fake paper to the journal Social Text.",
+    "retrieved_context": "Hermann G\u00c3\u00b6ring bought fake Vermeer. Alan Sokal submitted fake paper. Piltdown Man discovery year 1912. Han van Meegeren created fake Vermeer paintings. Piltdown Man revealed to be missing link. Han van Meegeren active during 1930s. Piltdown Man consisted of orangutan jawbone. Piltdown Man discovered in England. fake paper published Social Text. Han van Meegeren active during 1940s. Piltdown Man revealed to be a forgery. Sokal Affair active during 1996. fake paper titled Transgressing the Boundaries. Piltdown Man consisted of human cranium.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hoaxes have tested the boundaries of truth and fiction.",
+    "retrieved_context": "Hermann G\u00c3\u00b6ring bought fake Vermeer. Alan Sokal submitted fake paper. Piltdown Man discovery year 1912. Han van Meegeren created fake Vermeer paintings. Piltdown Man revealed to be missing link. War of the Worlds broadcast year 1938. Han van Meegeren active during 1930s. Piltdown Man consisted of orangutan jawbone. War of the Worlds adapted from H.G. Wells' novel. Piltdown Man discovered in England. fake paper published Social Text. Han van Meegeren active during 1940s. Piltdown Man revealed to be a forgery. War of the Worlds broadcast by Orson Welles. fake paper titled Transgressing the Boundaries. Piltdown Man consisted of human cranium.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

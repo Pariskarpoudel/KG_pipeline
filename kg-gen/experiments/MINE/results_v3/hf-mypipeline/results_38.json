@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Bread is a staple food in many cultures.",
+    "retrieved_context": "Bread made of yeast. Bread made of salt. Bread is staple food. carbon dioxide gas produces carbon dioxide gas. fermentation is crucial for texture development. temperature is crucial for baking process. humidity produces moist interior. artisanal breads is crucial for long fermentation time. carbon dioxide gas consumes sugars in flour. humidity produces crisp crust. carbon dioxide gas is fungus. Bread made of water. carbon dioxide gas produces dough to rise. fermentation is crucial for flavor development. gluten proteins traps carbon dioxide gas. Bread made of flour. humidity is crucial for baking process.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Baking bread is both an art and a science.",
+    "retrieved_context": "Bread made of yeast. Bread made of salt. Bread is staple food. temperature is crucial for baking process. carbon dioxide gas produces carbon dioxide gas. fermentation is crucial for texture development. artisanal breads is crucial for long fermentation time. carbon dioxide gas consumes sugars in flour. humidity produces crisp crust. fermentation is crucial for flavor development. carbon dioxide gas is fungus. Bread made of water. carbon dioxide gas produces dough to rise. humidity produces moist interior. gluten proteins traps carbon dioxide gas. Bread made of flour. humidity is crucial for baking process. Kneading strengthens gluten strands.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Bread is made from flour, water, yeast, and salt.",
+    "retrieved_context": "Bread made of yeast. Bread made of salt. Bread is staple food. temperature is crucial for baking process. carbon dioxide gas produces carbon dioxide gas. fermentation is crucial for texture development. artisanal breads is crucial for long fermentation time. carbon dioxide gas consumes sugars in flour. humidity produces crisp crust. fermentation is crucial for flavor development. carbon dioxide gas is fungus. Bread made of water. carbon dioxide gas produces dough to rise. humidity produces moist interior. gluten proteins traps carbon dioxide gas. Bread made of flour. humidity is crucial for baking process.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yeast plays a key role in the fermentation process of bread.",
+    "retrieved_context": "Bread made of yeast. Bread made of salt. Bread is staple food. temperature is crucial for baking process. fermentation is crucial for texture development. carbon dioxide gas produces carbon dioxide gas. humidity produces moist interior. artisanal breads is crucial for long fermentation time. carbon dioxide gas produces dough to rise. carbon dioxide gas consumes sugars in flour. humidity produces crisp crust. carbon dioxide gas is fungus. Bread made of water. fermentation process produces alcohol. fermentation is crucial for flavor development. gluten proteins traps carbon dioxide gas. Bread made of flour. humidity is crucial for baking process.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yeast feeds on sugars in flour, producing carbon dioxide gas.",
+    "retrieved_context": "Bread made of yeast. Bread made of salt. Bread is staple food. carbon dioxide gas produces carbon dioxide gas. gluten proteins produces gluten proteins. fermentation is crucial for texture development. artisanal breads is crucial for long fermentation time. carbon dioxide gas consumes sugars in flour. carbon dioxide gas is fungus. fermentation process produces alcohol. Bread made of water. carbon dioxide gas produces dough to rise. fermentation is crucial for flavor development. gluten proteins traps carbon dioxide gas. Bread made of flour.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Carbon dioxide gas causes the dough to rise.",
+    "retrieved_context": "carbon dioxide gas produces carbon dioxide gas. gluten proteins produces gluten proteins. Bread made of yeast. Bread is staple food. Bread made of salt. temperature is crucial for baking process. artisanal breads is crucial for long fermentation time. carbon dioxide gas consumes sugars in flour. humidity produces crisp crust. carbon dioxide gas is fungus. Bread made of water. carbon dioxide gas produces dough to rise. humidity produces moist interior. gluten proteins traps carbon dioxide gas. Bread made of flour. humidity is crucial for baking process.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fermentation process produces alcohol, contributing to bread flavor.",
+    "retrieved_context": "Bread made of yeast. Bread made of salt. Bread is staple food. fermentation is crucial for texture development. artisanal breads is crucial for long fermentation time. Bread made of water. fermentation process produces alcohol. fermentation is crucial for flavor development. Bread made of flour.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Longer fermentation time leads to more complex flavor in bread.",
+    "retrieved_context": "Bread made of yeast. Bread made of salt. Bread is staple food. fermentation is crucial for texture development. artisanal breads is crucial for long fermentation time. Maillard reaction produces development of complex flavors. Maillard reaction produces browning of crust. Bread made of water. fermentation process produces alcohol. fermentation is crucial for flavor development. Bread made of flour.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Flour contains proteins called gluten, giving bread structure.",
+    "retrieved_context": "Bread made of yeast. Bread made of salt. Bread is staple food. carbon dioxide gas produces carbon dioxide gas. gluten proteins produces gluten proteins. gluten provides structure. artisanal breads is crucial for long fermentation time. carbon dioxide gas consumes sugars in flour. carbon dioxide gas is fungus. Bread made of water. carbon dioxide gas produces dough to rise. gluten provides elasticity. gluten proteins traps carbon dioxide gas. Bread made of flour. gluten made of gluten. Kneading strengthens gluten strands.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gluten network traps carbon dioxide gas, allowing dough to rise.",
+    "retrieved_context": "carbon dioxide gas produces carbon dioxide gas. gluten proteins produces gluten proteins. Bread made of yeast. Bread is staple food. gluten provides structure. Bread made of salt. artisanal breads is crucial for long fermentation time. carbon dioxide gas consumes sugars in flour. carbon dioxide gas is fungus. Bread made of water. carbon dioxide gas produces dough to rise. gluten provides elasticity. gluten proteins traps carbon dioxide gas. Bread made of flour. gluten made of gluten. Kneading strengthens gluten strands.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Kneading strengthens gluten strands, giving bread structure.",
+    "retrieved_context": "Bread made of yeast. Bread made of salt. Bread is staple food. carbon dioxide gas produces carbon dioxide gas. gluten provides structure. gluten proteins produces gluten proteins. artisanal breads is crucial for long fermentation time. carbon dioxide gas consumes sugars in flour. carbon dioxide gas is fungus. Bread made of water. carbon dioxide gas produces dough to rise. gluten provides elasticity. gluten proteins traps carbon dioxide gas. Bread made of flour. gluten made of gluten. Kneading strengthens gluten strands.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proper kneading is crucial for bread to rise properly.",
+    "retrieved_context": "Bread made of yeast. Bread made of salt. Bread is staple food. carbon dioxide gas produces carbon dioxide gas. temperature is crucial for baking process. artisanal breads is crucial for long fermentation time. carbon dioxide gas consumes sugars in flour. humidity produces crisp crust. carbon dioxide gas is fungus. Bread made of water. carbon dioxide gas produces dough to rise. humidity produces moist interior. gluten proteins traps carbon dioxide gas. Bread made of flour. humidity is crucial for baking process. Kneading strengthens gluten strands.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Baking bread involves the interaction of heat with dough ingredients.",
+    "retrieved_context": "carbon dioxide gas consumes sugars in flour. carbon dioxide gas is fungus. carbon dioxide gas produces dough to rise. gluten proteins traps carbon dioxide gas. Bread is staple food. artisanal breads is crucial for long fermentation time. heat activates more active. humidity produces crisp crust. Maillard reaction produces browning of crust. humidity is crucial for baking process. heat gelatinizes gelatinize. Bread made of yeast. temperature is crucial for baking process. Bread made of salt. carbon dioxide gas produces carbon dioxide gas. Maillard reaction produces development of complex flavors. humidity produces moist interior. Bread made of water. Bread made of flour.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Heat in the oven causes yeast to become more active.",
+    "retrieved_context": "carbon dioxide gas consumes sugars in flour. carbon dioxide gas is fungus. carbon dioxide gas produces dough to rise. gluten proteins traps carbon dioxide gas. Bread is staple food. artisanal breads is crucial for long fermentation time. humidity produces crisp crust. Maillard reaction produces browning of crust. humidity is crucial for baking process. Bread made of yeast. Bread made of salt. temperature is crucial for baking process. carbon dioxide gas produces carbon dioxide gas. fermentation is crucial for texture development. Maillard reaction produces development of complex flavors. fermentation process produces alcohol. humidity produces moist interior. Bread made of water. fermentation is crucial for flavor development. Bread made of flour.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Maillard reaction is responsible for browning the crust.",
+    "retrieved_context": "Bread made of yeast. temperature is crucial for baking process. Bread is staple food. Bread made of salt. fermentation is crucial for texture development. Maillard reaction produces development of complex flavors. humidity produces crisp crust. fermentation is crucial for flavor development. Maillard reaction produces browning of crust. Bread made of water. fermentation process produces alcohol. humidity produces moist interior. Bread made of flour. humidity is crucial for baking process.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]
