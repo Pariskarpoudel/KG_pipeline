@@ -1,0 +1,6 @@
+.env
+__pycache__/
+mine.ipynb
+test_*.py
+data
+articles_train.jsonl
