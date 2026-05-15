@@ -4,3 +4,10 @@ mine.ipynb
 test_*.py
 data
 articles_train.jsonl
+kg-gen/experiments/MINE/faiss-scikit
+kg-gen/experiments/MINE/result*
+kg-gen/experiments/MINE/graph*
+kg-gen/experiments/MINE/kggen*
+kg-gen/experiments/MINE/mine*
+kg-gen/experiments/MINE/my_pipeline*
+kg-gen/experiments/MINE/openie*
